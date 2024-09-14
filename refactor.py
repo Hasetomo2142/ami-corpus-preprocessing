@@ -7,19 +7,19 @@ import glob
 import sys
 import re
 import os
-import csv  # 追加：CSVモジュールのインポート
+import csv
 from collections import defaultdict
 
-#　自作クラスのインポート
+# 自作クラスのインポート
 from classes.meeting import Meeting
 
 # ファイルのパス
 dir_path = os.path.dirname(os.path.abspath(__file__))
-ami_corpus_path = dir_path + '/ami_public_manual_1.6.2/'
-manifest_path = ami_corpus_path + 'MANIFEST_MANUAL.txt'
-ae_dir_path = ami_corpus_path + 'argumentation/ae/'
-ar_dir_path = ami_corpus_path + 'argumentation/ar/'
-words_dir_path = ami_corpus_path + 'words/'
+ami_corpus_path = os.path.join(dir_path, 'ami_public_manual_1.6.2')
+manifest_path = os.path.join(ami_corpus_path, 'MANIFEST_MANUAL.txt')
+ae_dir_path = os.path.join(ami_corpus_path, 'argumentation', 'ae')
+ar_dir_path = os.path.join(ami_corpus_path, 'argumentation', 'ar')
+words_dir_path = os.path.join(ami_corpus_path, 'words')
 
 def get_index_of_word_id(text):
     # 正規表現で末尾の数字を抽出
@@ -27,16 +27,13 @@ def get_index_of_word_id(text):
     if match:
         return int(match.group(1))
     else:
-        # 適切な例外を発生させる
         raise ValueError(f"'{text}' does not contain a trailing number.")
 
 def remove_words_suffix(text):
-    # 正規表現で末尾の数字を探す
+    # 正規表現で末尾の数字を削除
     if re.search(r'\d+$', text):
-        # 数字が見つかったら削除
         return re.sub(r'\d+$', '', text)
     else:
-        # 数字が見つからなければ例外を発生
         raise ValueError(f"No trailing number found in '{text}'")
 
 def extract_speaker_info(text):
@@ -45,7 +42,6 @@ def extract_speaker_info(text):
     if match:
         return match.group(1)
     else:
-        # マッチしない場合は例外を発生させる
         raise ValueError(f"No speaker information found in '{text}'")
 
 def remove_spaces_before_punctuation(text):
@@ -55,8 +51,7 @@ def remove_spaces_before_punctuation(text):
 
 def get_participants_list_from_meeting_id(meeting_id):
     # ae_dir_path内のファイル名を取得
-    ae_files = glob.glob(f"{ae_dir_path}{meeting_id}*.xml")
-    # ae_files内のファイル名からmeeting_idが含まれるものファイル名を取得
+    ae_files = glob.glob(os.path.join(ae_dir_path, f"{meeting_id}.*.argumentstructs.xml"))
     participants = [os.path.basename(file).split('.')[1] for file in ae_files]
     return participants
 
@@ -75,7 +70,7 @@ def get_meeting_ids_with_topics_and_argumentation():
 
 def get_ae_list_from_meeting_id(meeting_id, person):
     # ファイルパスの設定
-    xml_file = f"{ae_dir_path}{meeting_id}.{person}.argumentstructs.xml"
+    xml_file = os.path.join(ae_dir_path, f"{meeting_id}.{person}.argumentstructs.xml")
 
     # XMLファイルのパース
     tree = ET.parse(xml_file)
@@ -86,7 +81,7 @@ def get_ae_list_from_meeting_id(meeting_id, person):
 
     # 正規表現でid()の中の部分を抽出
     id_pattern = r'id\(([^)]+)\)'
-    
+
     # すべての "ae" タグを走査
     for child in root:
         ae_id = child.attrib.get('{http://nite.sourceforge.net/}id')
@@ -94,17 +89,15 @@ def get_ae_list_from_meeting_id(meeting_id, person):
             if grandson.tag == '{http://nite.sourceforge.net/}child':
                 # 'href' 属性から id() 内の文字列を抽出
                 matches = re.findall(id_pattern, grandson.attrib['href'])
-                # 抽出されたidの数が2つの場合のみ処理
-                if len(matches) == 2:
-                    start = matches[0]  # 最初のid
-                    end = matches[1]    # 2番目のid
-                    # 結果を辞書に追加
+                if len(matches) >= 1:
+                    start = matches[0]
+                    end = matches[-1]
                     result_dict[ae_id] = {'start_word_id': start, 'end_word_id': end}
-                    
+
     return result_dict
 
 def get_words_from_meeting_id(meeting_id, person):
-    xml_file = f"{words_dir_path}{meeting_id}.{person}.words.xml"
+    xml_file = os.path.join(words_dir_path, f"{meeting_id}.{person}.words.xml")
     # XMLファイルのパース
     tree = ET.parse(xml_file)
     root = tree.getroot()
@@ -112,9 +105,9 @@ def get_words_from_meeting_id(meeting_id, person):
     # すべての "w" タグを走査
     for child in root:
         word_id = child.attrib.get('{http://nite.sourceforge.net/}id')
-        #　言い淀みの場合はwordがないので空文字を入れる
+        # 言い淀みの場合はwordがないので空文字を入れる
         if child.tag == 'w':
-            word = child.text
+            word = child.text if child.text else ''
         else:
             word = ''
         # starttimeとendtimeがない場合はスキップ
@@ -126,7 +119,42 @@ def get_words_from_meeting_id(meeting_id, person):
             continue
     return result_dict
 
-def build_sentences_with_speaker_and_timestamps(ae_dict, words_dict, participant):
+def get_source_and_target_from_ae(meeting_id):
+    # ファイルパスの設定
+    xml_file = os.path.join(ar_dir_path, f"{meeting_id}.argumentationrels.xml")
+
+    tree = ET.parse(xml_file)
+    root = tree.getroot()
+
+    # sourceをキー、targetsを値（リスト）とする辞書
+    source_to_target = defaultdict(list)
+
+    # targetをキー、sourceを値とする辞書
+    target_to_source = {}
+
+    id_pattern = r'id\(([^)]+)\)'
+
+    for child in root:
+        source = ''
+        target = ''
+        for grandson in child:
+            if grandson.tag == '{http://nite.sourceforge.net/}pointer':
+                match = re.search(id_pattern, grandson.attrib['href'])
+                if match:
+                    ae_ref = match.group(1)
+                    role = grandson.attrib.get('role')
+                    if role == 'source':
+                        source = ae_ref
+                    elif role == 'target':
+                        target = ae_ref
+        if source or target:
+            if source:
+                source_to_target[source].append(target if target else 'None')
+            if target:
+                target_to_source[target] = source if source else 'None'
+    return source_to_target, target_to_source
+
+def build_sentences_with_speaker_and_timestamps(ae_dict, words_dict, participant, source_to_target, target_to_source):
     keys = list(ae_dict.keys())
     sentence_dict = {}
 
@@ -139,64 +167,92 @@ def build_sentences_with_speaker_and_timestamps(ae_dict, words_dict, participant
 
         for i in range(get_index_of_word_id(start_word_id), get_index_of_word_id(end_word_id) + 1):
             word_index = meeting_id + str(i)
-            sentence += words_dict[word_index]['word'] + ' '
-            start_time = words_dict[start_word_id]['start_time']
-            end_time = words_dict[end_word_id]['end_time']
-            speaker = participant
+            word_info = words_dict.get(word_index)
+            if word_info:
+                sentence += word_info['word'] + ' '
+            else:
+                print(f"Word ID {word_index} not found in words_dict")
+        start_time = words_dict[start_word_id]['start_time']
+        end_time = words_dict[end_word_id]['end_time']
+        speaker = participant
 
         sentence = remove_spaces_before_punctuation(sentence)
-        
-        sentence_dict[key] = {'sentence': sentence.strip(), 'start_time': start_time, 'end_time': end_time, 'speaker': speaker}
+
+        # source と target を取得
+        source = target_to_source.get(key, 'NONE')
+        targets = source_to_target.get(key, [])
+        if targets:
+            targets_str = '{' + ','.join(targets) + '}'
+        else:
+            targets_str = 'None'
+
+        sentence_dict[key] = {
+            'sentence': sentence.strip(),
+            'start_time': start_time,
+            'end_time': end_time,
+            'speaker': speaker,
+            'source': source,
+            'targets': targets_str
+        }
 
     return sentence_dict
 
 def main():
     meeting_ids = get_meeting_ids_with_topics_and_argumentation()
-
     for meeting_id in meeting_ids:
+
+        # source_to_target, target_to_sourceを取得
+        source_to_target, target_to_source = get_source_and_target_from_ae(meeting_id)
 
         participants = get_participants_list_from_meeting_id(meeting_id)
         participants.sort()
-        sentence_dict = []
+        sentence_dict_list = []
 
         for participant in participants:
             ae_dict = get_ae_list_from_meeting_id(meeting_id, participant)
             words_dict = get_words_from_meeting_id(meeting_id, participant)
-            sentence_dict.append(build_sentences_with_speaker_and_timestamps(ae_dict, words_dict, participant))
-
-        # ここにソート処理を入れる
+            sentence_dict = build_sentences_with_speaker_and_timestamps(
+                ae_dict, words_dict, participant, source_to_target, target_to_source)
+            sentence_dict_list.append(sentence_dict)
 
         # sentence_dict のリストをフラットなリストに変換
         all_sentences = []
-        for participant_dict in sentence_dict:
+        for participant_dict in sentence_dict_list:
             for ae_id, ae_info in participant_dict.items():
-                # 'ae_id' を情報に追加
                 ae_info['ae_id'] = ae_id
                 all_sentences.append(ae_info)
 
-        # 'start_time' を基準にソート（float に変換して正確に比較）
+        # 'start_time' を基準にソート
         sorted_sentences = sorted(all_sentences, key=lambda x: float(x['start_time']))
 
-        # ここでファイルに書き出す処理を追加
+        # 各meeting_idごとに最初のレコードのsourceを'ROOT'に設定
+        if sorted_sentences:
+            sorted_sentences[0]['source'] = 'ROOT'
 
-        # ファイル名を設定（例: meeting_id.csv）
+        # ファイル名を設定
         output_file = f"{meeting_id}.csv"
 
-        # ファイルのパスを設定（スクリプトのあるディレクトリ）
-        output_path = os.path.join(dir_path + '/CSV', output_file)
+        # ファイルのパスを設定
+        output_dir = os.path.join(dir_path, 'CSV')
+        os.makedirs(output_dir, exist_ok=True)
+        output_path = os.path.join(output_dir, output_file)
 
         # ファイルに書き出す
         with open(output_path, 'w', encoding='utf-8', newline='') as csvfile:
             writer = csv.writer(csvfile)
+            # ヘッダーを書き込む
+            writer.writerow(['ae_id', 'speaker', 'start_time', 'end_time', 'sentence', 'source', 'targets'])
             for sentence in sorted_sentences:
-                # 各発言をリストとして書き出し
                 writer.writerow([
                     sentence['ae_id'],
                     sentence['speaker'],
                     sentence['start_time'],
                     sentence['end_time'],
-                    sentence['sentence']
+                    sentence['sentence'],
+                    sentence['source'],
+                    sentence['targets']
                 ])
+
 
 if __name__ == "__main__":
     main()
