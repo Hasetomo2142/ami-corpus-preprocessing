@@ -24,6 +24,5 @@ class Meeting:
         
         return attributes
 
-      
     def has_topics_and_argumentation(self):
         return self.attributes["topics"] and self.attributes["argumentation"]
