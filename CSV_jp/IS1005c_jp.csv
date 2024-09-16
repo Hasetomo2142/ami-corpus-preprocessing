@@ -1,0 +1,61 @@
+ae_id,speaker,start_time,end_time,sentence,source,targets
+IS1005c.B.argumentstructs.Rutger.1,B,1070.21,1085.39,エネルギーについて少しだけ指摘しておきます。電池と追加の太陽電池を使用すれば、音声認識や L_C_D_ には問題ないので、エネルギーの問題はないと思います。,NONE,"{IS1005c.A.argumentstructs.Rutger.1, IS1005c.B.argumentstructs.Rutger.2, IS1005c.A.argumentstructs.Rutger.2, IS1005c.D.argumentstructs.Rutger.1}"
+IS1005c.A.argumentstructs.Rutger.1,A,1083.73,1086.01,はい。それで大丈夫です。,IS1005c.B.argumentstructs.Rutger.1,NONE
+IS1005c.B.argumentstructs.Rutger.2,B,1086.48,1089.56,しかし、太陽電池を使わなければなりません。そうでなければだめです。,IS1005c.B.argumentstructs.Rutger.1,NONE
+IS1005c.A.argumentstructs.Rutger.2,A,1089.04,1098.39,例えば、電池は何個使いますか？電池のサイズはどれくらいですか？,IS1005c.B.argumentstructs.Rutger.1,"{IS1005c.B.argumentstructs.Rutger.3, IS1005c.A.argumentstructs.Rutger.3}"
+IS1005c.B.argumentstructs.Rutger.3,B,1097.51,1100.24,はい、私は一般的な A_A_ 細胞だけを考えていました。,IS1005c.A.argumentstructs.Rutger.2,{IS1005c.B.argumentstructs.Rutger.4}
+IS1005c.A.argumentstructs.Rutger.3,A,1101.4,1103.757,はい。あー、1、2,IS1005c.A.argumentstructs.Rutger.2,NONE
+IS1005c.B.argumentstructs.Rutger.4,B,1101.96,1105.65,つまり、3〜5センチメートルくらいです。正確にはわかりませんが。,IS1005c.B.argumentstructs.Rutger.3,{IS1005c.A.argumentstructs.Rutger.4}
+IS1005c.A.argumentstructs.Rutger.4,A,1104.96,1105.18,わかった。,IS1005c.B.argumentstructs.Rutger.4,NONE
+IS1005c.D.argumentstructs.Rutger.1,D,1107.02,1112.74,それで、太陽電池を使うとしたら、誰かが室内でテレビを見ているときに太陽はどこにあるのでしょうか?,IS1005c.B.argumentstructs.Rutger.1,"{IS1005c.B.argumentstructs.Rutger.5, IS1005c.A.argumentstructs.Rutger.5, IS1005c.B.argumentstructs.Rutger.6, IS1005c.A.argumentstructs.Rutger.6}"
+IS1005c.B.argumentstructs.19,B,1109.61,1110.02,S,NONE,NONE
+IS1005c.B.argumentstructs.Rutger.5,B,1111.94,1116.67,えっと、太陽である必要はありません。日光だけでいいんです。,IS1005c.D.argumentstructs.Rutger.1,{IS1005c.D.argumentstructs.Rutger.2}
+IS1005c.D.argumentstructs.Rutger.2,D,1116.672,1118.15,わかった。,IS1005c.B.argumentstructs.Rutger.5,NONE
+IS1005c.A.argumentstructs.Rutger.5,A,1117.74,1119.376,テレビが点灯します。,IS1005c.D.argumentstructs.Rutger.1,NONE
+IS1005c.B.argumentstructs.Rutger.6,B,1117.86,1128.19,ええ、そうですね、このリモコンは、人がいるときだけ点灯するこのような部屋の中には置かないほうがいいと思いますが。,IS1005c.D.argumentstructs.Rutger.1,NONE
+IS1005c.C.argumentstructs.8,C,1126.82,1127.12,うんうん。,NONE,NONE
+IS1005c.A.argumentstructs.Rutger.6,A,1128.18,1134.61,少なくとも、T_V_ があれば、T_V_ から光を得ることができます。わかりません。,IS1005c.D.argumentstructs.Rutger.1,"{IS1005c.B.argumentstructs.Rutger.7, IS1005c.B.argumentstructs.Rutger.8}"
+IS1005c.B.argumentstructs.Rutger.7,B,1130.95,1134.13,そうですね、T_からすると十分ではないと思います。,IS1005c.A.argumentstructs.Rutger.6,"{IS1005c.C.argumentstructs.Rutger.1, IS1005c.D.argumentstructs.Rutger.3, IS1005c.A.argumentstructs.Rutger.7}"
+IS1005c.C.argumentstructs.Rutger.1,C,1131.88,1132.31,うん。,IS1005c.B.argumentstructs.Rutger.7,NONE
+IS1005c.D.argumentstructs.Rutger.3,D,1134.8,1135.13,わかった。,IS1005c.B.argumentstructs.Rutger.7,NONE
+IS1005c.A.argumentstructs.Rutger.7,A,1136.9,1138.15,はい。うーん。,IS1005c.B.argumentstructs.Rutger.7,NONE
+IS1005c.B.argumentstructs.Rutger.8,B,1139.75,1141.91,ああ、それは妥協ですよね？,IS1005c.A.argumentstructs.Rutger.6,"{IS1005c.A.argumentstructs.Rutger.8, IS1005c.B.argumentstructs.Rutger.9, IS1005c.D.argumentstructs.Rutger.4}"
+IS1005c.A.argumentstructs.Rutger.8,A,1144.59,1150.28,少なくともそれは新しいし、おそらく新しい技術だ。うん。,IS1005c.B.argumentstructs.Rutger.8,NONE
+IS1005c.B.argumentstructs.Rutger.9,B,1148.42,1153.62,そうです、皆さんが新しいものをすべて望んでいたから、音声認識を組み込んだかったのです。,IS1005c.B.argumentstructs.Rutger.8,NONE
+IS1005c.D.argumentstructs.Rutger.4,D,1148.64,1150.24,確かにかなり革新的ですね。,IS1005c.B.argumentstructs.Rutger.8,{IS1005c.D.argumentstructs.Rutger.5}
+IS1005c.C.argumentstructs.9,C,1150.82,1151.18,ふーむ。,NONE,NONE
+IS1005c.A.argumentstructs.16,A,1151.6,1151.91,えーと。,NONE,NONE
+IS1005c.D.argumentstructs.Rutger.5,D,1152.9,1157.728,外でテレビを見るときにもとても便利です。,IS1005c.D.argumentstructs.Rutger.4,NONE
+IS1005c.A.argumentstructs.Rutger.9,A,1156.26,1179.44,ですから、他のことについて話す前に、これが重要なことだと私は思います。サイズはどうなるのでしょうか。なぜなら、その重さによって、機能などに使用する他のものが決まるからです。たとえば、L_C_D_ の場合、小型デバイスを選択した場合、このような AAA 画面は使用できません。,NONE,"{IS1005c.B.argumentstructs.Rutger.10, IS1005c.B.argumentstructs.Rutger.11}"
+IS1005c.B.argumentstructs.Rutger.10,B,1158.256,1182.12,画面は大丈夫ですが、ボードが問題です。,IS1005c.A.argumentstructs.Rutger.9,NONE
+IS1005c.B.argumentstructs.Rutger.11,B,1184.39,1188.7,さて、どのような形を想像しますか？ または、どのような形になるでしょうか？,IS1005c.A.argumentstructs.Rutger.9,"{IS1005c.C.argumentstructs.Rutger.2, IS1005c.D.argumentstructs.Rutger.8, IS1005c.A.argumentstructs.Rutger.10}"
+IS1005c.C.argumentstructs.10,C,1187.57,1188.02,うーん。,NONE,NONE
+IS1005c.C.argumentstructs.Rutger.2,C,1189.35,1252.21,大きいか小さいかは重要ではないと思います。重要なのは、簡単に手に収まることです。平均的なサイズで、重すぎないものがいいと思います。また、均一な形状ではなく、真ん中が少し薄い方が好みです。ジョイスティックのようなものです。ジョイスティックの中には、指や手のひらの形状を考慮して設計されているので、手に収まりやすいものもあります。一般的な形状はこんな感じです。7センチ×7センチは少し大きいと思います。7ではなく、5×10センチくらいがいいと思います。これが私の意見です。その方が使いやすいです。,IS1005c.B.argumentstructs.Rutger.11,"{IS1005c.B.argumentstructs.Rutger.12, IS1005c.D.argumentstructs.Rutger.6}"
+IS1005c.B.argumentstructs.Rutger.12,B,1200.94,1242.12,うーん。わかりました。,IS1005c.C.argumentstructs.Rutger.2,NONE
+IS1005c.D.argumentstructs.Rutger.6,D,1251.33,1252.4,同じエリアです。,IS1005c.C.argumentstructs.Rutger.2,"{IS1005c.B.argumentstructs.Rutger.13, IS1005c.C.argumentstructs.Rutger.3, IS1005c.B.argumentstructs.Rutger.14}"
+IS1005c.B.argumentstructs.Rutger.13,B,1253.296,1254.39,わかった。,IS1005c.D.argumentstructs.Rutger.6,NONE
+IS1005c.C.argumentstructs.Rutger.3,C,1253.61,1255.408,うん。,IS1005c.D.argumentstructs.Rutger.6,NONE
+IS1005c.D.argumentstructs.Rutger.8,D,1253.88,1255.97,ボードを再設計してもらえますか?,IS1005c.B.argumentstructs.Rutger.11,{IS1005c.B.argumentstructs.Rutger.15}
+IS1005c.B.argumentstructs.Rutger.14,B,1256.55,1259.195,5から10。まあ、それは,IS1005c.D.argumentstructs.Rutger.6,{IS1005c.D.argumentstructs.Rutger.7}
+IS1005c.D.argumentstructs.Rutger.7,D,1258.12,1260.52,ああ、5センチ×10センチ,IS1005c.B.argumentstructs.Rutger.14,NONE
+IS1005c.B.argumentstructs.Rutger.15,B,1260.5,1294.59,そうですね。実現可能だと思います。まず、どうやって実現するか？ボードを L_C_D_ の横、つまり下に置き、たとえば L_C_D_ を、手に持っているものとはまったく関係のないものにすることができます。何かを持っているとき、L_C_D_ がそのちょうど上になるようにする、といった具合です。でも、スポンジ状のものを 1 つのユニットにまとめましょう。5 から 10 個なら実現可能でしょう。,IS1005c.D.argumentstructs.Rutger.8,{IS1005c.D.argumentstructs.Rutger.9}
+IS1005c.D.argumentstructs.11,D,1260.52,1260.52,。,NONE,NONE
+IS1005c.D.argumentstructs.Rutger.9,D,1261.77,1261.91,うん。,IS1005c.B.argumentstructs.Rutger.15,NONE
+IS1005c.C.argumentstructs.11,C,1274.81,1298.24,うんうん。うん。,NONE,NONE
+IS1005c.A.argumentstructs.Rutger.10,A,1288.64,1298.25,ああ。可能であれば、L_C_D_ を小さくするのが一番簡単だと思います。,IS1005c.B.argumentstructs.Rutger.11,"{IS1005c.B.argumentstructs.Rutger.16, IS1005c.A.argumentstructs.Rutger.11}"
+IS1005c.B.argumentstructs.Rutger.16,B,1300.52,1305.26,わかりました。5～10分なら可能だと思います。作りますよ。,IS1005c.A.argumentstructs.Rutger.10,NONE
+IS1005c.A.argumentstructs.Rutger.11,A,1303.43,1306.34,わかりました。それで、私たちは小さな,IS1005c.A.argumentstructs.Rutger.10,{IS1005c.C.argumentstructs.Rutger.4}
+IS1005c.C.argumentstructs.Rutger.4,C,1306.119,1313.59,それとも、わかりませんが、私たちはそれについて話し合っていないので、今は何か新しいものを発明したくないのです。,IS1005c.A.argumentstructs.Rutger.11,"{IS1005c.C.argumentstructs.Rutger.5, IS1005c.C.argumentstructs.Rutger.6}"
+IS1005c.B.argumentstructs.Rutger.17,B,1307.15,1308.32,Fo 5 で 10 です。,IS1005c.C.argumentstructs.Rutger.5,NONE
+IS1005c.A.argumentstructs.Rutger.12,A,1307.33,1329.36,L_C_D_。そうだね。触覚か何か、そうだね。タッチスクリーン、そうだね。,IS1005c.C.argumentstructs.Rutger.5,NONE
+IS1005c.C.argumentstructs.Rutger.5,C,1313.59,1328.67,L_C_D_s を使用すると、タッチできるので、キーを削除して、名前はわかりませんが、L_C_D_ が指に反応するようにできます。画面をタッチします。触覚のようなものですね。,IS1005c.C.argumentstructs.Rutger.4,"{IS1005c.B.argumentstructs.Rutger.17, IS1005c.A.argumentstructs.Rutger.12, IS1005c.D.argumentstructs.Rutger.10}"
+IS1005c.D.argumentstructs.Rutger.10,D,1327.34,1328.32,うーん、タッチスクリーン。,IS1005c.C.argumentstructs.Rutger.5,NONE
+IS1005c.C.argumentstructs.Rutger.6,C,1330.35,1339.664,しかし今のところ、このようなスクリーンを使いたくないのであれば、小さいスクリーンを使う方が良いと思います。,IS1005c.C.argumentstructs.Rutger.4,"{IS1005c.A.argumentstructs.Rutger.13, IS1005c.A.argumentstructs.Rutger.14}"
+IS1005c.A.argumentstructs.Rutger.13,A,1334.72,1345.25,そうですね。問題は、1か月という時間制限があるため、まったく新しいことはできないということです。,IS1005c.C.argumentstructs.Rutger.6,NONE
+IS1005c.B.argumentstructs.20,B,1344.22,1344.6,うんうん。,NONE,NONE
+IS1005c.A.argumentstructs.Rutger.14,A,1346.68,1348.72,では、小さな L_C_D_ にしましょう。,IS1005c.C.argumentstructs.Rutger.6,"{IS1005c.B.argumentstructs.Rutger.18, IS1005c.C.argumentstructs.Rutger.7}"
+IS1005c.D.argumentstructs.12,D,1346.78,1347.04,それで,NONE,NONE
+IS1005c.B.argumentstructs.Rutger.18,B,1347.3,1356.74,はい、そうですね、それで、あなたが一番いいと思う5×10の数字を私に送ってください。私が計算します。,IS1005c.A.argumentstructs.Rutger.14,NONE
+IS1005c.C.argumentstructs.Rutger.7,C,1348.92,1355.57,小さめのs OK,IS1005c.A.argumentstructs.Rutger.14,{IS1005c.A.argumentstructs.Rutger.15}
+IS1005c.A.argumentstructs.Rutger.15,A,1353.66,1357.15,はい、わかりました。それで、5×10です。,IS1005c.C.argumentstructs.Rutger.7,NONE
+IS1005c.C.argumentstructs.12,C,1355.57,1355.57,。,NONE,NONE

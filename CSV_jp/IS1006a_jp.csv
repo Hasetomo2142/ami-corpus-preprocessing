@@ -1,0 +1,19 @@
+ae_id,speaker,start_time,end_time,sentence,source,targets
+IS1006a.A.argumentstructs.Daan.1,A,327.2,331.776,皆さんの中にリモコンの経験がある人はいますか?,NONE,"{IS1006a.D.argumentstructs.Daan.1, IS1006a.B.argumentstructs.Daan.1}"
+IS1006a.D.argumentstructs.Daan.1,D,332.11,347.728,ええ、家にはたくさんあります。実際、娘はリモコンが好きなんです。食べるため？ええ、主に、そして壊すために。,IS1006a.A.argumentstructs.Daan.1,"{IS1006a.D.argumentstructs.Daan.2, IS1006a.A.argumentstructs.Daan.2}"
+IS1006a.A.argumentstructs.4,A,339.17,340.13,それ,NONE,NONE
+IS1006a.B.argumentstructs.Daan.1,B,339.2,343.418,んー、食べる？,IS1006a.A.argumentstructs.Daan.1,NONE
+IS1006a.A.argumentstructs.Daan.2,A,344.48,351.87,それで、それは素晴らしいアプリケーションになるかもしれません。子供が操作できないリモコン。うーん。,IS1006a.D.argumentstructs.Daan.1,NONE
+IS1006a.D.argumentstructs.6,D,351.93,352.89,そうそうそう。,NONE,NONE
+IS1006a.B.argumentstructs.4,B,352.08,354.22,子供にも安全。うーん。,NONE,NONE
+IS1006a.D.argumentstructs.Daan.2,D,354.52,361.48,彼女はクリックするボタンが好きなので、クリックする必要があります。,IS1006a.D.argumentstructs.Daan.1,{IS1006a.A.argumentstructs.Daan.3}
+IS1006a.A.argumentstructs.5,A,357.24,357.53,わかった。,NONE,NONE
+IS1006a.A.argumentstructs.Daan.3,A,361.76,369.696,だから防水加工が施されている必要があるのかもしれません。だって彼らはそれを食べるんです。,IS1006a.D.argumentstructs.Daan.2,{IS1006a.D.argumentstructs.Daan.3}
+IS1006a.D.argumentstructs.Daan.3,D,364.26,380.048,赤ちゃんが触れても壊れない安全なものでなければなりませんが、何よりも頑丈でなければなりません。なぜなら、彼女があまり背が高くなくても、捨てるときに壊れないほどの高さがあるからです。,IS1006a.A.argumentstructs.Daan.3,{IS1006a.D.argumentstructs.Daan.4}
+IS1006a.A.argumentstructs.6,A,372.1,372.31,うんうん。,NONE,NONE
+IS1006a.C.argumentstructs.2,C,380.34,380.4,ああ。,NONE,NONE
+IS1006a.D.argumentstructs.Daan.4,D,381.08,382.62,したがって、非常に堅牢でなければなりません。,IS1006a.D.argumentstructs.Daan.3,"{IS1006a.B.argumentstructs.Daan.3, IS1006a.C.argumentstructs.Daan.1}"
+IS1006a.B.argumentstructs.Daan.3,B,382.63,383.9,よし、壊れない。,IS1006a.D.argumentstructs.Daan.4,{IS1006a.D.argumentstructs.Daan.5}
+IS1006a.D.argumentstructs.Daan.5,D,384.32,385.28,壊れないよ、そうだね。,IS1006a.B.argumentstructs.Daan.3,NONE
+IS1006a.B.argumentstructs.5,B,385.01,385.41,ああ。,NONE,NONE
+IS1006a.C.argumentstructs.Daan.1,C,385.37,388.12,ええ、チャイルドロックか何かありますよ。,IS1006a.D.argumentstructs.Daan.4,NONE

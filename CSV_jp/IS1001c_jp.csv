@@ -1,0 +1,90 @@
+ae_id,speaker,start_time,end_time,sentence,source,targets
+IS1001c.C.argumentstructs.Rutger.1,C,375.27,380.52,実はそれについて質問があります。えーと、ライトの目的は何ですか？,NONE,"{IS1001c.B.argumentstructs.Rutger.1, IS1001c.A.argumentstructs.Rutger.1}"
+IS1001c.B.argumentstructs.Rutger.1,B,381.81,389.305,ゴム製の四角い箱よりも少しデザイン性の高いものを作るために,IS1001c.C.argumentstructs.Rutger.1,NONE
+IS1001c.A.argumentstructs.Rutger.1,A,387.81,390.71,暗闇でもボタンを簡単に見つけることができますか?,IS1001c.C.argumentstructs.Rutger.1,{IS1001c.C.argumentstructs.Rutger.2}
+IS1001c.C.argumentstructs.31,C,390.71,392.82,でも暗闇の中で,NONE,NONE
+IS1001c.C.argumentstructs.Rutger.2,C,394.0,396.47,ええ、でもライトは常に点灯しているのですか？,IS1001c.A.argumentstructs.Rutger.1,"{IS1001c.A.argumentstructs.Rutger.2, IS1001c.B.argumentstructs.Rutger.8}"
+IS1001c.A.argumentstructs.Rutger.2,A,397.97,402.89,ユーザーがリモコンを動かすとオンになると思います,IS1001c.C.argumentstructs.Rutger.2,"{IS1001c.C.argumentstructs.Rutger.4, IS1001c.C.argumentstructs.Rutger.5, IS1001c.C.argumentstructs.Rutger.6, IS1001c.B.argumentstructs.Rutger.3, IS1001c.C.argumentstructs.Rutger.9, IS1001c.A.argumentstructs.Rutger.3}"
+IS1001c.A.argumentstructs.Rutger.3,A,402.89,403.17,、 いいえ ？,IS1001c.A.argumentstructs.Rutger.2,NONE
+IS1001c.C.argumentstructs.Rutger.4,C,403.04,405.22,しかし、移動すれば手元にあるので、探す必要はありません。,IS1001c.A.argumentstructs.Rutger.2,NONE
+IS1001c.A.argumentstructs.24,A,405.63,411.2,うーん。そうだね。そうだね。,NONE,NONE
+IS1001c.C.argumentstructs.Rutger.5,C,407.73,410.27,もちろん、ボタンがよく見えるようになります。はい。,IS1001c.A.argumentstructs.Rutger.2,"{IS1001c.A.argumentstructs.Rutger.4, IS1001c.B.argumentstructs.Rutger.2}"
+IS1001c.A.argumentstructs.Rutger.4,A,412.52,413.55,ええ、本当です。,IS1001c.C.argumentstructs.Rutger.5,NONE
+IS1001c.B.argumentstructs.Rutger.2,B,414.51,415.23,ええ、実際。,IS1001c.C.argumentstructs.Rutger.5,NONE
+IS1001c.C.argumentstructs.Rutger.6,C,415.02,420.3,しかし、それを動かす場合は、動かしたときに動きを検出する何らかのセンサーが必要です。,IS1001c.A.argumentstructs.Rutger.2,NONE
+IS1001c.B.argumentstructs.Rutger.3,B,422.1,425.55,リモコンを動かそうと思った瞬間にライトが点灯します。,IS1001c.A.argumentstructs.Rutger.2,{IS1001c.C.argumentstructs.Rutger.7}
+IS1001c.C.argumentstructs.Rutger.7,C,426.3,428.35,はい、でもそのためには別のセンサーが必要ですよね？,IS1001c.B.argumentstructs.Rutger.3,{IS1001c.B.argumentstructs.Rutger.4}
+IS1001c.B.argumentstructs.Rutger.4,B,429.09,430.28,うん。また。,IS1001c.C.argumentstructs.Rutger.7,{IS1001c.C.argumentstructs.Rutger.8}
+IS1001c.C.argumentstructs.Rutger.8,C,430.35,432.63,うん,IS1001c.B.argumentstructs.Rutger.4,NONE
+IS1001c.C.argumentstructs.Rutger.9,C,432.63,433.49,いいえ、高すぎます。,IS1001c.A.argumentstructs.Rutger.2,"{IS1001c.B.argumentstructs.Rutger.6, IS1001c.B.argumentstructs.Rutger.7, IS1001c.C.argumentstructs.Rutger.11}"
+IS1001c.B.argumentstructs.Rutger.6,B,437.36,439.22,これはそれほど高価だとは思いませんが、,IS1001c.C.argumentstructs.Rutger.9,NONE
+IS1001c.B.argumentstructs.Rutger.7,B,439.22,449.344,しかし、結局のところ、これは非常に安価なデバイスですが、請求書は,IS1001c.C.argumentstructs.Rutger.9,{IS1001c.C.argumentstructs.Rutger.10}
+IS1001c.C.argumentstructs.32,C,439.26,445.93,分かりました。うーん。追加です。はい、分かりました。,NONE,NONE
+IS1001c.C.argumentstructs.Rutger.10,C,447.22,447.36,うーん。,IS1001c.B.argumentstructs.Rutger.7,NONE
+IS1001c.C.argumentstructs.Rutger.11,C,449.41,454.17,ええ、でもホイールも安いだろうと思っていましたが、とても高価だとおっしゃっていましたので、そうですね。,IS1001c.C.argumentstructs.Rutger.9,NONE
+IS1001c.B.argumentstructs.Rutger.8,B,454.07,467.348,まず、連続点灯を考えていましたが、デバイスの電源をオフにしたいときにリモコンのオンボタンを押すと点灯します。,IS1001c.C.argumentstructs.Rutger.2,{IS1001c.A.argumentstructs.Rutger.7}
+IS1001c.C.argumentstructs.33,C,461.9,474.8,うーん。うん。うーん。,NONE,NONE
+IS1001c.A.argumentstructs.25,A,466.69,469.87,でも、バッテリーを消費する可能性はあるよね？,NONE,NONE
+IS1001c.A.argumentstructs.Rutger.7,A,471.52,472.94,ライトを常に点灯しておくには？,IS1001c.B.argumentstructs.Rutger.8,"{IS1001c.B.argumentstructs.Rutger.9, IS1001c.A.argumentstructs.Rutger.8}"
+IS1001c.B.argumentstructs.20,B,471.6,473.06,はい、少しだけ。,NONE,NONE
+IS1001c.B.argumentstructs.Rutger.9,B,474.33,474.97,若干。,IS1001c.A.argumentstructs.Rutger.7,NONE
+IS1001c.A.argumentstructs.Rutger.8,A,475.54,477.87,まあ、それは後で話し合うことにしましょう,IS1001c.A.argumentstructs.Rutger.7,{IS1001c.B.argumentstructs.Rutger.10}
+IS1001c.B.argumentstructs.Rutger.10,B,478.16,478.31,うん。,IS1001c.A.argumentstructs.Rutger.8,NONE
+IS1001c.A.argumentstructs.Rutger.9,A,977.12,985.456,テレビを操作するためにどんなフルーツを使いたいですか?,NONE,{IS1001c.B.argumentstructs.Rutger.11}
+IS1001c.C.argumentstructs.34,C,990.7,991.02,うーん。,NONE,NONE
+IS1001c.A.argumentstructs.26,A,994.14,994.34,オディ,NONE,NONE
+IS1001c.B.argumentstructs.Rutger.11,B,994.18,995.95,バナナはいいアイデアだと思います。,IS1001c.A.argumentstructs.Rutger.9,"{IS1001c.A.argumentstructs.Rutger.10, IS1001c.B.argumentstructs.Rutger.13, IS1001c.B.argumentstructs.Rutger.15, IS1001c.C.argumentstructs.Rutger.17}"
+IS1001c.A.argumentstructs.Rutger.10,A,996.42,1001.81,バナナも黄色いのでリモコンを紛失することはありません。,IS1001c.B.argumentstructs.Rutger.11,"{IS1001c.D.argumentstructs.Rutger.1, IS1001c.C.argumentstructs.Rutger.12}"
+IS1001c.B.argumentstructs.21,B,998.97,999.15,しかし,NONE,NONE
+IS1001c.D.argumentstructs.Rutger.1,D,1001.26,1002.352,うん。,IS1001c.A.argumentstructs.Rutger.10,NONE
+IS1001c.C.argumentstructs.Rutger.12,C,1001.83,1002.18,うん。,IS1001c.A.argumentstructs.Rutger.10,NONE
+IS1001c.B.argumentstructs.Rutger.13,B,1002.9,1016.368,バナナがこのように曲がっているときはバナナを使用しませんが、バナナがこのように曲がっているときは、上部のホイールで制御し、ここにプッシュボタンがあります,IS1001c.B.argumentstructs.Rutger.11,"{IS1001c.C.argumentstructs.Rutger.13, IS1001c.D.argumentstructs.Rutger.2, IS1001c.A.argumentstructs.Rutger.11, IS1001c.C.argumentstructs.Rutger.14}"
+IS1001c.C.argumentstructs.35,C,1005.73,1010.01,ボタンは2つ、うん。うん。,NONE,NONE
+IS1001c.C.argumentstructs.Rutger.13,C,1011.49,1011.93,うん。,IS1001c.B.argumentstructs.Rutger.13,NONE
+IS1001c.D.argumentstructs.Rutger.2,D,1013.73,1015.456,でも、あなたには,IS1001c.B.argumentstructs.Rutger.13,NONE
+IS1001c.A.argumentstructs.Rutger.11,A,1017.24,1018.77,それはいい考えだと思うよ、うん。,IS1001c.B.argumentstructs.Rutger.13,NONE
+IS1001c.C.argumentstructs.Rutger.14,C,1017.33,1028.25,そうですね、このカーブをそのまま使って、手をここに動かしてボタンを押し、反対側に動かします。両側に取り付けるとクールになります,IS1001c.B.argumentstructs.Rutger.13,{IS1001c.C.argumentstructs.Rutger.15}
+IS1001c.A.argumentstructs.27,A,1025.0,1025.34,うん。,NONE,NONE
+IS1001c.B.argumentstructs.Rutger.14,B,1025.6,1025.78,うん。,IS1001c.C.argumentstructs.Rutger.15,NONE
+IS1001c.C.argumentstructs.Rutger.15,C,1028.25,1028.48,、 いいえ ？,IS1001c.C.argumentstructs.Rutger.14,"{IS1001c.A.argumentstructs.Rutger.12, IS1001c.B.argumentstructs.Rutger.14}"
+IS1001c.A.argumentstructs.Rutger.12,A,1028.52,1037.26,そうですね。良いデザインだと思いますし、革新的でもあります。バナナは残しておけるかもしれません。見つけるのもとても簡単になるでしょう。,IS1001c.C.argumentstructs.Rutger.15,{IS1001c.C.argumentstructs.Rutger.16}
+IS1001c.C.argumentstructs.Rutger.16,C,1037.3,1038.72,中にバイブレーターを入れることもできます。,IS1001c.A.argumentstructs.Rutger.12,NONE
+IS1001c.B.argumentstructs.Rutger.15,B,1037.32,1045.42,バナナが何なのかは誰もが知っています。基本的には。高級フルーツやフラスなどから始めると,IS1001c.B.argumentstructs.Rutger.11,{IS1001c.D.argumentstructs.Rutger.3}
+IS1001c.D.argumentstructs.Rutger.3,D,1039.648,1040.4,うん。,IS1001c.B.argumentstructs.Rutger.15,NONE
+IS1001c.C.argumentstructs.Rutger.17,C,1044.05,1053.66,なるほど。バナナが弊社のカラースキームに合っているということも考慮に入れてくださいね。そうですね。,IS1001c.B.argumentstructs.Rutger.11,"{IS1001c.B.argumentstructs.Rutger.16, IS1001c.A.argumentstructs.Rutger.13}"
+IS1001c.B.argumentstructs.Rutger.16,B,1051.09,1054.104,そうそう,IS1001c.C.argumentstructs.Rutger.17,NONE
+IS1001c.A.argumentstructs.28,A,1051.12,1051.38,うん。,NONE,NONE
+IS1001c.A.argumentstructs.Rutger.13,A,1052.98,1056.6,はい、それは本当に良い指摘ですね。,IS1001c.C.argumentstructs.Rutger.17,NONE
+IS1001c.B.argumentstructs.Rutger.17,B,1179.47,1183.82,上部にホイールがあります。ボタン、どこにボタンを配置しますか?,NONE,"{IS1001c.C.argumentstructs.Rutger.18, IS1001c.C.argumentstructs.Rutger.20, IS1001c.C.argumentstructs.Rutger.21, IS1001c.A.argumentstructs.Rutger.17, IS1001c.A.argumentstructs.Rutger.23}"
+IS1001c.C.argumentstructs.Rutger.18,C,1185.01,1189.86,そうですね、普段は「Kay」を持ちますが、左利きのユーザーにとっても良いものにしたいですよね？,IS1001c.B.argumentstructs.Rutger.17,"{IS1001c.B.argumentstructs.Rutger.18, IS1001c.A.argumentstructs.Rutger.14}"
+IS1001c.B.argumentstructs.Rutger.18,B,1190.31,1190.69,うん。,IS1001c.C.argumentstructs.Rutger.18,NONE
+IS1001c.C.argumentstructs.36,C,1192.28,1193.04,えー,NONE,NONE
+IS1001c.A.argumentstructs.Rutger.14,A,1192.37,1194.53,したがって、対称でなければなりません。,IS1001c.C.argumentstructs.Rutger.18,{IS1001c.C.argumentstructs.Rutger.19}
+IS1001c.C.argumentstructs.Rutger.19,C,1195.89,1200.37,うん、でもいいよ。さて、そうしましょうか。,IS1001c.A.argumentstructs.Rutger.14,NONE
+IS1001c.C.argumentstructs.Rutger.20,C,1200.37,1208.97,基本的に、2 つの側面しか取れません。1 つは親指があるこの側面、もう 1 つは親指がある側面です。基本的に。,IS1001c.B.argumentstructs.Rutger.17,{IS1001c.A.argumentstructs.Rutger.15}
+IS1001c.B.argumentstructs.Rutger.19,B,1206.44,1207.82,はい、そうです。,IS1001c.C.argumentstructs.Rutger.22,NONE
+IS1001c.C.argumentstructs.Rutger.21,C,1208.97,1211.01,または、こちらを使うこともできます。,IS1001c.B.argumentstructs.Rutger.17,{IS1001c.C.argumentstructs.Rutger.22}
+IS1001c.C.argumentstructs.Rutger.22,C,1211.01,1213.7,しかし、これをホイールに使用するのが非常に快適かどうかはわかりません。,IS1001c.C.argumentstructs.Rutger.21,"{IS1001c.B.argumentstructs.Rutger.19, IS1001c.C.argumentstructs.Rutger.23}"
+IS1001c.A.argumentstructs.Rutger.15,A,1212.84,1215.09,そうですね、親指の方が快適かもしれません。,IS1001c.C.argumentstructs.Rutger.20,NONE
+IS1001c.C.argumentstructs.Rutger.23,C,1215.09,1218.99,これはホイール用、そしてこれはボタン用ですか? 両側に必要です。,IS1001c.C.argumentstructs.Rutger.22,NONE
+IS1001c.A.argumentstructs.Rutger.16,A,1217.03,1220.63,はい、右でも左でもどちらでもいいと思います。うーん。,NONE,NONE
+IS1001c.B.argumentstructs.22,B,1220.31,1303.23,うんうん。うんうん。,NONE,NONE
+IS1001c.C.argumentstructs.37,C,1224.47,1224.76,オペレーション,NONE,NONE
+IS1001c.A.argumentstructs.29,A,1225.27,1227.32,このように回すこともできると思います。,NONE,NONE
+IS1001c.A.argumentstructs.Rutger.17,A,1228.72,1231.05,どちらも両手で行うことができます。,IS1001c.B.argumentstructs.Rutger.17,"{IS1001c.C.argumentstructs.Rutger.25, IS1001c.A.argumentstructs.Rutger.21}"
+IS1001c.C.argumentstructs.Rutger.25,C,1228.95,1235.38,ホイール ホイール ボタン。そうです、問題は、ボタンとホイールがある場合、それを回すとボタンが反対側にあることです。,IS1001c.A.argumentstructs.Rutger.17,{IS1001c.A.argumentstructs.Rutger.18}
+IS1001c.A.argumentstructs.Rutger.18,A,1231.94,1232.57,大丈夫だと思います。,IS1001c.C.argumentstructs.Rutger.25,{IS1001c.C.argumentstructs.Rutger.26}
+IS1001c.C.argumentstructs.Rutger.26,C,1236.47,1237.39,だから見ることはできないのです。,IS1001c.A.argumentstructs.Rutger.18,"{IS1001c.A.argumentstructs.Rutger.19, IS1001c.A.argumentstructs.Rutger.20, IS1001c.C.argumentstructs.Rutger.27}"
+IS1001c.A.argumentstructs.Rutger.19,A,1238.61,1241.78,まあ、慣れるでしょう。,IS1001c.C.argumentstructs.Rutger.26,NONE
+IS1001c.A.argumentstructs.Rutger.20,A,1241.78,1251.29,さらに、ボタンが点灯しているので、右側をすぐに識別できます。,IS1001c.C.argumentstructs.Rutger.26,NONE
+IS1001c.C.argumentstructs.38,C,1249.92,1250.19,はい,NONE,NONE
+IS1001c.C.argumentstructs.Rutger.27,C,1251.37,1260.0,はい、わかっています。でも、左手で持って、ホイールがここにあり、ボタンがここにある場合、回転させるとボタンは反対側にあります。,IS1001c.C.argumentstructs.Rutger.26,NONE
+IS1001c.A.argumentstructs.30,A,1262.42,1273.29,右利きか左利きかに関係なく、右手か左手のみで使うことになると思います。左利きでも大丈夫だと思います。この動きは右利きでもできます。,NONE,NONE
+IS1001c.A.argumentstructs.Rutger.21,A,1275.86,1277.69,それほど変わらないと思います。,IS1001c.A.argumentstructs.Rutger.17,{IS1001c.C.argumentstructs.Rutger.28}
+IS1001c.C.argumentstructs.Rutger.28,C,1279.52,1279.9,わかった。,IS1001c.A.argumentstructs.Rutger.21,{IS1001c.A.argumentstructs.Rutger.22}
+IS1001c.A.argumentstructs.Rutger.22,A,1281.06,1281.31,うん ？,IS1001c.C.argumentstructs.Rutger.28,{IS1001c.C.argumentstructs.Rutger.29}
+IS1001c.C.argumentstructs.39,C,1282.58,1283.58,わかった。多分。,NONE,NONE
+IS1001c.C.argumentstructs.Rutger.29,C,1285.22,1285.41,うん。,IS1001c.A.argumentstructs.Rutger.22,NONE
+IS1001c.A.argumentstructs.31,A,1287.0,1298.78,インターフェースとしては、バナナの形をしていて、横にボタンがあります。,NONE,NONE
+IS1001c.A.argumentstructs.Rutger.23,A,1300.9,1302.59,そして上部に車輪が付いています。,IS1001c.B.argumentstructs.Rutger.17,{IS1001c.C.argumentstructs.Rutger.30}
+IS1001c.C.argumentstructs.Rutger.30,C,1303.91,1304.11,うん。,IS1001c.A.argumentstructs.Rutger.23,NONE

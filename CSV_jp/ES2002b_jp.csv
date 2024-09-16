@@ -1,0 +1,75 @@
+ae_id,speaker,start_time,end_time,sentence,source,targets
+ES2002b.C.argumentstructs.Erik.1,C,460.53,463.55,えっと、それに欲しい機能はありますか？,NONE,"{ES2002b.C.argumentstructs.Erik.2, ES2002b.B.argumentstructs.Erik.1, ES2002b.B.argumentstructs.Erik.4}"
+ES2002b.C.argumentstructs.Erik.2,C,463.55,470.85,つまり、これまでのところ、電源のオン/オフ、チャンネルの切り替え、音量の上げ下げなど、テレビで使用できる基本的な機能はすべて揃っています。,ES2002b.C.argumentstructs.Erik.1,NONE
+ES2002b.B.argumentstructs.22,B,465.62,468.87,うんうん。ああ。,NONE,NONE
+ES2002b.B.argumentstructs.Erik.1,B,470.95,474.41,そうですね、そしてチャンネルの実際の数もそうですね。,ES2002b.C.argumentstructs.Erik.1,{ES2002b.C.argumentstructs.Erik.3}
+ES2002b.C.argumentstructs.Erik.3,C,474.16,483.41,わかりました。えーっと、それは必須のものですか、それともリクエストされたものですか？番号のようなチャンネルは必要ですか、えーっと,ES2002b.B.argumentstructs.Erik.1,"{ES2002b.D.argumentstructs.Erik.1, ES2002b.B.argumentstructs.Erik.2}"
+ES2002b.D.argumentstructs.Erik.1,D,477.66,478.27,それはどれでしたか？,ES2002b.C.argumentstructs.Erik.3,{ES2002b.D.argumentstructs.Erik.2}
+ES2002b.D.argumentstructs.Erik.2,D,481.12,482.38,数字を上げるか、下げるか？,ES2002b.D.argumentstructs.Erik.1,NONE
+ES2002b.B.argumentstructs.Erik.2,B,482.97,490.14,ああ、それは必須だと思います。チャンネルを個別に選択できないのに、今どきリモコンを買う人はいないでしょう。,ES2002b.C.argumentstructs.Erik.3,"{ES2002b.B.argumentstructs.Erik.3, ES2002b.D.argumentstructs.Erik.3}"
+ES2002b.D.argumentstructs.Erik.3,D,489.24,489.59,うん。,ES2002b.B.argumentstructs.Erik.2,NONE
+ES2002b.B.argumentstructs.23,B,490.14,490.47,、 つまり,NONE,NONE
+ES2002b.B.argumentstructs.Erik.3,B,490.47,491.8,これに反対する人はいますか?,ES2002b.B.argumentstructs.Erik.2,NONE
+ES2002b.D.argumentstructs.19,D,491.21,491.48,うん。,NONE,NONE
+ES2002b.B.argumentstructs.Erik.4,B,492.83,508.23,えっと、他には、テレテキストや V_C_R_ について心配する必要はありません。明るさやコントラストなど、ディスプレイ コントロールについて心配する必要があると思いますか?,ES2002b.C.argumentstructs.Erik.1,"{ES2002b.D.argumentstructs.Erik.4, ES2002b.D.argumentstructs.Erik.5, ES2002b.D.argumentstructs.Erik.6}"
+ES2002b.D.argumentstructs.Erik.4,D,503.68,504.7,違いますか？いいえ？,ES2002b.B.argumentstructs.Erik.4,NONE
+ES2002b.D.argumentstructs.Erik.5,D,506.94,507.33,うん。,ES2002b.B.argumentstructs.Erik.4,NONE
+ES2002b.D.argumentstructs.Erik.6,D,507.88,521.15,そうですね、基本的に私たちが今やっていることは、分類することだと思います。私たちは、この製品を、より複雑な機能をすべて提供する製品にしたいが、それらを別の領域に置きたいと言っています。そうですか? それが私たちがやっていることでしょうか?,ES2002b.B.argumentstructs.Erik.4,{ES2002b.D.argumentstructs.Erik.7}
+ES2002b.B.argumentstructs.24,B,513.78,514.1,うーん。,NONE,NONE
+ES2002b.B.argumentstructs.Erik.5,B,519.94,520.51,うん。,ES2002b.D.argumentstructs.Erik.7,NONE
+ES2002b.C.argumentstructs.Erik.4,C,520.89,521.5,うーん、そうですね。,ES2002b.D.argumentstructs.Erik.7,NONE
+ES2002b.D.argumentstructs.Erik.7,D,521.15,525.89,私たちは、ある種、それらを分類しているのでしょうか、それとも、実際に、製品に不要なものを排除しているのでしょうか?,ES2002b.D.argumentstructs.Erik.6,"{ES2002b.B.argumentstructs.Erik.5, ES2002b.C.argumentstructs.Erik.4, ES2002b.B.argumentstructs.Erik.6}"
+ES2002b.C.argumentstructs.8,C,522.89,523.42,えーと,NONE,NONE
+ES2002b.B.argumentstructs.Erik.6,B,526.31,530.85,あなたにとって、絶対に必要なものと、あれば良いものについて考えてみませんか?,ES2002b.D.argumentstructs.Erik.7,{ES2002b.C.argumentstructs.Erik.5}
+ES2002b.C.argumentstructs.Erik.5,C,529.84,537.11,ええと、まずは両方ですね、何が必要なのかを正確に把握する必要があります。その後、可能であれば追加していきます。,ES2002b.B.argumentstructs.Erik.6,{ES2002b.B.argumentstructs.Erik.7}
+ES2002b.B.argumentstructs.25,B,534.22,534.64,うんうん。,NONE,NONE
+ES2002b.B.argumentstructs.Erik.7,B,537.48,550.494,わかりました。では、この時点で、この機能として絶対に必要なものをAPとして決めていただけますか。これまでのところ、ボリュームとチャンネルコントロールがあり、,ES2002b.C.argumentstructs.Erik.5,"{ES2002b.D.argumentstructs.Erik.8, ES2002b.C.argumentstructs.Erik.6}"
+ES2002b.D.argumentstructs.Erik.8,D,543.8,544.09,うん。,ES2002b.B.argumentstructs.Erik.7,NONE
+ES2002b.D.argumentstructs.20,D,545.68,545.95,はい。,NONE,NONE
+ES2002b.C.argumentstructs.Erik.6,C,548.23,553.06,オンとオフ、音量とチャンネルがあり、数字で特定のチャンネルにスキップします。,ES2002b.B.argumentstructs.Erik.7,{ES2002b.B.argumentstructs.Erik.8}
+ES2002b.B.argumentstructs.Erik.8,B,553.25,554.58,はい、わかりました。,ES2002b.C.argumentstructs.Erik.6,NONE
+ES2002b.B.argumentstructs.26,B,554.58,555.87,えーと,NONE,NONE
+ES2002b.B.argumentstructs.Erik.9,B,1100.05,1120.29,ええと、会議の終わりまでに決めなければならないことの 1 つは、私たちが誰になるか、つまり、私たちのターゲット ユーザー、ターゲット市場は誰なのかということです。つまり、見た目が良くて使いやすく、しかもかなり強力な製品が欲しい場合、私たちは本当に誰をターゲットにしたいのでしょうか。,NONE,"{ES2002b.D.argumentstructs.Erik.9, ES2002b.A.argumentstructs.Erik.1, ES2002b.B.argumentstructs.Erik.16}"
+ES2002b.D.argumentstructs.21,D,1108.15,1119.82,はい。わかりました。,NONE,NONE
+ES2002b.B.argumentstructs.27,B,1120.29,1121.35,つまり,NONE,NONE
+ES2002b.D.argumentstructs.Erik.9,D,1121.15,1122.84,お金はどこにあるんだろう。,ES2002b.B.argumentstructs.Erik.9,{ES2002b.B.argumentstructs.Erik.10}
+ES2002b.B.argumentstructs.Erik.10,B,1122.65,1141.39,ええ、誰がお金を使うでしょうか。もし25ユーロが販売価格だとしたら、想像できますよね。小売価格がいくらになるかはよくわかりません。でも、テレビに付属のリモコンを使うだけじゃなくて、実際に外に出てリモコンを買う人が欲しいと思います。それで、私たちは誰をターゲットにしていると思いますか？,ES2002b.D.argumentstructs.Erik.9,"{ES2002b.D.argumentstructs.Erik.10, ES2002b.D.argumentstructs.Erik.11, ES2002b.D.argumentstructs.Erik.13}"
+ES2002b.D.argumentstructs.Erik.10,D,1125.39,1127.28,そうだね。そして、誰がテレビを見るんだ。,ES2002b.B.argumentstructs.Erik.10,NONE
+ES2002b.D.argumentstructs.22,D,1129.59,1139.26,うん。うん。うん。,NONE,NONE
+ES2002b.D.argumentstructs.Erik.11,D,1139.26,1139.56,うん。,ES2002b.B.argumentstructs.Erik.10,NONE
+ES2002b.A.argumentstructs.Erik.1,A,1142.73,1147.29,うーん、人々の観点から言えば、中級から高級市場になると思います。,ES2002b.B.argumentstructs.Erik.9,{ES2002b.A.argumentstructs.Erik.2}
+ES2002b.A.argumentstructs.Erik.2,A,1147.29,1152.24,リモコンが25ユーロというのは、現地のポンドではいくらですか?,ES2002b.A.argumentstructs.Erik.1,{ES2002b.B.argumentstructs.Erik.11}
+ES2002b.B.argumentstructs.Erik.11,B,1151.97,1153.9,16、17ポンドくらいだと思います。,ES2002b.A.argumentstructs.Erik.2,{ES2002b.A.argumentstructs.Erik.3}
+ES2002b.A.argumentstructs.Erik.3,A,1153.79,1178.41,追加のリモコンや交換用のリモコンを買うのに、それは多額ですか？ そうですね。 うーん、ハイエンドではないかもしれませんが、中級、中級以上くらいでしょうか。 だいたいいくらかご存知ですか？ リモコンに10ポンドくらい払うと思いますか？ 簡単な交換品として、そうですか。 つまり、リモコンを紛失して、まず外に出て取りに行きたくなったら、いくら払いますか？,ES2002b.B.argumentstructs.Erik.11,"{ES2002b.B.argumentstructs.Erik.12, ES2002b.D.argumentstructs.Erik.12}"
+ES2002b.B.argumentstructs.Erik.12,B,1156.76,1158.84,はい、わかりました。,ES2002b.A.argumentstructs.Erik.3,NONE
+ES2002b.D.argumentstructs.23,D,1157.58,1157.95,うんうん。,NONE,NONE
+ES2002b.B.argumentstructs.28,B,1165.62,1177.01,はい。はい。はい、はい。,NONE,NONE
+ES2002b.D.argumentstructs.Erik.12,D,1176.04,1191.69,そうですね。これは、デイビッドさんのコメントと少し関係がありますね。これは私たちが情報を持っている年齢層で、これは人々が特定の機能にいくら払うかを示した表です。テレビ機器にお金を使う意思がどこにあるか、大まかな見当がつくと思います。,ES2002b.A.argumentstructs.Erik.3,NONE
+ES2002b.A.argumentstructs.Erik.4,A,1180.75,1180.92,うん。,ES2002b.D.argumentstructs.Erik.13,NONE
+ES2002b.B.argumentstructs.Erik.13,B,1186.39,1187.0,わかった,ES2002b.D.argumentstructs.Erik.13,NONE
+ES2002b.B.argumentstructs.29,B,1191.65,1192.43,わかった。,NONE,NONE
+ES2002b.D.argumentstructs.Erik.13,D,1191.69,1194.12,主に25歳前後の年齢層に焦点を当てています。,ES2002b.B.argumentstructs.Erik.10,"{ES2002b.A.argumentstructs.Erik.4, ES2002b.B.argumentstructs.Erik.13, ES2002b.B.argumentstructs.Erik.14}"
+ES2002b.B.argumentstructs.Erik.14,B,1194.59,1197.56,そうですね、それでは私たちはかなり若い市場を狙っていると思いますか？,ES2002b.D.argumentstructs.Erik.13,{ES2002b.D.argumentstructs.Erik.14}
+ES2002b.A.argumentstructs.7,A,1198.34,1198.56,はい。,NONE,NONE
+ES2002b.D.argumentstructs.Erik.14,D,1198.74,1200.67,若手プロフェッショナルみたいなもの。,ES2002b.B.argumentstructs.Erik.14,{ES2002b.B.argumentstructs.Erik.15}
+ES2002b.B.argumentstructs.Erik.15,B,1200.28,1201.59,はい、わかりました。,ES2002b.D.argumentstructs.Erik.14,NONE
+ES2002b.D.argumentstructs.24,D,1200.67,1217.82,うんうん、そうだね,NONE,NONE
+ES2002b.C.argumentstructs.9,C,1201.13,1201.66,えーと,NONE,NONE
+ES2002b.B.argumentstructs.Erik.16,B,1202.27,1208.35,えっと、音声認識は私たちが真剣に検討すべきものだとお考えですか?,ES2002b.B.argumentstructs.Erik.9,{ES2002b.B.argumentstructs.Erik.17}
+ES2002b.B.argumentstructs.Erik.17,B,1210.61,1211.78,クレイグさん、どう思いますか？,ES2002b.B.argumentstructs.Erik.16,{ES2002b.C.argumentstructs.Erik.7}
+ES2002b.C.argumentstructs.Erik.7,C,1211.92,1217.24,そうですね、音声認識を求めているのは大人だと言っていませんでしたか？ どちらかと言うと年配のグループですね。,ES2002b.B.argumentstructs.Erik.17,"{ES2002b.D.argumentstructs.Erik.15, ES2002b.B.argumentstructs.Erik.19, ES2002b.B.argumentstructs.Erik.21}"
+ES2002b.D.argumentstructs.Erik.15,D,1218.89,1224.349,そうですね。それは私たちが特定している市場にぴったり当てはまります。,ES2002b.C.argumentstructs.Erik.7,{ES2002b.B.argumentstructs.Erik.18}
+ES2002b.C.argumentstructs.10,C,1219.73,1219.92,うーん,NONE,NONE
+ES2002b.B.argumentstructs.30,B,1222.62,1222.69,いいえ,NONE,NONE
+ES2002b.B.argumentstructs.Erik.18,B,1222.69,1223.27,うん。,ES2002b.D.argumentstructs.Erik.15,NONE
+ES2002b.B.argumentstructs.Erik.19,B,1224.57,1250.14,ターゲットを絞り、これらの人々をターゲットにして彼らが望むものを提供しようと思う必要があります。なぜなら、何らかのセールスポイントが必要だからです。誰か何か付け加えることはありますか？たとえば、音声認識を含めるとしたら、15歳から35歳の間で非常に高い反応があるようです。だから、それが私たちのターゲットだったと言えます。,ES2002b.C.argumentstructs.Erik.7,"{ES2002b.D.argumentstructs.Erik.16, ES2002b.A.argumentstructs.Erik.5}"
+ES2002b.D.argumentstructs.Erik.16,D,1227.5,1227.84,わかった。,ES2002b.B.argumentstructs.Erik.19,NONE
+ES2002b.D.argumentstructs.25,D,1229.09,1254.33,はい。もちろんです。もちろんです。はい。そうです。そうです。そうです。そうです。,NONE,NONE
+ES2002b.A.argumentstructs.Erik.5,A,1249.13,1258.05,25 人から 35 人はグループとして追加しても妥当だと思います。なぜなら、それはあなたの技術を少なくとも試して使用したいと思っている人々のグループの半分以上だからです。,ES2002b.B.argumentstructs.Erik.19,"{ES2002b.B.argumentstructs.Erik.20, ES2002b.D.argumentstructs.Erik.17}"
+ES2002b.B.argumentstructs.Erik.20,B,1253.14,1253.67,うん。,ES2002b.A.argumentstructs.Erik.5,NONE
+ES2002b.D.argumentstructs.Erik.17,D,1256.89,1258.14,ええ、ええ。,ES2002b.A.argumentstructs.Erik.5,NONE
+ES2002b.B.argumentstructs.31,B,1257.61,1258.5,うんうん。,NONE,NONE
+ES2002b.B.argumentstructs.Erik.21,B,1258.5,1265.14,そうですね、15歳から35歳、かなり若く見えます。彼らには、こういったことに使えるお金が少しはあるでしょう。,ES2002b.C.argumentstructs.Erik.7,"{ES2002b.D.argumentstructs.Erik.18, ES2002b.A.argumentstructs.Erik.6}"
+ES2002b.D.argumentstructs.Erik.18,D,1261.65,1261.91,うん。,ES2002b.B.argumentstructs.Erik.21,NONE
+ES2002b.A.argumentstructs.Erik.6,A,1261.69,1261.93,うん。,ES2002b.B.argumentstructs.Erik.21,NONE
+ES2002b.D.argumentstructs.26,D,1264.93,1265.16,うんうん。,NONE,NONE

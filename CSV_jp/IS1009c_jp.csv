@@ -1,0 +1,51 @@
+ae_id,speaker,start_time,end_time,sentence,source,targets
+IS1009c.B.argumentstructs.Daan.1,B,351.32,371.25,わかりました。リモコンの機能はテレビにメッセージを送信することです。このメッセージは、スイッチのオン/オフ メッセージ、次のチャンネルへの切り替えメッセージ、チャンネルの入れ替え、特定のチャンネルへの切り替えなどです。たとえば、1、2、3、4、最大 9 の数字を指定できます。,NONE,{IS1009c.A.argumentstructs.Daan.1}
+IS1009c.A.argumentstructs.Daan.1,A,373.38,376.33,9 つって何？ 9 つのチャンネル、スイッチ？,IS1009c.B.argumentstructs.Daan.1,"{IS1009c.B.argumentstructs.Daan.2, IS1009c.A.argumentstructs.Daan.2}"
+IS1009c.B.argumentstructs.Daan.2,B,377.33,377.69,失礼？,IS1009c.A.argumentstructs.Daan.1,NONE
+IS1009c.A.argumentstructs.Daan.2,A,377.96,381.29,9 つのチャンネル スイッチ? はい、そうです。そうです。そうです。,IS1009c.A.argumentstructs.Daan.1,{IS1009c.B.argumentstructs.Daan.3}
+IS1009c.B.argumentstructs.Daan.3,B,379.14,380.91,はい、9つの数字です。,IS1009c.A.argumentstructs.Daan.2,{IS1009c.B.argumentstructs.Daan.4}
+IS1009c.B.argumentstructs.Daan.4,B,382.97,393.13,そして、ボタンの切り替えにより、チャンネルを切り替えることができます。3 番目のチャンネルを表示したくない場合は、4 番目のチャンネルに切り替えることができます。その逆も同様です。,IS1009c.B.argumentstructs.Daan.3,{IS1009c.B.argumentstructs.Daan.5}
+IS1009c.A.argumentstructs.10,A,386.19,408.35,うんうん。うんうん。うんうん。うんうん。,NONE,NONE
+IS1009c.B.argumentstructs.Daan.5,B,395.8,407.93,次に、次へボタンと次へボタン チャンネルがあり、チャンネルを 1 つずつスクロールし続けることができます。次のスライドをお願いします。,IS1009c.B.argumentstructs.Daan.4,{IS1009c.C.argumentstructs.Daan.1}
+IS1009c.C.argumentstructs.Daan.1,C,402.87,404.07,次はnexに行きます。,IS1009c.B.argumentstructs.Daan.5,NONE
+IS1009c.A.argumentstructs.Daan.3,A,1342.48,1345.77,誰か特にコメントはありますか?,NONE,{IS1009c.D.argumentstructs.Daan.1}
+IS1009c.D.argumentstructs.Daan.1,D,1346.48,1352.75,ええ、スクロールとプッシュボタンですが、ボタンを繰り返し押すことでスクロールを実現できますか？,IS1009c.A.argumentstructs.Daan.3,"{IS1009c.C.argumentstructs.Daan.2, IS1009c.C.argumentstructs.Daan.3}"
+IS1009c.C.argumentstructs.Daan.2,C,1353.52,1363.26,いやいや、スクロールホイールは違います。ボタンやスクロールのようなスイッチを選ぶことができます。10年前まではそうだったと思います。,IS1009c.D.argumentstructs.Daan.1,NONE
+IS1009c.C.argumentstructs.Daan.3,C,1363.26,1374.38,今は、高度なチップなどが必要なので、誰もそれを使っていません。だから、普通のボタンの方が良いと思います。ええ、ええ、プッシュボタンです。ええ、ええ。,IS1009c.D.argumentstructs.Daan.1,{IS1009c.D.argumentstructs.Daan.2}
+IS1009c.D.argumentstructs.8,D,1368.34,1368.52,えーと。,NONE,NONE
+IS1009c.D.argumentstructs.Daan.2,D,1371.09,1374.69,コストを考慮して、プッシュボタン方式を採用します。わかりました。,IS1009c.C.argumentstructs.Daan.3,NONE
+IS1009c.B.argumentstructs.12,B,1372.41,1373.1,押しボタン。,NONE,NONE
+IS1009c.A.argumentstructs.11,A,1374.98,1382.69,残された時間は多くなく、まだ決断を下さなければなりません。そして、マーケティングの専門家が彼女に自分の考えをプレゼンしなければなりません。,NONE,NONE
+IS1009c.A.argumentstructs.Daan.4,A,1517.17,1532.03,はい。これで全員のプレゼンテーションは終了です。この会議で本当に決めなければならないのは、リモコンのコンセプトです。,NONE,{IS1009c.A.argumentstructs.Daan.5}
+IS1009c.D.argumentstructs.9,D,1532.45,1532.84,うんうん。,NONE,NONE
+IS1009c.A.argumentstructs.Daan.5,A,1533.62,1540.15,それで、このコンセプトについてどう思いますか,IS1009c.A.argumentstructs.Daan.4,{IS1009c.A.argumentstructs.Daan.6}
+IS1009c.A.argumentstructs.Daan.6,A,1541.12,1541.94,リモコンの？,IS1009c.A.argumentstructs.Daan.5,"{IS1009c.D.argumentstructs.Daan.3, IS1009c.B.argumentstructs.Daan.7}"
+IS1009c.D.argumentstructs.Daan.3,D,1545.19,1548.97,自分のものに戻って、少し制限してみませんか?,IS1009c.A.argumentstructs.Daan.6,NONE
+IS1009c.B.argumentstructs.Daan.7,B,1547.66,1551.84,ええ、音声認識機能と呼ばれるこの機能を追加したいと思います。,IS1009c.A.argumentstructs.Daan.6,{IS1009c.D.argumentstructs.Daan.4}
+IS1009c.D.argumentstructs.10,D,1552.21,1552.54,わかった。,NONE,NONE
+IS1009c.C.argumentstructs.9,C,1554.5,1563.74,うんうん。そうだね、でもそうだね。,NONE,NONE
+IS1009c.D.argumentstructs.Daan.4,D,1556.31,1559.45,ということは、あなたにとって音声認識が最も重要ということですか?,IS1009c.B.argumentstructs.Daan.7,{IS1009c.B.argumentstructs.Daan.8}
+IS1009c.B.argumentstructs.Daan.8,B,1559.94,1562.54,これは売れる可能性がある機能の 1 つかもしれません。,IS1009c.D.argumentstructs.Daan.4,"{IS1009c.D.argumentstructs.Daan.5, IS1009c.C.argumentstructs.Daan.4}"
+IS1009c.D.argumentstructs.Daan.5,D,1562.76,1567.93,ええ、それは私たちの主役になれるかもしれません。それは本当に素晴らしいものになるでしょう。ええ、私もそれに賛成です。,IS1009c.B.argumentstructs.Daan.8,NONE
+IS1009c.C.argumentstructs.Daan.4,C,1566.82,1578.09,ええ、でも、それがどこまで機能するかについては、非常に疑問に思っています。なぜなら、音声認識装置には独自の問題や課題があるからです。,IS1009c.B.argumentstructs.Daan.8,{IS1009c.D.argumentstructs.Daan.6}
+IS1009c.A.argumentstructs.12,A,1566.99,1567.43,うんうん。,NONE,NONE
+IS1009c.D.argumentstructs.Daan.6,D,1577.14,1578.17,距離の問題？,IS1009c.C.argumentstructs.Daan.4,{IS1009c.C.argumentstructs.Daan.5}
+IS1009c.C.argumentstructs.Daan.5,C,1578.56,1587.44,ええ、距離の問題ではなく、人の声を認識することです。人によって声が違うかもしれませんから、それはすべてです。,IS1009c.D.argumentstructs.Daan.6,"{IS1009c.A.argumentstructs.Daan.7, IS1009c.C.argumentstructs.Daan.6, IS1009c.B.argumentstructs.Daan.9}"
+IS1009c.B.argumentstructs.13,B,1580.06,1580.37,うんうん。,NONE,NONE
+IS1009c.D.argumentstructs.11,D,1584.87,1585.27,えーっと。,NONE,NONE
+IS1009c.A.argumentstructs.Daan.7,A,1586.54,1589.296,まあ、あなたは教える必要があります,IS1009c.C.argumentstructs.Daan.5,NONE
+IS1009c.C.argumentstructs.Daan.6,C,1588.75,1593.24,したがって、優れた認識システムを手に入れるには、コストがかかると思います。,IS1009c.C.argumentstructs.Daan.5,NONE
+IS1009c.B.argumentstructs.Daan.9,B,1591.21,1620.29,いいえ、それは、ええ、それは、ええと、すでにすべての質問を録音していて、それから答えを期待しているようなものです。たとえば、T_V_システムがあり、私がユーザーで、家族もユーザーだとします。私はすでに「おはようございます」のような質問を録音しています。たとえば、8時頃にテレビでニュースを見たいです。だから、ただ「おはようございます」と言うだけで、T_V_がオンになります。私の声を認識して、電源が入ります。,IS1009c.C.argumentstructs.Daan.5,NONE
+IS1009c.C.argumentstructs.10,C,1607.92,1619.69,うん。そうだね。そうだね。そうだね。そうだね。,NONE,NONE
+IS1009c.A.argumentstructs.Daan.8,A,1640.48,1647.56,はい。それで、ケースです。ケースについては、私たち全員が同意していると思います。私たちは、何か明るくてカラフルなものを望んでいます。,NONE,"{IS1009c.D.argumentstructs.Daan.7, IS1009c.B.argumentstructs.Daan.10, IS1009c.C.argumentstructs.Daan.7, IS1009c.B.argumentstructs.Daan.11}"
+IS1009c.C.argumentstructs.11,C,1647.65,1648.1,うん。,NONE,NONE
+IS1009c.D.argumentstructs.Daan.7,D,1648.16,1652.3,明るく、カラフル、流行に敏感なデザイン、そして丈夫。,IS1009c.A.argumentstructs.Daan.8,{IS1009c.C.argumentstructs.Daan.8}
+IS1009c.B.argumentstructs.Daan.10,B,1648.81,1649.7,そしてコンパクト。,IS1009c.A.argumentstructs.Daan.8,NONE
+IS1009c.C.argumentstructs.Daan.7,C,1649.14,1650.21,そしてまた強い。,IS1009c.A.argumentstructs.Daan.8,NONE
+IS1009c.C.argumentstructs.Daan.8,C,1650.87,1652.05,流行ってるね,IS1009c.D.argumentstructs.Daan.7,NONE
+IS1009c.B.argumentstructs.Daan.11,B,1651.19,1652.9,トレンドのデザインとコンパクトさ。,IS1009c.A.argumentstructs.Daan.8,{IS1009c.A.argumentstructs.Daan.9}
+IS1009c.C.argumentstructs.12,C,1652.05,1652.05,。,NONE,NONE
+IS1009c.A.argumentstructs.13,A,1653.08,1653.48,うんうん。,NONE,NONE
+IS1009c.A.argumentstructs.Daan.9,A,1654.79,1657.39,トレンディなデザイン、コンパクトで丈夫。,IS1009c.B.argumentstructs.Daan.11,NONE
+IS1009c.D.argumentstructs.12,D,1657.31,1657.79,うんうん。,NONE,NONE
+IS1009c.B.argumentstructs.14,B,1657.46,1657.93,はい。,NONE,NONE

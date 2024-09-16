@@ -1,0 +1,34 @@
+ae_id,speaker,start_time,end_time,sentence,source,targets
+IS1007b.C.argumentstructs.Daan.1,C,319.06,328.82,以上です。機能を簡単に実装するには、F_P_G_A_を使用するのが良いと思います。,NONE,{IS1007b.B.argumentstructs.Daan.1}
+IS1007b.B.argumentstructs.8,B,324.98,325.23,うーん。,NONE,NONE
+IS1007b.B.argumentstructs.Daan.1,B,328.02,329.09,F_P_G_A_とは何ですか?,IS1007b.C.argumentstructs.Daan.1,"{IS1007b.C.argumentstructs.Daan.2, IS1007b.D.argumentstructs.Daan.1}"
+IS1007b.C.argumentstructs.Daan.2,C,329.65,334.71,それはフィールドでプログラム可能な配列です。 ええ。,IS1007b.B.argumentstructs.Daan.1,NONE
+IS1007b.D.argumentstructs.Daan.1,D,332.076,336.62,ゲートウェイ アレイ。フィールド プログラマブル ゲートウェイ アレイです。,IS1007b.B.argumentstructs.Daan.1,{IS1007b.B.argumentstructs.Daan.2}
+IS1007b.B.argumentstructs.Daan.2,B,336.52,339.01,それで、Bluetooth とどう違うのでしょうか?,IS1007b.D.argumentstructs.Daan.1,{IS1007b.C.argumentstructs.Daan.3}
+IS1007b.C.argumentstructs.Daan.3,C,339.52,355.48,そうですね、FPG は、好きなようにプログラムできるチップです。そして、Bluetooth チップは、2 つのデバイス間の通信を行う役割を担っています。,IS1007b.B.argumentstructs.Daan.2,{IS1007b.B.argumentstructs.Daan.3}
+IS1007b.D.argumentstructs.4,D,345.02,345.02,。,NONE,NONE
+IS1007b.B.argumentstructs.9,B,354.13,354.47,えー,NONE,NONE
+IS1007b.B.argumentstructs.Daan.3,B,355.57,361.532,それで、彼らは一緒に働かなければならないのですか？それとも？彼らは一緒に働かなければならないのか、それとも2つの別々の選択肢なのか,IS1007b.C.argumentstructs.Daan.3,"{IS1007b.C.argumentstructs.Daan.4, IS1007b.D.argumentstructs.Daan.2}"
+IS1007b.C.argumentstructs.Daan.4,C,359.35,364.18,いいえ。そうですね、F_P_G_A_ が送信するデータを生成します。,IS1007b.B.argumentstructs.Daan.3,{IS1007b.B.argumentstructs.Daan.4}
+IS1007b.B.argumentstructs.10,B,364.44,371.21,わかりました。ソフトウェアは大丈夫ですか。,NONE,NONE
+IS1007b.D.argumentstructs.Daan.2,D,365.33,372.22,それとも、最初のものはハードウェアではないでしょうか? そして 2 番目はソフトウェア用です。 ええ、それを実行して動作させるためです。 以上です。,IS1007b.B.argumentstructs.Daan.3,NONE
+IS1007b.C.argumentstructs.8,C,370.38,370.92,うん。,NONE,NONE
+IS1007b.B.argumentstructs.Daan.4,B,371.89,380.876,はいはい。それで、あなたが望むならコントロールできるんですよね？,IS1007b.C.argumentstructs.Daan.4,"{IS1007b.C.argumentstructs.Daan.5, IS1007b.C.argumentstructs.Daan.5}"
+IS1007b.C.argumentstructs.Daan.5,C,375.68,380.18,はい。それでは、実用的なデザインはこれで終わりです。,IS1007b.B.argumentstructs.Daan.4,{IS1007b.C.argumentstructs.Daan.6}
+IS1007b.D.argumentstructs.5,D,376.99,377.19,いいえ。,NONE,NONE
+IS1007b.C.argumentstructs.Daan.6,C,380.18,381.65,何か質問があればどうぞ。,IS1007b.C.argumentstructs.Daan.5,NONE
+IS1007b.B.argumentstructs.11,B,382.42,382.6,うーん。,NONE,NONE
+IS1007b.B.argumentstructs.Daan.5,B,597.83,641.15,はい、それで私は問題について話しました。それからユーザーマニュアルを見ました。それは100ページもの厚さがあり、私たちはそれを望んでいません。そこで私は使いやすいプロトタイプを提案しました。T_V_画面でナビゲートでき、ユーザーの好みを設定できます。T_V_をインターネットに接続して、X_M_L_でT_V_番組にアクセスできるようにする必要があります。そのためには前処理が必要です。技術的な面から言うと、処理はリモコンではなくT_V_セットで行う必要がありますよね？それから、ハリーが言うように、音声認識をK_I_V_に組み込むかもしれません。,NONE,{IS1007b.A.argumentstructs.Daan.1}
+IS1007b.A.argumentstructs.3,A,604.95,605.34,うん。,NONE,NONE
+IS1007b.A.argumentstructs.Daan.1,A,641.61,645.13,パパ処理はT_V_で行われるというのはどういう意味ですか？,IS1007b.B.argumentstructs.Daan.5,{IS1007b.B.argumentstructs.Daan.6}
+IS1007b.B.argumentstructs.Daan.6,B,645.24,651.472,ええ、すべての処理はT_V_で行われます。コンピューターにはある程度の処理能力があります。,IS1007b.A.argumentstructs.Daan.1,{IS1007b.A.argumentstructs.Daan.2}
+IS1007b.A.argumentstructs.4,A,645.98,646.49,よりも,NONE,NONE
+IS1007b.C.argumentstructs.9,C,651.34,661.83,だから、リモコン付きのテレビも販売しなくてはいけません。,NONE,NONE
+IS1007b.A.argumentstructs.Daan.2,A,651.68,656.44,では、特定の T_V_ が必要ですか? それとも、これを使用できます。,IS1007b.B.argumentstructs.Daan.6,{IS1007b.C.argumentstructs.Daan.7}
+IS1007b.B.argumentstructs.12,B,663.84,680.83,はい。はい。はい。はい。,NONE,NONE
+IS1007b.D.argumentstructs.6,D,663.86,680.27,そうだ、テレビじゃない。そうだ。,NONE,NONE
+IS1007b.C.argumentstructs.Daan.7,C,664.36,683.411,ショービューのような技術は、ほとんどのテレビやレコーダーなどで既に利用可能であり、この情報をリモコンに取り込んでリモコンで処理できるようにすることはできると思います。,IS1007b.A.argumentstructs.Daan.2,{IS1007b.B.argumentstructs.Daan.7}
+IS1007b.B.argumentstructs.Daan.7,B,681.66,689.99,わかりました。では、リモート コントローラーで処理をオンにすれば、どの T_V_ でも、従来の T_V_ セットでも使用できますか?,IS1007b.C.argumentstructs.Daan.7,{IS1007b.D.argumentstructs.Daan.3}
+IS1007b.D.argumentstructs.Daan.3,D,682.47,683.3,はい、その通りです。,IS1007b.B.argumentstructs.Daan.7,NONE
+IS1007b.A.argumentstructs.5,A,687.33,690.54,。 うん。,NONE,NONE
+IS1007b.B.argumentstructs.13,B,691.27,693.23,うーん。わかりました。,NONE,NONE
