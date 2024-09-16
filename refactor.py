@@ -300,10 +300,6 @@ def main():
         # 'start_time' を基準にソート
         sorted_sentences = sorted(all_sentences, key=lambda x: float(x['start_time']))
 
-        # 各meeting_idごとに最初のレコードのsourceを'ROOT'に設定
-        if sorted_sentences:
-            sorted_sentences[0]['source'] = 'ROOT'
-
         # ファイル名を設定
         output_file = f"{meeting_id}.csv"
 
