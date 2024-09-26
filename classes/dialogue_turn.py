@@ -9,7 +9,7 @@ class DialogueTurn:
         self.sentence = sentence
         self.source = source
         self.targets = self.parse_targets(targets)
-        
+
     # CSVから情報を取得し、DialogueTurnのリストを返す。
     @staticmethod
     def from_csv(csv_path):
@@ -30,10 +30,28 @@ class DialogueTurn:
                     dialogue_turns.append(DialogueTurn(ae_id, speaker, start_time, end_time, sentence, source, targets))
                 else:
                     print(f"行のフォーマットが正しくありません: {row}")
-        return dialogue_turns 
-      
+        return dialogue_turns
+
     def parse_targets(self, targets_str):
         if targets_str == 'None' or not targets_str:
             return []
         else:
             return [t.strip() for t in targets_str.strip('{}').split(',')]
+
+    # 与えられたsourceのae_idとtargetのae_idが関連しているかどうかを確認するメソッド
+    @staticmethod
+    def relationship_exists(dialogue_turns, source_ae_id, target_ae_id):
+        for turn in dialogue_turns:
+            if turn.ae_id == source_ae_id and target_ae_id in turn.targets:
+                return True
+        return False
+
+
+def main():
+    csv_file_path = '/Users/hasegawa.tomokazu/ami-corpus-preprocessing/CSV_topics/ES2002a-ES2002a - Regions.csv'
+    dialogue_turns = DialogueTurn.from_csv(csv_file_path)
+
+    relationship_exists = DialogueTurn.relationship_exists(dialogue_turns, 'ES2002a.B.argumentstructs.Erik.1', 'ES2002a.D.argumentstructs.Erik.3')
+    print(relationship_exists)  # True が出力されるはず
+
+main()
