@@ -41,17 +41,24 @@ class DialogueTurn:
     # 与えられたsourceのae_idとtargetのae_idが関連しているかどうかを確認するメソッド
     @staticmethod
     def relationship_exists(dialogue_turns, source_ae_id, target_ae_id):
+        source_ae_id.strip()
+        target_ae_id.strip()
         for turn in dialogue_turns:
-            if turn.ae_id == source_ae_id and target_ae_id in turn.targets:
+            if turn.ae_id == source_ae_id and target_ae_id == turn.source:
                 return True
         return False
 
+    # sourceとtargetsがNoneまたは空であるノードを削除するメソッド
+    @staticmethod
+    def remove_none_relationships(dialogue_turns):
+        filtered_turns = [turn for turn in dialogue_turns if turn.source and turn.targets]
+        return filtered_turns
 
 def main():
-    csv_file_path = '/Users/hasegawa.tomokazu/ami-corpus-preprocessing/CSV_topics/ES2002a-ES2002a - Regions.csv'
+    csv_file_path = '/home/hasegawa_tomokazu/ami_analysis/CSV_topics/ES2002a-ES2002a - Regions.csv'
     dialogue_turns = DialogueTurn.from_csv(csv_file_path)
 
-    relationship_exists = DialogueTurn.relationship_exists(dialogue_turns, 'ES2002a.B.argumentstructs.Erik.1', 'ES2002a.D.argumentstructs.Erik.3')
+    relationship_exists = DialogueTurn.relationship_exists(dialogue_turns, 'ES2002a.B.argumentstructs.Erik.2', 'ES2002a.B.argumentstructs.Erik.1')
     print(relationship_exists)  # True が出力されるはず
 
 main()

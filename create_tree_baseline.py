@@ -1,9 +1,7 @@
 import csv
 import os
 import sys
-import openai
-
-openai.api_key = 'your-api-key'
+from openai import OpenAI
 
 # 自作クラスのインポート
 from classes.meeting import Meeting
@@ -13,6 +11,7 @@ from classes.dialogue_turn import DialogueTurn
 dir_path = os.path.dirname(os.path.abspath(__file__))
 ami_corpus_path = os.path.join(dir_path, 'ami_public_manual_1.6.2')
 csv_topics_path = os.path.join(dir_path, 'CSV_topics')
+result_path = os.path.join(dir_path, 'result')
 manifest_path = os.path.join(ami_corpus_path, 'MANIFEST_MANUAL.txt')
 
 # csv_topics_path内のすべてのCSVファイルのパスを取得
@@ -23,50 +22,41 @@ def get_csv_files(csv_topics_path):
 # プロンプト生成
 def generate_prompt(current_utterance, previous_utterances):
     previous_utterance_pairs = "\n".join([f"AE_ID {turn.ae_id}: \"{turn.sentence}\"" for turn in previous_utterances])
-    
-    prompt = f"""Please analyze the following dialogue turn and determine which past turns influenced it, if any.
 
-Current turn AE_ID {current_utterance.ae_id}: 
+    prompt = f"""Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If none of the past turns influenced the current turn, respond with 'NONE'.
+Do not include any explanations or additional information.
+
+Current turn AE_ID {current_utterance.ae_id}:
 "{current_utterance.sentence}"
 
 Past dialogue turns:
 {previous_utterance_pairs}
 
-If none of the past turns influenced the current turn, respond with 'NONE'. Otherwise, respond with only the AE_ID of the turns that influenced the current turn. Do not include any explanations or additional information.
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
 """
     return prompt
-
-
-
 
 # GPT-4oのモックメソッド
 def mock_gpt4o_api(prompt):
     # Simulate the decision-making process of the model
-    # For demonstration, let's randomly choose to return an AE_ID or "NONE"
     import random
     choices = ["AE_ID 123", "AE_ID 456", "NONE"]
     selected_choice = random.choice(choices)
-    
-    # Return a JSON-like dictionary response
     return {"result": selected_choice}
 
-def call_gpt4o_mini(prompt):
-    try:
-        # Adjust the model name as needed; as of now, 'gpt-4o-mini' is hypothetical and may not exist.
-        # Check OpenAI's documentation for the correct model identifier.
-        response = openai.Completion.create(
-            model="text-davinci-003",  # Use the appropriate model identifier
-            prompt=prompt,
-            max_tokens=150,
-            n=1,
-            stop=None,
-            temperature=0.7
-        )
-        return response.choices[0].text.strip()
-    except Exception as e:
-        print("An error occurred:", e)
-        return None
-    
+def get_chat_response(prompt):
+    client = OpenAI()
+    completion = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "user", "content": prompt}
+        ]
+    )
+    return completion.choices[0].message.content
+
 # プロンプトの長さを保持するリスト
 prompt_lengths = []
 
@@ -86,42 +76,77 @@ def calculate_cost(prompt_lengths):
 # メイン処理
 def main():
     csv_file_list = get_csv_files(csv_topics_path)
-    print (csv_file_list[0])
-    
-    for csv_file in csv_file_list:
-        dialogue_turns = DialogueTurn.from_csv(csv_file)
-        for index, turn in enumerate(dialogue_turns):
-            if index > 0:
-                # 前の5個（またはそれ以下）のturn（ae_idとsentenceのペア）を取得
-                start_index = max(0, index - 5)
-                previous_utterances = dialogue_turns[start_index:index]
-            else:
-                previous_utterances = []
 
-            # プロンプト生成
-            prompt = generate_prompt(turn, previous_utterances)
-            
-            # GPT-4oモックAPIに送信
-            result = mock_gpt4o_api(prompt)
-            relationship_exists = DialogueTurn.relationship_exists(dialogue_turns,turn.ae_id, result)
-            print('---------------------------------')
-            print('source:',index,turn.ae_id)
-            print(result)
-            print(relationship_exists)
-            print(prompt)
-            print('---------------------------------')
-            
-            # プロンプトの長さを保持
-            prompt_length = store_prompt_length(prompt)
-            
-        break
+    overall_true_count = 0  # 全体のTrueのカウント
+    overall_total_count = 0  # 全体のターン数
+
+    for csv_file in csv_file_list:
+        tmp_turns = DialogueTurn.from_csv(csv_file)
+        dialogue_turns = DialogueTurn.remove_none_relationships(tmp_turns)
+
+        # 拡張子を削除してtxtファイル名を生成
+        result_file = os.path.join(result_path, os.path.splitext(os.path.basename(csv_file))[0] + '.txt')
+
+        true_count = 0  # ファイルごとのTrueのカウント
+        total_count = 0  # ファイルごとのターン数
+
+        with open(result_file, "w", encoding="utf-8") as f:
+            for index, turn in enumerate(dialogue_turns):
+                if index > 0:
+                    # 前の5個（またはそれ以下）のturnを取得
+                    start_index = max(0, index - 5)
+                    previous_utterances = dialogue_turns[start_index:index]
+                else:
+                    previous_utterances = []
+
+                # プロンプト生成
+                prompt = generate_prompt(turn, previous_utterances)
+
+                # GPT-4o APIに送信
+                result = get_chat_response(prompt)
+                judgement = DialogueTurn.relationship_exists(dialogue_turns, turn.ae_id, result)
+
+                # True の場合カウントを増やす
+                if judgement:
+                    true_count += 1
+                total_count += 1
+
+                # 結果をファイルに保存
+                print('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>', file=f)
+                print(prompt, file=f)
+                print(result, file=f)
+                print('---------------------------------', file=f)
+                print(f'target={turn.ae_id}', file=f)
+                print(f'source={turn.source}', file=f)
+                print(f'judgement={judgement}', file=f)
+                print('<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<', file=f)
+
+                # プロンプトの長さを保持
+                prompt_length = store_prompt_length(prompt)
+
+            # True の割合を計算して表示
+            if total_count > 0:
+                true_ratio = true_count / total_count
+            else:
+                true_ratio = 0
+            print(f"File: {os.path.basename(csv_file)} - True Judgement Ratio: {true_ratio:.2%}", file=f)
+
+        print(f"File: {os.path.basename(csv_file)} - True Judgement Ratio: {true_ratio:.2%}")
+
+        # ファイルごとのカウントを全体に加算
+        overall_true_count += true_count
+        overall_total_count += total_count
+
+    # 全体の正答率を計算して表示
+    if overall_total_count > 0:
+        overall_true_ratio = overall_true_count / overall_total_count
+    else:
+        overall_true_ratio = 0
+    print(f"Overall True Judgement Ratio: {overall_true_ratio:.2%}")
 
     # コストを概算
     total_cost = calculate_cost(prompt_lengths)
     print(f"Estimated cost: ${total_cost:.5f}")
 
-
-        
 if __name__ == '__main__':
     main()
-    
