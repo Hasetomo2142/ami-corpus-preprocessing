@@ -1,0 +1,462 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.C.argumentstructs.Daan.1:
+"And, that's it. I think we should use a F_P_G_A_ for  for the functionalities which is easy to to t"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1007b.C.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.8:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1007b.C.argumentstructs.Daan.1: "And, that's it. I think we should use a F_P_G_A_ for  for the functionalities which is easy to to t"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1007b.B.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.Daan.1:
+"What is F_P_G_A_ ?"
+
+Past dialogue turns:
+AE_ID IS1007b.C.argumentstructs.Daan.1: "And, that's it. I think we should use a F_P_G_A_ for  for the functionalities which is easy to to t"
+AE_ID IS1007b.B.argumentstructs.8: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1007b.B.argumentstructs.Daan.1
+source=IS1007b.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.C.argumentstructs.Daan.2:
+"It's field programmable uh something array.  Yeah."
+
+Past dialogue turns:
+AE_ID IS1007b.C.argumentstructs.Daan.1: "And, that's it. I think we should use a F_P_G_A_ for  for the functionalities which is easy to to t"
+AE_ID IS1007b.B.argumentstructs.8: "Mm."
+AE_ID IS1007b.B.argumentstructs.Daan.1: "What is F_P_G_A_ ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1007b.C.argumentstructs.Daan.2
+source=IS1007b.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.D.argumentstructs.Daan.1:
+"Gateway arrays. It's a field programmable gateway arrays."
+
+Past dialogue turns:
+AE_ID IS1007b.C.argumentstructs.Daan.1: "And, that's it. I think we should use a F_P_G_A_ for  for the functionalities which is easy to to t"
+AE_ID IS1007b.B.argumentstructs.8: "Mm."
+AE_ID IS1007b.B.argumentstructs.Daan.1: "What is F_P_G_A_ ?"
+AE_ID IS1007b.C.argumentstructs.Daan.2: "It's field programmable uh something array.  Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1007b.D.argumentstructs.Daan.1
+source=IS1007b.B.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.Daan.2:
+"So why's it  how is it different from the Bluetooth ?"
+
+Past dialogue turns:
+AE_ID IS1007b.C.argumentstructs.Daan.1: "And, that's it. I think we should use a F_P_G_A_ for  for the functionalities which is easy to to t"
+AE_ID IS1007b.B.argumentstructs.8: "Mm."
+AE_ID IS1007b.B.argumentstructs.Daan.1: "What is F_P_G_A_ ?"
+AE_ID IS1007b.C.argumentstructs.Daan.2: "It's field programmable uh something array.  Yeah."
+AE_ID IS1007b.D.argumentstructs.Daan.1: "Gateway arrays. It's a field programmable gateway arrays."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.Daan.2
+---------------------------------
+target=IS1007b.B.argumentstructs.Daan.2
+source=IS1007b.D.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.C.argumentstructs.Daan.3:
+"Well, uh a F_P_G_A_ is just a chip you can uh you can  pr programme it uh wi with wh whatever you want. And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices."
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.8: "Mm."
+AE_ID IS1007b.B.argumentstructs.Daan.1: "What is F_P_G_A_ ?"
+AE_ID IS1007b.C.argumentstructs.Daan.2: "It's field programmable uh something array.  Yeah."
+AE_ID IS1007b.D.argumentstructs.Daan.1: "Gateway arrays. It's a field programmable gateway arrays."
+AE_ID IS1007b.B.argumentstructs.Daan.2: "So why's it  how is it different from the Bluetooth ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1007b.C.argumentstructs.Daan.3
+source=IS1007b.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.D.argumentstructs.4:
+"."
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.Daan.1: "What is F_P_G_A_ ?"
+AE_ID IS1007b.C.argumentstructs.Daan.2: "It's field programmable uh something array.  Yeah."
+AE_ID IS1007b.D.argumentstructs.Daan.1: "Gateway arrays. It's a field programmable gateway arrays."
+AE_ID IS1007b.B.argumentstructs.Daan.2: "So why's it  how is it different from the Bluetooth ?"
+AE_ID IS1007b.C.argumentstructs.Daan.3: "Well, uh a F_P_G_A_ is just a chip you can uh you can  pr programme it uh wi with wh whatever you want. And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1007b.D.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.9:
+"Uh"
+
+Past dialogue turns:
+AE_ID IS1007b.C.argumentstructs.Daan.2: "It's field programmable uh something array.  Yeah."
+AE_ID IS1007b.D.argumentstructs.Daan.1: "Gateway arrays. It's a field programmable gateway arrays."
+AE_ID IS1007b.B.argumentstructs.Daan.2: "So why's it  how is it different from the Bluetooth ?"
+AE_ID IS1007b.C.argumentstructs.Daan.3: "Well, uh a F_P_G_A_ is just a chip you can uh you can  pr programme it uh wi with wh whatever you want. And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices."
+AE_ID IS1007b.D.argumentstructs.4: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1007b.B.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.Daan.3:
+"So this are the  they have to work together ? Or ? Do they have to work together or two separate choice"
+
+Past dialogue turns:
+AE_ID IS1007b.D.argumentstructs.Daan.1: "Gateway arrays. It's a field programmable gateway arrays."
+AE_ID IS1007b.B.argumentstructs.Daan.2: "So why's it  how is it different from the Bluetooth ?"
+AE_ID IS1007b.C.argumentstructs.Daan.3: "Well, uh a F_P_G_A_ is just a chip you can uh you can  pr programme it uh wi with wh whatever you want. And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices."
+AE_ID IS1007b.D.argumentstructs.4: "."
+AE_ID IS1007b.B.argumentstructs.9: "Uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1007b.B.argumentstructs.Daan.3
+source=IS1007b.C.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.C.argumentstructs.Daan.4:
+"No. Well, th the F_P_G_A_ will produce the the data to send."
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.Daan.2: "So why's it  how is it different from the Bluetooth ?"
+AE_ID IS1007b.C.argumentstructs.Daan.3: "Well, uh a F_P_G_A_ is just a chip you can uh you can  pr programme it uh wi with wh whatever you want. And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices."
+AE_ID IS1007b.D.argumentstructs.4: "."
+AE_ID IS1007b.B.argumentstructs.9: "Uh"
+AE_ID IS1007b.B.argumentstructs.Daan.3: "So this are the  they have to work together ? Or ? Do they have to work together or two separate choice"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1007b.C.argumentstructs.Daan.4
+source=IS1007b.B.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.10:
+"Okay. Is the is the software par alri okay."
+
+Past dialogue turns:
+AE_ID IS1007b.C.argumentstructs.Daan.3: "Well, uh a F_P_G_A_ is just a chip you can uh you can  pr programme it uh wi with wh whatever you want. And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices."
+AE_ID IS1007b.D.argumentstructs.4: "."
+AE_ID IS1007b.B.argumentstructs.9: "Uh"
+AE_ID IS1007b.B.argumentstructs.Daan.3: "So this are the  they have to work together ? Or ? Do they have to work together or two separate choice"
+AE_ID IS1007b.C.argumentstructs.Daan.4: "No. Well, th the F_P_G_A_ will produce the the data to send."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1007b.B.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.D.argumentstructs.Daan.2:
+"Or it's something like  isn't hardware the first one ? And the second one is for the software. Yeah to run th to make it run. That's it."
+
+Past dialogue turns:
+AE_ID IS1007b.D.argumentstructs.4: "."
+AE_ID IS1007b.B.argumentstructs.9: "Uh"
+AE_ID IS1007b.B.argumentstructs.Daan.3: "So this are the  they have to work together ? Or ? Do they have to work together or two separate choice"
+AE_ID IS1007b.C.argumentstructs.Daan.4: "No. Well, th the F_P_G_A_ will produce the the data to send."
+AE_ID IS1007b.B.argumentstructs.10: "Okay. Is the is the software par alri okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.B.argumentstructs.Daan.3
+---------------------------------
+target=IS1007b.D.argumentstructs.Daan.2
+source=IS1007b.B.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.C.argumentstructs.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.9: "Uh"
+AE_ID IS1007b.B.argumentstructs.Daan.3: "So this are the  they have to work together ? Or ? Do they have to work together or two separate choice"
+AE_ID IS1007b.C.argumentstructs.Daan.4: "No. Well, th the F_P_G_A_ will produce the the data to send."
+AE_ID IS1007b.B.argumentstructs.10: "Okay. Is the is the software par alri okay."
+AE_ID IS1007b.D.argumentstructs.Daan.2: "Or it's something like  isn't hardware the first one ? And the second one is for the software. Yeah to run th to make it run. That's it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.B.argumentstructs.10
+---------------------------------
+target=IS1007b.C.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.Daan.4:
+"Okay, okay. So you can control  if you want, right ?"
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.Daan.3: "So this are the  they have to work together ? Or ? Do they have to work together or two separate choice"
+AE_ID IS1007b.C.argumentstructs.Daan.4: "No. Well, th the F_P_G_A_ will produce the the data to send."
+AE_ID IS1007b.B.argumentstructs.10: "Okay. Is the is the software par alri okay."
+AE_ID IS1007b.D.argumentstructs.Daan.2: "Or it's something like  isn't hardware the first one ? And the second one is for the software. Yeah to run th to make it run. That's it."
+AE_ID IS1007b.C.argumentstructs.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.Daan.4
+---------------------------------
+target=IS1007b.B.argumentstructs.Daan.4
+source=IS1007b.C.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.C.argumentstructs.Daan.5:
+"Yeah. Alright and that's it for the working design."
+
+Past dialogue turns:
+AE_ID IS1007b.C.argumentstructs.Daan.4: "No. Well, th the F_P_G_A_ will produce the the data to send."
+AE_ID IS1007b.B.argumentstructs.10: "Okay. Is the is the software par alri okay."
+AE_ID IS1007b.D.argumentstructs.Daan.2: "Or it's something like  isn't hardware the first one ? And the second one is for the software. Yeah to run th to make it run. That's it."
+AE_ID IS1007b.C.argumentstructs.8: "Yeah."
+AE_ID IS1007b.B.argumentstructs.Daan.4: "Okay, okay. So you can control  if you want, right ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.8
+---------------------------------
+target=IS1007b.C.argumentstructs.Daan.5
+source=IS1007b.B.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.D.argumentstructs.5:
+"No."
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.10: "Okay. Is the is the software par alri okay."
+AE_ID IS1007b.D.argumentstructs.Daan.2: "Or it's something like  isn't hardware the first one ? And the second one is for the software. Yeah to run th to make it run. That's it."
+AE_ID IS1007b.C.argumentstructs.8: "Yeah."
+AE_ID IS1007b.B.argumentstructs.Daan.4: "Okay, okay. So you can control  if you want, right ?"
+AE_ID IS1007b.C.argumentstructs.Daan.5: "Yeah. Alright and that's it for the working design."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1007b.D.argumentstructs.5
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.C.argumentstructs.Daan.6:
+"So if you have any questions ?"
+
+Past dialogue turns:
+AE_ID IS1007b.D.argumentstructs.Daan.2: "Or it's something like  isn't hardware the first one ? And the second one is for the software. Yeah to run th to make it run. That's it."
+AE_ID IS1007b.C.argumentstructs.8: "Yeah."
+AE_ID IS1007b.B.argumentstructs.Daan.4: "Okay, okay. So you can control  if you want, right ?"
+AE_ID IS1007b.C.argumentstructs.Daan.5: "Yeah. Alright and that's it for the working design."
+AE_ID IS1007b.D.argumentstructs.5: "No."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.Daan.5
+---------------------------------
+target=IS1007b.C.argumentstructs.Daan.6
+source=IS1007b.C.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.11:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1007b.C.argumentstructs.8: "Yeah."
+AE_ID IS1007b.B.argumentstructs.Daan.4: "Okay, okay. So you can control  if you want, right ?"
+AE_ID IS1007b.C.argumentstructs.Daan.5: "Yeah. Alright and that's it for the working design."
+AE_ID IS1007b.D.argumentstructs.5: "No."
+AE_ID IS1007b.C.argumentstructs.Daan.6: "So if you have any questions ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.8
+---------------------------------
+target=IS1007b.B.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1007b-FPGA.csv - True Judgement Ratio: 42.11%

@@ -1,0 +1,462 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.D.argumentstructs.Daan.1:
+"Yeah, my first question was does it have to be a  a universal remote control ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3004a.D.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.A.argumentstructs.11:
+"Oh yeah, that's a good question."
+
+Past dialogue turns:
+AE_ID TS3004a.D.argumentstructs.Daan.1: "Yeah, my first question was does it have to be a  a universal remote control ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3004a.A.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.D.argumentstructs.Daan.2:
+"Because we sell it uh uh uh lonely from the t and not with the television, we sell it uh apart"
+
+Past dialogue turns:
+AE_ID TS3004a.D.argumentstructs.Daan.1: "Yeah, my first question was does it have to be a  a universal remote control ?"
+AE_ID TS3004a.A.argumentstructs.11: "Oh yeah, that's a good question."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3004a.D.argumentstructs.Daan.2
+source=TS3004a.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.A.argumentstructs.Daan.1:
+"I think it's  I'm not I'm not sure, it's not mm  I think"
+
+Past dialogue turns:
+AE_ID TS3004a.D.argumentstructs.Daan.1: "Yeah, my first question was does it have to be a  a universal remote control ?"
+AE_ID TS3004a.A.argumentstructs.11: "Oh yeah, that's a good question."
+AE_ID TS3004a.D.argumentstructs.Daan.2: "Because we sell it uh uh uh lonely from the t and not with the television, we sell it uh apart"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3004a.A.argumentstructs.Daan.1
+source=TS3004a.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.C.argumentstructs.Daan.1:
+"Yeah, it probably would be universal."
+
+Past dialogue turns:
+AE_ID TS3004a.D.argumentstructs.Daan.1: "Yeah, my first question was does it have to be a  a universal remote control ?"
+AE_ID TS3004a.A.argumentstructs.11: "Oh yeah, that's a good question."
+AE_ID TS3004a.D.argumentstructs.Daan.2: "Because we sell it uh uh uh lonely from the t and not with the television, we sell it uh apart"
+AE_ID TS3004a.A.argumentstructs.Daan.1: "I think it's  I'm not I'm not sure, it's not mm  I think"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3004a.C.argumentstructs.Daan.1
+source=TS3004a.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.B.argumentstructs.Daan.1:
+"Universal. And only television ? Or more devices ?"
+
+Past dialogue turns:
+AE_ID TS3004a.D.argumentstructs.Daan.1: "Yeah, my first question was does it have to be a  a universal remote control ?"
+AE_ID TS3004a.A.argumentstructs.11: "Oh yeah, that's a good question."
+AE_ID TS3004a.D.argumentstructs.Daan.2: "Because we sell it uh uh uh lonely from the t and not with the television, we sell it uh apart"
+AE_ID TS3004a.A.argumentstructs.Daan.1: "I think it's  I'm not I'm not sure, it's not mm  I think"
+AE_ID TS3004a.C.argumentstructs.Daan.1: "Yeah, it probably would be universal."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3004a.B.argumentstructs.Daan.1
+source=TS3004a.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.D.argumentstructs.9:
+"Because"
+
+Past dialogue turns:
+AE_ID TS3004a.A.argumentstructs.11: "Oh yeah, that's a good question."
+AE_ID TS3004a.D.argumentstructs.Daan.2: "Because we sell it uh uh uh lonely from the t and not with the television, we sell it uh apart"
+AE_ID TS3004a.A.argumentstructs.Daan.1: "I think it's  I'm not I'm not sure, it's not mm  I think"
+AE_ID TS3004a.C.argumentstructs.Daan.1: "Yeah, it probably would be universal."
+AE_ID TS3004a.B.argumentstructs.Daan.1: "Universal. And only television ? Or more devices ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.D.argumentstructs.Daan.2
+---------------------------------
+target=TS3004a.D.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.A.argumentstructs.Daan.2:
+"I don't think you can buy a a a universal uh remote control for twenty five Euros, so  not sure, but"
+
+Past dialogue turns:
+AE_ID TS3004a.D.argumentstructs.Daan.2: "Because we sell it uh uh uh lonely from the t and not with the television, we sell it uh apart"
+AE_ID TS3004a.A.argumentstructs.Daan.1: "I think it's  I'm not I'm not sure, it's not mm  I think"
+AE_ID TS3004a.C.argumentstructs.Daan.1: "Yeah, it probably would be universal."
+AE_ID TS3004a.B.argumentstructs.Daan.1: "Universal. And only television ? Or more devices ?"
+AE_ID TS3004a.D.argumentstructs.9: "Because"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3004a.A.argumentstructs.Daan.2
+source=TS3004a.D.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.C.argumentstructs.Daan.2:
+"Hmm, maybe, I don't know."
+
+Past dialogue turns:
+AE_ID TS3004a.A.argumentstructs.Daan.1: "I think it's  I'm not I'm not sure, it's not mm  I think"
+AE_ID TS3004a.C.argumentstructs.Daan.1: "Yeah, it probably would be universal."
+AE_ID TS3004a.B.argumentstructs.Daan.1: "Universal. And only television ? Or more devices ?"
+AE_ID TS3004a.D.argumentstructs.9: "Because"
+AE_ID TS3004a.A.argumentstructs.Daan.2: "I don't think you can buy a a a universal uh remote control for twenty five Euros, so  not sure, but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.A.argumentstructs.Daan.2
+---------------------------------
+target=TS3004a.C.argumentstructs.Daan.2
+source=TS3004a.D.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.D.argumentstructs.Daan.3:
+"Yeah, I know uh you can buy a re a universal uh control for uh only twenty uh Euros"
+
+Past dialogue turns:
+AE_ID TS3004a.C.argumentstructs.Daan.1: "Yeah, it probably would be universal."
+AE_ID TS3004a.B.argumentstructs.Daan.1: "Universal. And only television ? Or more devices ?"
+AE_ID TS3004a.D.argumentstructs.9: "Because"
+AE_ID TS3004a.A.argumentstructs.Daan.2: "I don't think you can buy a a a universal uh remote control for twenty five Euros, so  not sure, but"
+AE_ID TS3004a.C.argumentstructs.Daan.2: "Hmm, maybe, I don't know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3004a.D.argumentstructs.Daan.3
+source=TS3004a.A.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.A.argumentstructs.Daan.3:
+"Okay, so we we just say we just say that's universal remote control. Okay, perfect."
+
+Past dialogue turns:
+AE_ID TS3004a.B.argumentstructs.Daan.1: "Universal. And only television ? Or more devices ?"
+AE_ID TS3004a.D.argumentstructs.9: "Because"
+AE_ID TS3004a.A.argumentstructs.Daan.2: "I don't think you can buy a a a universal uh remote control for twenty five Euros, so  not sure, but"
+AE_ID TS3004a.C.argumentstructs.Daan.2: "Hmm, maybe, I don't know."
+AE_ID TS3004a.D.argumentstructs.Daan.3: "Yeah, I know uh you can buy a re a universal uh control for uh only twenty uh Euros"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.B.argumentstructs.Daan.1
+---------------------------------
+target=TS3004a.A.argumentstructs.Daan.3
+source=TS3004a.D.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.D.argumentstructs.Daan.4:
+"Yeah, I think."
+
+Past dialogue turns:
+AE_ID TS3004a.D.argumentstructs.9: "Because"
+AE_ID TS3004a.A.argumentstructs.Daan.2: "I don't think you can buy a a a universal uh remote control for twenty five Euros, so  not sure, but"
+AE_ID TS3004a.C.argumentstructs.Daan.2: "Hmm, maybe, I don't know."
+AE_ID TS3004a.D.argumentstructs.Daan.3: "Yeah, I know uh you can buy a re a universal uh control for uh only twenty uh Euros"
+AE_ID TS3004a.A.argumentstructs.Daan.3: "Okay, so we we just say we just say that's universal remote control. Okay, perfect."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.D.argumentstructs.Daan.3
+---------------------------------
+target=TS3004a.D.argumentstructs.Daan.4
+source=TS3004a.A.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.B.argumentstructs.6:
+"Ah okay."
+
+Past dialogue turns:
+AE_ID TS3004a.A.argumentstructs.Daan.2: "I don't think you can buy a a a universal uh remote control for twenty five Euros, so  not sure, but"
+AE_ID TS3004a.C.argumentstructs.Daan.2: "Hmm, maybe, I don't know."
+AE_ID TS3004a.D.argumentstructs.Daan.3: "Yeah, I know uh you can buy a re a universal uh control for uh only twenty uh Euros"
+AE_ID TS3004a.A.argumentstructs.Daan.3: "Okay, so we we just say we just say that's universal remote control. Okay, perfect."
+AE_ID TS3004a.D.argumentstructs.Daan.4: "Yeah, I think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.A.argumentstructs.Daan.2
+---------------------------------
+target=TS3004a.B.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.C.argumentstructs.Daan.3:
+"And uh also for the V_C_R_ and uh D_V_D_ player and  okay."
+
+Past dialogue turns:
+AE_ID TS3004a.C.argumentstructs.Daan.2: "Hmm, maybe, I don't know."
+AE_ID TS3004a.D.argumentstructs.Daan.3: "Yeah, I know uh you can buy a re a universal uh control for uh only twenty uh Euros"
+AE_ID TS3004a.A.argumentstructs.Daan.3: "Okay, so we we just say we just say that's universal remote control. Okay, perfect."
+AE_ID TS3004a.D.argumentstructs.Daan.4: "Yeah, I think."
+AE_ID TS3004a.B.argumentstructs.6: "Ah okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.A.argumentstructs.Daan.3
+---------------------------------
+target=TS3004a.C.argumentstructs.Daan.3
+source=TS3004a.A.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.A.argumentstructs.Daan.4:
+"Yeah, everything just  so a lot of buttons  on the remote control."
+
+Past dialogue turns:
+AE_ID TS3004a.D.argumentstructs.Daan.3: "Yeah, I know uh you can buy a re a universal uh control for uh only twenty uh Euros"
+AE_ID TS3004a.A.argumentstructs.Daan.3: "Okay, so we we just say we just say that's universal remote control. Okay, perfect."
+AE_ID TS3004a.D.argumentstructs.Daan.4: "Yeah, I think."
+AE_ID TS3004a.B.argumentstructs.6: "Ah okay."
+AE_ID TS3004a.C.argumentstructs.Daan.3: "And uh also for the V_C_R_ and uh D_V_D_ player and  okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.D.argumentstructs.Daan.3
+---------------------------------
+target=TS3004a.A.argumentstructs.Daan.4
+source=TS3004a.C.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.C.argumentstructs.Daan.4:
+"Yeah, probably."
+
+Past dialogue turns:
+AE_ID TS3004a.A.argumentstructs.Daan.3: "Okay, so we we just say we just say that's universal remote control. Okay, perfect."
+AE_ID TS3004a.D.argumentstructs.Daan.4: "Yeah, I think."
+AE_ID TS3004a.B.argumentstructs.6: "Ah okay."
+AE_ID TS3004a.C.argumentstructs.Daan.3: "And uh also for the V_C_R_ and uh D_V_D_ player and  okay."
+AE_ID TS3004a.A.argumentstructs.Daan.4: "Yeah, everything just  so a lot of buttons  on the remote control."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.A.argumentstructs.Daan.4
+---------------------------------
+target=TS3004a.C.argumentstructs.Daan.4
+source=TS3004a.A.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.B.argumentstructs.Daan.2:
+"Not just a T_V_."
+
+Past dialogue turns:
+AE_ID TS3004a.D.argumentstructs.Daan.4: "Yeah, I think."
+AE_ID TS3004a.B.argumentstructs.6: "Ah okay."
+AE_ID TS3004a.C.argumentstructs.Daan.3: "And uh also for the V_C_R_ and uh D_V_D_ player and  okay."
+AE_ID TS3004a.A.argumentstructs.Daan.4: "Yeah, everything just  so a lot of buttons  on the remote control."
+AE_ID TS3004a.C.argumentstructs.Daan.4: "Yeah, probably."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.A.argumentstructs.Daan.4
+---------------------------------
+target=TS3004a.B.argumentstructs.Daan.2
+source=TS3004a.C.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.A.argumentstructs.Daan.5:
+"No, just everything."
+
+Past dialogue turns:
+AE_ID TS3004a.B.argumentstructs.6: "Ah okay."
+AE_ID TS3004a.C.argumentstructs.Daan.3: "And uh also for the V_C_R_ and uh D_V_D_ player and  okay."
+AE_ID TS3004a.A.argumentstructs.Daan.4: "Yeah, everything just  so a lot of buttons  on the remote control."
+AE_ID TS3004a.C.argumentstructs.Daan.4: "Yeah, probably."
+AE_ID TS3004a.B.argumentstructs.Daan.2: "Not just a T_V_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.A.argumentstructs.Daan.4
+---------------------------------
+target=TS3004a.A.argumentstructs.Daan.5
+source=TS3004a.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004a.B.argumentstructs.7:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3004a.C.argumentstructs.Daan.3: "And uh also for the V_C_R_ and uh D_V_D_ player and  okay."
+AE_ID TS3004a.A.argumentstructs.Daan.4: "Yeah, everything just  so a lot of buttons  on the remote control."
+AE_ID TS3004a.C.argumentstructs.Daan.4: "Yeah, probably."
+AE_ID TS3004a.B.argumentstructs.Daan.2: "Not just a T_V_."
+AE_ID TS3004a.A.argumentstructs.Daan.5: "No, just everything."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004a.B.argumentstructs.Daan.2
+---------------------------------
+target=TS3004a.B.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3004a-Universal Remote Control.csv - True Judgement Ratio: 36.84%

@@ -1,0 +1,537 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.A.argumentstructs.35:
+"cradle or not cradle ? Do we go basic or do we go for features ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1002c.A.argumentstructs.35
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.A.argumentstructs.Rutger.6:
+"Uh d does anyone really wanna do anything with the scroll wheel or should we ditch that off-hand first ?"
+
+Past dialogue turns:
+AE_ID IS1002c.A.argumentstructs.35: "cradle or not cradle ? Do we go basic or do we go for features ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.A.argumentstructs.35
+---------------------------------
+target=IS1002c.A.argumentstructs.Rutger.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.38:
+"Well my question is what would the scroll wheel do ?"
+
+Past dialogue turns:
+AE_ID IS1002c.A.argumentstructs.35: "cradle or not cradle ? Do we go basic or do we go for features ?"
+AE_ID IS1002c.A.argumentstructs.Rutger.6: "Uh d does anyone really wanna do anything with the scroll wheel or should we ditch that off-hand first ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.A.argumentstructs.Rutger.6
+---------------------------------
+target=IS1002c.B.argumentstructs.38
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.Rutger.5:
+"Function-wise, what does that do that"
+
+Past dialogue turns:
+AE_ID IS1002c.A.argumentstructs.35: "cradle or not cradle ? Do we go basic or do we go for features ?"
+AE_ID IS1002c.A.argumentstructs.Rutger.6: "Uh d does anyone really wanna do anything with the scroll wheel or should we ditch that off-hand first ?"
+AE_ID IS1002c.B.argumentstructs.38: "Well my question is what would the scroll wheel do ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.38
+---------------------------------
+target=IS1002c.B.argumentstructs.Rutger.5
+source=IS1002c.A.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.A.argumentstructs.Rutger.7:
+"Oh but that was in your presentation  so wh what would you imagine it doing ?"
+
+Past dialogue turns:
+AE_ID IS1002c.A.argumentstructs.35: "cradle or not cradle ? Do we go basic or do we go for features ?"
+AE_ID IS1002c.A.argumentstructs.Rutger.6: "Uh d does anyone really wanna do anything with the scroll wheel or should we ditch that off-hand first ?"
+AE_ID IS1002c.B.argumentstructs.38: "Well my question is what would the scroll wheel do ?"
+AE_ID IS1002c.B.argumentstructs.Rutger.5: "Function-wise, what does that do that"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.38
+---------------------------------
+target=IS1002c.A.argumentstructs.Rutger.7
+source=IS1002c.B.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.D.argumentstructs.Rutger.2:
+"Yeah wh wh what's the  wh"
+
+Past dialogue turns:
+AE_ID IS1002c.A.argumentstructs.35: "cradle or not cradle ? Do we go basic or do we go for features ?"
+AE_ID IS1002c.A.argumentstructs.Rutger.6: "Uh d does anyone really wanna do anything with the scroll wheel or should we ditch that off-hand first ?"
+AE_ID IS1002c.B.argumentstructs.38: "Well my question is what would the scroll wheel do ?"
+AE_ID IS1002c.B.argumentstructs.Rutger.5: "Function-wise, what does that do that"
+AE_ID IS1002c.A.argumentstructs.Rutger.7: "Oh but that was in your presentation  so wh what would you imagine it doing ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.38
+---------------------------------
+target=IS1002c.D.argumentstructs.Rutger.2
+source=IS1002c.A.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.Rutger.6:
+"Yeah. Well it's it's just another way to do the exact same thing that the buttons do."
+
+Past dialogue turns:
+AE_ID IS1002c.A.argumentstructs.Rutger.6: "Uh d does anyone really wanna do anything with the scroll wheel or should we ditch that off-hand first ?"
+AE_ID IS1002c.B.argumentstructs.38: "Well my question is what would the scroll wheel do ?"
+AE_ID IS1002c.B.argumentstructs.Rutger.5: "Function-wise, what does that do that"
+AE_ID IS1002c.A.argumentstructs.Rutger.7: "Oh but that was in your presentation  so wh what would you imagine it doing ?"
+AE_ID IS1002c.D.argumentstructs.Rutger.2: "Yeah wh wh what's the  wh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.38
+---------------------------------
+target=IS1002c.B.argumentstructs.Rutger.6
+source=IS1002c.A.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.A.argumentstructs.Rutger.8:
+"Mm 'kay."
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.38: "Well my question is what would the scroll wheel do ?"
+AE_ID IS1002c.B.argumentstructs.Rutger.5: "Function-wise, what does that do that"
+AE_ID IS1002c.A.argumentstructs.Rutger.7: "Oh but that was in your presentation  so wh what would you imagine it doing ?"
+AE_ID IS1002c.D.argumentstructs.Rutger.2: "Yeah wh wh what's the  wh"
+AE_ID IS1002c.B.argumentstructs.Rutger.6: "Yeah. Well it's it's just another way to do the exact same thing that the buttons do."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.Rutger.6
+---------------------------------
+target=IS1002c.A.argumentstructs.Rutger.8
+source=IS1002c.B.argumentstructs.Rutger.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.D.argumentstructs.Rutger.3:
+"Okay now what I see with the scroll wheel is everybody has buttons. So from a marketing standpoint I have I have another door to walk through when we have something that's unique. If it creates something more complex or more expensive, then I don't know if that makes it uh a marketing necessity. But again, from a marketing perspective I want as much new and different about this thing as possible because we're we're co  it's a very competitive market."
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.Rutger.5: "Function-wise, what does that do that"
+AE_ID IS1002c.A.argumentstructs.Rutger.7: "Oh but that was in your presentation  so wh what would you imagine it doing ?"
+AE_ID IS1002c.D.argumentstructs.Rutger.2: "Yeah wh wh what's the  wh"
+AE_ID IS1002c.B.argumentstructs.Rutger.6: "Yeah. Well it's it's just another way to do the exact same thing that the buttons do."
+AE_ID IS1002c.A.argumentstructs.Rutger.8: "Mm 'kay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.Rutger.6
+---------------------------------
+target=IS1002c.D.argumentstructs.Rutger.3
+source=IS1002c.A.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.C.argumentstructs.Rutger.5:
+"But would we"
+
+Past dialogue turns:
+AE_ID IS1002c.A.argumentstructs.Rutger.7: "Oh but that was in your presentation  so wh what would you imagine it doing ?"
+AE_ID IS1002c.D.argumentstructs.Rutger.2: "Yeah wh wh what's the  wh"
+AE_ID IS1002c.B.argumentstructs.Rutger.6: "Yeah. Well it's it's just another way to do the exact same thing that the buttons do."
+AE_ID IS1002c.A.argumentstructs.Rutger.8: "Mm 'kay."
+AE_ID IS1002c.D.argumentstructs.Rutger.3: "Okay now what I see with the scroll wheel is everybody has buttons. So from a marketing standpoint I have I have another door to walk through when we have something that's unique. If it creates something more complex or more expensive, then I don't know if that makes it uh a marketing necessity. But again, from a marketing perspective I want as much new and different about this thing as possible because we're we're co  it's a very competitive market."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.D.argumentstructs.Rutger.3
+---------------------------------
+target=IS1002c.C.argumentstructs.Rutger.5
+source=IS1002c.D.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.A.argumentstructs.36:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1002c.D.argumentstructs.Rutger.2: "Yeah wh wh what's the  wh"
+AE_ID IS1002c.B.argumentstructs.Rutger.6: "Yeah. Well it's it's just another way to do the exact same thing that the buttons do."
+AE_ID IS1002c.A.argumentstructs.Rutger.8: "Mm 'kay."
+AE_ID IS1002c.D.argumentstructs.Rutger.3: "Okay now what I see with the scroll wheel is everybody has buttons. So from a marketing standpoint I have I have another door to walk through when we have something that's unique. If it creates something more complex or more expensive, then I don't know if that makes it uh a marketing necessity. But again, from a marketing perspective I want as much new and different about this thing as possible because we're we're co  it's a very competitive market."
+AE_ID IS1002c.C.argumentstructs.Rutger.5: "But would we"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.Rutger.6
+---------------------------------
+target=IS1002c.A.argumentstructs.36
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.A.argumentstructs.Rutger.9:
+"What I understand about scroll wheels is they're they're quite expensive to to make. So I d"
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.Rutger.6: "Yeah. Well it's it's just another way to do the exact same thing that the buttons do."
+AE_ID IS1002c.A.argumentstructs.Rutger.8: "Mm 'kay."
+AE_ID IS1002c.D.argumentstructs.Rutger.3: "Okay now what I see with the scroll wheel is everybody has buttons. So from a marketing standpoint I have I have another door to walk through when we have something that's unique. If it creates something more complex or more expensive, then I don't know if that makes it uh a marketing necessity. But again, from a marketing perspective I want as much new and different about this thing as possible because we're we're co  it's a very competitive market."
+AE_ID IS1002c.C.argumentstructs.Rutger.5: "But would we"
+AE_ID IS1002c.A.argumentstructs.36: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.D.argumentstructs.Rutger.3
+---------------------------------
+target=IS1002c.A.argumentstructs.Rutger.9
+source=IS1002c.A.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.39:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1002c.A.argumentstructs.Rutger.8: "Mm 'kay."
+AE_ID IS1002c.D.argumentstructs.Rutger.3: "Okay now what I see with the scroll wheel is everybody has buttons. So from a marketing standpoint I have I have another door to walk through when we have something that's unique. If it creates something more complex or more expensive, then I don't know if that makes it uh a marketing necessity. But again, from a marketing perspective I want as much new and different about this thing as possible because we're we're co  it's a very competitive market."
+AE_ID IS1002c.C.argumentstructs.Rutger.5: "But would we"
+AE_ID IS1002c.A.argumentstructs.36: "Yeah."
+AE_ID IS1002c.A.argumentstructs.Rutger.9: "What I understand about scroll wheels is they're they're quite expensive to to make. So I d"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.A.argumentstructs.36
+---------------------------------
+target=IS1002c.B.argumentstructs.39
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.Rutger.7:
+"Th they are gonna be more expensive,"
+
+Past dialogue turns:
+AE_ID IS1002c.D.argumentstructs.Rutger.3: "Okay now what I see with the scroll wheel is everybody has buttons. So from a marketing standpoint I have I have another door to walk through when we have something that's unique. If it creates something more complex or more expensive, then I don't know if that makes it uh a marketing necessity. But again, from a marketing perspective I want as much new and different about this thing as possible because we're we're co  it's a very competitive market."
+AE_ID IS1002c.C.argumentstructs.Rutger.5: "But would we"
+AE_ID IS1002c.A.argumentstructs.36: "Yeah."
+AE_ID IS1002c.A.argumentstructs.Rutger.9: "What I understand about scroll wheels is they're they're quite expensive to to make. So I d"
+AE_ID IS1002c.B.argumentstructs.39: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.A.argumentstructs.Rutger.9
+---------------------------------
+target=IS1002c.B.argumentstructs.Rutger.7
+source=IS1002c.A.argumentstructs.Rutger.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.40:
+"but on the other hand, I mean, it"
+
+Past dialogue turns:
+AE_ID IS1002c.C.argumentstructs.Rutger.5: "But would we"
+AE_ID IS1002c.A.argumentstructs.36: "Yeah."
+AE_ID IS1002c.A.argumentstructs.Rutger.9: "What I understand about scroll wheels is they're they're quite expensive to to make. So I d"
+AE_ID IS1002c.B.argumentstructs.39: "Yeah."
+AE_ID IS1002c.B.argumentstructs.Rutger.7: "Th they are gonna be more expensive,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.39
+---------------------------------
+target=IS1002c.B.argumentstructs.40
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.Rutger.8:
+"I mean it is an alternative if if you think that's gonna sell some some uh you know  if if we're gonna make up the extra cost by extra sales I think maybe it's worth it to do it"
+
+Past dialogue turns:
+AE_ID IS1002c.A.argumentstructs.36: "Yeah."
+AE_ID IS1002c.A.argumentstructs.Rutger.9: "What I understand about scroll wheels is they're they're quite expensive to to make. So I d"
+AE_ID IS1002c.B.argumentstructs.39: "Yeah."
+AE_ID IS1002c.B.argumentstructs.Rutger.7: "Th they are gonna be more expensive,"
+AE_ID IS1002c.B.argumentstructs.40: "but on the other hand, I mean, it"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.Rutger.7
+---------------------------------
+target=IS1002c.B.argumentstructs.Rutger.8
+source=IS1002c.A.argumentstructs.Rutger.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.Rutger.9:
+"but I mean I would just use  if I was gonna do this I would just use the scroll wheel for s channels up and channels down."
+
+Past dialogue turns:
+AE_ID IS1002c.A.argumentstructs.Rutger.9: "What I understand about scroll wheels is they're they're quite expensive to to make. So I d"
+AE_ID IS1002c.B.argumentstructs.39: "Yeah."
+AE_ID IS1002c.B.argumentstructs.Rutger.7: "Th they are gonna be more expensive,"
+AE_ID IS1002c.B.argumentstructs.40: "but on the other hand, I mean, it"
+AE_ID IS1002c.B.argumentstructs.Rutger.8: "I mean it is an alternative if if you think that's gonna sell some some uh you know  if if we're gonna make up the extra cost by extra sales I think maybe it's worth it to do it"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.A.argumentstructs.Rutger.9
+---------------------------------
+target=IS1002c.B.argumentstructs.Rutger.9
+source=IS1002c.A.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.41:
+","
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.39: "Yeah."
+AE_ID IS1002c.B.argumentstructs.Rutger.7: "Th they are gonna be more expensive,"
+AE_ID IS1002c.B.argumentstructs.40: "but on the other hand, I mean, it"
+AE_ID IS1002c.B.argumentstructs.Rutger.8: "I mean it is an alternative if if you think that's gonna sell some some uh you know  if if we're gonna make up the extra cost by extra sales I think maybe it's worth it to do it"
+AE_ID IS1002c.B.argumentstructs.Rutger.9: "but I mean I would just use  if I was gonna do this I would just use the scroll wheel for s channels up and channels down."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.40
+---------------------------------
+target=IS1002c.B.argumentstructs.41
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.Rutger.10:
+"I don't think volume  or do you think volume would be"
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.Rutger.7: "Th they are gonna be more expensive,"
+AE_ID IS1002c.B.argumentstructs.40: "but on the other hand, I mean, it"
+AE_ID IS1002c.B.argumentstructs.Rutger.8: "I mean it is an alternative if if you think that's gonna sell some some uh you know  if if we're gonna make up the extra cost by extra sales I think maybe it's worth it to do it"
+AE_ID IS1002c.B.argumentstructs.Rutger.9: "but I mean I would just use  if I was gonna do this I would just use the scroll wheel for s channels up and channels down."
+AE_ID IS1002c.B.argumentstructs.41: ","
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.Rutger.8
+---------------------------------
+target=IS1002c.B.argumentstructs.Rutger.10
+source=IS1002c.B.argumentstructs.Rutger.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.C.argumentstructs.Rutger.6:
+"I dunno. I'll bet first in volume maybe. I dunno."
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.40: "but on the other hand, I mean, it"
+AE_ID IS1002c.B.argumentstructs.Rutger.8: "I mean it is an alternative if if you think that's gonna sell some some uh you know  if if we're gonna make up the extra cost by extra sales I think maybe it's worth it to do it"
+AE_ID IS1002c.B.argumentstructs.Rutger.9: "but I mean I would just use  if I was gonna do this I would just use the scroll wheel for s channels up and channels down."
+AE_ID IS1002c.B.argumentstructs.41: ","
+AE_ID IS1002c.B.argumentstructs.Rutger.10: "I don't think volume  or do you think volume would be"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.Rutger.10
+---------------------------------
+target=IS1002c.C.argumentstructs.Rutger.6
+source=IS1002c.B.argumentstructs.Rutger.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.Rutger.12:
+"No"
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.Rutger.8: "I mean it is an alternative if if you think that's gonna sell some some uh you know  if if we're gonna make up the extra cost by extra sales I think maybe it's worth it to do it"
+AE_ID IS1002c.B.argumentstructs.Rutger.9: "but I mean I would just use  if I was gonna do this I would just use the scroll wheel for s channels up and channels down."
+AE_ID IS1002c.B.argumentstructs.41: ","
+AE_ID IS1002c.B.argumentstructs.Rutger.10: "I don't think volume  or do you think volume would be"
+AE_ID IS1002c.C.argumentstructs.Rutger.6: "I dunno. I'll bet first in volume maybe. I dunno."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.Rutger.8
+---------------------------------
+target=IS1002c.B.argumentstructs.Rutger.12
+source=IS1002c.C.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.Rutger.13:
+"we can  we can do multiple scroll wheels but"
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.Rutger.9: "but I mean I would just use  if I was gonna do this I would just use the scroll wheel for s channels up and channels down."
+AE_ID IS1002c.B.argumentstructs.41: ","
+AE_ID IS1002c.B.argumentstructs.Rutger.10: "I don't think volume  or do you think volume would be"
+AE_ID IS1002c.C.argumentstructs.Rutger.6: "I dunno. I'll bet first in volume maybe. I dunno."
+AE_ID IS1002c.B.argumentstructs.Rutger.12: "No"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.Rutger.9
+---------------------------------
+target=IS1002c.B.argumentstructs.Rutger.13
+source=IS1002c.C.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1002c-scrollwheel.csv - True Judgement Ratio: 22.73%

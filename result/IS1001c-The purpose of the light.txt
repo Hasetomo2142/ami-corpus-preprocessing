@@ -1,0 +1,762 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.1:
+"I have a question about that actually. Um, what is the purpose of the light ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.1:
+"Just to to make something which is uh slightly more design that uh a squarey box with a rubber"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.1: "I have a question about that actually. Um, what is the purpose of the light ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.1
+source=IS1001c.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.1:
+"You can easily find the button in the dark or so ?"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.1: "I have a question about that actually. Um, what is the purpose of the light ?"
+AE_ID IS1001c.B.argumentstructs.Rutger.1: "Just to to make something which is uh slightly more design that uh a squarey box with a rubber"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.1
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.1
+source=IS1001c.C.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.31:
+"But in th in the dark uh"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.1: "I have a question about that actually. Um, what is the purpose of the light ?"
+AE_ID IS1001c.B.argumentstructs.Rutger.1: "Just to to make something which is uh slightly more design that uh a squarey box with a rubber"
+AE_ID IS1001c.A.argumentstructs.Rutger.1: "You can easily find the button in the dark or so ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.1
+---------------------------------
+target=IS1001c.C.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.2:
+"Yeah but is going to be always turned on, the light ?"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.1: "I have a question about that actually. Um, what is the purpose of the light ?"
+AE_ID IS1001c.B.argumentstructs.Rutger.1: "Just to to make something which is uh slightly more design that uh a squarey box with a rubber"
+AE_ID IS1001c.A.argumentstructs.Rutger.1: "You can easily find the button in the dark or so ?"
+AE_ID IS1001c.C.argumentstructs.31: "But in th in the dark uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.1
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.2
+source=IS1001c.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.2:
+"It will be turned on when the when the user move the remote control I think"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.1: "I have a question about that actually. Um, what is the purpose of the light ?"
+AE_ID IS1001c.B.argumentstructs.Rutger.1: "Just to to make something which is uh slightly more design that uh a squarey box with a rubber"
+AE_ID IS1001c.A.argumentstructs.Rutger.1: "You can easily find the button in the dark or so ?"
+AE_ID IS1001c.C.argumentstructs.31: "But in th in the dark uh"
+AE_ID IS1001c.C.argumentstructs.Rutger.2: "Yeah but is going to be always turned on, the light ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.2
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.2
+source=IS1001c.C.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.3:
+", no ?"
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.1: "Just to to make something which is uh slightly more design that uh a squarey box with a rubber"
+AE_ID IS1001c.A.argumentstructs.Rutger.1: "You can easily find the button in the dark or so ?"
+AE_ID IS1001c.C.argumentstructs.31: "But in th in the dark uh"
+AE_ID IS1001c.C.argumentstructs.Rutger.2: "Yeah but is going to be always turned on, the light ?"
+AE_ID IS1001c.A.argumentstructs.Rutger.2: "It will be turned on when the when the user move the remote control I think"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.2
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.3
+source=IS1001c.A.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.4:
+"But if you move it then you have it, you don't need to find it."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.1: "You can easily find the button in the dark or so ?"
+AE_ID IS1001c.C.argumentstructs.31: "But in th in the dark uh"
+AE_ID IS1001c.C.argumentstructs.Rutger.2: "Yeah but is going to be always turned on, the light ?"
+AE_ID IS1001c.A.argumentstructs.Rutger.2: "It will be turned on when the when the user move the remote control I think"
+AE_ID IS1001c.A.argumentstructs.Rutger.3: ", no ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.2
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.4
+source=IS1001c.A.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.24:
+"Hmm. Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.31: "But in th in the dark uh"
+AE_ID IS1001c.C.argumentstructs.Rutger.2: "Yeah but is going to be always turned on, the light ?"
+AE_ID IS1001c.A.argumentstructs.Rutger.2: "It will be turned on when the when the user move the remote control I think"
+AE_ID IS1001c.A.argumentstructs.Rutger.3: ", no ?"
+AE_ID IS1001c.C.argumentstructs.Rutger.4: "But if you move it then you have it, you don't need to find it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.4
+---------------------------------
+target=IS1001c.A.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.5:
+"You can see the buttons better, of course. Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.2: "Yeah but is going to be always turned on, the light ?"
+AE_ID IS1001c.A.argumentstructs.Rutger.2: "It will be turned on when the when the user move the remote control I think"
+AE_ID IS1001c.A.argumentstructs.Rutger.3: ", no ?"
+AE_ID IS1001c.C.argumentstructs.Rutger.4: "But if you move it then you have it, you don't need to find it."
+AE_ID IS1001c.A.argumentstructs.24: "Hmm. Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.2
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.5
+source=IS1001c.A.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.4:
+"Yeah. True."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.2: "It will be turned on when the when the user move the remote control I think"
+AE_ID IS1001c.A.argumentstructs.Rutger.3: ", no ?"
+AE_ID IS1001c.C.argumentstructs.Rutger.4: "But if you move it then you have it, you don't need to find it."
+AE_ID IS1001c.A.argumentstructs.24: "Hmm. Yeah. Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.5: "You can see the buttons better, of course. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.4
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.4
+source=IS1001c.C.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.2:
+"Yeah. Actually."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.3: ", no ?"
+AE_ID IS1001c.C.argumentstructs.Rutger.4: "But if you move it then you have it, you don't need to find it."
+AE_ID IS1001c.A.argumentstructs.24: "Hmm. Yeah. Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.5: "You can see the buttons better, of course. Yeah."
+AE_ID IS1001c.A.argumentstructs.Rutger.4: "Yeah. True."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.4
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.2
+source=IS1001c.C.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.6:
+"But if you move it then you have to have some sensor to  when you move it to detect your movement."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.4: "But if you move it then you have it, you don't need to find it."
+AE_ID IS1001c.A.argumentstructs.24: "Hmm. Yeah. Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.5: "You can see the buttons better, of course. Yeah."
+AE_ID IS1001c.A.argumentstructs.Rutger.4: "Yeah. True."
+AE_ID IS1001c.B.argumentstructs.Rutger.2: "Yeah. Actually."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.4
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.6
+source=IS1001c.A.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.3:
+"As soon as you thought to move the the remote control you have the light."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.24: "Hmm. Yeah. Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.5: "You can see the buttons better, of course. Yeah."
+AE_ID IS1001c.A.argumentstructs.Rutger.4: "Yeah. True."
+AE_ID IS1001c.B.argumentstructs.Rutger.2: "Yeah. Actually."
+AE_ID IS1001c.C.argumentstructs.Rutger.6: "But if you move it then you have to have some sensor to  when you move it to detect your movement."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.6
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.3
+source=IS1001c.A.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.7:
+"Yeah, but you need another sensor for that, right ?"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.5: "You can see the buttons better, of course. Yeah."
+AE_ID IS1001c.A.argumentstructs.Rutger.4: "Yeah. True."
+AE_ID IS1001c.B.argumentstructs.Rutger.2: "Yeah. Actually."
+AE_ID IS1001c.C.argumentstructs.Rutger.6: "But if you move it then you have to have some sensor to  when you move it to detect your movement."
+AE_ID IS1001c.B.argumentstructs.Rutger.3: "As soon as you thought to move the the remote control you have the light."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.6
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.7
+source=IS1001c.B.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.4:
+"Yeah. Again."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.4: "Yeah. True."
+AE_ID IS1001c.B.argumentstructs.Rutger.2: "Yeah. Actually."
+AE_ID IS1001c.C.argumentstructs.Rutger.6: "But if you move it then you have to have some sensor to  when you move it to detect your movement."
+AE_ID IS1001c.B.argumentstructs.Rutger.3: "As soon as you thought to move the the remote control you have the light."
+AE_ID IS1001c.C.argumentstructs.Rutger.7: "Yeah, but you need another sensor for that, right ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.4
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.4
+source=IS1001c.C.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.8:
+"Yeah"
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.2: "Yeah. Actually."
+AE_ID IS1001c.C.argumentstructs.Rutger.6: "But if you move it then you have to have some sensor to  when you move it to detect your movement."
+AE_ID IS1001c.B.argumentstructs.Rutger.3: "As soon as you thought to move the the remote control you have the light."
+AE_ID IS1001c.C.argumentstructs.Rutger.7: "Yeah, but you need another sensor for that, right ?"
+AE_ID IS1001c.B.argumentstructs.Rutger.4: "Yeah. Again."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.2
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.8
+source=IS1001c.B.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.9:
+"no it's too expensive."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.6: "But if you move it then you have to have some sensor to  when you move it to detect your movement."
+AE_ID IS1001c.B.argumentstructs.Rutger.3: "As soon as you thought to move the the remote control you have the light."
+AE_ID IS1001c.C.argumentstructs.Rutger.7: "Yeah, but you need another sensor for that, right ?"
+AE_ID IS1001c.B.argumentstructs.Rutger.4: "Yeah. Again."
+AE_ID IS1001c.C.argumentstructs.Rutger.8: "Yeah"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.9
+source=IS1001c.A.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.6:
+"I don't think that this is really expensive,"
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.3: "As soon as you thought to move the the remote control you have the light."
+AE_ID IS1001c.C.argumentstructs.Rutger.7: "Yeah, but you need another sensor for that, right ?"
+AE_ID IS1001c.B.argumentstructs.Rutger.4: "Yeah. Again."
+AE_ID IS1001c.C.argumentstructs.Rutger.8: "Yeah"
+AE_ID IS1001c.C.argumentstructs.Rutger.9: "no it's too expensive."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.9
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.6
+source=IS1001c.C.argumentstructs.Rutger.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.7:
+"but at the end this is plenty of unexpen eh very cheap devices but uh the bill starts to be"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.7: "Yeah, but you need another sensor for that, right ?"
+AE_ID IS1001c.B.argumentstructs.Rutger.4: "Yeah. Again."
+AE_ID IS1001c.C.argumentstructs.Rutger.8: "Yeah"
+AE_ID IS1001c.C.argumentstructs.Rutger.9: "no it's too expensive."
+AE_ID IS1001c.B.argumentstructs.Rutger.6: "I don't think that this is really expensive,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.9
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.7
+source=IS1001c.C.argumentstructs.Rutger.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.32:
+"Okay. Mm. Extra. Yeah, okay."
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.4: "Yeah. Again."
+AE_ID IS1001c.C.argumentstructs.Rutger.8: "Yeah"
+AE_ID IS1001c.C.argumentstructs.Rutger.9: "no it's too expensive."
+AE_ID IS1001c.B.argumentstructs.Rutger.6: "I don't think that this is really expensive,"
+AE_ID IS1001c.B.argumentstructs.Rutger.7: "but at the end this is plenty of unexpen eh very cheap devices but uh the bill starts to be"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.6
+---------------------------------
+target=IS1001c.C.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.10:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.8: "Yeah"
+AE_ID IS1001c.C.argumentstructs.Rutger.9: "no it's too expensive."
+AE_ID IS1001c.B.argumentstructs.Rutger.6: "I don't think that this is really expensive,"
+AE_ID IS1001c.B.argumentstructs.Rutger.7: "but at the end this is plenty of unexpen eh very cheap devices but uh the bill starts to be"
+AE_ID IS1001c.C.argumentstructs.32: "Okay. Mm. Extra. Yeah, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.32
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.10
+source=IS1001c.B.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.11:
+"Yeah, but I expected also the wheel would be cheap but you tell me that it is very expensive so, yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.9: "no it's too expensive."
+AE_ID IS1001c.B.argumentstructs.Rutger.6: "I don't think that this is really expensive,"
+AE_ID IS1001c.B.argumentstructs.Rutger.7: "but at the end this is plenty of unexpen eh very cheap devices but uh the bill starts to be"
+AE_ID IS1001c.C.argumentstructs.32: "Okay. Mm. Extra. Yeah, okay."
+AE_ID IS1001c.C.argumentstructs.Rutger.10: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.9
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.11
+source=IS1001c.C.argumentstructs.Rutger.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.8:
+"First of all I was thinking to have a a continuous light and you w when t you you you you press the on button you have the light on your remote control, when you want to turn off your device"
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.6: "I don't think that this is really expensive,"
+AE_ID IS1001c.B.argumentstructs.Rutger.7: "but at the end this is plenty of unexpen eh very cheap devices but uh the bill starts to be"
+AE_ID IS1001c.C.argumentstructs.32: "Okay. Mm. Extra. Yeah, okay."
+AE_ID IS1001c.C.argumentstructs.Rutger.10: "Mm."
+AE_ID IS1001c.C.argumentstructs.Rutger.11: "Yeah, but I expected also the wheel would be cheap but you tell me that it is very expensive so, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.6
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.8
+source=IS1001c.C.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.33:
+"Mm. Mm-hmm. Mm."
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.7: "but at the end this is plenty of unexpen eh very cheap devices but uh the bill starts to be"
+AE_ID IS1001c.C.argumentstructs.32: "Okay. Mm. Extra. Yeah, okay."
+AE_ID IS1001c.C.argumentstructs.Rutger.10: "Mm."
+AE_ID IS1001c.C.argumentstructs.Rutger.11: "Yeah, but I expected also the wheel would be cheap but you tell me that it is very expensive so, yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.8: "First of all I was thinking to have a a continuous light and you w when t you you you you press the on button you have the light on your remote control, when you want to turn off your device"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.32
+---------------------------------
+target=IS1001c.C.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.25:
+"But it can be uh battery consuming, no ?"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.32: "Okay. Mm. Extra. Yeah, okay."
+AE_ID IS1001c.C.argumentstructs.Rutger.10: "Mm."
+AE_ID IS1001c.C.argumentstructs.Rutger.11: "Yeah, but I expected also the wheel would be cheap but you tell me that it is very expensive so, yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.8: "First of all I was thinking to have a a continuous light and you w when t you you you you press the on button you have the light on your remote control, when you want to turn off your device"
+AE_ID IS1001c.C.argumentstructs.33: "Mm. Mm-hmm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.8
+---------------------------------
+target=IS1001c.A.argumentstructs.25
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.7:
+"To have the light always on ?"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.10: "Mm."
+AE_ID IS1001c.C.argumentstructs.Rutger.11: "Yeah, but I expected also the wheel would be cheap but you tell me that it is very expensive so, yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.8: "First of all I was thinking to have a a continuous light and you w when t you you you you press the on button you have the light on your remote control, when you want to turn off your device"
+AE_ID IS1001c.C.argumentstructs.33: "Mm. Mm-hmm. Mm."
+AE_ID IS1001c.A.argumentstructs.25: "But it can be uh battery consuming, no ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.8
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.7
+source=IS1001c.B.argumentstructs.Rutger.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.20:
+"Yeah, a little bit."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.11: "Yeah, but I expected also the wheel would be cheap but you tell me that it is very expensive so, yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.8: "First of all I was thinking to have a a continuous light and you w when t you you you you press the on button you have the light on your remote control, when you want to turn off your device"
+AE_ID IS1001c.C.argumentstructs.33: "Mm. Mm-hmm. Mm."
+AE_ID IS1001c.A.argumentstructs.25: "But it can be uh battery consuming, no ?"
+AE_ID IS1001c.A.argumentstructs.Rutger.7: "To have the light always on ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.11
+---------------------------------
+target=IS1001c.B.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.9:
+"A little bit."
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.8: "First of all I was thinking to have a a continuous light and you w when t you you you you press the on button you have the light on your remote control, when you want to turn off your device"
+AE_ID IS1001c.C.argumentstructs.33: "Mm. Mm-hmm. Mm."
+AE_ID IS1001c.A.argumentstructs.25: "But it can be uh battery consuming, no ?"
+AE_ID IS1001c.A.argumentstructs.Rutger.7: "To have the light always on ?"
+AE_ID IS1001c.B.argumentstructs.20: "Yeah, a little bit."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.20
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.9
+source=IS1001c.A.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.8:
+"Well we will discuss that after maybe"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.33: "Mm. Mm-hmm. Mm."
+AE_ID IS1001c.A.argumentstructs.25: "But it can be uh battery consuming, no ?"
+AE_ID IS1001c.A.argumentstructs.Rutger.7: "To have the light always on ?"
+AE_ID IS1001c.B.argumentstructs.20: "Yeah, a little bit."
+AE_ID IS1001c.B.argumentstructs.Rutger.9: "A little bit."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.7
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.8
+source=IS1001c.A.argumentstructs.Rutger.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.10:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.25: "But it can be uh battery consuming, no ?"
+AE_ID IS1001c.A.argumentstructs.Rutger.7: "To have the light always on ?"
+AE_ID IS1001c.B.argumentstructs.20: "Yeah, a little bit."
+AE_ID IS1001c.B.argumentstructs.Rutger.9: "A little bit."
+AE_ID IS1001c.A.argumentstructs.Rutger.8: "Well we will discuss that after maybe"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.9
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.10
+source=IS1001c.A.argumentstructs.Rutger.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1001c-The purpose of the light.csv - True Judgement Ratio: 35.48%

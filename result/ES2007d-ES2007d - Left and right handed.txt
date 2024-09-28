@@ -1,0 +1,612 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.Erik.1:
+"I have one thing about it, but it's a small thing, but it'd mean we'd have to make a right-handed one and a left-handed one."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007d.A.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.1:
+"Ah, that's good thinking, yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.1: "I have one thing about it, but it's a small thing, but it'd mean we'd have to make a right-handed one and a left-handed one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.1
+source=ES2007d.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.Erik.1:
+"Oh right, yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.1: "I have one thing about it, but it's a small thing, but it'd mean we'd have to make a right-handed one and a left-handed one."
+AE_ID ES2007d.C.argumentstructs.Erik.1: "Ah, that's good thinking, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2007d.B.argumentstructs.Erik.1
+source=ES2007d.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.Erik.2:
+"But, that's I don't see why that's not possible."
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.1: "I have one thing about it, but it's a small thing, but it'd mean we'd have to make a right-handed one and a left-handed one."
+AE_ID ES2007d.C.argumentstructs.Erik.1: "Ah, that's good thinking, yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.1: "Oh right, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2007d.A.argumentstructs.Erik.2
+source=ES2007d.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.2:
+"Yeah, if we build rocket ships why can't we build left-handed and right-handed uh remotes."
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.1: "I have one thing about it, but it's a small thing, but it'd mean we'd have to make a right-handed one and a left-handed one."
+AE_ID ES2007d.C.argumentstructs.Erik.1: "Ah, that's good thinking, yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.1: "Oh right, yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.2: "But, that's I don't see why that's not possible."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.2
+source=ES2007d.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.Erik.3:
+"Yeah.  They make left-handed scissors, you know."
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.1: "I have one thing about it, but it's a small thing, but it'd mean we'd have to make a right-handed one and a left-handed one."
+AE_ID ES2007d.C.argumentstructs.Erik.1: "Ah, that's good thinking, yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.1: "Oh right, yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.2: "But, that's I don't see why that's not possible."
+AE_ID ES2007d.C.argumentstructs.Erik.2: "Yeah, if we build rocket ships why can't we build left-handed and right-handed uh remotes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2007d.A.argumentstructs.Erik.3
+source=ES2007d.C.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.21:
+"Yeah, but then"
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.1: "Ah, that's good thinking, yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.1: "Oh right, yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.2: "But, that's I don't see why that's not possible."
+AE_ID ES2007d.C.argumentstructs.Erik.2: "Yeah, if we build rocket ships why can't we build left-handed and right-handed uh remotes."
+AE_ID ES2007d.A.argumentstructs.Erik.3: "Yeah.  They make left-handed scissors, you know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2007d.D.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.3:
+"Yeah, I didn't I didn't think about that, but I'd  yeah,."
+
+Past dialogue turns:
+AE_ID ES2007d.B.argumentstructs.Erik.1: "Oh right, yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.2: "But, that's I don't see why that's not possible."
+AE_ID ES2007d.C.argumentstructs.Erik.2: "Yeah, if we build rocket ships why can't we build left-handed and right-handed uh remotes."
+AE_ID ES2007d.A.argumentstructs.Erik.3: "Yeah.  They make left-handed scissors, you know."
+AE_ID ES2007d.D.argumentstructs.21: "Yeah, but then"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.3
+source=ES2007d.A.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.1:
+"but then you can learn to use your right h like I was just thinking if there's left-handers and right-handers in the family, what, they have two remotes ?"
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.2: "But, that's I don't see why that's not possible."
+AE_ID ES2007d.C.argumentstructs.Erik.2: "Yeah, if we build rocket ships why can't we build left-handed and right-handed uh remotes."
+AE_ID ES2007d.A.argumentstructs.Erik.3: "Yeah.  They make left-handed scissors, you know."
+AE_ID ES2007d.D.argumentstructs.21: "Yeah, but then"
+AE_ID ES2007d.C.argumentstructs.Erik.3: "Yeah, I didn't I didn't think about that, but I'd  yeah,."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.1
+source=ES2007d.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.Erik.4:
+"Yes s"
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.2: "Yeah, if we build rocket ships why can't we build left-handed and right-handed uh remotes."
+AE_ID ES2007d.A.argumentstructs.Erik.3: "Yeah.  They make left-handed scissors, you know."
+AE_ID ES2007d.D.argumentstructs.21: "Yeah, but then"
+AE_ID ES2007d.C.argumentstructs.Erik.3: "Yeah, I didn't I didn't think about that, but I'd  yeah,."
+AE_ID ES2007d.D.argumentstructs.Erik.1: "but then you can learn to use your right h like I was just thinking if there's left-handers and right-handers in the family, what, they have two remotes ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2007d.A.argumentstructs.Erik.4
+source=ES2007d.D.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.Erik.2:
+"Yeah, I know I know people who have left-handed and right-handed people in the family and they all use the computer  for the whole  the same computer the fes family and they have a mouse, and everybody is using right-handed mouse."
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.3: "Yeah.  They make left-handed scissors, you know."
+AE_ID ES2007d.D.argumentstructs.21: "Yeah, but then"
+AE_ID ES2007d.C.argumentstructs.Erik.3: "Yeah, I didn't I didn't think about that, but I'd  yeah,."
+AE_ID ES2007d.D.argumentstructs.Erik.1: "but then you can learn to use your right h like I was just thinking if there's left-handers and right-handers in the family, what, they have two remotes ?"
+AE_ID ES2007d.A.argumentstructs.Erik.4: "Yes s"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2007d.B.argumentstructs.Erik.2
+source=ES2007d.D.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.Erik.5:
+"Mm. Sure. Sure."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.21: "Yeah, but then"
+AE_ID ES2007d.C.argumentstructs.Erik.3: "Yeah, I didn't I didn't think about that, but I'd  yeah,."
+AE_ID ES2007d.D.argumentstructs.Erik.1: "but then you can learn to use your right h like I was just thinking if there's left-handers and right-handers in the family, what, they have two remotes ?"
+AE_ID ES2007d.A.argumentstructs.Erik.4: "Yes s"
+AE_ID ES2007d.B.argumentstructs.Erik.2: "Yeah, I know I know people who have left-handed and right-handed people in the family and they all use the computer  for the whole  the same computer the fes family and they have a mouse, and everybody is using right-handed mouse."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2007d.A.argumentstructs.Erik.5
+source=ES2007d.B.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.2:
+"Yeah, I'm sure they'll be able to"
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.3: "Yeah, I didn't I didn't think about that, but I'd  yeah,."
+AE_ID ES2007d.D.argumentstructs.Erik.1: "but then you can learn to use your right h like I was just thinking if there's left-handers and right-handers in the family, what, they have two remotes ?"
+AE_ID ES2007d.A.argumentstructs.Erik.4: "Yes s"
+AE_ID ES2007d.B.argumentstructs.Erik.2: "Yeah, I know I know people who have left-handed and right-handed people in the family and they all use the computer  for the whole  the same computer the fes family and they have a mouse, and everybody is using right-handed mouse."
+AE_ID ES2007d.A.argumentstructs.Erik.5: "Mm. Sure. Sure."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.2
+source=ES2007d.B.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.19:
+"Uh-huh."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.1: "but then you can learn to use your right h like I was just thinking if there's left-handers and right-handers in the family, what, they have two remotes ?"
+AE_ID ES2007d.A.argumentstructs.Erik.4: "Yes s"
+AE_ID ES2007d.B.argumentstructs.Erik.2: "Yeah, I know I know people who have left-handed and right-handed people in the family and they all use the computer  for the whole  the same computer the fes family and they have a mouse, and everybody is using right-handed mouse."
+AE_ID ES2007d.A.argumentstructs.Erik.5: "Mm. Sure. Sure."
+AE_ID ES2007d.D.argumentstructs.Erik.2: "Yeah, I'm sure they'll be able to"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2007d.C.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.3:
+"I mean it's only pressing buttons, you don't have to do anything, you know, extraordinary. I think everybody can press a button with their left and right hand so"
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.4: "Yes s"
+AE_ID ES2007d.B.argumentstructs.Erik.2: "Yeah, I know I know people who have left-handed and right-handed people in the family and they all use the computer  for the whole  the same computer the fes family and they have a mouse, and everybody is using right-handed mouse."
+AE_ID ES2007d.A.argumentstructs.Erik.5: "Mm. Sure. Sure."
+AE_ID ES2007d.D.argumentstructs.Erik.2: "Yeah, I'm sure they'll be able to"
+AE_ID ES2007d.C.argumentstructs.19: "Uh-huh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.3
+source=ES2007d.D.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.4:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.B.argumentstructs.Erik.2: "Yeah, I know I know people who have left-handed and right-handed people in the family and they all use the computer  for the whole  the same computer the fes family and they have a mouse, and everybody is using right-handed mouse."
+AE_ID ES2007d.A.argumentstructs.Erik.5: "Mm. Sure. Sure."
+AE_ID ES2007d.D.argumentstructs.Erik.2: "Yeah, I'm sure they'll be able to"
+AE_ID ES2007d.C.argumentstructs.19: "Uh-huh."
+AE_ID ES2007d.D.argumentstructs.Erik.3: "I mean it's only pressing buttons, you don't have to do anything, you know, extraordinary. I think everybody can press a button with their left and right hand so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.4
+source=ES2007d.D.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.Erik.3:
+"Imagine d are you right handed ?"
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.5: "Mm. Sure. Sure."
+AE_ID ES2007d.D.argumentstructs.Erik.2: "Yeah, I'm sure they'll be able to"
+AE_ID ES2007d.C.argumentstructs.19: "Uh-huh."
+AE_ID ES2007d.D.argumentstructs.Erik.3: "I mean it's only pressing buttons, you don't have to do anything, you know, extraordinary. I think everybody can press a button with their left and right hand so"
+AE_ID ES2007d.C.argumentstructs.Erik.4: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2007d.B.argumentstructs.Erik.3
+source=ES2007d.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.Erik.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.2: "Yeah, I'm sure they'll be able to"
+AE_ID ES2007d.C.argumentstructs.19: "Uh-huh."
+AE_ID ES2007d.D.argumentstructs.Erik.3: "I mean it's only pressing buttons, you don't have to do anything, you know, extraordinary. I think everybody can press a button with their left and right hand so"
+AE_ID ES2007d.C.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.3: "Imagine d are you right handed ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2007d.A.argumentstructs.Erik.6
+source=ES2007d.B.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.Erik.4:
+"Imagine you're doing it with your left hand, I don't think it's too"
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.19: "Uh-huh."
+AE_ID ES2007d.D.argumentstructs.Erik.3: "I mean it's only pressing buttons, you don't have to do anything, you know, extraordinary. I think everybody can press a button with their left and right hand so"
+AE_ID ES2007d.C.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.3: "Imagine d are you right handed ?"
+AE_ID ES2007d.A.argumentstructs.Erik.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2007d.B.argumentstructs.Erik.4
+source=ES2007d.A.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.4:
+"Yeah, it's not"
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.3: "I mean it's only pressing buttons, you don't have to do anything, you know, extraordinary. I think everybody can press a button with their left and right hand so"
+AE_ID ES2007d.C.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.3: "Imagine d are you right handed ?"
+AE_ID ES2007d.A.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.4: "Imagine you're doing it with your left hand, I don't think it's too"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.4
+source=ES2007d.B.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.Erik.5:
+"But we can have both uh"
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.3: "Imagine d are you right handed ?"
+AE_ID ES2007d.A.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.4: "Imagine you're doing it with your left hand, I don't think it's too"
+AE_ID ES2007d.D.argumentstructs.Erik.4: "Yeah, it's not"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2007d.B.argumentstructs.Erik.5
+source=ES2007d.D.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.B.argumentstructs.Erik.3: "Imagine d are you right handed ?"
+AE_ID ES2007d.A.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.4: "Imagine you're doing it with your left hand, I don't think it's too"
+AE_ID ES2007d.D.argumentstructs.Erik.4: "Yeah, it's not"
+AE_ID ES2007d.B.argumentstructs.Erik.5: "But we can have both uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.A.argumentstructs.Erik.6
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.5
+source=ES2007d.B.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.6:
+"Have them in stock."
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.4: "Imagine you're doing it with your left hand, I don't think it's too"
+AE_ID ES2007d.D.argumentstructs.Erik.4: "Yeah, it's not"
+AE_ID ES2007d.B.argumentstructs.Erik.5: "But we can have both uh"
+AE_ID ES2007d.D.argumentstructs.Erik.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.6
+source=ES2007d.D.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.Erik.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.B.argumentstructs.Erik.4: "Imagine you're doing it with your left hand, I don't think it's too"
+AE_ID ES2007d.D.argumentstructs.Erik.4: "Yeah, it's not"
+AE_ID ES2007d.B.argumentstructs.Erik.5: "But we can have both uh"
+AE_ID ES2007d.D.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2007d.D.argumentstructs.Erik.6: "Have them in stock."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.5
+---------------------------------
+target=ES2007d.B.argumentstructs.Erik.6
+source=ES2007d.D.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.Erik.7:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.4: "Yeah, it's not"
+AE_ID ES2007d.B.argumentstructs.Erik.5: "But we can have both uh"
+AE_ID ES2007d.D.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2007d.D.argumentstructs.Erik.6: "Have them in stock."
+AE_ID ES2007d.B.argumentstructs.Erik.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.6
+---------------------------------
+target=ES2007d.A.argumentstructs.Erik.7
+source=ES2007d.D.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2007d-ES2007d - Left and right handed.csv - True Judgement Ratio: 36.00%

@@ -1,0 +1,1162 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.13:
+"Yeah, interesting thing about discussing um production of a remote control for me is that l as you point out, I just don't think of remote controls as somethin something people consciously assess in their purchasing habits. It's just like getting shoelaces with shoes or something. It just comes along."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.13
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.8:
+"Yeah, yeah."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.13: "Yeah, interesting thing about discussing um production of a remote control for me is that l as you point out, I just don't think of remote controls as somethin something people consciously assess in their purchasing habits. It's just like getting shoelaces with shoes or something. It just comes along."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.13
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.8
+source=ES2002a.D.argumentstructs.Erik.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.25:
+"Oh. Five minutes to end of meeting. Oh, okay. We're a bit behind."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.13: "Yeah, interesting thing about discussing um production of a remote control for me is that l as you point out, I just don't think of remote controls as somethin something people consciously assess in their purchasing habits. It's just like getting shoelaces with shoes or something. It just comes along."
+AE_ID ES2002a.B.argumentstructs.Erik.8: "Yeah, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002a.B.argumentstructs.25
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.14:
+"Do you know what I mean ? Like so sort of like how do you I I mean one one way of looking at it would be, well the people producing television sets, maybe they have to buy remote controls. Or another way is maybe people who have T_V_ sets are really fed up with their remote control and they really want a better one or something."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.13: "Yeah, interesting thing about discussing um production of a remote control for me is that l as you point out, I just don't think of remote controls as somethin something people consciously assess in their purchasing habits. It's just like getting shoelaces with shoes or something. It just comes along."
+AE_ID ES2002a.B.argumentstructs.Erik.8: "Yeah, yeah."
+AE_ID ES2002a.B.argumentstructs.25: "Oh. Five minutes to end of meeting. Oh, okay. We're a bit behind."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.13
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.14
+source=ES2002a.D.argumentstructs.Erik.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.C.argumentstructs.Erik.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.13: "Yeah, interesting thing about discussing um production of a remote control for me is that l as you point out, I just don't think of remote controls as somethin something people consciously assess in their purchasing habits. It's just like getting shoelaces with shoes or something. It just comes along."
+AE_ID ES2002a.B.argumentstructs.Erik.8: "Yeah, yeah."
+AE_ID ES2002a.B.argumentstructs.25: "Oh. Five minutes to end of meeting. Oh, okay. We're a bit behind."
+AE_ID ES2002a.D.argumentstructs.Erik.14: "Do you know what I mean ? Like so sort of like how do you I I mean one one way of looking at it would be, well the people producing television sets, maybe they have to buy remote controls. Or another way is maybe people who have T_V_ sets are really fed up with their remote control and they really want a better one or something."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.13
+---------------------------------
+target=ES2002a.C.argumentstructs.Erik.1
+source=ES2002a.D.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.A.argumentstructs.Erik.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.13: "Yeah, interesting thing about discussing um production of a remote control for me is that l as you point out, I just don't think of remote controls as somethin something people consciously assess in their purchasing habits. It's just like getting shoelaces with shoes or something. It just comes along."
+AE_ID ES2002a.B.argumentstructs.Erik.8: "Yeah, yeah."
+AE_ID ES2002a.B.argumentstructs.25: "Oh. Five minutes to end of meeting. Oh, okay. We're a bit behind."
+AE_ID ES2002a.D.argumentstructs.Erik.14: "Do you know what I mean ? Like so sort of like how do you I I mean one one way of looking at it would be, well the people producing television sets, maybe they have to buy remote controls. Or another way is maybe people who have T_V_ sets are really fed up with their remote control and they really want a better one or something."
+AE_ID ES2002a.C.argumentstructs.Erik.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2002a.A.argumentstructs.Erik.5
+source=ES2002a.D.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.C.argumentstructs.3:
+"I know um"
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.Erik.8: "Yeah, yeah."
+AE_ID ES2002a.B.argumentstructs.25: "Oh. Five minutes to end of meeting. Oh, okay. We're a bit behind."
+AE_ID ES2002a.D.argumentstructs.Erik.14: "Do you know what I mean ? Like so sort of like how do you I I mean one one way of looking at it would be, well the people producing television sets, maybe they have to buy remote controls. Or another way is maybe people who have T_V_ sets are really fed up with their remote control and they really want a better one or something."
+AE_ID ES2002a.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2002a.A.argumentstructs.Erik.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.8
+---------------------------------
+target=ES2002a.C.argumentstructs.3
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.C.argumentstructs.Erik.2:
+"My parents went out and bought um remote controls because um they got fed up of having four or five different remote controls for each things the house. So um for them it was just how many devices control."
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.25: "Oh. Five minutes to end of meeting. Oh, okay. We're a bit behind."
+AE_ID ES2002a.D.argumentstructs.Erik.14: "Do you know what I mean ? Like so sort of like how do you I I mean one one way of looking at it would be, well the people producing television sets, maybe they have to buy remote controls. Or another way is maybe people who have T_V_ sets are really fed up with their remote control and they really want a better one or something."
+AE_ID ES2002a.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2002a.A.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2002a.C.argumentstructs.3: "I know um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.14
+---------------------------------
+target=ES2002a.C.argumentstructs.Erik.2
+source=ES2002a.D.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.28:
+"But"
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.14: "Do you know what I mean ? Like so sort of like how do you I I mean one one way of looking at it would be, well the people producing television sets, maybe they have to buy remote controls. Or another way is maybe people who have T_V_ sets are really fed up with their remote control and they really want a better one or something."
+AE_ID ES2002a.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2002a.A.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2002a.C.argumentstructs.3: "I know um"
+AE_ID ES2002a.C.argumentstructs.Erik.2: "My parents went out and bought um remote controls because um they got fed up of having four or five different remote controls for each things the house. So um for them it was just how many devices control."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.14
+---------------------------------
+target=ES2002a.D.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.15:
+"Right. Right. Okay so"
+
+Past dialogue turns:
+AE_ID ES2002a.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2002a.A.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2002a.C.argumentstructs.3: "I know um"
+AE_ID ES2002a.C.argumentstructs.Erik.2: "My parents went out and bought um remote controls because um they got fed up of having four or five different remote controls for each things the house. So um for them it was just how many devices control."
+AE_ID ES2002a.D.argumentstructs.28: "But"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.15
+source=ES2002a.C.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.16:
+"Right, so in function one of the priorities might be to combine as many uses"
+
+Past dialogue turns:
+AE_ID ES2002a.A.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2002a.C.argumentstructs.3: "I know um"
+AE_ID ES2002a.C.argumentstructs.Erik.2: "My parents went out and bought um remote controls because um they got fed up of having four or five different remote controls for each things the house. So um for them it was just how many devices control."
+AE_ID ES2002a.D.argumentstructs.28: "But"
+AE_ID ES2002a.D.argumentstructs.Erik.15: "Right. Right. Okay so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.15
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.16
+source=ES2002a.C.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.9:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002a.C.argumentstructs.3: "I know um"
+AE_ID ES2002a.C.argumentstructs.Erik.2: "My parents went out and bought um remote controls because um they got fed up of having four or five different remote controls for each things the house. So um for them it was just how many devices control."
+AE_ID ES2002a.D.argumentstructs.28: "But"
+AE_ID ES2002a.D.argumentstructs.Erik.15: "Right. Right. Okay so"
+AE_ID ES2002a.D.argumentstructs.Erik.16: "Right, so in function one of the priorities might be to combine as many uses"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.15
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.9
+source=ES2002a.D.argumentstructs.Erik.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.10:
+"Right, so do you think that should be like a main design aim of our remote control d you know, do your your satellite and your regular telly and your V_C_R_ and everything ?"
+
+Past dialogue turns:
+AE_ID ES2002a.C.argumentstructs.Erik.2: "My parents went out and bought um remote controls because um they got fed up of having four or five different remote controls for each things the house. So um for them it was just how many devices control."
+AE_ID ES2002a.D.argumentstructs.28: "But"
+AE_ID ES2002a.D.argumentstructs.Erik.15: "Right. Right. Okay so"
+AE_ID ES2002a.D.argumentstructs.Erik.16: "Right, so in function one of the priorities might be to combine as many uses"
+AE_ID ES2002a.B.argumentstructs.Erik.9: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.10
+source=ES2002a.C.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.17:
+"I think so. Yeah, yeah."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.28: "But"
+AE_ID ES2002a.D.argumentstructs.Erik.15: "Right. Right. Okay so"
+AE_ID ES2002a.D.argumentstructs.Erik.16: "Right, so in function one of the priorities might be to combine as many uses"
+AE_ID ES2002a.B.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2002a.B.argumentstructs.Erik.10: "Right, so do you think that should be like a main design aim of our remote control d you know, do your your satellite and your regular telly and your V_C_R_ and everything ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.10
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.17
+source=ES2002a.B.argumentstructs.Erik.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.29:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.15: "Right. Right. Okay so"
+AE_ID ES2002a.D.argumentstructs.Erik.16: "Right, so in function one of the priorities might be to combine as many uses"
+AE_ID ES2002a.B.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2002a.B.argumentstructs.Erik.10: "Right, so do you think that should be like a main design aim of our remote control d you know, do your your satellite and your regular telly and your V_C_R_ and everything ?"
+AE_ID ES2002a.D.argumentstructs.Erik.17: "I think so. Yeah, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.9
+---------------------------------
+target=ES2002a.D.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.18:
+"Well like um, maybe what we could use is a sort of like a example of a successful other piece technology is palm palm pilots. They're gone from being just like little sort of scribble boards to cameras, M_P_ three players, telephones, everything, agenda. So, like, I wonder if we might add something new to the to the remote control market, such as the lighting in your house"
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.16: "Right, so in function one of the priorities might be to combine as many uses"
+AE_ID ES2002a.B.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2002a.B.argumentstructs.Erik.10: "Right, so do you think that should be like a main design aim of our remote control d you know, do your your satellite and your regular telly and your V_C_R_ and everything ?"
+AE_ID ES2002a.D.argumentstructs.Erik.17: "I think so. Yeah, yeah."
+AE_ID ES2002a.D.argumentstructs.29: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.16
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.18
+source=ES2002a.B.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.26:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2002a.B.argumentstructs.Erik.10: "Right, so do you think that should be like a main design aim of our remote control d you know, do your your satellite and your regular telly and your V_C_R_ and everything ?"
+AE_ID ES2002a.D.argumentstructs.Erik.17: "I think so. Yeah, yeah."
+AE_ID ES2002a.D.argumentstructs.29: "Yeah."
+AE_ID ES2002a.D.argumentstructs.Erik.18: "Well like um, maybe what we could use is a sort of like a example of a successful other piece technology is palm palm pilots. They're gone from being just like little sort of scribble boards to cameras, M_P_ three players, telephones, everything, agenda. So, like, I wonder if we might add something new to the to the remote control market, such as the lighting in your house"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.10
+---------------------------------
+target=ES2002a.B.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.11:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.Erik.10: "Right, so do you think that should be like a main design aim of our remote control d you know, do your your satellite and your regular telly and your V_C_R_ and everything ?"
+AE_ID ES2002a.D.argumentstructs.Erik.17: "I think so. Yeah, yeah."
+AE_ID ES2002a.D.argumentstructs.29: "Yeah."
+AE_ID ES2002a.D.argumentstructs.Erik.18: "Well like um, maybe what we could use is a sort of like a example of a successful other piece technology is palm palm pilots. They're gone from being just like little sort of scribble boards to cameras, M_P_ three players, telephones, everything, agenda. So, like, I wonder if we might add something new to the to the remote control market, such as the lighting in your house"
+AE_ID ES2002a.B.argumentstructs.26: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.17
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.11
+source=ES2002a.D.argumentstructs.Erik.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.30:
+", or um"
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.17: "I think so. Yeah, yeah."
+AE_ID ES2002a.D.argumentstructs.29: "Yeah."
+AE_ID ES2002a.D.argumentstructs.Erik.18: "Well like um, maybe what we could use is a sort of like a example of a successful other piece technology is palm palm pilots. They're gone from being just like little sort of scribble boards to cameras, M_P_ three players, telephones, everything, agenda. So, like, I wonder if we might add something new to the to the remote control market, such as the lighting in your house"
+AE_ID ES2002a.B.argumentstructs.26: "Mm-hmm."
+AE_ID ES2002a.B.argumentstructs.Erik.11: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.29
+---------------------------------
+target=ES2002a.D.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.12:
+"Or even like, you know, notes about um what you wanna watch. Like you might put in there oh I want to watch such and such and look a Oh that's a good idea. So extra functionalities."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.29: "Yeah."
+AE_ID ES2002a.D.argumentstructs.Erik.18: "Well like um, maybe what we could use is a sort of like a example of a successful other piece technology is palm palm pilots. They're gone from being just like little sort of scribble boards to cameras, M_P_ three players, telephones, everything, agenda. So, like, I wonder if we might add something new to the to the remote control market, such as the lighting in your house"
+AE_ID ES2002a.B.argumentstructs.26: "Mm-hmm."
+AE_ID ES2002a.B.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2002a.D.argumentstructs.30: ", or um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.18
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.12
+source=ES2002a.D.argumentstructs.Erik.18
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.19:
+"Yeah, yeah."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.18: "Well like um, maybe what we could use is a sort of like a example of a successful other piece technology is palm palm pilots. They're gone from being just like little sort of scribble boards to cameras, M_P_ three players, telephones, everything, agenda. So, like, I wonder if we might add something new to the to the remote control market, such as the lighting in your house"
+AE_ID ES2002a.B.argumentstructs.26: "Mm-hmm."
+AE_ID ES2002a.B.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2002a.D.argumentstructs.30: ", or um"
+AE_ID ES2002a.B.argumentstructs.Erik.12: "Or even like, you know, notes about um what you wanna watch. Like you might put in there oh I want to watch such and such and look a Oh that's a good idea. So extra functionalities."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.18
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.19
+source=ES2002a.B.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.31:
+"An"
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.26: "Mm-hmm."
+AE_ID ES2002a.B.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2002a.D.argumentstructs.30: ", or um"
+AE_ID ES2002a.B.argumentstructs.Erik.12: "Or even like, you know, notes about um what you wanna watch. Like you might put in there oh I want to watch such and such and look a Oh that's a good idea. So extra functionalities."
+AE_ID ES2002a.D.argumentstructs.Erik.19: "Yeah, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.30
+---------------------------------
+target=ES2002a.D.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.20:
+"Yeah. Like, p personally for me, at home I've I've combined the um the audio video of my television set and my D_V_D_ player and my C_D_ player. So they w all work actually function together but I have different remote controls for each of them. So it's sort of ironic that that then they're in there um you know, the sound and everything it's just one system. But each one's got its own little part."
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2002a.D.argumentstructs.30: ", or um"
+AE_ID ES2002a.B.argumentstructs.Erik.12: "Or even like, you know, notes about um what you wanna watch. Like you might put in there oh I want to watch such and such and look a Oh that's a good idea. So extra functionalities."
+AE_ID ES2002a.D.argumentstructs.Erik.19: "Yeah, yeah."
+AE_ID ES2002a.D.argumentstructs.31: "An"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.20
+source=ES2002a.B.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.27:
+"Mm-hmm. Hmm. Um okay, uh I'd wel we're gonna have to wrap up pretty quickly in the next couple of minutes. Um I'll just check we've nothing else."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.30: ", or um"
+AE_ID ES2002a.B.argumentstructs.Erik.12: "Or even like, you know, notes about um what you wanna watch. Like you might put in there oh I want to watch such and such and look a Oh that's a good idea. So extra functionalities."
+AE_ID ES2002a.D.argumentstructs.Erik.19: "Yeah, yeah."
+AE_ID ES2002a.D.argumentstructs.31: "An"
+AE_ID ES2002a.D.argumentstructs.Erik.20: "Yeah. Like, p personally for me, at home I've I've combined the um the audio video of my television set and my D_V_D_ player and my C_D_ player. So they w all work actually function together but I have different remote controls for each of them. So it's sort of ironic that that then they're in there um you know, the sound and everything it's just one system. But each one's got its own little part."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002a.B.argumentstructs.27
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.13:
+"Okay. Um so anything else anybody wants to add about what they don't like about remote controls they've used, what they would really like to be part of this new one at all ?"
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.Erik.12: "Or even like, you know, notes about um what you wanna watch. Like you might put in there oh I want to watch such and such and look a Oh that's a good idea. So extra functionalities."
+AE_ID ES2002a.D.argumentstructs.Erik.19: "Yeah, yeah."
+AE_ID ES2002a.D.argumentstructs.31: "An"
+AE_ID ES2002a.D.argumentstructs.Erik.20: "Yeah. Like, p personally for me, at home I've I've combined the um the audio video of my television set and my D_V_D_ player and my C_D_ player. So they w all work actually function together but I have different remote controls for each of them. So it's sort of ironic that that then they're in there um you know, the sound and everything it's just one system. But each one's got its own little part."
+AE_ID ES2002a.B.argumentstructs.27: "Mm-hmm. Hmm. Um okay, uh I'd wel we're gonna have to wrap up pretty quickly in the next couple of minutes. Um I'll just check we've nothing else."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.13
+source=ES2002a.D.argumentstructs.Erik.20
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.A.argumentstructs.Erik.6:
+"And you keep losing them."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.19: "Yeah, yeah."
+AE_ID ES2002a.D.argumentstructs.31: "An"
+AE_ID ES2002a.D.argumentstructs.Erik.20: "Yeah. Like, p personally for me, at home I've I've combined the um the audio video of my television set and my D_V_D_ player and my C_D_ player. So they w all work actually function together but I have different remote controls for each of them. So it's sort of ironic that that then they're in there um you know, the sound and everything it's just one system. But each one's got its own little part."
+AE_ID ES2002a.B.argumentstructs.27: "Mm-hmm. Hmm. Um okay, uh I'd wel we're gonna have to wrap up pretty quickly in the next couple of minutes. Um I'll just check we've nothing else."
+AE_ID ES2002a.B.argumentstructs.Erik.13: "Okay. Um so anything else anybody wants to add about what they don't like about remote controls they've used, what they would really like to be part of this new one at all ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.20
+---------------------------------
+target=ES2002a.A.argumentstructs.Erik.6
+source=ES2002a.B.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.14:
+"You keep losing them. Okay."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.31: "An"
+AE_ID ES2002a.D.argumentstructs.Erik.20: "Yeah. Like, p personally for me, at home I've I've combined the um the audio video of my television set and my D_V_D_ player and my C_D_ player. So they w all work actually function together but I have different remote controls for each of them. So it's sort of ironic that that then they're in there um you know, the sound and everything it's just one system. But each one's got its own little part."
+AE_ID ES2002a.B.argumentstructs.27: "Mm-hmm. Hmm. Um okay, uh I'd wel we're gonna have to wrap up pretty quickly in the next couple of minutes. Um I'll just check we've nothing else."
+AE_ID ES2002a.B.argumentstructs.Erik.13: "Okay. Um so anything else anybody wants to add about what they don't like about remote controls they've used, what they would really like to be part of this new one at all ?"
+AE_ID ES2002a.A.argumentstructs.Erik.6: "And you keep losing them."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.A.argumentstructs.Erik.6
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.14
+source=ES2002a.A.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.32:
+"Mm. Mm. Mm. Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.20: "Yeah. Like, p personally for me, at home I've I've combined the um the audio video of my television set and my D_V_D_ player and my C_D_ player. So they w all work actually function together but I have different remote controls for each of them. So it's sort of ironic that that then they're in there um you know, the sound and everything it's just one system. But each one's got its own little part."
+AE_ID ES2002a.B.argumentstructs.27: "Mm-hmm. Hmm. Um okay, uh I'd wel we're gonna have to wrap up pretty quickly in the next couple of minutes. Um I'll just check we've nothing else."
+AE_ID ES2002a.B.argumentstructs.Erik.13: "Okay. Um so anything else anybody wants to add about what they don't like about remote controls they've used, what they would really like to be part of this new one at all ?"
+AE_ID ES2002a.A.argumentstructs.Erik.6: "And you keep losing them."
+AE_ID ES2002a.B.argumentstructs.Erik.14: "You keep losing them. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.27
+---------------------------------
+target=ES2002a.D.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.A.argumentstructs.Erik.7:
+"Finding them is really a pain, you know. I mean it's usually quite small, or when you want it right, it slipped behind the couch or it's kicked under the table."
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.27: "Mm-hmm. Hmm. Um okay, uh I'd wel we're gonna have to wrap up pretty quickly in the next couple of minutes. Um I'll just check we've nothing else."
+AE_ID ES2002a.B.argumentstructs.Erik.13: "Okay. Um so anything else anybody wants to add about what they don't like about remote controls they've used, what they would really like to be part of this new one at all ?"
+AE_ID ES2002a.A.argumentstructs.Erik.6: "And you keep losing them."
+AE_ID ES2002a.B.argumentstructs.Erik.14: "You keep losing them. Okay."
+AE_ID ES2002a.D.argumentstructs.32: "Mm. Mm. Mm. Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.A.argumentstructs.Erik.6
+---------------------------------
+target=ES2002a.A.argumentstructs.Erik.7
+source=ES2002a.A.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.15:
+"Yeah. W You get those ones where you can, if you like, whistle or make a really high pitched noise they beep. There  I mean is that something we'd want to include, do you think ?"
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.Erik.13: "Okay. Um so anything else anybody wants to add about what they don't like about remote controls they've used, what they would really like to be part of this new one at all ?"
+AE_ID ES2002a.A.argumentstructs.Erik.6: "And you keep losing them."
+AE_ID ES2002a.B.argumentstructs.Erik.14: "You keep losing them. Okay."
+AE_ID ES2002a.D.argumentstructs.32: "Mm. Mm. Mm. Mm-hmm. Mm-hmm."
+AE_ID ES2002a.A.argumentstructs.Erik.7: "Finding them is really a pain, you know. I mean it's usually quite small, or when you want it right, it slipped behind the couch or it's kicked under the table."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.13
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.15
+source=ES2002a.A.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.21:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002a.A.argumentstructs.Erik.6: "And you keep losing them."
+AE_ID ES2002a.B.argumentstructs.Erik.14: "You keep losing them. Okay."
+AE_ID ES2002a.D.argumentstructs.32: "Mm. Mm. Mm. Mm-hmm. Mm-hmm."
+AE_ID ES2002a.A.argumentstructs.Erik.7: "Finding them is really a pain, you know. I mean it's usually quite small, or when you want it right, it slipped behind the couch or it's kicked under the table."
+AE_ID ES2002a.B.argumentstructs.Erik.15: "Yeah. W You get those ones where you can, if you like, whistle or make a really high pitched noise they beep. There  I mean is that something we'd want to include, do you think ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.14
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.21
+source=ES2002a.B.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.33:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.Erik.14: "You keep losing them. Okay."
+AE_ID ES2002a.D.argumentstructs.32: "Mm. Mm. Mm. Mm-hmm. Mm-hmm."
+AE_ID ES2002a.A.argumentstructs.Erik.7: "Finding them is really a pain, you know. I mean it's usually quite small, or when you want it right, it slipped behind the couch or it's kicked under the table."
+AE_ID ES2002a.B.argumentstructs.Erik.15: "Yeah. W You get those ones where you can, if you like, whistle or make a really high pitched noise they beep. There  I mean is that something we'd want to include, do you think ?"
+AE_ID ES2002a.D.argumentstructs.Erik.21: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.14
+---------------------------------
+target=ES2002a.D.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.A.argumentstructs.10:
+"You know."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.32: "Mm. Mm. Mm. Mm-hmm. Mm-hmm."
+AE_ID ES2002a.A.argumentstructs.Erik.7: "Finding them is really a pain, you know. I mean it's usually quite small, or when you want it right, it slipped behind the couch or it's kicked under the table."
+AE_ID ES2002a.B.argumentstructs.Erik.15: "Yeah. W You get those ones where you can, if you like, whistle or make a really high pitched noise they beep. There  I mean is that something we'd want to include, do you think ?"
+AE_ID ES2002a.D.argumentstructs.Erik.21: "Yeah."
+AE_ID ES2002a.D.argumentstructs.33: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2002a.A.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.22:
+"That's just really good id"
+
+Past dialogue turns:
+AE_ID ES2002a.A.argumentstructs.Erik.7: "Finding them is really a pain, you know. I mean it's usually quite small, or when you want it right, it slipped behind the couch or it's kicked under the table."
+AE_ID ES2002a.B.argumentstructs.Erik.15: "Yeah. W You get those ones where you can, if you like, whistle or make a really high pitched noise they beep. There  I mean is that something we'd want to include, do you think ?"
+AE_ID ES2002a.D.argumentstructs.Erik.21: "Yeah."
+AE_ID ES2002a.D.argumentstructs.33: "Yeah."
+AE_ID ES2002a.A.argumentstructs.10: "You know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.21
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.22
+source=ES2002a.B.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.34:
+"Yep."
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.Erik.15: "Yeah. W You get those ones where you can, if you like, whistle or make a really high pitched noise they beep. There  I mean is that something we'd want to include, do you think ?"
+AE_ID ES2002a.D.argumentstructs.Erik.21: "Yeah."
+AE_ID ES2002a.D.argumentstructs.33: "Yeah."
+AE_ID ES2002a.A.argumentstructs.10: "You know."
+AE_ID ES2002a.D.argumentstructs.Erik.22: "That's just really good id"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.15
+---------------------------------
+target=ES2002a.D.argumentstructs.34
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.23:
+"Uh,  sure.  I remember when the first remote control my my family had was on a cable. Actually had a cable between it and the T_V_ and big like buttons that sort of like, like on a blender or something. And um, you know, when I think about what they are now, it's better, but actually it's still kind of, I dunno, like a massive junky thing on the table. Maybe we could think about how, could be more, you know, streamlined. S"
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.21: "Yeah."
+AE_ID ES2002a.D.argumentstructs.33: "Yeah."
+AE_ID ES2002a.A.argumentstructs.10: "You know."
+AE_ID ES2002a.D.argumentstructs.Erik.22: "That's just really good id"
+AE_ID ES2002a.D.argumentstructs.34: "Yep."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.22
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.23
+source=ES2002a.B.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.16:
+"Dunno. Okay maybe."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.33: "Yeah."
+AE_ID ES2002a.A.argumentstructs.10: "You know."
+AE_ID ES2002a.D.argumentstructs.Erik.22: "That's just really good id"
+AE_ID ES2002a.D.argumentstructs.34: "Yep."
+AE_ID ES2002a.D.argumentstructs.Erik.23: "Uh,  sure.  I remember when the first remote control my my family had was on a cable. Actually had a cable between it and the T_V_ and big like buttons that sort of like, like on a blender or something. And um, you know, when I think about what they are now, it's better, but actually it's still kind of, I dunno, like a massive junky thing on the table. Maybe we could think about how, could be more, you know, streamlined. S"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.34
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.16
+source=ES2002a.D.argumentstructs.Erik.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.28:
+"My goodness. Still feels quite primitive."
+
+Past dialogue turns:
+AE_ID ES2002a.A.argumentstructs.10: "You know."
+AE_ID ES2002a.D.argumentstructs.Erik.22: "That's just really good id"
+AE_ID ES2002a.D.argumentstructs.34: "Yep."
+AE_ID ES2002a.D.argumentstructs.Erik.23: "Uh,  sure.  I remember when the first remote control my my family had was on a cable. Actually had a cable between it and the T_V_ and big like buttons that sort of like, like on a blender or something. And um, you know, when I think about what they are now, it's better, but actually it's still kind of, I dunno, like a massive junky thing on the table. Maybe we could think about how, could be more, you know, streamlined. S"
+AE_ID ES2002a.B.argumentstructs.Erik.16: "Dunno. Okay maybe."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.23
+---------------------------------
+target=ES2002a.B.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.17:
+"Maybe like a touch screen or something ?"
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.22: "That's just really good id"
+AE_ID ES2002a.D.argumentstructs.34: "Yep."
+AE_ID ES2002a.D.argumentstructs.Erik.23: "Uh,  sure.  I remember when the first remote control my my family had was on a cable. Actually had a cable between it and the T_V_ and big like buttons that sort of like, like on a blender or something. And um, you know, when I think about what they are now, it's better, but actually it's still kind of, I dunno, like a massive junky thing on the table. Maybe we could think about how, could be more, you know, streamlined. S"
+AE_ID ES2002a.B.argumentstructs.Erik.16: "Dunno. Okay maybe."
+AE_ID ES2002a.B.argumentstructs.28: "My goodness. Still feels quite primitive."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.23
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.17
+source=ES2002a.B.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.24:
+"Something like that, yeah. Or whatever would be technologically reasonable."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.34: "Yep."
+AE_ID ES2002a.D.argumentstructs.Erik.23: "Uh,  sure.  I remember when the first remote control my my family had was on a cable. Actually had a cable between it and the T_V_ and big like buttons that sort of like, like on a blender or something. And um, you know, when I think about what they are now, it's better, but actually it's still kind of, I dunno, like a massive junky thing on the table. Maybe we could think about how, could be more, you know, streamlined. S"
+AE_ID ES2002a.B.argumentstructs.Erik.16: "Dunno. Okay maybe."
+AE_ID ES2002a.B.argumentstructs.28: "My goodness. Still feels quite primitive."
+AE_ID ES2002a.B.argumentstructs.Erik.17: "Maybe like a touch screen or something ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.23
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.24
+source=ES2002a.B.argumentstructs.Erik.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.29:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.23: "Uh,  sure.  I remember when the first remote control my my family had was on a cable. Actually had a cable between it and the T_V_ and big like buttons that sort of like, like on a blender or something. And um, you know, when I think about what they are now, it's better, but actually it's still kind of, I dunno, like a massive junky thing on the table. Maybe we could think about how, could be more, you know, streamlined. S"
+AE_ID ES2002a.B.argumentstructs.Erik.16: "Dunno. Okay maybe."
+AE_ID ES2002a.B.argumentstructs.28: "My goodness. Still feels quite primitive."
+AE_ID ES2002a.B.argumentstructs.Erik.17: "Maybe like a touch screen or something ?"
+AE_ID ES2002a.D.argumentstructs.Erik.24: "Something like that, yeah. Or whatever would be technologically reasonable."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.24
+---------------------------------
+target=ES2002a.B.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.18:
+"Uh-huh, okay. Well I guess that's up to our industrial designer."
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.Erik.16: "Dunno. Okay maybe."
+AE_ID ES2002a.B.argumentstructs.28: "My goodness. Still feels quite primitive."
+AE_ID ES2002a.B.argumentstructs.Erik.17: "Maybe like a touch screen or something ?"
+AE_ID ES2002a.D.argumentstructs.Erik.24: "Something like that, yeah. Or whatever would be technologically reasonable."
+AE_ID ES2002a.B.argumentstructs.29: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.17
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.18
+source=ES2002a.D.argumentstructs.Erik.24
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.D.argumentstructs.Erik.25:
+"'Cause it could b it could it could be that f it could be that functionally that doesn't make it any better, but that just the appeal of of not having  You know, these days there's a r pe things in people's homes are becoming more and more like chic, you know. Um, nicer materials and might be be worth exploring anyway."
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.28: "My goodness. Still feels quite primitive."
+AE_ID ES2002a.B.argumentstructs.Erik.17: "Maybe like a touch screen or something ?"
+AE_ID ES2002a.D.argumentstructs.Erik.24: "Something like that, yeah. Or whatever would be technologically reasonable."
+AE_ID ES2002a.B.argumentstructs.29: "Okay."
+AE_ID ES2002a.B.argumentstructs.Erik.18: "Uh-huh, okay. Well I guess that's up to our industrial designer."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.24
+---------------------------------
+target=ES2002a.D.argumentstructs.Erik.25
+source=ES2002a.D.argumentstructs.Erik.24
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.19:
+"It looks better."
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.Erik.17: "Maybe like a touch screen or something ?"
+AE_ID ES2002a.D.argumentstructs.Erik.24: "Something like that, yeah. Or whatever would be technologically reasonable."
+AE_ID ES2002a.B.argumentstructs.29: "Okay."
+AE_ID ES2002a.B.argumentstructs.Erik.18: "Uh-huh, okay. Well I guess that's up to our industrial designer."
+AE_ID ES2002a.D.argumentstructs.Erik.25: "'Cause it could b it could it could be that f it could be that functionally that doesn't make it any better, but that just the appeal of of not having  You know, these days there's a r pe things in people's homes are becoming more and more like chic, you know. Um, nicer materials and might be be worth exploring anyway."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.18
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.19
+source=ES2002a.D.argumentstructs.Erik.25
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.Erik.20:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002a.D.argumentstructs.Erik.24: "Something like that, yeah. Or whatever would be technologically reasonable."
+AE_ID ES2002a.B.argumentstructs.29: "Okay."
+AE_ID ES2002a.B.argumentstructs.Erik.18: "Uh-huh, okay. Well I guess that's up to our industrial designer."
+AE_ID ES2002a.D.argumentstructs.Erik.25: "'Cause it could b it could it could be that f it could be that functionally that doesn't make it any better, but that just the appeal of of not having  You know, these days there's a r pe things in people's homes are becoming more and more like chic, you know. Um, nicer materials and might be be worth exploring anyway."
+AE_ID ES2002a.B.argumentstructs.Erik.19: "It looks better."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.D.argumentstructs.Erik.24
+---------------------------------
+target=ES2002a.B.argumentstructs.Erik.20
+source=ES2002a.D.argumentstructs.Erik.25
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.B.argumentstructs.30:
+"Okay. Okay."
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.29: "Okay."
+AE_ID ES2002a.B.argumentstructs.Erik.18: "Uh-huh, okay. Well I guess that's up to our industrial designer."
+AE_ID ES2002a.D.argumentstructs.Erik.25: "'Cause it could b it could it could be that f it could be that functionally that doesn't make it any better, but that just the appeal of of not having  You know, these days there's a r pe things in people's homes are becoming more and more like chic, you know. Um, nicer materials and might be be worth exploring anyway."
+AE_ID ES2002a.B.argumentstructs.Erik.19: "It looks better."
+AE_ID ES2002a.B.argumentstructs.Erik.20: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.29
+---------------------------------
+target=ES2002a.B.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002a.C.argumentstructs.4:
+"Uh."
+
+Past dialogue turns:
+AE_ID ES2002a.B.argumentstructs.Erik.18: "Uh-huh, okay. Well I guess that's up to our industrial designer."
+AE_ID ES2002a.D.argumentstructs.Erik.25: "'Cause it could b it could it could be that f it could be that functionally that doesn't make it any better, but that just the appeal of of not having  You know, these days there's a r pe things in people's homes are becoming more and more like chic, you know. Um, nicer materials and might be be worth exploring anyway."
+AE_ID ES2002a.B.argumentstructs.Erik.19: "It looks better."
+AE_ID ES2002a.B.argumentstructs.Erik.20: "Yeah."
+AE_ID ES2002a.B.argumentstructs.30: "Okay. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002a.B.argumentstructs.Erik.18
+---------------------------------
+target=ES2002a.C.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2002a-ES2002a - Remote functionality.csv - True Judgement Ratio: 25.53%

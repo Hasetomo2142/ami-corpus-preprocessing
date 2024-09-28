@@ -1,0 +1,562 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.11:
+"Nah, but they just said we need it. Uh the battery contacts, like normal batteries ca you can put in."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.11
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.16:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.11: "Nah, but they just said we need it. Uh the battery contacts, like normal batteries ca you can put in."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.11
+---------------------------------
+target=TS3004c.A.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.9:
+"Yeah, a recharger maybe."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.11: "Nah, but they just said we need it. Uh the battery contacts, like normal batteries ca you can put in."
+AE_ID TS3004c.A.argumentstructs.16: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.11
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.9
+source=TS3004c.C.argumentstructs.Daan.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.18:
+"Yeah, we have to make sure to uh"
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.11: "Nah, but they just said we need it. Uh the battery contacts, like normal batteries ca you can put in."
+AE_ID TS3004c.A.argumentstructs.16: "Okay."
+AE_ID TS3004c.A.argumentstructs.Daan.9: "Yeah, a recharger maybe."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.11
+---------------------------------
+target=TS3004c.B.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.22:
+"Yeah okay. Yeah but"
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.11: "Nah, but they just said we need it. Uh the battery contacts, like normal batteries ca you can put in."
+AE_ID TS3004c.A.argumentstructs.16: "Okay."
+AE_ID TS3004c.A.argumentstructs.Daan.9: "Yeah, a recharger maybe."
+AE_ID TS3004c.B.argumentstructs.18: "Yeah, we have to make sure to uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.11
+---------------------------------
+target=TS3004c.C.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.10:
+"We still want to have a recharger, don't we ? Is that still the"
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.11: "Nah, but they just said we need it. Uh the battery contacts, like normal batteries ca you can put in."
+AE_ID TS3004c.A.argumentstructs.16: "Okay."
+AE_ID TS3004c.A.argumentstructs.Daan.9: "Yeah, a recharger maybe."
+AE_ID TS3004c.B.argumentstructs.18: "Yeah, we have to make sure to uh"
+AE_ID TS3004c.C.argumentstructs.22: "Yeah okay. Yeah but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.9
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.10
+source=TS3004c.A.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.Daan.8:
+"Yes. Yes."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.16: "Okay."
+AE_ID TS3004c.A.argumentstructs.Daan.9: "Yeah, a recharger maybe."
+AE_ID TS3004c.B.argumentstructs.18: "Yeah, we have to make sure to uh"
+AE_ID TS3004c.C.argumentstructs.22: "Yeah okay. Yeah but"
+AE_ID TS3004c.A.argumentstructs.Daan.10: "We still want to have a recharger, don't we ? Is that still the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.10
+---------------------------------
+target=TS3004c.B.argumentstructs.Daan.8
+source=TS3004c.A.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.12:
+"Yeah, but it i We don't wanna have a ar an  How do you call it ? Accu."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.9: "Yeah, a recharger maybe."
+AE_ID TS3004c.B.argumentstructs.18: "Yeah, we have to make sure to uh"
+AE_ID TS3004c.C.argumentstructs.22: "Yeah okay. Yeah but"
+AE_ID TS3004c.A.argumentstructs.Daan.10: "We still want to have a recharger, don't we ? Is that still the"
+AE_ID TS3004c.B.argumentstructs.Daan.8: "Yes. Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.10
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.12
+source=TS3004c.A.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.Daan.9:
+"Re recharger. Base station."
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.18: "Yeah, we have to make sure to uh"
+AE_ID TS3004c.C.argumentstructs.22: "Yeah okay. Yeah but"
+AE_ID TS3004c.A.argumentstructs.Daan.10: "We still want to have a recharger, don't we ? Is that still the"
+AE_ID TS3004c.B.argumentstructs.Daan.8: "Yes. Yes."
+AE_ID TS3004c.C.argumentstructs.Daan.12: "Yeah, but it i We don't wanna have a ar an  How do you call it ? Accu."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.10
+---------------------------------
+target=TS3004c.B.argumentstructs.Daan.9
+source=TS3004c.A.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.13:
+"Y uh just just batteries, rechargeable batteries."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.22: "Yeah okay. Yeah but"
+AE_ID TS3004c.A.argumentstructs.Daan.10: "We still want to have a recharger, don't we ? Is that still the"
+AE_ID TS3004c.B.argumentstructs.Daan.8: "Yes. Yes."
+AE_ID TS3004c.C.argumentstructs.Daan.12: "Yeah, but it i We don't wanna have a ar an  How do you call it ? Accu."
+AE_ID TS3004c.B.argumentstructs.Daan.9: "Re recharger. Base station."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.10
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.13
+source=TS3004c.A.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.17:
+"Battery. It's just a battery. Yeah."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.10: "We still want to have a recharger, don't we ? Is that still the"
+AE_ID TS3004c.B.argumentstructs.Daan.8: "Yes. Yes."
+AE_ID TS3004c.C.argumentstructs.Daan.12: "Yeah, but it i We don't wanna have a ar an  How do you call it ? Accu."
+AE_ID TS3004c.B.argumentstructs.Daan.9: "Re recharger. Base station."
+AE_ID TS3004c.C.argumentstructs.Daan.13: "Y uh just just batteries, rechargeable batteries."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.13
+---------------------------------
+target=TS3004c.A.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.Daan.10:
+"Yeah, batteries. Yes, rechargeable batteries, I think's best."
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.Daan.8: "Yes. Yes."
+AE_ID TS3004c.C.argumentstructs.Daan.12: "Yeah, but it i We don't wanna have a ar an  How do you call it ? Accu."
+AE_ID TS3004c.B.argumentstructs.Daan.9: "Re recharger. Base station."
+AE_ID TS3004c.C.argumentstructs.Daan.13: "Y uh just just batteries, rechargeable batteries."
+AE_ID TS3004c.A.argumentstructs.17: "Battery. It's just a battery. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.13
+---------------------------------
+target=TS3004c.B.argumentstructs.Daan.10
+source=TS3004c.C.argumentstructs.Daan.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.14:
+"Okay. Not a separate  Okay. And uh a chip, that's this one."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.12: "Yeah, but it i We don't wanna have a ar an  How do you call it ? Accu."
+AE_ID TS3004c.B.argumentstructs.Daan.9: "Re recharger. Base station."
+AE_ID TS3004c.C.argumentstructs.Daan.13: "Y uh just just batteries, rechargeable batteries."
+AE_ID TS3004c.A.argumentstructs.17: "Battery. It's just a battery. Yeah."
+AE_ID TS3004c.B.argumentstructs.Daan.10: "Yeah, batteries. Yes, rechargeable batteries, I think's best."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.13
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.14
+source=TS3004c.B.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.11:
+"No, just rechargeable batteries."
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.Daan.9: "Re recharger. Base station."
+AE_ID TS3004c.C.argumentstructs.Daan.13: "Y uh just just batteries, rechargeable batteries."
+AE_ID TS3004c.A.argumentstructs.17: "Battery. It's just a battery. Yeah."
+AE_ID TS3004c.B.argumentstructs.Daan.10: "Yeah, batteries. Yes, rechargeable batteries, I think's best."
+AE_ID TS3004c.C.argumentstructs.Daan.14: "Okay. Not a separate  Okay. And uh a chip, that's this one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.10
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.11
+source=TS3004c.C.argumentstructs.Daan.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.15:
+"Then uh I received some possibilities. Um for the energy source we can use batteries or a kinetic uh  Like with the pulse watch. So it operates on your wrist kinda."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.13: "Y uh just just batteries, rechargeable batteries."
+AE_ID TS3004c.A.argumentstructs.17: "Battery. It's just a battery. Yeah."
+AE_ID TS3004c.B.argumentstructs.Daan.10: "Yeah, batteries. Yes, rechargeable batteries, I think's best."
+AE_ID TS3004c.C.argumentstructs.Daan.14: "Okay. Not a separate  Okay. And uh a chip, that's this one."
+AE_ID TS3004c.A.argumentstructs.Daan.11: "No, just rechargeable batteries."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.13
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.15
+source=TS3004c.C.argumentstructs.Daan.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.Daan.11:
+"So if you hold it, it gets powered."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.17: "Battery. It's just a battery. Yeah."
+AE_ID TS3004c.B.argumentstructs.Daan.10: "Yeah, batteries. Yes, rechargeable batteries, I think's best."
+AE_ID TS3004c.C.argumentstructs.Daan.14: "Okay. Not a separate  Okay. And uh a chip, that's this one."
+AE_ID TS3004c.A.argumentstructs.Daan.11: "No, just rechargeable batteries."
+AE_ID TS3004c.C.argumentstructs.Daan.15: "Then uh I received some possibilities. Um for the energy source we can use batteries or a kinetic uh  Like with the pulse watch. So it operates on your wrist kinda."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.10
+---------------------------------
+target=TS3004c.B.argumentstructs.Daan.11
+source=TS3004c.C.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.23:
+"If you hold it."
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.Daan.10: "Yeah, batteries. Yes, rechargeable batteries, I think's best."
+AE_ID TS3004c.C.argumentstructs.Daan.14: "Okay. Not a separate  Okay. And uh a chip, that's this one."
+AE_ID TS3004c.A.argumentstructs.Daan.11: "No, just rechargeable batteries."
+AE_ID TS3004c.C.argumentstructs.Daan.15: "Then uh I received some possibilities. Um for the energy source we can use batteries or a kinetic uh  Like with the pulse watch. So it operates on your wrist kinda."
+AE_ID TS3004c.B.argumentstructs.Daan.11: "So if you hold it, it gets powered."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.11
+---------------------------------
+target=TS3004c.C.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.12:
+"But normally you put a remote control on the table or on the couch."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.14: "Okay. Not a separate  Okay. And uh a chip, that's this one."
+AE_ID TS3004c.A.argumentstructs.Daan.11: "No, just rechargeable batteries."
+AE_ID TS3004c.C.argumentstructs.Daan.15: "Then uh I received some possibilities. Um for the energy source we can use batteries or a kinetic uh  Like with the pulse watch. So it operates on your wrist kinda."
+AE_ID TS3004c.B.argumentstructs.Daan.11: "So if you hold it, it gets powered."
+AE_ID TS3004c.C.argumentstructs.23: "If you hold it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.11
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.12
+source=TS3004c.C.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.16:
+"Yeah, I don't think it will work, and  Or we can also use solar cells. But you mostly use it indoors, so"
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.11: "No, just rechargeable batteries."
+AE_ID TS3004c.C.argumentstructs.Daan.15: "Then uh I received some possibilities. Um for the energy source we can use batteries or a kinetic uh  Like with the pulse watch. So it operates on your wrist kinda."
+AE_ID TS3004c.B.argumentstructs.Daan.11: "So if you hold it, it gets powered."
+AE_ID TS3004c.C.argumentstructs.23: "If you hold it."
+AE_ID TS3004c.A.argumentstructs.Daan.12: "But normally you put a remote control on the table or on the couch."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.15
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.16
+source=TS3004c.A.argumentstructs.Daan.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.13:
+"It's dark in the room. No. It's just batteries, that's cheaper."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.15: "Then uh I received some possibilities. Um for the energy source we can use batteries or a kinetic uh  Like with the pulse watch. So it operates on your wrist kinda."
+AE_ID TS3004c.B.argumentstructs.Daan.11: "So if you hold it, it gets powered."
+AE_ID TS3004c.C.argumentstructs.23: "If you hold it."
+AE_ID TS3004c.A.argumentstructs.Daan.12: "But normally you put a remote control on the table or on the couch."
+AE_ID TS3004c.C.argumentstructs.Daan.16: "Yeah, I don't think it will work, and  Or we can also use solar cells. But you mostly use it indoors, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.15
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.13
+source=TS3004c.C.argumentstructs.Daan.15
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.17:
+"Yeah, and and we can use the home station kind of thing. Um cases, flat, so uncurved. Uh two D_ curved is um like front to the back. And three D_ curved is also in depth."
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.Daan.11: "So if you hold it, it gets powered."
+AE_ID TS3004c.C.argumentstructs.23: "If you hold it."
+AE_ID TS3004c.A.argumentstructs.Daan.12: "But normally you put a remote control on the table or on the couch."
+AE_ID TS3004c.C.argumentstructs.Daan.16: "Yeah, I don't think it will work, and  Or we can also use solar cells. But you mostly use it indoors, so"
+AE_ID TS3004c.A.argumentstructs.Daan.13: "It's dark in the room. No. It's just batteries, that's cheaper."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.16
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.17
+source=TS3004c.A.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.18:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.23: "If you hold it."
+AE_ID TS3004c.A.argumentstructs.Daan.12: "But normally you put a remote control on the table or on the couch."
+AE_ID TS3004c.C.argumentstructs.Daan.16: "Yeah, I don't think it will work, and  Or we can also use solar cells. But you mostly use it indoors, so"
+AE_ID TS3004c.A.argumentstructs.Daan.13: "It's dark in the room. No. It's just batteries, that's cheaper."
+AE_ID TS3004c.C.argumentstructs.Daan.17: "Yeah, and and we can use the home station kind of thing. Um cases, flat, so uncurved. Uh two D_ curved is um like front to the back. And three D_ curved is also in depth."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.23
+---------------------------------
+target=TS3004c.A.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.D.argumentstructs.2:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.12: "But normally you put a remote control on the table or on the couch."
+AE_ID TS3004c.C.argumentstructs.Daan.16: "Yeah, I don't think it will work, and  Or we can also use solar cells. But you mostly use it indoors, so"
+AE_ID TS3004c.A.argumentstructs.Daan.13: "It's dark in the room. No. It's just batteries, that's cheaper."
+AE_ID TS3004c.C.argumentstructs.Daan.17: "Yeah, and and we can use the home station kind of thing. Um cases, flat, so uncurved. Uh two D_ curved is um like front to the back. And three D_ curved is also in depth."
+AE_ID TS3004c.A.argumentstructs.18: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.12
+---------------------------------
+target=TS3004c.D.argumentstructs.2
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3004c-Energy source.csv - True Judgement Ratio: 39.13%

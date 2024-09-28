@@ -1,0 +1,587 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.A.argumentstructs.15:
+"energy ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2011c.A.argumentstructs.15
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.A.argumentstructs.Erik.8:
+"I mean we're gonna use batteries right ?"
+
+Past dialogue turns:
+AE_ID ES2011c.A.argumentstructs.15: "energy ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.A.argumentstructs.15
+---------------------------------
+target=ES2011c.A.argumentstructs.Erik.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.B.argumentstructs.Erik.5:
+"Uh we actually had an option of batteries, solar power, and um a dynamo, which is something I don't know what it is. Something to do with torches."
+
+Past dialogue turns:
+AE_ID ES2011c.A.argumentstructs.15: "energy ?"
+AE_ID ES2011c.A.argumentstructs.Erik.8: "I mean we're gonna use batteries right ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.A.argumentstructs.Erik.8
+---------------------------------
+target=ES2011c.B.argumentstructs.Erik.5
+source=ES2011c.A.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.A.argumentstructs.16:
+"And"
+
+Past dialogue turns:
+AE_ID ES2011c.A.argumentstructs.15: "energy ?"
+AE_ID ES2011c.A.argumentstructs.Erik.8: "I mean we're gonna use batteries right ?"
+AE_ID ES2011c.B.argumentstructs.Erik.5: "Uh we actually had an option of batteries, solar power, and um a dynamo, which is something I don't know what it is. Something to do with torches."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.A.argumentstructs.15
+---------------------------------
+target=ES2011c.A.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.D.argumentstructs.Erik.4:
+"Oh, a dynamo is  ah,  it's a bicycle. It's a bicycle mechanism. It's the en it's like if if something moves, when it moves, it stores energy."
+
+Past dialogue turns:
+AE_ID ES2011c.A.argumentstructs.15: "energy ?"
+AE_ID ES2011c.A.argumentstructs.Erik.8: "I mean we're gonna use batteries right ?"
+AE_ID ES2011c.B.argumentstructs.Erik.5: "Uh we actually had an option of batteries, solar power, and um a dynamo, which is something I don't know what it is. Something to do with torches."
+AE_ID ES2011c.A.argumentstructs.16: "And"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2011c.D.argumentstructs.Erik.4
+source=ES2011c.B.argumentstructs.Erik.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.B.argumentstructs.Erik.6:
+"Oh okay."
+
+Past dialogue turns:
+AE_ID ES2011c.A.argumentstructs.15: "energy ?"
+AE_ID ES2011c.A.argumentstructs.Erik.8: "I mean we're gonna use batteries right ?"
+AE_ID ES2011c.B.argumentstructs.Erik.5: "Uh we actually had an option of batteries, solar power, and um a dynamo, which is something I don't know what it is. Something to do with torches."
+AE_ID ES2011c.A.argumentstructs.16: "And"
+AE_ID ES2011c.D.argumentstructs.Erik.4: "Oh, a dynamo is  ah,  it's a bicycle. It's a bicycle mechanism. It's the en it's like if if something moves, when it moves, it stores energy."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2011c.B.argumentstructs.Erik.6
+source=ES2011c.D.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.B.argumentstructs.Erik.7:
+"Yeah, the other one was the other one was a kinetic thing where you'd basically have to wind it yourself. So I sort of picked battery. We could have talked about doing a wind-up or a dynamo or a solar power. Um but I think solar power's not available with the rubber case anyways."
+
+Past dialogue turns:
+AE_ID ES2011c.A.argumentstructs.Erik.8: "I mean we're gonna use batteries right ?"
+AE_ID ES2011c.B.argumentstructs.Erik.5: "Uh we actually had an option of batteries, solar power, and um a dynamo, which is something I don't know what it is. Something to do with torches."
+AE_ID ES2011c.A.argumentstructs.16: "And"
+AE_ID ES2011c.D.argumentstructs.Erik.4: "Oh, a dynamo is  ah,  it's a bicycle. It's a bicycle mechanism. It's the en it's like if if something moves, when it moves, it stores energy."
+AE_ID ES2011c.B.argumentstructs.Erik.6: "Oh okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.A.argumentstructs.Erik.8
+---------------------------------
+target=ES2011c.B.argumentstructs.Erik.7
+source=ES2011c.A.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.D.argumentstructs.Erik.5:
+"It's quite sweet."
+
+Past dialogue turns:
+AE_ID ES2011c.B.argumentstructs.Erik.5: "Uh we actually had an option of batteries, solar power, and um a dynamo, which is something I don't know what it is. Something to do with torches."
+AE_ID ES2011c.A.argumentstructs.16: "And"
+AE_ID ES2011c.D.argumentstructs.Erik.4: "Oh, a dynamo is  ah,  it's a bicycle. It's a bicycle mechanism. It's the en it's like if if something moves, when it moves, it stores energy."
+AE_ID ES2011c.B.argumentstructs.Erik.6: "Oh okay."
+AE_ID ES2011c.B.argumentstructs.Erik.7: "Yeah, the other one was the other one was a kinetic thing where you'd basically have to wind it yourself. So I sort of picked battery. We could have talked about doing a wind-up or a dynamo or a solar power. Um but I think solar power's not available with the rubber case anyways."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2011c.D.argumentstructs.Erik.5
+source=ES2011c.B.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.A.argumentstructs.Erik.9:
+"I think batteries sound good."
+
+Past dialogue turns:
+AE_ID ES2011c.A.argumentstructs.16: "And"
+AE_ID ES2011c.D.argumentstructs.Erik.4: "Oh, a dynamo is  ah,  it's a bicycle. It's a bicycle mechanism. It's the en it's like if if something moves, when it moves, it stores energy."
+AE_ID ES2011c.B.argumentstructs.Erik.6: "Oh okay."
+AE_ID ES2011c.B.argumentstructs.Erik.7: "Yeah, the other one was the other one was a kinetic thing where you'd basically have to wind it yourself. So I sort of picked battery. We could have talked about doing a wind-up or a dynamo or a solar power. Um but I think solar power's not available with the rubber case anyways."
+AE_ID ES2011c.D.argumentstructs.Erik.5: "It's quite sweet."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2011c.A.argumentstructs.Erik.9
+source=ES2011c.A.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.A.argumentstructs.Erik.10:
+"What does everyone else think ?"
+
+Past dialogue turns:
+AE_ID ES2011c.D.argumentstructs.Erik.4: "Oh, a dynamo is  ah,  it's a bicycle. It's a bicycle mechanism. It's the en it's like if if something moves, when it moves, it stores energy."
+AE_ID ES2011c.B.argumentstructs.Erik.6: "Oh okay."
+AE_ID ES2011c.B.argumentstructs.Erik.7: "Yeah, the other one was the other one was a kinetic thing where you'd basically have to wind it yourself. So I sort of picked battery. We could have talked about doing a wind-up or a dynamo or a solar power. Um but I think solar power's not available with the rubber case anyways."
+AE_ID ES2011c.D.argumentstructs.Erik.5: "It's quite sweet."
+AE_ID ES2011c.A.argumentstructs.Erik.9: "I think batteries sound good."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.A.argumentstructs.Erik.9
+---------------------------------
+target=ES2011c.A.argumentstructs.Erik.10
+source=ES2011c.A.argumentstructs.Erik.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.B.argumentstructs.12:
+"it seems a little weird for a living room anyways."
+
+Past dialogue turns:
+AE_ID ES2011c.B.argumentstructs.Erik.6: "Oh okay."
+AE_ID ES2011c.B.argumentstructs.Erik.7: "Yeah, the other one was the other one was a kinetic thing where you'd basically have to wind it yourself. So I sort of picked battery. We could have talked about doing a wind-up or a dynamo or a solar power. Um but I think solar power's not available with the rubber case anyways."
+AE_ID ES2011c.D.argumentstructs.Erik.5: "It's quite sweet."
+AE_ID ES2011c.A.argumentstructs.Erik.9: "I think batteries sound good."
+AE_ID ES2011c.A.argumentstructs.Erik.10: "What does everyone else think ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.B.argumentstructs.Erik.10
+---------------------------------
+target=ES2011c.B.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.D.argumentstructs.Erik.6:
+"No. But dynamo  the the fact with dynamo is, the moment you move it, it c it  creates energy on its own."
+
+Past dialogue turns:
+AE_ID ES2011c.B.argumentstructs.Erik.7: "Yeah, the other one was the other one was a kinetic thing where you'd basically have to wind it yourself. So I sort of picked battery. We could have talked about doing a wind-up or a dynamo or a solar power. Um but I think solar power's not available with the rubber case anyways."
+AE_ID ES2011c.D.argumentstructs.Erik.5: "It's quite sweet."
+AE_ID ES2011c.A.argumentstructs.Erik.9: "I think batteries sound good."
+AE_ID ES2011c.A.argumentstructs.Erik.10: "What does everyone else think ?"
+AE_ID ES2011c.B.argumentstructs.12: "it seems a little weird for a living room anyways."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2011c.D.argumentstructs.Erik.6
+source=ES2011c.C.argumentstructs.Erik.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.C.argumentstructs.Erik.11:
+"The dynamo would be interesting."
+
+Past dialogue turns:
+AE_ID ES2011c.D.argumentstructs.Erik.5: "It's quite sweet."
+AE_ID ES2011c.A.argumentstructs.Erik.9: "I think batteries sound good."
+AE_ID ES2011c.A.argumentstructs.Erik.10: "What does everyone else think ?"
+AE_ID ES2011c.B.argumentstructs.12: "it seems a little weird for a living room anyways."
+AE_ID ES2011c.D.argumentstructs.Erik.6: "No. But dynamo  the the fact with dynamo is, the moment you move it, it c it  creates energy on its own."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.D.argumentstructs.Erik.6
+---------------------------------
+target=ES2011c.C.argumentstructs.Erik.11
+source=ES2011c.A.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.C.argumentstructs.15:
+"Oh. Hmm."
+
+Past dialogue turns:
+AE_ID ES2011c.A.argumentstructs.Erik.9: "I think batteries sound good."
+AE_ID ES2011c.A.argumentstructs.Erik.10: "What does everyone else think ?"
+AE_ID ES2011c.B.argumentstructs.12: "it seems a little weird for a living room anyways."
+AE_ID ES2011c.D.argumentstructs.Erik.6: "No. But dynamo  the the fact with dynamo is, the moment you move it, it c it  creates energy on its own."
+AE_ID ES2011c.C.argumentstructs.Erik.11: "The dynamo would be interesting."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.C.argumentstructs.Erik.11
+---------------------------------
+target=ES2011c.C.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.A.argumentstructs.Erik.11:
+"What about Kryptonite ?"
+
+Past dialogue turns:
+AE_ID ES2011c.A.argumentstructs.Erik.10: "What does everyone else think ?"
+AE_ID ES2011c.B.argumentstructs.12: "it seems a little weird for a living room anyways."
+AE_ID ES2011c.D.argumentstructs.Erik.6: "No. But dynamo  the the fact with dynamo is, the moment you move it, it c it  creates energy on its own."
+AE_ID ES2011c.C.argumentstructs.Erik.11: "The dynamo would be interesting."
+AE_ID ES2011c.C.argumentstructs.15: "Oh. Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.C.argumentstructs.Erik.11
+---------------------------------
+target=ES2011c.A.argumentstructs.Erik.11
+source=ES2011c.A.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.D.argumentstructs.Erik.7:
+"Which is quite cool. So if you throw it, it's gonna store loads of energy, and you don't need to buy a battery 'cause they're quite f I find them annoying. But we need to find cost."
+
+Past dialogue turns:
+AE_ID ES2011c.B.argumentstructs.12: "it seems a little weird for a living room anyways."
+AE_ID ES2011c.D.argumentstructs.Erik.6: "No. But dynamo  the the fact with dynamo is, the moment you move it, it c it  creates energy on its own."
+AE_ID ES2011c.C.argumentstructs.Erik.11: "The dynamo would be interesting."
+AE_ID ES2011c.C.argumentstructs.15: "Oh. Hmm."
+AE_ID ES2011c.A.argumentstructs.Erik.11: "What about Kryptonite ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.D.argumentstructs.Erik.6
+---------------------------------
+target=ES2011c.D.argumentstructs.Erik.7
+source=ES2011c.D.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.A.argumentstructs.Erik.12:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011c.D.argumentstructs.Erik.6: "No. But dynamo  the the fact with dynamo is, the moment you move it, it c it  creates energy on its own."
+AE_ID ES2011c.C.argumentstructs.Erik.11: "The dynamo would be interesting."
+AE_ID ES2011c.C.argumentstructs.15: "Oh. Hmm."
+AE_ID ES2011c.A.argumentstructs.Erik.11: "What about Kryptonite ?"
+AE_ID ES2011c.D.argumentstructs.Erik.7: "Which is quite cool. So if you throw it, it's gonna store loads of energy, and you don't need to buy a battery 'cause they're quite f I find them annoying. But we need to find cost."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.C.argumentstructs.Erik.11
+---------------------------------
+target=ES2011c.A.argumentstructs.Erik.12
+source=ES2011c.D.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.D.argumentstructs.Erik.8:
+"Don't know the cost."
+
+Past dialogue turns:
+AE_ID ES2011c.C.argumentstructs.Erik.11: "The dynamo would be interesting."
+AE_ID ES2011c.C.argumentstructs.15: "Oh. Hmm."
+AE_ID ES2011c.A.argumentstructs.Erik.11: "What about Kryptonite ?"
+AE_ID ES2011c.D.argumentstructs.Erik.7: "Which is quite cool. So if you throw it, it's gonna store loads of energy, and you don't need to buy a battery 'cause they're quite f I find them annoying. But we need to find cost."
+AE_ID ES2011c.A.argumentstructs.Erik.12: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.D.argumentstructs.Erik.7
+---------------------------------
+target=ES2011c.D.argumentstructs.Erik.8
+source=ES2011c.D.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.B.argumentstructs.Erik.8:
+"Didn't have enough data to actually"
+
+Past dialogue turns:
+AE_ID ES2011c.C.argumentstructs.15: "Oh. Hmm."
+AE_ID ES2011c.A.argumentstructs.Erik.11: "What about Kryptonite ?"
+AE_ID ES2011c.D.argumentstructs.Erik.7: "Which is quite cool. So if you throw it, it's gonna store loads of energy, and you don't need to buy a battery 'cause they're quite f I find them annoying. But we need to find cost."
+AE_ID ES2011c.A.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2011c.D.argumentstructs.Erik.8: "Don't know the cost."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.D.argumentstructs.Erik.7
+---------------------------------
+target=ES2011c.B.argumentstructs.Erik.8
+source=ES2011c.D.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.D.argumentstructs.Erik.9:
+"Does anyone have costs on the on the web ?"
+
+Past dialogue turns:
+AE_ID ES2011c.A.argumentstructs.Erik.11: "What about Kryptonite ?"
+AE_ID ES2011c.D.argumentstructs.Erik.7: "Which is quite cool. So if you throw it, it's gonna store loads of energy, and you don't need to buy a battery 'cause they're quite f I find them annoying. But we need to find cost."
+AE_ID ES2011c.A.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2011c.D.argumentstructs.Erik.8: "Don't know the cost."
+AE_ID ES2011c.B.argumentstructs.Erik.8: "Didn't have enough data to actually"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.D.argumentstructs.Erik.8
+---------------------------------
+target=ES2011c.D.argumentstructs.Erik.9
+source=ES2011c.B.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.B.argumentstructs.Erik.9:
+"All it said was it gave sort of relative, some chips are more expensive than others, sort of things. It didn't give me any actual cost."
+
+Past dialogue turns:
+AE_ID ES2011c.D.argumentstructs.Erik.7: "Which is quite cool. So if you throw it, it's gonna store loads of energy, and you don't need to buy a battery 'cause they're quite f I find them annoying. But we need to find cost."
+AE_ID ES2011c.A.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2011c.D.argumentstructs.Erik.8: "Don't know the cost."
+AE_ID ES2011c.B.argumentstructs.Erik.8: "Didn't have enough data to actually"
+AE_ID ES2011c.D.argumentstructs.Erik.9: "Does anyone have costs on the on the web ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.D.argumentstructs.Erik.8
+---------------------------------
+target=ES2011c.B.argumentstructs.Erik.9
+source=ES2011c.D.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.D.argumentstructs.Erik.10:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2011c.A.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2011c.D.argumentstructs.Erik.8: "Don't know the cost."
+AE_ID ES2011c.B.argumentstructs.Erik.8: "Didn't have enough data to actually"
+AE_ID ES2011c.D.argumentstructs.Erik.9: "Does anyone have costs on the on the web ?"
+AE_ID ES2011c.B.argumentstructs.Erik.9: "All it said was it gave sort of relative, some chips are more expensive than others, sort of things. It didn't give me any actual cost."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.D.argumentstructs.Erik.9
+---------------------------------
+target=ES2011c.D.argumentstructs.Erik.10
+source=ES2011c.B.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.D.argumentstructs.11:
+"Right. Mm."
+
+Past dialogue turns:
+AE_ID ES2011c.D.argumentstructs.Erik.8: "Don't know the cost."
+AE_ID ES2011c.B.argumentstructs.Erik.8: "Didn't have enough data to actually"
+AE_ID ES2011c.D.argumentstructs.Erik.9: "Does anyone have costs on the on the web ?"
+AE_ID ES2011c.B.argumentstructs.Erik.9: "All it said was it gave sort of relative, some chips are more expensive than others, sort of things. It didn't give me any actual cost."
+AE_ID ES2011c.D.argumentstructs.Erik.10: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2011c.D.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011c.B.argumentstructs.Erik.10:
+"Most of the stuff is pretty cheap though bought in bulk. So I don't think it's that much of a problem."
+
+Past dialogue turns:
+AE_ID ES2011c.B.argumentstructs.Erik.8: "Didn't have enough data to actually"
+AE_ID ES2011c.D.argumentstructs.Erik.9: "Does anyone have costs on the on the web ?"
+AE_ID ES2011c.B.argumentstructs.Erik.9: "All it said was it gave sort of relative, some chips are more expensive than others, sort of things. It didn't give me any actual cost."
+AE_ID ES2011c.D.argumentstructs.Erik.10: "Okay."
+AE_ID ES2011c.D.argumentstructs.11: "Right. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011c.B.argumentstructs.Erik.9
+---------------------------------
+target=ES2011c.B.argumentstructs.Erik.10
+source=ES2011c.B.argumentstructs.Erik.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2011c-ES2011c - Remote energy source.csv - True Judgement Ratio: 37.50%

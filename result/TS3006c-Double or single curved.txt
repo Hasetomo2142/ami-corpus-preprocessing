@@ -1,0 +1,337 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.5:
+"Uh instead of doubly curved we take a single curved. So to appeal a little more to the all the public."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.5
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.27:
+"So s"
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.5: "Uh instead of doubly curved we take a single curved. So to appeal a little more to the all the public."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.5
+---------------------------------
+target=TS3006c.D.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.5:
+"This, this would be uh single curved uh ?"
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.5: "Uh instead of doubly curved we take a single curved. So to appeal a little more to the all the public."
+AE_ID TS3006c.D.argumentstructs.27: "So s"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.5
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.5
+source=TS3006c.A.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.32:
+"Mm-hmm. Yeah. Also."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.5: "Uh instead of doubly curved we take a single curved. So to appeal a little more to the all the public."
+AE_ID TS3006c.D.argumentstructs.27: "So s"
+AE_ID TS3006c.C.argumentstructs.Daan.5: "This, this would be uh single curved uh ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.5
+---------------------------------
+target=TS3006c.A.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.Daan.4:
+"Yeah there's only in in this dimension. Like this. So curvy or not. Yeah so we keep it singly c single curved then ?"
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.5: "Uh instead of doubly curved we take a single curved. So to appeal a little more to the all the public."
+AE_ID TS3006c.D.argumentstructs.27: "So s"
+AE_ID TS3006c.C.argumentstructs.Daan.5: "This, this would be uh single curved uh ?"
+AE_ID TS3006c.A.argumentstructs.32: "Mm-hmm. Yeah. Also."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.5
+---------------------------------
+target=TS3006c.D.argumentstructs.Daan.4
+source=TS3006c.C.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.27:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.5: "Uh instead of doubly curved we take a single curved. So to appeal a little more to the all the public."
+AE_ID TS3006c.D.argumentstructs.27: "So s"
+AE_ID TS3006c.C.argumentstructs.Daan.5: "This, this would be uh single curved uh ?"
+AE_ID TS3006c.A.argumentstructs.32: "Mm-hmm. Yeah. Also."
+AE_ID TS3006c.D.argumentstructs.Daan.4: "Yeah there's only in in this dimension. Like this. So curvy or not. Yeah so we keep it singly c single curved then ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.32
+---------------------------------
+target=TS3006c.C.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.6:
+"Yeah.  Exactly. Exactly."
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.27: "So s"
+AE_ID TS3006c.C.argumentstructs.Daan.5: "This, this would be uh single curved uh ?"
+AE_ID TS3006c.A.argumentstructs.32: "Mm-hmm. Yeah. Also."
+AE_ID TS3006c.D.argumentstructs.Daan.4: "Yeah there's only in in this dimension. Like this. So curvy or not. Yeah so we keep it singly c single curved then ?"
+AE_ID TS3006c.C.argumentstructs.27: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.27
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.6
+source=TS3006c.D.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.6:
+"Yeah that would be an option. I don't know what you think."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.5: "This, this would be uh single curved uh ?"
+AE_ID TS3006c.A.argumentstructs.32: "Mm-hmm. Yeah. Also."
+AE_ID TS3006c.D.argumentstructs.Daan.4: "Yeah there's only in in this dimension. Like this. So curvy or not. Yeah so we keep it singly c single curved then ?"
+AE_ID TS3006c.C.argumentstructs.27: "Yeah."
+AE_ID TS3006c.C.argumentstructs.Daan.6: "Yeah.  Exactly. Exactly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.4
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.6
+source=TS3006c.D.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.28:
+"Yeah. Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.32: "Mm-hmm. Yeah. Also."
+AE_ID TS3006c.D.argumentstructs.Daan.4: "Yeah there's only in in this dimension. Like this. So curvy or not. Yeah so we keep it singly c single curved then ?"
+AE_ID TS3006c.C.argumentstructs.27: "Yeah."
+AE_ID TS3006c.C.argumentstructs.Daan.6: "Yeah.  Exactly. Exactly."
+AE_ID TS3006c.A.argumentstructs.Daan.6: "Yeah that would be an option. I don't know what you think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.27
+---------------------------------
+target=TS3006c.D.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.7:
+"I think the  I mean our aim is to make something different right ? To make something new. I would go for the double curved. And I I'm I'm thinking uh you know uh a drawing palette, where you have the shape for your thumb. So it kind of holds nicely, something like that. Well this is really your decision but"
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.Daan.4: "Yeah there's only in in this dimension. Like this. So curvy or not. Yeah so we keep it singly c single curved then ?"
+AE_ID TS3006c.C.argumentstructs.27: "Yeah."
+AE_ID TS3006c.C.argumentstructs.Daan.6: "Yeah.  Exactly. Exactly."
+AE_ID TS3006c.A.argumentstructs.Daan.6: "Yeah that would be an option. I don't know what you think."
+AE_ID TS3006c.D.argumentstructs.28: "Yeah. Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.4
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.7
+source=TS3006c.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.33:
+"Mm-hmm. Okay."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.27: "Yeah."
+AE_ID TS3006c.C.argumentstructs.Daan.6: "Yeah.  Exactly. Exactly."
+AE_ID TS3006c.A.argumentstructs.Daan.6: "Yeah that would be an option. I don't know what you think."
+AE_ID TS3006c.D.argumentstructs.28: "Yeah. Yeah. Yeah."
+AE_ID TS3006c.C.argumentstructs.Daan.7: "I think the  I mean our aim is to make something different right ? To make something new. I would go for the double curved. And I I'm I'm thinking uh you know uh a drawing palette, where you have the shape for your thumb. So it kind of holds nicely, something like that. Well this is really your decision but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.7
+---------------------------------
+target=TS3006c.A.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.7:
+"Yeah I'd agree."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.6: "Yeah.  Exactly. Exactly."
+AE_ID TS3006c.A.argumentstructs.Daan.6: "Yeah that would be an option. I don't know what you think."
+AE_ID TS3006c.D.argumentstructs.28: "Yeah. Yeah. Yeah."
+AE_ID TS3006c.C.argumentstructs.Daan.7: "I think the  I mean our aim is to make something different right ? To make something new. I would go for the double curved. And I I'm I'm thinking uh you know uh a drawing palette, where you have the shape for your thumb. So it kind of holds nicely, something like that. Well this is really your decision but"
+AE_ID TS3006c.A.argumentstructs.33: "Mm-hmm. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.6
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.7
+source=TS3006c.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.34:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.6: "Yeah that would be an option. I don't know what you think."
+AE_ID TS3006c.D.argumentstructs.28: "Yeah. Yeah. Yeah."
+AE_ID TS3006c.C.argumentstructs.Daan.7: "I think the  I mean our aim is to make something different right ? To make something new. I would go for the double curved. And I I'm I'm thinking uh you know uh a drawing palette, where you have the shape for your thumb. So it kind of holds nicely, something like that. Well this is really your decision but"
+AE_ID TS3006c.A.argumentstructs.33: "Mm-hmm. Okay."
+AE_ID TS3006c.A.argumentstructs.Daan.7: "Yeah I'd agree."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.33
+---------------------------------
+target=TS3006c.A.argumentstructs.34
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.B.argumentstructs.Daan.3:
+"Yeah but if you if you make it more curved we we can make more and more options for buttons. If you have uh it have it in your hand, you you you are not only um yeah you don't need one dimension but you can use other dimensions for pressing the the buttons."
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.28: "Yeah. Yeah. Yeah."
+AE_ID TS3006c.C.argumentstructs.Daan.7: "I think the  I mean our aim is to make something different right ? To make something new. I would go for the double curved. And I I'm I'm thinking uh you know uh a drawing palette, where you have the shape for your thumb. So it kind of holds nicely, something like that. Well this is really your decision but"
+AE_ID TS3006c.A.argumentstructs.33: "Mm-hmm. Okay."
+AE_ID TS3006c.A.argumentstructs.Daan.7: "Yeah I'd agree."
+AE_ID TS3006c.A.argumentstructs.34: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.7
+---------------------------------
+target=TS3006c.B.argumentstructs.Daan.3
+source=TS3006c.C.argumentstructs.Daan.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3006c-Double or single curved.csv - True Judgement Ratio: 28.57%

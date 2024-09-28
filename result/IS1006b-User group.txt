@@ -1,0 +1,262 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.B.argumentstructs.Daan.1:
+"I got one question, uh you are a Market Expert so should we aim at the young people or not ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1006b.B.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.D.argumentstructs.8:
+"I can go back. Yeah one question, yeah ?"
+
+Past dialogue turns:
+AE_ID IS1006b.B.argumentstructs.Daan.1: "I got one question, uh you are a Market Expert so should we aim at the young people or not ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1006b.D.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.C.argumentstructs.4:
+"Thank you. Mm. Mm. Mm, yep. Thank you."
+
+Past dialogue turns:
+AE_ID IS1006b.B.argumentstructs.Daan.1: "I got one question, uh you are a Market Expert so should we aim at the young people or not ?"
+AE_ID IS1006b.D.argumentstructs.8: "I can go back. Yeah one question, yeah ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.D.argumentstructs.8
+---------------------------------
+target=IS1006b.C.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.D.argumentstructs.Daan.1:
+"I am.  I think we should aim at the young people. But uh I think they are  they are those uh who might be more interested in a in a new device. In general the the early adopters of a new device are young people, less than  more than"
+
+Past dialogue turns:
+AE_ID IS1006b.B.argumentstructs.Daan.1: "I got one question, uh you are a Market Expert so should we aim at the young people or not ?"
+AE_ID IS1006b.D.argumentstructs.8: "I can go back. Yeah one question, yeah ?"
+AE_ID IS1006b.C.argumentstructs.4: "Thank you. Mm. Mm. Mm, yep. Thank you."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1006b.D.argumentstructs.Daan.1
+source=IS1006b.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.B.argumentstructs.Daan.2:
+"Okay, then teletext is used less."
+
+Past dialogue turns:
+AE_ID IS1006b.B.argumentstructs.Daan.1: "I got one question, uh you are a Market Expert so should we aim at the young people or not ?"
+AE_ID IS1006b.D.argumentstructs.8: "I can go back. Yeah one question, yeah ?"
+AE_ID IS1006b.C.argumentstructs.4: "Thank you. Mm. Mm. Mm, yep. Thank you."
+AE_ID IS1006b.D.argumentstructs.Daan.1: "I am.  I think we should aim at the young people. But uh I think they are  they are those uh who might be more interested in a in a new device. In general the the early adopters of a new device are young people, less than  more than"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1006b.B.argumentstructs.Daan.2
+source=IS1006b.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.A.argumentstructs.4:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1006b.B.argumentstructs.Daan.1: "I got one question, uh you are a Market Expert so should we aim at the young people or not ?"
+AE_ID IS1006b.D.argumentstructs.8: "I can go back. Yeah one question, yeah ?"
+AE_ID IS1006b.C.argumentstructs.4: "Thank you. Mm. Mm. Mm, yep. Thank you."
+AE_ID IS1006b.D.argumentstructs.Daan.1: "I am.  I think we should aim at the young people. But uh I think they are  they are those uh who might be more interested in a in a new device. In general the the early adopters of a new device are young people, less than  more than"
+AE_ID IS1006b.B.argumentstructs.Daan.2: "Okay, then teletext is used less."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1006b.A.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.D.argumentstructs.Daan.2:
+"Then teletext is useless for them I think, yeah. Because they they have other means of finding their information. Yeah. But  yeah. Nope."
+
+Past dialogue turns:
+AE_ID IS1006b.D.argumentstructs.8: "I can go back. Yeah one question, yeah ?"
+AE_ID IS1006b.C.argumentstructs.4: "Thank you. Mm. Mm. Mm, yep. Thank you."
+AE_ID IS1006b.D.argumentstructs.Daan.1: "I am.  I think we should aim at the young people. But uh I think they are  they are those uh who might be more interested in a in a new device. In general the the early adopters of a new device are young people, less than  more than"
+AE_ID IS1006b.B.argumentstructs.Daan.2: "Okay, then teletext is used less."
+AE_ID IS1006b.A.argumentstructs.4: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.B.argumentstructs.Daan.2
+---------------------------------
+target=IS1006b.D.argumentstructs.Daan.2
+source=IS1006b.B.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.B.argumentstructs.7:
+"Okay. Mm-hmm. Mm-hmm. Mm. Okay."
+
+Past dialogue turns:
+AE_ID IS1006b.C.argumentstructs.4: "Thank you. Mm. Mm. Mm, yep. Thank you."
+AE_ID IS1006b.D.argumentstructs.Daan.1: "I am.  I think we should aim at the young people. But uh I think they are  they are those uh who might be more interested in a in a new device. In general the the early adopters of a new device are young people, less than  more than"
+AE_ID IS1006b.B.argumentstructs.Daan.2: "Okay, then teletext is used less."
+AE_ID IS1006b.A.argumentstructs.4: "Mm-hmm."
+AE_ID IS1006b.D.argumentstructs.Daan.2: "Then teletext is useless for them I think, yeah. Because they they have other means of finding their information. Yeah. But  yeah. Nope."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.A.argumentstructs.4
+---------------------------------
+target=IS1006b.B.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.A.argumentstructs.Daan.1:
+"Mm-hmm mm mm. Okay. That's good point."
+
+Past dialogue turns:
+AE_ID IS1006b.D.argumentstructs.Daan.1: "I am.  I think we should aim at the young people. But uh I think they are  they are those uh who might be more interested in a in a new device. In general the the early adopters of a new device are young people, less than  more than"
+AE_ID IS1006b.B.argumentstructs.Daan.2: "Okay, then teletext is used less."
+AE_ID IS1006b.A.argumentstructs.4: "Mm-hmm."
+AE_ID IS1006b.D.argumentstructs.Daan.2: "Then teletext is useless for them I think, yeah. Because they they have other means of finding their information. Yeah. But  yeah. Nope."
+AE_ID IS1006b.B.argumentstructs.7: "Okay. Mm-hmm. Mm-hmm. Mm. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1006b.A.argumentstructs.Daan.1
+source=IS1006b.D.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.D.argumentstructs.9:
+"'Kay ?"
+
+Past dialogue turns:
+AE_ID IS1006b.B.argumentstructs.Daan.2: "Okay, then teletext is used less."
+AE_ID IS1006b.A.argumentstructs.4: "Mm-hmm."
+AE_ID IS1006b.D.argumentstructs.Daan.2: "Then teletext is useless for them I think, yeah. Because they they have other means of finding their information. Yeah. But  yeah. Nope."
+AE_ID IS1006b.B.argumentstructs.7: "Okay. Mm-hmm. Mm-hmm. Mm. Okay."
+AE_ID IS1006b.A.argumentstructs.Daan.1: "Mm-hmm mm mm. Okay. That's good point."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.B.argumentstructs.7
+---------------------------------
+target=IS1006b.D.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.A.argumentstructs.5:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1006b.A.argumentstructs.4: "Mm-hmm."
+AE_ID IS1006b.D.argumentstructs.Daan.2: "Then teletext is useless for them I think, yeah. Because they they have other means of finding their information. Yeah. But  yeah. Nope."
+AE_ID IS1006b.B.argumentstructs.7: "Okay. Mm-hmm. Mm-hmm. Mm. Okay."
+AE_ID IS1006b.A.argumentstructs.Daan.1: "Mm-hmm mm mm. Okay. That's good point."
+AE_ID IS1006b.D.argumentstructs.9: "'Kay ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.B.argumentstructs.7
+---------------------------------
+target=IS1006b.A.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1006b-User group.csv - True Judgement Ratio: 36.36%

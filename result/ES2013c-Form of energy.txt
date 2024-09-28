@@ -1,0 +1,637 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.A.argumentstructs.Rutger.1:
+"what form of energy are we going to use, which  the choices that we've discussed were pretty much battery, kinetic or solar. Um this is where Kate's expertise comes in, and our decision making will be a little bit guided by Kate at this point. The  You were saying that the kinetic would be useful, that is you just have to move it some and you'd be able to use it um as opposed to a battery that you have to either put it in a recharger or um keep replacing the batteries. Um or solar that you'd have difficulty with it if it's a dark day, that it'll die on you, and no way to do it. That's the day you wanna use the T_V_. Um so what's our pleasure here, what would be the cost consequences of each of the three ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2013c.A.argumentstructs.Rutger.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.B.argumentstructs.6:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2013c.A.argumentstructs.Rutger.1: "what form of energy are we going to use, which  the choices that we've discussed were pretty much battery, kinetic or solar. Um this is where Kate's expertise comes in, and our decision making will be a little bit guided by Kate at this point. The  You were saying that the kinetic would be useful, that is you just have to move it some and you'd be able to use it um as opposed to a battery that you have to either put it in a recharger or um keep replacing the batteries. Um or solar that you'd have difficulty with it if it's a dark day, that it'll die on you, and no way to do it. That's the day you wanna use the T_V_. Um so what's our pleasure here, what would be the cost consequences of each of the three ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2013c.B.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.B.argumentstructs.Rutger.1:
+"Oh unfortunately I don't have costing information. I i in terms of workability, I I think the the two front-runners are the standard battery or the kinetic,"
+
+Past dialogue turns:
+AE_ID ES2013c.A.argumentstructs.Rutger.1: "what form of energy are we going to use, which  the choices that we've discussed were pretty much battery, kinetic or solar. Um this is where Kate's expertise comes in, and our decision making will be a little bit guided by Kate at this point. The  You were saying that the kinetic would be useful, that is you just have to move it some and you'd be able to use it um as opposed to a battery that you have to either put it in a recharger or um keep replacing the batteries. Um or solar that you'd have difficulty with it if it's a dark day, that it'll die on you, and no way to do it. That's the day you wanna use the T_V_. Um so what's our pleasure here, what would be the cost consequences of each of the three ?"
+AE_ID ES2013c.B.argumentstructs.6: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2013c.B.argumentstructs.Rutger.1
+source=ES2013c.A.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.A.argumentstructs.Rutger.2:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2013c.A.argumentstructs.Rutger.1: "what form of energy are we going to use, which  the choices that we've discussed were pretty much battery, kinetic or solar. Um this is where Kate's expertise comes in, and our decision making will be a little bit guided by Kate at this point. The  You were saying that the kinetic would be useful, that is you just have to move it some and you'd be able to use it um as opposed to a battery that you have to either put it in a recharger or um keep replacing the batteries. Um or solar that you'd have difficulty with it if it's a dark day, that it'll die on you, and no way to do it. That's the day you wanna use the T_V_. Um so what's our pleasure here, what would be the cost consequences of each of the three ?"
+AE_ID ES2013c.B.argumentstructs.6: "Mm."
+AE_ID ES2013c.B.argumentstructs.Rutger.1: "Oh unfortunately I don't have costing information. I i in terms of workability, I I think the the two front-runners are the standard battery or the kinetic,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2013c.A.argumentstructs.Rutger.2
+source=ES2013c.B.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.B.argumentstructs.Rutger.2:
+"but I'm sorry I don't figures on the difference in cost."
+
+Past dialogue turns:
+AE_ID ES2013c.A.argumentstructs.Rutger.1: "what form of energy are we going to use, which  the choices that we've discussed were pretty much battery, kinetic or solar. Um this is where Kate's expertise comes in, and our decision making will be a little bit guided by Kate at this point. The  You were saying that the kinetic would be useful, that is you just have to move it some and you'd be able to use it um as opposed to a battery that you have to either put it in a recharger or um keep replacing the batteries. Um or solar that you'd have difficulty with it if it's a dark day, that it'll die on you, and no way to do it. That's the day you wanna use the T_V_. Um so what's our pleasure here, what would be the cost consequences of each of the three ?"
+AE_ID ES2013c.B.argumentstructs.6: "Mm."
+AE_ID ES2013c.B.argumentstructs.Rutger.1: "Oh unfortunately I don't have costing information. I i in terms of workability, I I think the the two front-runners are the standard battery or the kinetic,"
+AE_ID ES2013c.A.argumentstructs.Rutger.2: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2013c.B.argumentstructs.Rutger.2
+source=ES2013c.B.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.A.argumentstructs.Rutger.3:
+"Mm 'kay. What's the uh feelings of the group on the kinetic ?"
+
+Past dialogue turns:
+AE_ID ES2013c.A.argumentstructs.Rutger.1: "what form of energy are we going to use, which  the choices that we've discussed were pretty much battery, kinetic or solar. Um this is where Kate's expertise comes in, and our decision making will be a little bit guided by Kate at this point. The  You were saying that the kinetic would be useful, that is you just have to move it some and you'd be able to use it um as opposed to a battery that you have to either put it in a recharger or um keep replacing the batteries. Um or solar that you'd have difficulty with it if it's a dark day, that it'll die on you, and no way to do it. That's the day you wanna use the T_V_. Um so what's our pleasure here, what would be the cost consequences of each of the three ?"
+AE_ID ES2013c.B.argumentstructs.6: "Mm."
+AE_ID ES2013c.B.argumentstructs.Rutger.1: "Oh unfortunately I don't have costing information. I i in terms of workability, I I think the the two front-runners are the standard battery or the kinetic,"
+AE_ID ES2013c.A.argumentstructs.Rutger.2: "Okay."
+AE_ID ES2013c.B.argumentstructs.Rutger.2: "but I'm sorry I don't figures on the difference in cost."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2013c.A.argumentstructs.Rutger.3
+source=ES2013c.A.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.D.argumentstructs.Rutger.1:
+"I've used kinetic in terms of watches and it's very very uh handy, you don't even notice um that it's there."
+
+Past dialogue turns:
+AE_ID ES2013c.B.argumentstructs.6: "Mm."
+AE_ID ES2013c.B.argumentstructs.Rutger.1: "Oh unfortunately I don't have costing information. I i in terms of workability, I I think the the two front-runners are the standard battery or the kinetic,"
+AE_ID ES2013c.A.argumentstructs.Rutger.2: "Okay."
+AE_ID ES2013c.B.argumentstructs.Rutger.2: "but I'm sorry I don't figures on the difference in cost."
+AE_ID ES2013c.A.argumentstructs.Rutger.3: "Mm 'kay. What's the uh feelings of the group on the kinetic ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.B.argumentstructs.Rutger.1
+---------------------------------
+target=ES2013c.D.argumentstructs.Rutger.1
+source=ES2013c.A.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.C.argumentstructs.Rutger.1:
+"It sounds great. I've never come across it before, but it sounds fantastic. Sounds like it could be g a really good economical  it would make the whole thing a lot lighter, more convenient"
+
+Past dialogue turns:
+AE_ID ES2013c.B.argumentstructs.Rutger.1: "Oh unfortunately I don't have costing information. I i in terms of workability, I I think the the two front-runners are the standard battery or the kinetic,"
+AE_ID ES2013c.A.argumentstructs.Rutger.2: "Okay."
+AE_ID ES2013c.B.argumentstructs.Rutger.2: "but I'm sorry I don't figures on the difference in cost."
+AE_ID ES2013c.A.argumentstructs.Rutger.3: "Mm 'kay. What's the uh feelings of the group on the kinetic ?"
+AE_ID ES2013c.D.argumentstructs.Rutger.1: "I've used kinetic in terms of watches and it's very very uh handy, you don't even notice um that it's there."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.D.argumentstructs.Rutger.1
+---------------------------------
+target=ES2013c.C.argumentstructs.Rutger.1
+source=ES2013c.A.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.D.argumentstructs.6:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2013c.A.argumentstructs.Rutger.2: "Okay."
+AE_ID ES2013c.B.argumentstructs.Rutger.2: "but I'm sorry I don't figures on the difference in cost."
+AE_ID ES2013c.A.argumentstructs.Rutger.3: "Mm 'kay. What's the uh feelings of the group on the kinetic ?"
+AE_ID ES2013c.D.argumentstructs.Rutger.1: "I've used kinetic in terms of watches and it's very very uh handy, you don't even notice um that it's there."
+AE_ID ES2013c.C.argumentstructs.Rutger.1: "It sounds great. I've never come across it before, but it sounds fantastic. Sounds like it could be g a really good economical  it would make the whole thing a lot lighter, more convenient"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.A.argumentstructs.Rutger.3
+---------------------------------
+target=ES2013c.D.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.C.argumentstructs.7:
+"."
+
+Past dialogue turns:
+AE_ID ES2013c.B.argumentstructs.Rutger.2: "but I'm sorry I don't figures on the difference in cost."
+AE_ID ES2013c.A.argumentstructs.Rutger.3: "Mm 'kay. What's the uh feelings of the group on the kinetic ?"
+AE_ID ES2013c.D.argumentstructs.Rutger.1: "I've used kinetic in terms of watches and it's very very uh handy, you don't even notice um that it's there."
+AE_ID ES2013c.C.argumentstructs.Rutger.1: "It sounds great. I've never come across it before, but it sounds fantastic. Sounds like it could be g a really good economical  it would make the whole thing a lot lighter, more convenient"
+AE_ID ES2013c.D.argumentstructs.6: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2013c.C.argumentstructs.7
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.A.argumentstructs.5:
+"Hmm. Hmm."
+
+Past dialogue turns:
+AE_ID ES2013c.A.argumentstructs.Rutger.3: "Mm 'kay. What's the uh feelings of the group on the kinetic ?"
+AE_ID ES2013c.D.argumentstructs.Rutger.1: "I've used kinetic in terms of watches and it's very very uh handy, you don't even notice um that it's there."
+AE_ID ES2013c.C.argumentstructs.Rutger.1: "It sounds great. I've never come across it before, but it sounds fantastic. Sounds like it could be g a really good economical  it would make the whole thing a lot lighter, more convenient"
+AE_ID ES2013c.D.argumentstructs.6: "Mm-hmm."
+AE_ID ES2013c.C.argumentstructs.7: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.A.argumentstructs.Rutger.3
+---------------------------------
+target=ES2013c.A.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.D.argumentstructs.Rutger.2:
+"It could tie in with the fanciful design as uh, you know,  throw the banana, you know, just gotta keep it moving."
+
+Past dialogue turns:
+AE_ID ES2013c.D.argumentstructs.Rutger.1: "I've used kinetic in terms of watches and it's very very uh handy, you don't even notice um that it's there."
+AE_ID ES2013c.C.argumentstructs.Rutger.1: "It sounds great. I've never come across it before, but it sounds fantastic. Sounds like it could be g a really good economical  it would make the whole thing a lot lighter, more convenient"
+AE_ID ES2013c.D.argumentstructs.6: "Mm-hmm."
+AE_ID ES2013c.C.argumentstructs.7: "."
+AE_ID ES2013c.A.argumentstructs.5: "Hmm. Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.D.argumentstructs.Rutger.1
+---------------------------------
+target=ES2013c.D.argumentstructs.Rutger.2
+source=ES2013c.A.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.C.argumentstructs.Rutger.2:
+"Yeah. 'Cause it's really a quite attractive thought, isn't it ? It's like  yeah, a good selling point."
+
+Past dialogue turns:
+AE_ID ES2013c.C.argumentstructs.Rutger.1: "It sounds great. I've never come across it before, but it sounds fantastic. Sounds like it could be g a really good economical  it would make the whole thing a lot lighter, more convenient"
+AE_ID ES2013c.D.argumentstructs.6: "Mm-hmm."
+AE_ID ES2013c.C.argumentstructs.7: "."
+AE_ID ES2013c.A.argumentstructs.5: "Hmm. Hmm."
+AE_ID ES2013c.D.argumentstructs.Rutger.2: "It could tie in with the fanciful design as uh, you know,  throw the banana, you know, just gotta keep it moving."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.C.argumentstructs.Rutger.1
+---------------------------------
+target=ES2013c.C.argumentstructs.Rutger.2
+source=ES2013c.A.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.A.argumentstructs.Rutger.4:
+"So the consensus seems to be use the kinetic if it's at all possible."
+
+Past dialogue turns:
+AE_ID ES2013c.D.argumentstructs.6: "Mm-hmm."
+AE_ID ES2013c.C.argumentstructs.7: "."
+AE_ID ES2013c.A.argumentstructs.5: "Hmm. Hmm."
+AE_ID ES2013c.D.argumentstructs.Rutger.2: "It could tie in with the fanciful design as uh, you know,  throw the banana, you know, just gotta keep it moving."
+AE_ID ES2013c.C.argumentstructs.Rutger.2: "Yeah. 'Cause it's really a quite attractive thought, isn't it ? It's like  yeah, a good selling point."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.D.argumentstructs.Rutger.2
+---------------------------------
+target=ES2013c.A.argumentstructs.Rutger.4
+source=ES2013c.A.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.D.argumentstructs.7:
+"Be"
+
+Past dialogue turns:
+AE_ID ES2013c.C.argumentstructs.7: "."
+AE_ID ES2013c.A.argumentstructs.5: "Hmm. Hmm."
+AE_ID ES2013c.D.argumentstructs.Rutger.2: "It could tie in with the fanciful design as uh, you know,  throw the banana, you know, just gotta keep it moving."
+AE_ID ES2013c.C.argumentstructs.Rutger.2: "Yeah. 'Cause it's really a quite attractive thought, isn't it ? It's like  yeah, a good selling point."
+AE_ID ES2013c.A.argumentstructs.Rutger.4: "So the consensus seems to be use the kinetic if it's at all possible."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.A.argumentstructs.Rutger.4
+---------------------------------
+target=ES2013c.D.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.C.argumentstructs.Rutger.3:
+"But it does depend how much I mean how much it costs and how much more development and research it needs."
+
+Past dialogue turns:
+AE_ID ES2013c.A.argumentstructs.5: "Hmm. Hmm."
+AE_ID ES2013c.D.argumentstructs.Rutger.2: "It could tie in with the fanciful design as uh, you know,  throw the banana, you know, just gotta keep it moving."
+AE_ID ES2013c.C.argumentstructs.Rutger.2: "Yeah. 'Cause it's really a quite attractive thought, isn't it ? It's like  yeah, a good selling point."
+AE_ID ES2013c.A.argumentstructs.Rutger.4: "So the consensus seems to be use the kinetic if it's at all possible."
+AE_ID ES2013c.D.argumentstructs.7: "Be"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.A.argumentstructs.Rutger.4
+---------------------------------
+target=ES2013c.C.argumentstructs.Rutger.3
+source=ES2013c.A.argumentstructs.Rutger.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.D.argumentstructs.Rutger.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2013c.D.argumentstructs.Rutger.2: "It could tie in with the fanciful design as uh, you know,  throw the banana, you know, just gotta keep it moving."
+AE_ID ES2013c.C.argumentstructs.Rutger.2: "Yeah. 'Cause it's really a quite attractive thought, isn't it ? It's like  yeah, a good selling point."
+AE_ID ES2013c.A.argumentstructs.Rutger.4: "So the consensus seems to be use the kinetic if it's at all possible."
+AE_ID ES2013c.D.argumentstructs.7: "Be"
+AE_ID ES2013c.C.argumentstructs.Rutger.3: "But it does depend how much I mean how much it costs and how much more development and research it needs."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.C.argumentstructs.Rutger.2
+---------------------------------
+target=ES2013c.D.argumentstructs.Rutger.3
+source=ES2013c.C.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.A.argumentstructs.6:
+"Mm. Mm. Mm. Hmm. Yeah."
+
+Past dialogue turns:
+AE_ID ES2013c.C.argumentstructs.Rutger.2: "Yeah. 'Cause it's really a quite attractive thought, isn't it ? It's like  yeah, a good selling point."
+AE_ID ES2013c.A.argumentstructs.Rutger.4: "So the consensus seems to be use the kinetic if it's at all possible."
+AE_ID ES2013c.D.argumentstructs.7: "Be"
+AE_ID ES2013c.C.argumentstructs.Rutger.3: "But it does depend how much I mean how much it costs and how much more development and research it needs."
+AE_ID ES2013c.D.argumentstructs.Rutger.3: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.D.argumentstructs.Rutger.3
+---------------------------------
+target=ES2013c.A.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.B.argumentstructs.Rutger.3:
+"And and how much you do have to keep it moving, 'cause I'm conscious that watching T_V_ can be quite a sed sedentary activity."
+
+Past dialogue turns:
+AE_ID ES2013c.A.argumentstructs.Rutger.4: "So the consensus seems to be use the kinetic if it's at all possible."
+AE_ID ES2013c.D.argumentstructs.7: "Be"
+AE_ID ES2013c.C.argumentstructs.Rutger.3: "But it does depend how much I mean how much it costs and how much more development and research it needs."
+AE_ID ES2013c.D.argumentstructs.Rutger.3: "Yeah."
+AE_ID ES2013c.A.argumentstructs.6: "Mm. Mm. Mm. Hmm. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.A.argumentstructs.Rutger.4
+---------------------------------
+target=ES2013c.B.argumentstructs.Rutger.3
+source=ES2013c.A.argumentstructs.Rutger.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.D.argumentstructs.Rutger.4:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2013c.D.argumentstructs.7: "Be"
+AE_ID ES2013c.C.argumentstructs.Rutger.3: "But it does depend how much I mean how much it costs and how much more development and research it needs."
+AE_ID ES2013c.D.argumentstructs.Rutger.3: "Yeah."
+AE_ID ES2013c.A.argumentstructs.6: "Mm. Mm. Mm. Hmm. Yeah."
+AE_ID ES2013c.B.argumentstructs.Rutger.3: "And and how much you do have to keep it moving, 'cause I'm conscious that watching T_V_ can be quite a sed sedentary activity."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.D.argumentstructs.Rutger.3
+---------------------------------
+target=ES2013c.D.argumentstructs.Rutger.4
+source=ES2013c.B.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.D.argumentstructs.Rutger.5:
+"Mm-hmm. But I could market that as a um as a  a  I was thinking actually a a cost saver down the road, in terms of battery, you know."
+
+Past dialogue turns:
+AE_ID ES2013c.C.argumentstructs.Rutger.3: "But it does depend how much I mean how much it costs and how much more development and research it needs."
+AE_ID ES2013c.D.argumentstructs.Rutger.3: "Yeah."
+AE_ID ES2013c.A.argumentstructs.6: "Mm. Mm. Mm. Hmm. Yeah."
+AE_ID ES2013c.B.argumentstructs.Rutger.3: "And and how much you do have to keep it moving, 'cause I'm conscious that watching T_V_ can be quite a sed sedentary activity."
+AE_ID ES2013c.D.argumentstructs.Rutger.4: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.C.argumentstructs.Rutger.3
+---------------------------------
+target=ES2013c.D.argumentstructs.Rutger.5
+source=ES2013c.B.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.C.argumentstructs.Rutger.5:
+"Do your exercises while you're watching the T_V_."
+
+Past dialogue turns:
+AE_ID ES2013c.D.argumentstructs.Rutger.3: "Yeah."
+AE_ID ES2013c.A.argumentstructs.6: "Mm. Mm. Mm. Hmm. Yeah."
+AE_ID ES2013c.B.argumentstructs.Rutger.3: "And and how much you do have to keep it moving, 'cause I'm conscious that watching T_V_ can be quite a sed sedentary activity."
+AE_ID ES2013c.D.argumentstructs.Rutger.4: "Yeah."
+AE_ID ES2013c.D.argumentstructs.Rutger.5: "Mm-hmm. But I could market that as a um as a  a  I was thinking actually a a cost saver down the road, in terms of battery, you know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.B.argumentstructs.Rutger.3
+---------------------------------
+target=ES2013c.C.argumentstructs.Rutger.5
+source=ES2013c.D.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.B.argumentstructs.Rutger.4:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2013c.A.argumentstructs.6: "Mm. Mm. Mm. Hmm. Yeah."
+AE_ID ES2013c.B.argumentstructs.Rutger.3: "And and how much you do have to keep it moving, 'cause I'm conscious that watching T_V_ can be quite a sed sedentary activity."
+AE_ID ES2013c.D.argumentstructs.Rutger.4: "Yeah."
+AE_ID ES2013c.D.argumentstructs.Rutger.5: "Mm-hmm. But I could market that as a um as a  a  I was thinking actually a a cost saver down the road, in terms of battery, you know."
+AE_ID ES2013c.C.argumentstructs.Rutger.5: "Do your exercises while you're watching the T_V_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.A.argumentstructs.6
+---------------------------------
+target=ES2013c.B.argumentstructs.Rutger.4
+source=ES2013c.C.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.B.argumentstructs.Rutger.5:
+"True, yeah, m more more environmentally friendly."
+
+Past dialogue turns:
+AE_ID ES2013c.B.argumentstructs.Rutger.3: "And and how much you do have to keep it moving, 'cause I'm conscious that watching T_V_ can be quite a sed sedentary activity."
+AE_ID ES2013c.D.argumentstructs.Rutger.4: "Yeah."
+AE_ID ES2013c.D.argumentstructs.Rutger.5: "Mm-hmm. But I could market that as a um as a  a  I was thinking actually a a cost saver down the road, in terms of battery, you know."
+AE_ID ES2013c.C.argumentstructs.Rutger.5: "Do your exercises while you're watching the T_V_."
+AE_ID ES2013c.B.argumentstructs.Rutger.4: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.C.argumentstructs.Rutger.5
+---------------------------------
+target=ES2013c.B.argumentstructs.Rutger.5
+source=ES2013c.C.argumentstructs.Rutger.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.C.argumentstructs.Rutger.6:
+"Yeah, that's what I was thinking as well."
+
+Past dialogue turns:
+AE_ID ES2013c.D.argumentstructs.Rutger.4: "Yeah."
+AE_ID ES2013c.D.argumentstructs.Rutger.5: "Mm-hmm. But I could market that as a um as a  a  I was thinking actually a a cost saver down the road, in terms of battery, you know."
+AE_ID ES2013c.C.argumentstructs.Rutger.5: "Do your exercises while you're watching the T_V_."
+AE_ID ES2013c.B.argumentstructs.Rutger.4: "Yeah."
+AE_ID ES2013c.B.argumentstructs.Rutger.5: "True, yeah, m more more environmentally friendly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.D.argumentstructs.Rutger.5
+---------------------------------
+target=ES2013c.C.argumentstructs.Rutger.6
+source=ES2013c.B.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2013c.D.argumentstructs.8:
+"Mm-hmm. You know, kind of the"
+
+Past dialogue turns:
+AE_ID ES2013c.D.argumentstructs.Rutger.5: "Mm-hmm. But I could market that as a um as a  a  I was thinking actually a a cost saver down the road, in terms of battery, you know."
+AE_ID ES2013c.C.argumentstructs.Rutger.5: "Do your exercises while you're watching the T_V_."
+AE_ID ES2013c.B.argumentstructs.Rutger.4: "Yeah."
+AE_ID ES2013c.B.argumentstructs.Rutger.5: "True, yeah, m more more environmentally friendly."
+AE_ID ES2013c.C.argumentstructs.Rutger.6: "Yeah, that's what I was thinking as well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2013c.D.argumentstructs.Rutger.5
+---------------------------------
+target=ES2013c.D.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2013c-Form of energy.csv - True Judgement Ratio: 26.92%

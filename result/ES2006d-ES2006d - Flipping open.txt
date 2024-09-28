@@ -1,0 +1,587 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.A.argumentstructs.9:
+"One more thing is that i"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2006d.A.argumentstructs.9
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.1:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.9: "One more thing is that i"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.1
+source=ES2006d.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.A.argumentstructs.Erik.1:
+"It might be a little clumsy when when it opens up, right, so it opens on the side. So"
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.9: "One more thing is that i"
+AE_ID ES2006d.B.argumentstructs.Erik.1: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2006d.A.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.C.argumentstructs.10:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.9: "One more thing is that i"
+AE_ID ES2006d.B.argumentstructs.Erik.1: "Okay."
+AE_ID ES2006d.A.argumentstructs.Erik.1: "It might be a little clumsy when when it opens up, right, so it opens on the side. So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.A.argumentstructs.9
+---------------------------------
+target=ES2006d.C.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.D.argumentstructs.Erik.1:
+"No, yeah, but mm but we have it  nicely  with the hinges here  yeah. So it won't be a problem, it will be  and it will be  it won't be heavy."
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.9: "One more thing is that i"
+AE_ID ES2006d.B.argumentstructs.Erik.1: "Okay."
+AE_ID ES2006d.A.argumentstructs.Erik.1: "It might be a little clumsy when when it opens up, right, so it opens on the side. So"
+AE_ID ES2006d.C.argumentstructs.10: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2006d.D.argumentstructs.Erik.1
+source=ES2006d.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.A.argumentstructs.Erik.2:
+"Yeah yeah yeah, I mean  yeah. So you guys can decide wh whether"
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.9: "One more thing is that i"
+AE_ID ES2006d.B.argumentstructs.Erik.1: "Okay."
+AE_ID ES2006d.A.argumentstructs.Erik.1: "It might be a little clumsy when when it opens up, right, so it opens on the side. So"
+AE_ID ES2006d.C.argumentstructs.10: "Mm-hmm."
+AE_ID ES2006d.D.argumentstructs.Erik.1: "No, yeah, but mm but we have it  nicely  with the hinges here  yeah. So it won't be a problem, it will be  and it will be  it won't be heavy."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2006d.A.argumentstructs.Erik.2
+source=ES2006d.D.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.C.argumentstructs.Erik.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006d.B.argumentstructs.Erik.1: "Okay."
+AE_ID ES2006d.A.argumentstructs.Erik.1: "It might be a little clumsy when when it opens up, right, so it opens on the side. So"
+AE_ID ES2006d.C.argumentstructs.10: "Mm-hmm."
+AE_ID ES2006d.D.argumentstructs.Erik.1: "No, yeah, but mm but we have it  nicely  with the hinges here  yeah. So it won't be a problem, it will be  and it will be  it won't be heavy."
+AE_ID ES2006d.A.argumentstructs.Erik.2: "Yeah yeah yeah, I mean  yeah. So you guys can decide wh whether"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2006d.C.argumentstructs.Erik.1
+source=ES2006d.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.2:
+"Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.Erik.1: "It might be a little clumsy when when it opens up, right, so it opens on the side. So"
+AE_ID ES2006d.C.argumentstructs.10: "Mm-hmm."
+AE_ID ES2006d.D.argumentstructs.Erik.1: "No, yeah, but mm but we have it  nicely  with the hinges here  yeah. So it won't be a problem, it will be  and it will be  it won't be heavy."
+AE_ID ES2006d.A.argumentstructs.Erik.2: "Yeah yeah yeah, I mean  yeah. So you guys can decide wh whether"
+AE_ID ES2006d.C.argumentstructs.Erik.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.2
+source=ES2006d.A.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.A.argumentstructs.10:
+"Oops."
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.10: "Mm-hmm."
+AE_ID ES2006d.D.argumentstructs.Erik.1: "No, yeah, but mm but we have it  nicely  with the hinges here  yeah. So it won't be a problem, it will be  and it will be  it won't be heavy."
+AE_ID ES2006d.A.argumentstructs.Erik.2: "Yeah yeah yeah, I mean  yeah. So you guys can decide wh whether"
+AE_ID ES2006d.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2006d.B.argumentstructs.Erik.2: "Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2006d.A.argumentstructs.10
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.3:
+"I th I think the alternative is flipping from the top."
+
+Past dialogue turns:
+AE_ID ES2006d.D.argumentstructs.Erik.1: "No, yeah, but mm but we have it  nicely  with the hinges here  yeah. So it won't be a problem, it will be  and it will be  it won't be heavy."
+AE_ID ES2006d.A.argumentstructs.Erik.2: "Yeah yeah yeah, I mean  yeah. So you guys can decide wh whether"
+AE_ID ES2006d.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2006d.B.argumentstructs.Erik.2: "Yeah. Yeah."
+AE_ID ES2006d.A.argumentstructs.10: "Oops."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.3
+source=ES2006d.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.D.argumentstructs.Erik.2:
+"Yeah well yeah, but it's it's a bit long. It's a little bit long. Well, I mean it can be opened like this of course and yeah."
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.Erik.2: "Yeah yeah yeah, I mean  yeah. So you guys can decide wh whether"
+AE_ID ES2006d.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2006d.B.argumentstructs.Erik.2: "Yeah. Yeah."
+AE_ID ES2006d.A.argumentstructs.10: "Oops."
+AE_ID ES2006d.B.argumentstructs.Erik.3: "I th I think the alternative is flipping from the top."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2006d.D.argumentstructs.Erik.2
+source=ES2006d.B.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.A.argumentstructs.Erik.3:
+"Yeah, but we  which makes it kind of really big, yeah."
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2006d.B.argumentstructs.Erik.2: "Yeah. Yeah."
+AE_ID ES2006d.A.argumentstructs.10: "Oops."
+AE_ID ES2006d.B.argumentstructs.Erik.3: "I th I think the alternative is flipping from the top."
+AE_ID ES2006d.D.argumentstructs.Erik.2: "Yeah well yeah, but it's it's a bit long. It's a little bit long. Well, I mean it can be opened like this of course and yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2006d.A.argumentstructs.Erik.3
+source=ES2006d.D.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.C.argumentstructs.Erik.2:
+"The length is gonna be difficu"
+
+Past dialogue turns:
+AE_ID ES2006d.B.argumentstructs.Erik.2: "Yeah. Yeah."
+AE_ID ES2006d.A.argumentstructs.10: "Oops."
+AE_ID ES2006d.B.argumentstructs.Erik.3: "I th I think the alternative is flipping from the top."
+AE_ID ES2006d.D.argumentstructs.Erik.2: "Yeah well yeah, but it's it's a bit long. It's a little bit long. Well, I mean it can be opened like this of course and yeah."
+AE_ID ES2006d.A.argumentstructs.Erik.3: "Yeah, but we  which makes it kind of really big, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2006d.C.argumentstructs.Erik.2
+source=ES2006d.D.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.4:
+"Yeah um"
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.10: "Oops."
+AE_ID ES2006d.B.argumentstructs.Erik.3: "I th I think the alternative is flipping from the top."
+AE_ID ES2006d.D.argumentstructs.Erik.2: "Yeah well yeah, but it's it's a bit long. It's a little bit long. Well, I mean it can be opened like this of course and yeah."
+AE_ID ES2006d.A.argumentstructs.Erik.3: "Yeah, but we  which makes it kind of really big, yeah."
+AE_ID ES2006d.C.argumentstructs.Erik.2: "The length is gonna be difficu"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.3
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.4
+source=ES2006d.C.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.5:
+"But you were thinking about making it smaller, yeah ?"
+
+Past dialogue turns:
+AE_ID ES2006d.B.argumentstructs.Erik.3: "I th I think the alternative is flipping from the top."
+AE_ID ES2006d.D.argumentstructs.Erik.2: "Yeah well yeah, but it's it's a bit long. It's a little bit long. Well, I mean it can be opened like this of course and yeah."
+AE_ID ES2006d.A.argumentstructs.Erik.3: "Yeah, but we  which makes it kind of really big, yeah."
+AE_ID ES2006d.C.argumentstructs.Erik.2: "The length is gonna be difficu"
+AE_ID ES2006d.B.argumentstructs.Erik.4: "Yeah um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.5
+source=ES2006d.C.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.C.argumentstructs.11:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2006d.D.argumentstructs.Erik.2: "Yeah well yeah, but it's it's a bit long. It's a little bit long. Well, I mean it can be opened like this of course and yeah."
+AE_ID ES2006d.A.argumentstructs.Erik.3: "Yeah, but we  which makes it kind of really big, yeah."
+AE_ID ES2006d.C.argumentstructs.Erik.2: "The length is gonna be difficu"
+AE_ID ES2006d.B.argumentstructs.Erik.4: "Yeah um"
+AE_ID ES2006d.B.argumentstructs.Erik.5: "But you were thinking about making it smaller, yeah ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2006d.C.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.14:
+"Because"
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.Erik.3: "Yeah, but we  which makes it kind of really big, yeah."
+AE_ID ES2006d.C.argumentstructs.Erik.2: "The length is gonna be difficu"
+AE_ID ES2006d.B.argumentstructs.Erik.4: "Yeah um"
+AE_ID ES2006d.B.argumentstructs.Erik.5: "But you were thinking about making it smaller, yeah ?"
+AE_ID ES2006d.C.argumentstructs.11: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2006d.B.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.D.argumentstructs.Erik.3:
+"S uh slightly smaller."
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.Erik.2: "The length is gonna be difficu"
+AE_ID ES2006d.B.argumentstructs.Erik.4: "Yeah um"
+AE_ID ES2006d.B.argumentstructs.Erik.5: "But you were thinking about making it smaller, yeah ?"
+AE_ID ES2006d.C.argumentstructs.11: "Mm."
+AE_ID ES2006d.B.argumentstructs.14: "Because"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2006d.D.argumentstructs.Erik.3
+source=ES2006d.B.argumentstructs.Erik.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.A.argumentstructs.11:
+"and two, it might interfere with the I_R_ channel."
+
+Past dialogue turns:
+AE_ID ES2006d.B.argumentstructs.Erik.4: "Yeah um"
+AE_ID ES2006d.B.argumentstructs.Erik.5: "But you were thinking about making it smaller, yeah ?"
+AE_ID ES2006d.C.argumentstructs.11: "Mm."
+AE_ID ES2006d.B.argumentstructs.14: "Because"
+AE_ID ES2006d.D.argumentstructs.Erik.3: "S uh slightly smaller."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2006d.A.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.6:
+"So you have to keep that side flat."
+
+Past dialogue turns:
+AE_ID ES2006d.B.argumentstructs.Erik.5: "But you were thinking about making it smaller, yeah ?"
+AE_ID ES2006d.C.argumentstructs.11: "Mm."
+AE_ID ES2006d.B.argumentstructs.14: "Because"
+AE_ID ES2006d.D.argumentstructs.Erik.3: "S uh slightly smaller."
+AE_ID ES2006d.A.argumentstructs.11: "and two, it might interfere with the I_R_ channel."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.6
+source=ES2006d.D.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.D.argumentstructs.Erik.4:
+"Yeah, but if we flip it open only as much as that."
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.11: "Mm."
+AE_ID ES2006d.B.argumentstructs.14: "Because"
+AE_ID ES2006d.D.argumentstructs.Erik.3: "S uh slightly smaller."
+AE_ID ES2006d.A.argumentstructs.11: "and two, it might interfere with the I_R_ channel."
+AE_ID ES2006d.B.argumentstructs.Erik.6: "So you have to keep that side flat."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2006d.D.argumentstructs.Erik.4
+source=ES2006d.B.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.A.argumentstructs.Erik.4:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2006d.B.argumentstructs.14: "Because"
+AE_ID ES2006d.D.argumentstructs.Erik.3: "S uh slightly smaller."
+AE_ID ES2006d.A.argumentstructs.11: "and two, it might interfere with the I_R_ channel."
+AE_ID ES2006d.B.argumentstructs.Erik.6: "So you have to keep that side flat."
+AE_ID ES2006d.D.argumentstructs.Erik.4: "Yeah, but if we flip it open only as much as that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2006d.A.argumentstructs.Erik.4
+source=ES2006d.D.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.7:
+"So it works like a mobile phone flipping, but y you know, as long as that side's flat, than that will work."
+
+Past dialogue turns:
+AE_ID ES2006d.D.argumentstructs.Erik.3: "S uh slightly smaller."
+AE_ID ES2006d.A.argumentstructs.11: "and two, it might interfere with the I_R_ channel."
+AE_ID ES2006d.B.argumentstructs.Erik.6: "So you have to keep that side flat."
+AE_ID ES2006d.D.argumentstructs.Erik.4: "Yeah, but if we flip it open only as much as that."
+AE_ID ES2006d.A.argumentstructs.Erik.4: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.6
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.7
+source=ES2006d.D.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.A.argumentstructs.Erik.5:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.11: "and two, it might interfere with the I_R_ channel."
+AE_ID ES2006d.B.argumentstructs.Erik.6: "So you have to keep that side flat."
+AE_ID ES2006d.D.argumentstructs.Erik.4: "Yeah, but if we flip it open only as much as that."
+AE_ID ES2006d.A.argumentstructs.Erik.4: "Okay."
+AE_ID ES2006d.B.argumentstructs.Erik.7: "So it works like a mobile phone flipping, but y you know, as long as that side's flat, than that will work."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2006d.A.argumentstructs.Erik.5
+source=ES2006d.B.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2006d-ES2006d - Flipping open.csv - True Judgement Ratio: 41.67%

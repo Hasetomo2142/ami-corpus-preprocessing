@@ -1,0 +1,912 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.15:
+"What's it gonna  Yeah, what's it gonna look like."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.15
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.20:
+"Okay. I ki I kind of  like your idea about the retro phone dial, and that  the central button could have, maybe our logo on it ?"
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.15: "What's it gonna  Yeah, what's it gonna look like."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.Erik.15
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.20
+source=ES2010c.C.argumentstructs.Erik.15
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.27:
+"Um."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.15: "What's it gonna  Yeah, what's it gonna look like."
+AE_ID ES2010c.A.argumentstructs.Erik.20: "Okay. I ki I kind of  like your idea about the retro phone dial, and that  the central button could have, maybe our logo on it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.20
+---------------------------------
+target=ES2010c.C.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.21:
+"It might be the four way scroll, too. I mean if  Yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.15: "What's it gonna  Yeah, what's it gonna look like."
+AE_ID ES2010c.A.argumentstructs.Erik.20: "Okay. I ki I kind of  like your idea about the retro phone dial, and that  the central button could have, maybe our logo on it ?"
+AE_ID ES2010c.C.argumentstructs.27: "Um."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.20
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.21
+source=ES2010c.A.argumentstructs.Erik.20
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.18:
+"Yeah, it could be whatever, as long as there's something big in the middle, because like the old phones, there's like that just like piece of metal or like a picture or something in the middle."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.15: "What's it gonna  Yeah, what's it gonna look like."
+AE_ID ES2010c.A.argumentstructs.Erik.20: "Okay. I ki I kind of  like your idea about the retro phone dial, and that  the central button could have, maybe our logo on it ?"
+AE_ID ES2010c.C.argumentstructs.27: "Um."
+AE_ID ES2010c.A.argumentstructs.Erik.21: "It might be the four way scroll, too. I mean if  Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.20
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.18
+source=ES2010c.A.argumentstructs.Erik.20
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.22:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.15: "What's it gonna  Yeah, what's it gonna look like."
+AE_ID ES2010c.A.argumentstructs.Erik.20: "Okay. I ki I kind of  like your idea about the retro phone dial, and that  the central button could have, maybe our logo on it ?"
+AE_ID ES2010c.C.argumentstructs.27: "Um."
+AE_ID ES2010c.A.argumentstructs.Erik.21: "It might be the four way scroll, too. I mean if  Yeah."
+AE_ID ES2010c.D.argumentstructs.Erik.18: "Yeah, it could be whatever, as long as there's something big in the middle, because like the old phones, there's like that just like piece of metal or like a picture or something in the middle."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.20
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.22
+source=ES2010c.D.argumentstructs.Erik.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.36:
+"Mm-hmm. Mm."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.20: "Okay. I ki I kind of  like your idea about the retro phone dial, and that  the central button could have, maybe our logo on it ?"
+AE_ID ES2010c.C.argumentstructs.27: "Um."
+AE_ID ES2010c.A.argumentstructs.Erik.21: "It might be the four way scroll, too. I mean if  Yeah."
+AE_ID ES2010c.D.argumentstructs.Erik.18: "Yeah, it could be whatever, as long as there's something big in the middle, because like the old phones, there's like that just like piece of metal or like a picture or something in the middle."
+AE_ID ES2010c.A.argumentstructs.Erik.22: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.20
+---------------------------------
+target=ES2010c.A.argumentstructs.36
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.17:
+"Well, my issue with that is if it got too big though, 'cause if you have the circle and the button in the middle, then is it gonna get wider than your your hands are, because w"
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.27: "Um."
+AE_ID ES2010c.A.argumentstructs.Erik.21: "It might be the four way scroll, too. I mean if  Yeah."
+AE_ID ES2010c.D.argumentstructs.Erik.18: "Yeah, it could be whatever, as long as there's something big in the middle, because like the old phones, there's like that just like piece of metal or like a picture or something in the middle."
+AE_ID ES2010c.A.argumentstructs.Erik.22: "Yeah."
+AE_ID ES2010c.A.argumentstructs.36: "Mm-hmm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.18
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.17
+source=ES2010c.D.argumentstructs.Erik.18
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.19:
+"Oh, that's true."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.21: "It might be the four way scroll, too. I mean if  Yeah."
+AE_ID ES2010c.D.argumentstructs.Erik.18: "Yeah, it could be whatever, as long as there's something big in the middle, because like the old phones, there's like that just like piece of metal or like a picture or something in the middle."
+AE_ID ES2010c.A.argumentstructs.Erik.22: "Yeah."
+AE_ID ES2010c.A.argumentstructs.36: "Mm-hmm. Mm."
+AE_ID ES2010c.C.argumentstructs.Erik.17: "Well, my issue with that is if it got too big though, 'cause if you have the circle and the button in the middle, then is it gonna get wider than your your hands are, because w"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.18
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.19
+source=ES2010c.C.argumentstructs.Erik.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.18:
+"And then would the buttons be too small if it was enough to fit on it ?"
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.18: "Yeah, it could be whatever, as long as there's something big in the middle, because like the old phones, there's like that just like piece of metal or like a picture or something in the middle."
+AE_ID ES2010c.A.argumentstructs.Erik.22: "Yeah."
+AE_ID ES2010c.A.argumentstructs.36: "Mm-hmm. Mm."
+AE_ID ES2010c.C.argumentstructs.Erik.17: "Well, my issue with that is if it got too big though, 'cause if you have the circle and the button in the middle, then is it gonna get wider than your your hands are, because w"
+AE_ID ES2010c.D.argumentstructs.Erik.19: "Oh, that's true."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.Erik.17
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.18
+source=ES2010c.C.argumentstructs.Erik.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.20:
+"Good point."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.22: "Yeah."
+AE_ID ES2010c.A.argumentstructs.36: "Mm-hmm. Mm."
+AE_ID ES2010c.C.argumentstructs.Erik.17: "Well, my issue with that is if it got too big though, 'cause if you have the circle and the button in the middle, then is it gonna get wider than your your hands are, because w"
+AE_ID ES2010c.D.argumentstructs.Erik.19: "Oh, that's true."
+AE_ID ES2010c.C.argumentstructs.Erik.18: "And then would the buttons be too small if it was enough to fit on it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.19
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.20
+source=ES2010c.C.argumentstructs.Erik.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.16:
+"In the sample ones that you showed us there was one that had the scroll buttons on the side, which I think if we make it curved like a hand like a hand-shape like if we put the the scroll-button on the side, that could be particularly useful."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.36: "Mm-hmm. Mm."
+AE_ID ES2010c.C.argumentstructs.Erik.17: "Well, my issue with that is if it got too big though, 'cause if you have the circle and the button in the middle, then is it gonna get wider than your your hands are, because w"
+AE_ID ES2010c.D.argumentstructs.Erik.19: "Oh, that's true."
+AE_ID ES2010c.C.argumentstructs.Erik.18: "And then would the buttons be too small if it was enough to fit on it ?"
+AE_ID ES2010c.D.argumentstructs.Erik.20: "Good point."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.Erik.17
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.16
+source=ES2010c.C.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.23:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.17: "Well, my issue with that is if it got too big though, 'cause if you have the circle and the button in the middle, then is it gonna get wider than your your hands are, because w"
+AE_ID ES2010c.D.argumentstructs.Erik.19: "Oh, that's true."
+AE_ID ES2010c.C.argumentstructs.Erik.18: "And then would the buttons be too small if it was enough to fit on it ?"
+AE_ID ES2010c.D.argumentstructs.Erik.20: "Good point."
+AE_ID ES2010c.B.argumentstructs.Erik.16: "In the sample ones that you showed us there was one that had the scroll buttons on the side, which I think if we make it curved like a hand like a hand-shape like if we put the the scroll-button on the side, that could be particularly useful."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.19
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.23
+source=ES2010c.B.argumentstructs.Erik.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.19:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.19: "Oh, that's true."
+AE_ID ES2010c.C.argumentstructs.Erik.18: "And then would the buttons be too small if it was enough to fit on it ?"
+AE_ID ES2010c.D.argumentstructs.Erik.20: "Good point."
+AE_ID ES2010c.B.argumentstructs.Erik.16: "In the sample ones that you showed us there was one that had the scroll buttons on the side, which I think if we make it curved like a hand like a hand-shape like if we put the the scroll-button on the side, that could be particularly useful."
+AE_ID ES2010c.A.argumentstructs.Erik.23: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.23
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.19
+source=ES2010c.B.argumentstructs.Erik.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.24:
+"Oh, I see what you mean."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.18: "And then would the buttons be too small if it was enough to fit on it ?"
+AE_ID ES2010c.D.argumentstructs.Erik.20: "Good point."
+AE_ID ES2010c.B.argumentstructs.Erik.16: "In the sample ones that you showed us there was one that had the scroll buttons on the side, which I think if we make it curved like a hand like a hand-shape like if we put the the scroll-button on the side, that could be particularly useful."
+AE_ID ES2010c.A.argumentstructs.Erik.23: "Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.19: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.20
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.24
+source=ES2010c.B.argumentstructs.Erik.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.37:
+"I think so."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.20: "Good point."
+AE_ID ES2010c.B.argumentstructs.Erik.16: "In the sample ones that you showed us there was one that had the scroll buttons on the side, which I think if we make it curved like a hand like a hand-shape like if we put the the scroll-button on the side, that could be particularly useful."
+AE_ID ES2010c.A.argumentstructs.Erik.23: "Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.19: "Yeah."
+AE_ID ES2010c.A.argumentstructs.Erik.24: "Oh, I see what you mean."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.20
+---------------------------------
+target=ES2010c.A.argumentstructs.37
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.21:
+"So scroll buttons on the side and then buttons on top ?"
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.16: "In the sample ones that you showed us there was one that had the scroll buttons on the side, which I think if we make it curved like a hand like a hand-shape like if we put the the scroll-button on the side, that could be particularly useful."
+AE_ID ES2010c.A.argumentstructs.Erik.23: "Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.19: "Yeah."
+AE_ID ES2010c.A.argumentstructs.Erik.24: "Oh, I see what you mean."
+AE_ID ES2010c.A.argumentstructs.37: "I think so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.16
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.21
+source=ES2010c.B.argumentstructs.Erik.16
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.25:
+"Yeah, I like that. 'Kay."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.23: "Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.19: "Yeah."
+AE_ID ES2010c.A.argumentstructs.Erik.24: "Oh, I see what you mean."
+AE_ID ES2010c.A.argumentstructs.37: "I think so."
+AE_ID ES2010c.D.argumentstructs.Erik.21: "So scroll buttons on the side and then buttons on top ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.24
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.25
+source=ES2010c.D.argumentstructs.Erik.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.22:
+"But we definitely  If we have scroll things on the side, we definitely have to have 'em labelled."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.19: "Yeah."
+AE_ID ES2010c.A.argumentstructs.Erik.24: "Oh, I see what you mean."
+AE_ID ES2010c.A.argumentstructs.37: "I think so."
+AE_ID ES2010c.D.argumentstructs.Erik.21: "So scroll buttons on the side and then buttons on top ?"
+AE_ID ES2010c.A.argumentstructs.Erik.25: "Yeah, I like that. 'Kay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.21
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.22
+source=ES2010c.D.argumentstructs.Erik.21
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.38:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.24: "Oh, I see what you mean."
+AE_ID ES2010c.A.argumentstructs.37: "I think so."
+AE_ID ES2010c.D.argumentstructs.Erik.21: "So scroll buttons on the side and then buttons on top ?"
+AE_ID ES2010c.A.argumentstructs.Erik.25: "Yeah, I like that. 'Kay."
+AE_ID ES2010c.D.argumentstructs.Erik.22: "But we definitely  If we have scroll things on the side, we definitely have to have 'em labelled."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.25
+---------------------------------
+target=ES2010c.A.argumentstructs.38
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.23:
+"Yeah, like on the side of it. Oh if it's just up and down."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.37: "I think so."
+AE_ID ES2010c.D.argumentstructs.Erik.21: "So scroll buttons on the side and then buttons on top ?"
+AE_ID ES2010c.A.argumentstructs.Erik.25: "Yeah, I like that. 'Kay."
+AE_ID ES2010c.D.argumentstructs.Erik.22: "But we definitely  If we have scroll things on the side, we definitely have to have 'em labelled."
+AE_ID ES2010c.A.argumentstructs.38: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.21
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.23
+source=ES2010c.D.argumentstructs.Erik.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.17:
+"Well, if it's just up and down"
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.21: "So scroll buttons on the side and then buttons on top ?"
+AE_ID ES2010c.A.argumentstructs.Erik.25: "Yeah, I like that. 'Kay."
+AE_ID ES2010c.D.argumentstructs.Erik.22: "But we definitely  If we have scroll things on the side, we definitely have to have 'em labelled."
+AE_ID ES2010c.A.argumentstructs.38: "Mm."
+AE_ID ES2010c.D.argumentstructs.Erik.23: "Yeah, like on the side of it. Oh if it's just up and down."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.23
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.17
+source=ES2010c.D.argumentstructs.Erik.23
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.20:
+"But is that for   Which ?"
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.25: "Yeah, I like that. 'Kay."
+AE_ID ES2010c.D.argumentstructs.Erik.22: "But we definitely  If we have scroll things on the side, we definitely have to have 'em labelled."
+AE_ID ES2010c.A.argumentstructs.38: "Mm."
+AE_ID ES2010c.D.argumentstructs.Erik.23: "Yeah, like on the side of it. Oh if it's just up and down."
+AE_ID ES2010c.B.argumentstructs.Erik.17: "Well, if it's just up and down"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.17
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.20
+source=ES2010c.B.argumentstructs.Erik.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.18:
+"Volume or channel.  I don't know."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.22: "But we definitely  If we have scroll things on the side, we definitely have to have 'em labelled."
+AE_ID ES2010c.A.argumentstructs.38: "Mm."
+AE_ID ES2010c.D.argumentstructs.Erik.23: "Yeah, like on the side of it. Oh if it's just up and down."
+AE_ID ES2010c.B.argumentstructs.Erik.17: "Well, if it's just up and down"
+AE_ID ES2010c.C.argumentstructs.Erik.20: "But is that for   Which ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.17
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.18
+source=ES2010c.C.argumentstructs.Erik.20
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.24:
+"Well, you could do some on both sides."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.38: "Mm."
+AE_ID ES2010c.D.argumentstructs.Erik.23: "Yeah, like on the side of it. Oh if it's just up and down."
+AE_ID ES2010c.B.argumentstructs.Erik.17: "Well, if it's just up and down"
+AE_ID ES2010c.C.argumentstructs.Erik.20: "But is that for   Which ?"
+AE_ID ES2010c.B.argumentstructs.Erik.18: "Volume or channel.  I don't know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.23
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.24
+source=ES2010c.C.argumentstructs.Erik.20
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.21:
+"Do we have both sides ?"
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.23: "Yeah, like on the side of it. Oh if it's just up and down."
+AE_ID ES2010c.B.argumentstructs.Erik.17: "Well, if it's just up and down"
+AE_ID ES2010c.C.argumentstructs.Erik.20: "But is that for   Which ?"
+AE_ID ES2010c.B.argumentstructs.Erik.18: "Volume or channel.  I don't know."
+AE_ID ES2010c.D.argumentstructs.Erik.24: "Well, you could do some on both sides."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.24
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.21
+source=ES2010c.D.argumentstructs.Erik.24
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.26:
+"Can we ?"
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.17: "Well, if it's just up and down"
+AE_ID ES2010c.C.argumentstructs.Erik.20: "But is that for   Which ?"
+AE_ID ES2010c.B.argumentstructs.Erik.18: "Volume or channel.  I don't know."
+AE_ID ES2010c.D.argumentstructs.Erik.24: "Well, you could do some on both sides."
+AE_ID ES2010c.C.argumentstructs.Erik.21: "Do we have both sides ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.Erik.21
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.26
+source=ES2010c.D.argumentstructs.Erik.24
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.19:
+"Mm yeah. We should probably make it that you have to depress it to activate it then, 'cause oth  otherwise you're not just holding it and going like this, you know."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.20: "But is that for   Which ?"
+AE_ID ES2010c.B.argumentstructs.Erik.18: "Volume or channel.  I don't know."
+AE_ID ES2010c.D.argumentstructs.Erik.24: "Well, you could do some on both sides."
+AE_ID ES2010c.C.argumentstructs.Erik.21: "Do we have both sides ?"
+AE_ID ES2010c.A.argumentstructs.Erik.26: "Can we ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.24
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.19
+source=ES2010c.A.argumentstructs.Erik.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.25:
+"Yeah. That's squishy. That's squishy."
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.18: "Volume or channel.  I don't know."
+AE_ID ES2010c.D.argumentstructs.Erik.24: "Well, you could do some on both sides."
+AE_ID ES2010c.C.argumentstructs.Erik.21: "Do we have both sides ?"
+AE_ID ES2010c.A.argumentstructs.Erik.26: "Can we ?"
+AE_ID ES2010c.B.argumentstructs.Erik.19: "Mm yeah. We should probably make it that you have to depress it to activate it then, 'cause oth  otherwise you're not just holding it and going like this, you know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.24
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.25
+source=ES2010c.B.argumentstructs.Erik.19
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.27:
+"So that you're just not holding it and it changes the chan"
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.24: "Well, you could do some on both sides."
+AE_ID ES2010c.C.argumentstructs.Erik.21: "Do we have both sides ?"
+AE_ID ES2010c.A.argumentstructs.Erik.26: "Can we ?"
+AE_ID ES2010c.B.argumentstructs.Erik.19: "Mm yeah. We should probably make it that you have to depress it to activate it then, 'cause oth  otherwise you're not just holding it and going like this, you know."
+AE_ID ES2010c.D.argumentstructs.Erik.25: "Yeah. That's squishy. That's squishy."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.19
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.27
+source=ES2010c.B.argumentstructs.Erik.19
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.22:
+"Well, the other option is in instead of a scroll you just have the buttons up on the side which are on the side."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.21: "Do we have both sides ?"
+AE_ID ES2010c.A.argumentstructs.Erik.26: "Can we ?"
+AE_ID ES2010c.B.argumentstructs.Erik.19: "Mm yeah. We should probably make it that you have to depress it to activate it then, 'cause oth  otherwise you're not just holding it and going like this, you know."
+AE_ID ES2010c.D.argumentstructs.Erik.25: "Yeah. That's squishy. That's squishy."
+AE_ID ES2010c.A.argumentstructs.Erik.27: "So that you're just not holding it and it changes the chan"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.Erik.21
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.22
+source=ES2010c.C.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.32:
+"have buttons."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.26: "Can we ?"
+AE_ID ES2010c.B.argumentstructs.Erik.19: "Mm yeah. We should probably make it that you have to depress it to activate it then, 'cause oth  otherwise you're not just holding it and going like this, you know."
+AE_ID ES2010c.D.argumentstructs.Erik.25: "Yeah. That's squishy. That's squishy."
+AE_ID ES2010c.A.argumentstructs.Erik.27: "So that you're just not holding it and it changes the chan"
+AE_ID ES2010c.C.argumentstructs.Erik.22: "Well, the other option is in instead of a scroll you just have the buttons up on the side which are on the side."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.Erik.22
+---------------------------------
+target=ES2010c.D.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.39:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.19: "Mm yeah. We should probably make it that you have to depress it to activate it then, 'cause oth  otherwise you're not just holding it and going like this, you know."
+AE_ID ES2010c.D.argumentstructs.Erik.25: "Yeah. That's squishy. That's squishy."
+AE_ID ES2010c.A.argumentstructs.Erik.27: "So that you're just not holding it and it changes the chan"
+AE_ID ES2010c.C.argumentstructs.Erik.22: "Well, the other option is in instead of a scroll you just have the buttons up on the side which are on the side."
+AE_ID ES2010c.D.argumentstructs.32: "have buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.19
+---------------------------------
+target=ES2010c.A.argumentstructs.39
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.20:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.25: "Yeah. That's squishy. That's squishy."
+AE_ID ES2010c.A.argumentstructs.Erik.27: "So that you're just not holding it and it changes the chan"
+AE_ID ES2010c.C.argumentstructs.Erik.22: "Well, the other option is in instead of a scroll you just have the buttons up on the side which are on the side."
+AE_ID ES2010c.D.argumentstructs.32: "have buttons."
+AE_ID ES2010c.A.argumentstructs.39: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.25
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.20
+source=ES2010c.C.argumentstructs.Erik.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.28:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.27: "So that you're just not holding it and it changes the chan"
+AE_ID ES2010c.C.argumentstructs.Erik.22: "Well, the other option is in instead of a scroll you just have the buttons up on the side which are on the side."
+AE_ID ES2010c.D.argumentstructs.32: "have buttons."
+AE_ID ES2010c.A.argumentstructs.39: "Mm."
+AE_ID ES2010c.B.argumentstructs.Erik.20: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.27
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.28
+source=ES2010c.C.argumentstructs.Erik.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.26:
+"Yeah,  that."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.22: "Well, the other option is in instead of a scroll you just have the buttons up on the side which are on the side."
+AE_ID ES2010c.D.argumentstructs.32: "have buttons."
+AE_ID ES2010c.A.argumentstructs.39: "Mm."
+AE_ID ES2010c.B.argumentstructs.Erik.20: "Okay."
+AE_ID ES2010c.A.argumentstructs.Erik.28: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.32
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.26
+source=ES2010c.C.argumentstructs.Erik.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.40:
+"Hmm."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.32: "have buttons."
+AE_ID ES2010c.A.argumentstructs.39: "Mm."
+AE_ID ES2010c.B.argumentstructs.Erik.20: "Okay."
+AE_ID ES2010c.A.argumentstructs.Erik.28: "Yeah."
+AE_ID ES2010c.D.argumentstructs.Erik.26: "Yeah,  that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.39
+---------------------------------
+target=ES2010c.A.argumentstructs.40
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2010c-ES2010c - Button locations.csv - True Judgement Ratio: 29.73%

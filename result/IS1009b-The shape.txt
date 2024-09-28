@@ -1,0 +1,537 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.D.argumentstructs.Daan.1:
+"Now that's good from a marketing point of view, the fun  the fun shape. And that  you you say that won't add too much to the budget ? To d the shape is uh"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.D.argumentstructs.Daan.0
+---------------------------------
+target=IS1009b.D.argumentstructs.Daan.1
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.C.argumentstructs.Daan.1:
+"Yeah, yeah, yeah and colours also, different colours, and"
+
+Past dialogue turns:
+AE_ID IS1009b.D.argumentstructs.Daan.1: "Now that's good from a marketing point of view, the fun  the fun shape. And that  you you say that won't add too much to the budget ? To d the shape is uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1009b.C.argumentstructs.Daan.1
+source=IS1009b.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.A.argumentstructs.7:
+"Yeah I"
+
+Past dialogue turns:
+AE_ID IS1009b.D.argumentstructs.Daan.1: "Now that's good from a marketing point of view, the fun  the fun shape. And that  you you say that won't add too much to the budget ? To d the shape is uh"
+AE_ID IS1009b.C.argumentstructs.Daan.1: "Yeah, yeah, yeah and colours also, different colours, and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1009b.A.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.B.argumentstructs.3:
+"Mm-hmm colours."
+
+Past dialogue turns:
+AE_ID IS1009b.D.argumentstructs.Daan.1: "Now that's good from a marketing point of view, the fun  the fun shape. And that  you you say that won't add too much to the budget ? To d the shape is uh"
+AE_ID IS1009b.C.argumentstructs.Daan.1: "Yeah, yeah, yeah and colours also, different colours, and"
+AE_ID IS1009b.A.argumentstructs.7: "Yeah I"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1009b.B.argumentstructs.3
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.C.argumentstructs.Daan.2:
+"No no no, it won't uh I don't think it will be like, you can have you know for uh if you want ther there to be more"
+
+Past dialogue turns:
+AE_ID IS1009b.D.argumentstructs.Daan.1: "Now that's good from a marketing point of view, the fun  the fun shape. And that  you you say that won't add too much to the budget ? To d the shape is uh"
+AE_ID IS1009b.C.argumentstructs.Daan.1: "Yeah, yeah, yeah and colours also, different colours, and"
+AE_ID IS1009b.A.argumentstructs.7: "Yeah I"
+AE_ID IS1009b.B.argumentstructs.3: "Mm-hmm colours."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1009b.C.argumentstructs.Daan.2
+source=IS1009b.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.A.argumentstructs.Daan.1:
+"It just build a mould basically and uh you know."
+
+Past dialogue turns:
+AE_ID IS1009b.D.argumentstructs.Daan.1: "Now that's good from a marketing point of view, the fun  the fun shape. And that  you you say that won't add too much to the budget ? To d the shape is uh"
+AE_ID IS1009b.C.argumentstructs.Daan.1: "Yeah, yeah, yeah and colours also, different colours, and"
+AE_ID IS1009b.A.argumentstructs.7: "Yeah I"
+AE_ID IS1009b.B.argumentstructs.3: "Mm-hmm colours."
+AE_ID IS1009b.C.argumentstructs.Daan.2: "No no no, it won't uh I don't think it will be like, you can have you know for uh if you want ther there to be more"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1009b.A.argumentstructs.Daan.1
+source=IS1009b.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.C.argumentstructs.Daan.3:
+"Yeah yeah. It's it's just a s shape so it doesn't matter."
+
+Past dialogue turns:
+AE_ID IS1009b.C.argumentstructs.Daan.1: "Yeah, yeah, yeah and colours also, different colours, and"
+AE_ID IS1009b.A.argumentstructs.7: "Yeah I"
+AE_ID IS1009b.B.argumentstructs.3: "Mm-hmm colours."
+AE_ID IS1009b.C.argumentstructs.Daan.2: "No no no, it won't uh I don't think it will be like, you can have you know for uh if you want ther there to be more"
+AE_ID IS1009b.A.argumentstructs.Daan.1: "It just build a mould basically and uh you know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.C.argumentstructs.Daan.2
+---------------------------------
+target=IS1009b.C.argumentstructs.Daan.3
+source=IS1009b.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.B.argumentstructs.Daan.1:
+"Yes exactly."
+
+Past dialogue turns:
+AE_ID IS1009b.A.argumentstructs.7: "Yeah I"
+AE_ID IS1009b.B.argumentstructs.3: "Mm-hmm colours."
+AE_ID IS1009b.C.argumentstructs.Daan.2: "No no no, it won't uh I don't think it will be like, you can have you know for uh if you want ther there to be more"
+AE_ID IS1009b.A.argumentstructs.Daan.1: "It just build a mould basically and uh you know."
+AE_ID IS1009b.C.argumentstructs.Daan.3: "Yeah yeah. It's it's just a s shape so it doesn't matter."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.C.argumentstructs.Daan.2
+---------------------------------
+target=IS1009b.B.argumentstructs.Daan.1
+source=IS1009b.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.A.argumentstructs.Daan.2:
+"As the budget we're looking at if you build one mould I don't think that's going to make a big difference whether it's gonna be square or"
+
+Past dialogue turns:
+AE_ID IS1009b.B.argumentstructs.3: "Mm-hmm colours."
+AE_ID IS1009b.C.argumentstructs.Daan.2: "No no no, it won't uh I don't think it will be like, you can have you know for uh if you want ther there to be more"
+AE_ID IS1009b.A.argumentstructs.Daan.1: "It just build a mould basically and uh you know."
+AE_ID IS1009b.C.argumentstructs.Daan.3: "Yeah yeah. It's it's just a s shape so it doesn't matter."
+AE_ID IS1009b.B.argumentstructs.Daan.1: "Yes exactly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1009b.A.argumentstructs.Daan.2
+source=IS1009b.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.C.argumentstructs.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1009b.C.argumentstructs.Daan.2: "No no no, it won't uh I don't think it will be like, you can have you know for uh if you want ther there to be more"
+AE_ID IS1009b.A.argumentstructs.Daan.1: "It just build a mould basically and uh you know."
+AE_ID IS1009b.C.argumentstructs.Daan.3: "Yeah yeah. It's it's just a s shape so it doesn't matter."
+AE_ID IS1009b.B.argumentstructs.Daan.1: "Yes exactly."
+AE_ID IS1009b.A.argumentstructs.Daan.2: "As the budget we're looking at if you build one mould I don't think that's going to make a big difference whether it's gonna be square or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1009b.C.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.D.argumentstructs.Daan.2:
+"Do you think there's any chance of um having ser in  having basically the same machine with the same buttons but maybe several different shapes ?"
+
+Past dialogue turns:
+AE_ID IS1009b.A.argumentstructs.Daan.1: "It just build a mould basically and uh you know."
+AE_ID IS1009b.C.argumentstructs.Daan.3: "Yeah yeah. It's it's just a s shape so it doesn't matter."
+AE_ID IS1009b.B.argumentstructs.Daan.1: "Yes exactly."
+AE_ID IS1009b.A.argumentstructs.Daan.2: "As the budget we're looking at if you build one mould I don't think that's going to make a big difference whether it's gonna be square or"
+AE_ID IS1009b.C.argumentstructs.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.A.argumentstructs.Daan.2
+---------------------------------
+target=IS1009b.D.argumentstructs.Daan.2
+source=IS1009b.D.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.C.argumentstructs.Daan.4:
+"Yeah that is also possible I uh yeah I I yeah."
+
+Past dialogue turns:
+AE_ID IS1009b.C.argumentstructs.Daan.3: "Yeah yeah. It's it's just a s shape so it doesn't matter."
+AE_ID IS1009b.B.argumentstructs.Daan.1: "Yes exactly."
+AE_ID IS1009b.A.argumentstructs.Daan.2: "As the budget we're looking at if you build one mould I don't think that's going to make a big difference whether it's gonna be square or"
+AE_ID IS1009b.C.argumentstructs.6: "Yeah."
+AE_ID IS1009b.D.argumentstructs.Daan.2: "Do you think there's any chance of um having ser in  having basically the same machine with the same buttons but maybe several different shapes ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1009b.C.argumentstructs.Daan.4
+source=IS1009b.D.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.A.argumentstructs.8:
+"Oh yes."
+
+Past dialogue turns:
+AE_ID IS1009b.B.argumentstructs.Daan.1: "Yes exactly."
+AE_ID IS1009b.A.argumentstructs.Daan.2: "As the budget we're looking at if you build one mould I don't think that's going to make a big difference whether it's gonna be square or"
+AE_ID IS1009b.C.argumentstructs.6: "Yeah."
+AE_ID IS1009b.D.argumentstructs.Daan.2: "Do you think there's any chance of um having ser in  having basically the same machine with the same buttons but maybe several different shapes ?"
+AE_ID IS1009b.C.argumentstructs.Daan.4: "Yeah that is also possible I uh yeah I I yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1009b.A.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.D.argumentstructs.Daan.3:
+"Is that gonna be a possible ? 'Cause that might help with the marketing."
+
+Past dialogue turns:
+AE_ID IS1009b.A.argumentstructs.Daan.2: "As the budget we're looking at if you build one mould I don't think that's going to make a big difference whether it's gonna be square or"
+AE_ID IS1009b.C.argumentstructs.6: "Yeah."
+AE_ID IS1009b.D.argumentstructs.Daan.2: "Do you think there's any chance of um having ser in  having basically the same machine with the same buttons but maybe several different shapes ?"
+AE_ID IS1009b.C.argumentstructs.Daan.4: "Yeah that is also possible I uh yeah I I yeah."
+AE_ID IS1009b.A.argumentstructs.8: "Oh yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.D.argumentstructs.Daan.2
+---------------------------------
+target=IS1009b.D.argumentstructs.Daan.3
+source=IS1009b.D.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.B.argumentstructs.4:
+"Yes."
+
+Past dialogue turns:
+AE_ID IS1009b.C.argumentstructs.6: "Yeah."
+AE_ID IS1009b.D.argumentstructs.Daan.2: "Do you think there's any chance of um having ser in  having basically the same machine with the same buttons but maybe several different shapes ?"
+AE_ID IS1009b.C.argumentstructs.Daan.4: "Yeah that is also possible I uh yeah I I yeah."
+AE_ID IS1009b.A.argumentstructs.8: "Oh yes."
+AE_ID IS1009b.D.argumentstructs.Daan.3: "Is that gonna be a possible ? 'Cause that might help with the marketing."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.C.argumentstructs.6
+---------------------------------
+target=IS1009b.B.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.A.argumentstructs.Daan.3:
+"I think  I think we will have to look at the budget on that but I think in principle that that would be  that would be kind of fun, you know."
+
+Past dialogue turns:
+AE_ID IS1009b.D.argumentstructs.Daan.2: "Do you think there's any chance of um having ser in  having basically the same machine with the same buttons but maybe several different shapes ?"
+AE_ID IS1009b.C.argumentstructs.Daan.4: "Yeah that is also possible I uh yeah I I yeah."
+AE_ID IS1009b.A.argumentstructs.8: "Oh yes."
+AE_ID IS1009b.D.argumentstructs.Daan.3: "Is that gonna be a possible ? 'Cause that might help with the marketing."
+AE_ID IS1009b.B.argumentstructs.4: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.D.argumentstructs.Daan.2
+---------------------------------
+target=IS1009b.A.argumentstructs.Daan.3
+source=IS1009b.D.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.C.argumentstructs.7:
+"Yeah yeah. Mm-hmm. Yeah, for children, yeah exactly. Yeah, that's what, yeah."
+
+Past dialogue turns:
+AE_ID IS1009b.C.argumentstructs.Daan.4: "Yeah that is also possible I uh yeah I I yeah."
+AE_ID IS1009b.A.argumentstructs.8: "Oh yes."
+AE_ID IS1009b.D.argumentstructs.Daan.3: "Is that gonna be a possible ? 'Cause that might help with the marketing."
+AE_ID IS1009b.B.argumentstructs.4: "Yes."
+AE_ID IS1009b.A.argumentstructs.Daan.3: "I think  I think we will have to look at the budget on that but I think in principle that that would be  that would be kind of fun, you know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.A.argumentstructs.Daan.3
+---------------------------------
+target=IS1009b.C.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.D.argumentstructs.Daan.4:
+"Because we had something sort of sexy for adults and we could have something sort of silly for children or a little animal shape or in a  or a little elephant so they can remember where it is."
+
+Past dialogue turns:
+AE_ID IS1009b.A.argumentstructs.8: "Oh yes."
+AE_ID IS1009b.D.argumentstructs.Daan.3: "Is that gonna be a possible ? 'Cause that might help with the marketing."
+AE_ID IS1009b.B.argumentstructs.4: "Yes."
+AE_ID IS1009b.A.argumentstructs.Daan.3: "I think  I think we will have to look at the budget on that but I think in principle that that would be  that would be kind of fun, you know."
+AE_ID IS1009b.C.argumentstructs.7: "Yeah yeah. Mm-hmm. Yeah, for children, yeah exactly. Yeah, that's what, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.C.argumentstructs.7
+---------------------------------
+target=IS1009b.D.argumentstructs.Daan.4
+source=IS1009b.D.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.A.argumentstructs.9:
+"Yeah. Silly for children."
+
+Past dialogue turns:
+AE_ID IS1009b.D.argumentstructs.Daan.3: "Is that gonna be a possible ? 'Cause that might help with the marketing."
+AE_ID IS1009b.B.argumentstructs.4: "Yes."
+AE_ID IS1009b.A.argumentstructs.Daan.3: "I think  I think we will have to look at the budget on that but I think in principle that that would be  that would be kind of fun, you know."
+AE_ID IS1009b.C.argumentstructs.7: "Yeah yeah. Mm-hmm. Yeah, for children, yeah exactly. Yeah, that's what, yeah."
+AE_ID IS1009b.D.argumentstructs.Daan.4: "Because we had something sort of sexy for adults and we could have something sort of silly for children or a little animal shape or in a  or a little elephant so they can remember where it is."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.D.argumentstructs.Daan.4
+---------------------------------
+target=IS1009b.A.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.A.argumentstructs.Daan.4:
+"Like an animal or"
+
+Past dialogue turns:
+AE_ID IS1009b.B.argumentstructs.4: "Yes."
+AE_ID IS1009b.A.argumentstructs.Daan.3: "I think  I think we will have to look at the budget on that but I think in principle that that would be  that would be kind of fun, you know."
+AE_ID IS1009b.C.argumentstructs.7: "Yeah yeah. Mm-hmm. Yeah, for children, yeah exactly. Yeah, that's what, yeah."
+AE_ID IS1009b.D.argumentstructs.Daan.4: "Because we had something sort of sexy for adults and we could have something sort of silly for children or a little animal shape or in a  or a little elephant so they can remember where it is."
+AE_ID IS1009b.A.argumentstructs.9: "Yeah. Silly for children."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.D.argumentstructs.Daan.4
+---------------------------------
+target=IS1009b.A.argumentstructs.Daan.4
+source=IS1009b.D.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.B.argumentstructs.Daan.2:
+"Like a doll, or"
+
+Past dialogue turns:
+AE_ID IS1009b.A.argumentstructs.Daan.3: "I think  I think we will have to look at the budget on that but I think in principle that that would be  that would be kind of fun, you know."
+AE_ID IS1009b.C.argumentstructs.7: "Yeah yeah. Mm-hmm. Yeah, for children, yeah exactly. Yeah, that's what, yeah."
+AE_ID IS1009b.D.argumentstructs.Daan.4: "Because we had something sort of sexy for adults and we could have something sort of silly for children or a little animal shape or in a  or a little elephant so they can remember where it is."
+AE_ID IS1009b.A.argumentstructs.9: "Yeah. Silly for children."
+AE_ID IS1009b.A.argumentstructs.Daan.4: "Like an animal or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID IS1009b.A.argumentstructs.Daan.4
+---------------------------------
+target=IS1009b.B.argumentstructs.Daan.2
+source=IS1009b.D.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009b.A.argumentstructs.10:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1009b.C.argumentstructs.7: "Yeah yeah. Mm-hmm. Yeah, for children, yeah exactly. Yeah, that's what, yeah."
+AE_ID IS1009b.D.argumentstructs.Daan.4: "Because we had something sort of sexy for adults and we could have something sort of silly for children or a little animal shape or in a  or a little elephant so they can remember where it is."
+AE_ID IS1009b.A.argumentstructs.9: "Yeah. Silly for children."
+AE_ID IS1009b.A.argumentstructs.Daan.4: "Like an animal or"
+AE_ID IS1009b.B.argumentstructs.Daan.2: "Like a doll, or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009b.A.argumentstructs.9
+---------------------------------
+target=IS1009b.A.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1009b-The shape.csv - True Judgement Ratio: 22.73%

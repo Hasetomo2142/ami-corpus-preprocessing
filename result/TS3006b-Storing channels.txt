@@ -1,0 +1,412 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.8:
+"Uh and then you can select uh a number in your remote on which you want to save it."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.8
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.Daan.8:
+"Yeah so I've g channel program is autoseek ?"
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.8: "Uh and then you can select uh a number in your remote on which you want to save it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.8
+---------------------------------
+target=TS3006b.A.argumentstructs.Daan.8
+source=TS3006b.D.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.9:
+"Yeah, autoseek."
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.8: "Uh and then you can select uh a number in your remote on which you want to save it."
+AE_ID TS3006b.A.argumentstructs.Daan.8: "Yeah so I've g channel program is autoseek ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.8
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.9
+source=TS3006b.A.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.Daan.9:
+"Uh name a channel, or"
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.8: "Uh and then you can select uh a number in your remote on which you want to save it."
+AE_ID TS3006b.A.argumentstructs.Daan.8: "Yeah so I've g channel program is autoseek ?"
+AE_ID TS3006b.D.argumentstructs.Daan.9: "Yeah, autoseek."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.8
+---------------------------------
+target=TS3006b.A.argumentstructs.Daan.9
+source=TS3006b.D.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.10:
+"Well most T_V_s automatically display the name, which they get through the cable."
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.8: "Uh and then you can select uh a number in your remote on which you want to save it."
+AE_ID TS3006b.A.argumentstructs.Daan.8: "Yeah so I've g channel program is autoseek ?"
+AE_ID TS3006b.D.argumentstructs.Daan.9: "Yeah, autoseek."
+AE_ID TS3006b.A.argumentstructs.Daan.9: "Uh name a channel, or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.8
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.10
+source=TS3006b.A.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.11:
+"Yeah. So you only have to choose the position on your It only has to match the the channel frequency on your T_V_, with with the with the position on your T_V_ and and so your remote."
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.8: "Uh and then you can select uh a number in your remote on which you want to save it."
+AE_ID TS3006b.A.argumentstructs.Daan.8: "Yeah so I've g channel program is autoseek ?"
+AE_ID TS3006b.D.argumentstructs.Daan.9: "Yeah, autoseek."
+AE_ID TS3006b.A.argumentstructs.Daan.9: "Uh name a channel, or"
+AE_ID TS3006b.D.argumentstructs.Daan.10: "Well most T_V_s automatically display the name, which they get through the cable."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.10
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.11
+source=TS3006b.D.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.16:
+". Yeah."
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.Daan.8: "Yeah so I've g channel program is autoseek ?"
+AE_ID TS3006b.D.argumentstructs.Daan.9: "Yeah, autoseek."
+AE_ID TS3006b.A.argumentstructs.Daan.9: "Uh name a channel, or"
+AE_ID TS3006b.D.argumentstructs.Daan.10: "Well most T_V_s automatically display the name, which they get through the cable."
+AE_ID TS3006b.D.argumentstructs.Daan.11: "Yeah. So you only have to choose the position on your It only has to match the the channel frequency on your T_V_, with with the with the position on your T_V_ and and so your remote."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.9
+---------------------------------
+target=TS3006b.A.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.Daan.10:
+"Yeah but can you also say I want f uh Veronica on the channel number uh five or"
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.9: "Yeah, autoseek."
+AE_ID TS3006b.A.argumentstructs.Daan.9: "Uh name a channel, or"
+AE_ID TS3006b.D.argumentstructs.Daan.10: "Well most T_V_s automatically display the name, which they get through the cable."
+AE_ID TS3006b.D.argumentstructs.Daan.11: "Yeah. So you only have to choose the position on your It only has to match the the channel frequency on your T_V_, with with the with the position on your T_V_ and and so your remote."
+AE_ID TS3006b.A.argumentstructs.16: ". Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.9
+---------------------------------
+target=TS3006b.A.argumentstructs.Daan.10
+source=TS3006b.D.argumentstructs.Daan.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.C.argumentstructs.12:
+"Help."
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.Daan.9: "Uh name a channel, or"
+AE_ID TS3006b.D.argumentstructs.Daan.10: "Well most T_V_s automatically display the name, which they get through the cable."
+AE_ID TS3006b.D.argumentstructs.Daan.11: "Yeah. So you only have to choose the position on your It only has to match the the channel frequency on your T_V_, with with the with the position on your T_V_ and and so your remote."
+AE_ID TS3006b.A.argumentstructs.16: ". Yeah."
+AE_ID TS3006b.A.argumentstructs.Daan.10: "Yeah but can you also say I want f uh Veronica on the channel number uh five or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.9
+---------------------------------
+target=TS3006b.C.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.12:
+"If you already programmed it. If you want to move it. Yeah that should be possible too. Yeah how do you call that ? Mm ?"
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.10: "Well most T_V_s automatically display the name, which they get through the cable."
+AE_ID TS3006b.D.argumentstructs.Daan.11: "Yeah. So you only have to choose the position on your It only has to match the the channel frequency on your T_V_, with with the with the position on your T_V_ and and so your remote."
+AE_ID TS3006b.A.argumentstructs.16: ". Yeah."
+AE_ID TS3006b.A.argumentstructs.Daan.10: "Yeah but can you also say I want f uh Veronica on the channel number uh five or"
+AE_ID TS3006b.C.argumentstructs.12: "Help."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.11
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.12
+source=TS3006b.A.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.17:
+"Yeah. Yeah. How do you call that ?"
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.11: "Yeah. So you only have to choose the position on your It only has to match the the channel frequency on your T_V_, with with the with the position on your T_V_ and and so your remote."
+AE_ID TS3006b.A.argumentstructs.16: ". Yeah."
+AE_ID TS3006b.A.argumentstructs.Daan.10: "Yeah but can you also say I want f uh Veronica on the channel number uh five or"
+AE_ID TS3006b.C.argumentstructs.12: "Help."
+AE_ID TS3006b.D.argumentstructs.Daan.12: "If you already programmed it. If you want to move it. Yeah that should be possible too. Yeah how do you call that ? Mm ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.12
+---------------------------------
+target=TS3006b.A.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.13:
+"Wait you you should be able to to browse through a list or something, which w displays all the all the values, all the channels which are possible. I mean like one to f thirty of or ninety or whatever. Just browse through it and then um in some kind of way see if it if it if it is programmed."
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.16: ". Yeah."
+AE_ID TS3006b.A.argumentstructs.Daan.10: "Yeah but can you also say I want f uh Veronica on the channel number uh five or"
+AE_ID TS3006b.C.argumentstructs.12: "Help."
+AE_ID TS3006b.D.argumentstructs.Daan.12: "If you already programmed it. If you want to move it. Yeah that should be possible too. Yeah how do you call that ? Mm ?"
+AE_ID TS3006b.A.argumentstructs.17: "Yeah. Yeah. How do you call that ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.12
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.13
+source=TS3006b.D.argumentstructs.Daan.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.Daan.11:
+"Channels ? Yeah. Ninety nine or something. Yeah. S swap channels ?"
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.Daan.10: "Yeah but can you also say I want f uh Veronica on the channel number uh five or"
+AE_ID TS3006b.C.argumentstructs.12: "Help."
+AE_ID TS3006b.D.argumentstructs.Daan.12: "If you already programmed it. If you want to move it. Yeah that should be possible too. Yeah how do you call that ? Mm ?"
+AE_ID TS3006b.A.argumentstructs.17: "Yeah. Yeah. How do you call that ?"
+AE_ID TS3006b.D.argumentstructs.Daan.13: "Wait you you should be able to to browse through a list or something, which w displays all the all the values, all the channels which are possible. I mean like one to f thirty of or ninety or whatever. Just browse through it and then um in some kind of way see if it if it if it is programmed."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.10
+---------------------------------
+target=TS3006b.A.argumentstructs.Daan.11
+source=TS3006b.D.argumentstructs.Daan.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.Daan.12:
+"Can I call it that ? Swap's good option. Okay. Uh other functions ?"
+
+Past dialogue turns:
+AE_ID TS3006b.C.argumentstructs.12: "Help."
+AE_ID TS3006b.D.argumentstructs.Daan.12: "If you already programmed it. If you want to move it. Yeah that should be possible too. Yeah how do you call that ? Mm ?"
+AE_ID TS3006b.A.argumentstructs.17: "Yeah. Yeah. How do you call that ?"
+AE_ID TS3006b.D.argumentstructs.Daan.13: "Wait you you should be able to to browse through a list or something, which w displays all the all the values, all the channels which are possible. I mean like one to f thirty of or ninety or whatever. Just browse through it and then um in some kind of way see if it if it if it is programmed."
+AE_ID TS3006b.A.argumentstructs.Daan.11: "Channels ? Yeah. Ninety nine or something. Yeah. S swap channels ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.11
+---------------------------------
+target=TS3006b.A.argumentstructs.Daan.12
+source=TS3006b.D.argumentstructs.Daan.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.14:
+"Yeah. Swap channels."
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.12: "If you already programmed it. If you want to move it. Yeah that should be possible too. Yeah how do you call that ? Mm ?"
+AE_ID TS3006b.A.argumentstructs.17: "Yeah. Yeah. How do you call that ?"
+AE_ID TS3006b.D.argumentstructs.Daan.13: "Wait you you should be able to to browse through a list or something, which w displays all the all the values, all the channels which are possible. I mean like one to f thirty of or ninety or whatever. Just browse through it and then um in some kind of way see if it if it if it is programmed."
+AE_ID TS3006b.A.argumentstructs.Daan.11: "Channels ? Yeah. Ninety nine or something. Yeah. S swap channels ?"
+AE_ID TS3006b.A.argumentstructs.Daan.12: "Can I call it that ? Swap's good option. Okay. Uh other functions ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.11
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.14
+source=TS3006b.A.argumentstructs.Daan.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.15:
+"So you  most of the time if you if you swap it  S uh let's say for example you have uh R_T_L_ five on on channel five. And Veronica on channel eight and you want to move Veronica to channel five, um most of the times you override the previous uh the previous one."
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.17: "Yeah. Yeah. How do you call that ?"
+AE_ID TS3006b.D.argumentstructs.Daan.13: "Wait you you should be able to to browse through a list or something, which w displays all the all the values, all the channels which are possible. I mean like one to f thirty of or ninety or whatever. Just browse through it and then um in some kind of way see if it if it if it is programmed."
+AE_ID TS3006b.A.argumentstructs.Daan.11: "Channels ? Yeah. Ninety nine or something. Yeah. S swap channels ?"
+AE_ID TS3006b.A.argumentstructs.Daan.12: "Can I call it that ? Swap's good option. Okay. Uh other functions ?"
+AE_ID TS3006b.D.argumentstructs.Daan.14: "Yeah. Swap channels."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.14
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.15
+source=TS3006b.D.argumentstructs.Daan.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.18:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.13: "Wait you you should be able to to browse through a list or something, which w displays all the all the values, all the channels which are possible. I mean like one to f thirty of or ninety or whatever. Just browse through it and then um in some kind of way see if it if it if it is programmed."
+AE_ID TS3006b.A.argumentstructs.Daan.11: "Channels ? Yeah. Ninety nine or something. Yeah. S swap channels ?"
+AE_ID TS3006b.A.argumentstructs.Daan.12: "Can I call it that ? Swap's good option. Okay. Uh other functions ?"
+AE_ID TS3006b.D.argumentstructs.Daan.14: "Yeah. Swap channels."
+AE_ID TS3006b.D.argumentstructs.Daan.15: "So you  most of the time if you if you swap it  S uh let's say for example you have uh R_T_L_ five on on channel five. And Veronica on channel eight and you want to move Veronica to channel five, um most of the times you override the previous uh the previous one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.14
+---------------------------------
+target=TS3006b.A.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3006b-Storing channels.csv - True Judgement Ratio: 41.18%

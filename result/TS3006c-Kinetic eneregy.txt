@@ -1,0 +1,412 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.1:
+"Yeah. I think this is about it. Yeah I was working on some per personal preferences. I first uh chose for the battery, 'cause yeah I'm traditional and that's the most obvious, easiest choice to go to. But I really think that we should maybe uh think about the kinetic energy, where you have to move the thing to be able to use it."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.B.argumentstructs.Daan.1:
+"Yeah. Yeah. As an optional uh feature."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.1: "Yeah. I think this is about it. Yeah I was working on some per personal preferences. I first uh chose for the battery, 'cause yeah I'm traditional and that's the most obvious, easiest choice to go to. But I really think that we should maybe uh think about the kinetic energy, where you have to move the thing to be able to use it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3006c.B.argumentstructs.Daan.1
+source=TS3006c.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.30:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.1: "Yeah. I think this is about it. Yeah I was working on some per personal preferences. I first uh chose for the battery, 'cause yeah I'm traditional and that's the most obvious, easiest choice to go to. But I really think that we should maybe uh think about the kinetic energy, where you have to move the thing to be able to use it."
+AE_ID TS3006c.B.argumentstructs.Daan.1: "Yeah. Yeah. As an optional uh feature."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3006c.A.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.25:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.1: "Yeah. I think this is about it. Yeah I was working on some per personal preferences. I first uh chose for the battery, 'cause yeah I'm traditional and that's the most obvious, easiest choice to go to. But I really think that we should maybe uh think about the kinetic energy, where you have to move the thing to be able to use it."
+AE_ID TS3006c.B.argumentstructs.Daan.1: "Yeah. Yeah. As an optional uh feature."
+AE_ID TS3006c.A.argumentstructs.30: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.30
+---------------------------------
+target=TS3006c.D.argumentstructs.25
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.B.argumentstructs.Daan.2:
+"Or combine uh both with a with one uh"
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.1: "Yeah. I think this is about it. Yeah I was working on some per personal preferences. I first uh chose for the battery, 'cause yeah I'm traditional and that's the most obvious, easiest choice to go to. But I really think that we should maybe uh think about the kinetic energy, where you have to move the thing to be able to use it."
+AE_ID TS3006c.B.argumentstructs.Daan.1: "Yeah. Yeah. As an optional uh feature."
+AE_ID TS3006c.A.argumentstructs.30: "Yeah."
+AE_ID TS3006c.D.argumentstructs.25: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3006c.B.argumentstructs.Daan.2
+source=TS3006c.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.Daan.1:
+"I guess we can only choose one."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.1: "Yeah. I think this is about it. Yeah I was working on some per personal preferences. I first uh chose for the battery, 'cause yeah I'm traditional and that's the most obvious, easiest choice to go to. But I really think that we should maybe uh think about the kinetic energy, where you have to move the thing to be able to use it."
+AE_ID TS3006c.B.argumentstructs.Daan.1: "Yeah. Yeah. As an optional uh feature."
+AE_ID TS3006c.A.argumentstructs.30: "Yeah."
+AE_ID TS3006c.D.argumentstructs.25: "Yeah."
+AE_ID TS3006c.B.argumentstructs.Daan.2: "Or combine uh both with a with one uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3006c.D.argumentstructs.Daan.1
+source=TS3006c.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.1:
+"Uh I think you can only fit one uh source of energy on the"
+
+Past dialogue turns:
+AE_ID TS3006c.B.argumentstructs.Daan.1: "Yeah. Yeah. As an optional uh feature."
+AE_ID TS3006c.A.argumentstructs.30: "Yeah."
+AE_ID TS3006c.D.argumentstructs.25: "Yeah."
+AE_ID TS3006c.B.argumentstructs.Daan.2: "Or combine uh both with a with one uh"
+AE_ID TS3006c.D.argumentstructs.Daan.1: "I guess we can only choose one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.1
+source=TS3006c.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.26:
+"Yeah maybe we"
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.30: "Yeah."
+AE_ID TS3006c.D.argumentstructs.25: "Yeah."
+AE_ID TS3006c.B.argumentstructs.Daan.2: "Or combine uh both with a with one uh"
+AE_ID TS3006c.D.argumentstructs.Daan.1: "I guess we can only choose one."
+AE_ID TS3006c.A.argumentstructs.Daan.1: "Uh I think you can only fit one uh source of energy on the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3006c.C.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.2:
+"I can imagine that the kinetic uh type energy source would be more expensive to make. But it is more longlasting, that the people don't have to ever buy batteries again."
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.25: "Yeah."
+AE_ID TS3006c.B.argumentstructs.Daan.2: "Or combine uh both with a with one uh"
+AE_ID TS3006c.D.argumentstructs.Daan.1: "I guess we can only choose one."
+AE_ID TS3006c.A.argumentstructs.Daan.1: "Uh I think you can only fit one uh source of energy on the"
+AE_ID TS3006c.C.argumentstructs.26: "Yeah maybe we"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.2
+source=TS3006c.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.Daan.2:
+"Yeah. And it's more fun."
+
+Past dialogue turns:
+AE_ID TS3006c.B.argumentstructs.Daan.2: "Or combine uh both with a with one uh"
+AE_ID TS3006c.D.argumentstructs.Daan.1: "I guess we can only choose one."
+AE_ID TS3006c.A.argumentstructs.Daan.1: "Uh I think you can only fit one uh source of energy on the"
+AE_ID TS3006c.C.argumentstructs.26: "Yeah maybe we"
+AE_ID TS3006c.C.argumentstructs.Daan.2: "I can imagine that the kinetic uh type energy source would be more expensive to make. But it is more longlasting, that the people don't have to ever buy batteries again."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3006c.D.argumentstructs.Daan.2
+source=TS3006c.C.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.31:
+"Yeah I didn't receive any info uh."
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.Daan.1: "I guess we can only choose one."
+AE_ID TS3006c.A.argumentstructs.Daan.1: "Uh I think you can only fit one uh source of energy on the"
+AE_ID TS3006c.C.argumentstructs.26: "Yeah maybe we"
+AE_ID TS3006c.C.argumentstructs.Daan.2: "I can imagine that the kinetic uh type energy source would be more expensive to make. But it is more longlasting, that the people don't have to ever buy batteries again."
+AE_ID TS3006c.D.argumentstructs.Daan.2: "Yeah. And it's more fun."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3006c.A.argumentstructs.31
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.3:
+"And it's also more fun yeah. I always chuck my uh remote control around, so"
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.1: "Uh I think you can only fit one uh source of energy on the"
+AE_ID TS3006c.C.argumentstructs.26: "Yeah maybe we"
+AE_ID TS3006c.C.argumentstructs.Daan.2: "I can imagine that the kinetic uh type energy source would be more expensive to make. But it is more longlasting, that the people don't have to ever buy batteries again."
+AE_ID TS3006c.D.argumentstructs.Daan.2: "Yeah. And it's more fun."
+AE_ID TS3006c.A.argumentstructs.31: "Yeah I didn't receive any info uh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.2
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.3
+source=TS3006c.D.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.Daan.3:
+"Yeah, just playing with it and  especially when the material's rubber. It can be done, I mean, you can't harm it, so it's a perfect combination I guess."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.26: "Yeah maybe we"
+AE_ID TS3006c.C.argumentstructs.Daan.2: "I can imagine that the kinetic uh type energy source would be more expensive to make. But it is more longlasting, that the people don't have to ever buy batteries again."
+AE_ID TS3006c.D.argumentstructs.Daan.2: "Yeah. And it's more fun."
+AE_ID TS3006c.A.argumentstructs.31: "Yeah I didn't receive any info uh."
+AE_ID TS3006c.C.argumentstructs.Daan.3: "And it's also more fun yeah. I always chuck my uh remote control around, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.3
+---------------------------------
+target=TS3006c.D.argumentstructs.Daan.3
+source=TS3006c.D.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.2:
+"Yeah. S yeah it's safe."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.2: "I can imagine that the kinetic uh type energy source would be more expensive to make. But it is more longlasting, that the people don't have to ever buy batteries again."
+AE_ID TS3006c.D.argumentstructs.Daan.2: "Yeah. And it's more fun."
+AE_ID TS3006c.A.argumentstructs.31: "Yeah I didn't receive any info uh."
+AE_ID TS3006c.C.argumentstructs.Daan.3: "And it's also more fun yeah. I always chuck my uh remote control around, so"
+AE_ID TS3006c.D.argumentstructs.Daan.3: "Yeah, just playing with it and  especially when the material's rubber. It can be done, I mean, you can't harm it, so it's a perfect combination I guess."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.3
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.2
+source=TS3006c.D.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.4:
+"Yeah y exactly. You don't have to be scared about bouncing it off the g floor and breaking it or whatever. So that's the end of it."
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.Daan.2: "Yeah. And it's more fun."
+AE_ID TS3006c.A.argumentstructs.31: "Yeah I didn't receive any info uh."
+AE_ID TS3006c.C.argumentstructs.Daan.3: "And it's also more fun yeah. I always chuck my uh remote control around, so"
+AE_ID TS3006c.D.argumentstructs.Daan.3: "Yeah, just playing with it and  especially when the material's rubber. It can be done, I mean, you can't harm it, so it's a perfect combination I guess."
+AE_ID TS3006c.A.argumentstructs.Daan.2: "Yeah. S yeah it's safe."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.3
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.4
+source=TS3006c.D.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.26:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.31: "Yeah I didn't receive any info uh."
+AE_ID TS3006c.C.argumentstructs.Daan.3: "And it's also more fun yeah. I always chuck my uh remote control around, so"
+AE_ID TS3006c.D.argumentstructs.Daan.3: "Yeah, just playing with it and  especially when the material's rubber. It can be done, I mean, you can't harm it, so it's a perfect combination I guess."
+AE_ID TS3006c.A.argumentstructs.Daan.2: "Yeah. S yeah it's safe."
+AE_ID TS3006c.C.argumentstructs.Daan.4: "Yeah y exactly. You don't have to be scared about bouncing it off the g floor and breaking it or whatever. So that's the end of it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.2
+---------------------------------
+target=TS3006c.D.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.B.argumentstructs.17:
+"Okay. Yeah."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.3: "And it's also more fun yeah. I always chuck my uh remote control around, so"
+AE_ID TS3006c.D.argumentstructs.Daan.3: "Yeah, just playing with it and  especially when the material's rubber. It can be done, I mean, you can't harm it, so it's a perfect combination I guess."
+AE_ID TS3006c.A.argumentstructs.Daan.2: "Yeah. S yeah it's safe."
+AE_ID TS3006c.C.argumentstructs.Daan.4: "Yeah y exactly. You don't have to be scared about bouncing it off the g floor and breaking it or whatever. So that's the end of it."
+AE_ID TS3006c.D.argumentstructs.26: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.2
+---------------------------------
+target=TS3006c.B.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3006c-Kinetic eneregy.csv - True Judgement Ratio: 35.29%

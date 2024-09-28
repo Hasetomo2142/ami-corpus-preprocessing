@@ -1,0 +1,337 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.Daan.1:
+"Yeah, I I thought about one thing. Uh the buttons ? Uh from which material are they now ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3004d.D.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.Daan.4:
+"Mm. No no Yeah. Just hard plastic. So"
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.1: "Yeah, I I thought about one thing. Uh the buttons ? Uh from which material are they now ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3004d.C.argumentstructs.Daan.4
+source=TS3004d.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.Daan.5:
+"Just like your telephone, hard plastic."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.1: "Yeah, I I thought about one thing. Uh the buttons ? Uh from which material are they now ?"
+AE_ID TS3004d.C.argumentstructs.Daan.4: "Mm. No no Yeah. Just hard plastic. So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.Daan.4
+---------------------------------
+target=TS3004d.B.argumentstructs.Daan.5
+source=TS3004d.D.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.Daan.2:
+"Okay. Because um if you use it a couple of years, some uh sometimes the numbers on the on the buttons are slide away, are uh  And maybe we can write the numbers below or above ? Or shall we just turn it on on the buttons ?"
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.1: "Yeah, I I thought about one thing. Uh the buttons ? Uh from which material are they now ?"
+AE_ID TS3004d.C.argumentstructs.Daan.4: "Mm. No no Yeah. Just hard plastic. So"
+AE_ID TS3004d.B.argumentstructs.Daan.5: "Just like your telephone, hard plastic."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3004d.D.argumentstructs.Daan.2
+source=TS3004d.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.Daan.5:
+"It's too expensive to make it from a different material anyway."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.1: "Yeah, I I thought about one thing. Uh the buttons ? Uh from which material are they now ?"
+AE_ID TS3004d.C.argumentstructs.Daan.4: "Mm. No no Yeah. Just hard plastic. So"
+AE_ID TS3004d.B.argumentstructs.Daan.5: "Just like your telephone, hard plastic."
+AE_ID TS3004d.D.argumentstructs.Daan.2: "Okay. Because um if you use it a couple of years, some uh sometimes the numbers on the on the buttons are slide away, are uh  And maybe we can write the numbers below or above ? Or shall we just turn it on on the buttons ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3004d.A.argumentstructs.Daan.5
+source=TS3004d.D.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.Daan.6:
+"I think just on the buttons. If you do it abo above or below, it takes uh more space."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.1: "Yeah, I I thought about one thing. Uh the buttons ? Uh from which material are they now ?"
+AE_ID TS3004d.C.argumentstructs.Daan.4: "Mm. No no Yeah. Just hard plastic. So"
+AE_ID TS3004d.B.argumentstructs.Daan.5: "Just like your telephone, hard plastic."
+AE_ID TS3004d.D.argumentstructs.Daan.2: "Okay. Because um if you use it a couple of years, some uh sometimes the numbers on the on the buttons are slide away, are uh  And maybe we can write the numbers below or above ? Or shall we just turn it on on the buttons ?"
+AE_ID TS3004d.A.argumentstructs.Daan.5: "It's too expensive to make it from a different material anyway."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.2
+---------------------------------
+target=TS3004d.B.argumentstructs.Daan.6
+source=TS3004d.D.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.Daan.3:
+"Well yeah. That's too much place."
+
+Past dialogue turns:
+AE_ID TS3004d.C.argumentstructs.Daan.4: "Mm. No no Yeah. Just hard plastic. So"
+AE_ID TS3004d.B.argumentstructs.Daan.5: "Just like your telephone, hard plastic."
+AE_ID TS3004d.D.argumentstructs.Daan.2: "Okay. Because um if you use it a couple of years, some uh sometimes the numbers on the on the buttons are slide away, are uh  And maybe we can write the numbers below or above ? Or shall we just turn it on on the buttons ?"
+AE_ID TS3004d.A.argumentstructs.Daan.5: "It's too expensive to make it from a different material anyway."
+AE_ID TS3004d.B.argumentstructs.Daan.6: "I think just on the buttons. If you do it abo above or below, it takes uh more space."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.6
+---------------------------------
+target=TS3004d.D.argumentstructs.Daan.3
+source=TS3004d.B.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.12:
+"Yeah, but"
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.5: "Just like your telephone, hard plastic."
+AE_ID TS3004d.D.argumentstructs.Daan.2: "Okay. Because um if you use it a couple of years, some uh sometimes the numbers on the on the buttons are slide away, are uh  And maybe we can write the numbers below or above ? Or shall we just turn it on on the buttons ?"
+AE_ID TS3004d.A.argumentstructs.Daan.5: "It's too expensive to make it from a different material anyway."
+AE_ID TS3004d.B.argumentstructs.Daan.6: "I think just on the buttons. If you do it abo above or below, it takes uh more space."
+AE_ID TS3004d.D.argumentstructs.Daan.3: "Well yeah. That's too much place."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.6
+---------------------------------
+target=TS3004d.C.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.10:
+"Okay, just leave it. Just leave it. Yeah, and i The most time"
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.2: "Okay. Because um if you use it a couple of years, some uh sometimes the numbers on the on the buttons are slide away, are uh  And maybe we can write the numbers below or above ? Or shall we just turn it on on the buttons ?"
+AE_ID TS3004d.A.argumentstructs.Daan.5: "It's too expensive to make it from a different material anyway."
+AE_ID TS3004d.B.argumentstructs.Daan.6: "I think just on the buttons. If you do it abo above or below, it takes uh more space."
+AE_ID TS3004d.D.argumentstructs.Daan.3: "Well yeah. That's too much place."
+AE_ID TS3004d.C.argumentstructs.12: "Yeah, but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.6
+---------------------------------
+target=TS3004d.D.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.Daan.7:
+"I don't think the space is worth it."
+
+Past dialogue turns:
+AE_ID TS3004d.A.argumentstructs.Daan.5: "It's too expensive to make it from a different material anyway."
+AE_ID TS3004d.B.argumentstructs.Daan.6: "I think just on the buttons. If you do it abo above or below, it takes uh more space."
+AE_ID TS3004d.D.argumentstructs.Daan.3: "Well yeah. That's too much place."
+AE_ID TS3004d.C.argumentstructs.12: "Yeah, but"
+AE_ID TS3004d.D.argumentstructs.10: "Okay, just leave it. Just leave it. Yeah, and i The most time"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.3
+---------------------------------
+target=TS3004d.B.argumentstructs.Daan.7
+source=TS3004d.B.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.Daan.5:
+"I think uh you have that problem more often with rubber buttons."
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.6: "I think just on the buttons. If you do it abo above or below, it takes uh more space."
+AE_ID TS3004d.D.argumentstructs.Daan.3: "Well yeah. That's too much place."
+AE_ID TS3004d.C.argumentstructs.12: "Yeah, but"
+AE_ID TS3004d.D.argumentstructs.10: "Okay, just leave it. Just leave it. Yeah, and i The most time"
+AE_ID TS3004d.B.argumentstructs.Daan.7: "I don't think the space is worth it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.6
+---------------------------------
+target=TS3004d.C.argumentstructs.Daan.5
+source=TS3004d.D.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.Daan.4:
+"Yeah, with rubber buttons. Yeah, okay."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.3: "Well yeah. That's too much place."
+AE_ID TS3004d.C.argumentstructs.12: "Yeah, but"
+AE_ID TS3004d.D.argumentstructs.10: "Okay, just leave it. Just leave it. Yeah, and i The most time"
+AE_ID TS3004d.B.argumentstructs.Daan.7: "I don't think the space is worth it."
+AE_ID TS3004d.C.argumentstructs.Daan.5: "I think uh you have that problem more often with rubber buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.Daan.5
+---------------------------------
+target=TS3004d.D.argumentstructs.Daan.4
+source=TS3004d.C.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.11:
+"Okay. Fine."
+
+Past dialogue turns:
+AE_ID TS3004d.C.argumentstructs.12: "Yeah, but"
+AE_ID TS3004d.D.argumentstructs.10: "Okay, just leave it. Just leave it. Yeah, and i The most time"
+AE_ID TS3004d.B.argumentstructs.Daan.7: "I don't think the space is worth it."
+AE_ID TS3004d.C.argumentstructs.Daan.5: "I think uh you have that problem more often with rubber buttons."
+AE_ID TS3004d.D.argumentstructs.Daan.4: "Yeah, with rubber buttons. Yeah, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.10
+---------------------------------
+target=TS3004d.D.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.12:
+"Yeah ? Okay, cool."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.10: "Okay, just leave it. Just leave it. Yeah, and i The most time"
+AE_ID TS3004d.B.argumentstructs.Daan.7: "I don't think the space is worth it."
+AE_ID TS3004d.C.argumentstructs.Daan.5: "I think uh you have that problem more often with rubber buttons."
+AE_ID TS3004d.D.argumentstructs.Daan.4: "Yeah, with rubber buttons. Yeah, okay."
+AE_ID TS3004d.D.argumentstructs.11: "Okay. Fine."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.11
+---------------------------------
+target=TS3004d.A.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3004d-Text on buttons.csv - True Judgement Ratio: 42.86%

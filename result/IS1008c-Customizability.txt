@@ -1,0 +1,337 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.C.argumentstructs.Daan.1:
+"You know, maybe what you could do is when somebody orders the device id you could send them like um  a uh  uh b some sort of a foam rubber um ball, and then they would squeeze it, and it would take the shape of their hand."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.0
+---------------------------------
+target=IS1008c.C.argumentstructs.Daan.1
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.14:
+"Oh yeah."
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.1: "You know, maybe what you could do is when somebody orders the device id you could send them like um  a uh  uh b some sort of a foam rubber um ball, and then they would squeeze it, and it would take the shape of their hand."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1008c.B.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.Daan.1:
+"Yeah, so it's really molded to to your specific"
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.1: "You know, maybe what you could do is when somebody orders the device id you could send them like um  a uh  uh b some sort of a foam rubber um ball, and then they would squeeze it, and it would take the shape of their hand."
+AE_ID IS1008c.B.argumentstructs.14: "Oh yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1008c.B.argumentstructs.Daan.1
+source=IS1008c.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.C.argumentstructs.Daan.2:
+"To t  an and then you would know like  um what the geometry of their hands would be and uh"
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.1: "You know, maybe what you could do is when somebody orders the device id you could send them like um  a uh  uh b some sort of a foam rubber um ball, and then they would squeeze it, and it would take the shape of their hand."
+AE_ID IS1008c.B.argumentstructs.14: "Oh yeah."
+AE_ID IS1008c.B.argumentstructs.Daan.1: "Yeah, so it's really molded to to your specific"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1008c.C.argumentstructs.Daan.2
+source=IS1008c.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.D.argumentstructs.9:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.1: "You know, maybe what you could do is when somebody orders the device id you could send them like um  a uh  uh b some sort of a foam rubber um ball, and then they would squeeze it, and it would take the shape of their hand."
+AE_ID IS1008c.B.argumentstructs.14: "Oh yeah."
+AE_ID IS1008c.B.argumentstructs.Daan.1: "Yeah, so it's really molded to to your specific"
+AE_ID IS1008c.C.argumentstructs.Daan.2: "To t  an and then you would know like  um what the geometry of their hands would be and uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.B.argumentstructs.14
+---------------------------------
+target=IS1008c.D.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.D.argumentstructs.Daan.4:
+"How hard they squeeze ?  Resistance resistance, right."
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.1: "You know, maybe what you could do is when somebody orders the device id you could send them like um  a uh  uh b some sort of a foam rubber um ball, and then they would squeeze it, and it would take the shape of their hand."
+AE_ID IS1008c.B.argumentstructs.14: "Oh yeah."
+AE_ID IS1008c.B.argumentstructs.Daan.1: "Yeah, so it's really molded to to your specific"
+AE_ID IS1008c.C.argumentstructs.Daan.2: "To t  an and then you would know like  um what the geometry of their hands would be and uh"
+AE_ID IS1008c.D.argumentstructs.9: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1008c.D.argumentstructs.Daan.4
+source=IS1008c.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.C.argumentstructs.Daan.3:
+"Yes  you'd know what kind of wood to get."
+
+Past dialogue turns:
+AE_ID IS1008c.B.argumentstructs.14: "Oh yeah."
+AE_ID IS1008c.B.argumentstructs.Daan.1: "Yeah, so it's really molded to to your specific"
+AE_ID IS1008c.C.argumentstructs.Daan.2: "To t  an and then you would know like  um what the geometry of their hands would be and uh"
+AE_ID IS1008c.D.argumentstructs.9: "Mm-hmm."
+AE_ID IS1008c.D.argumentstructs.Daan.4: "How hard they squeeze ?  Resistance resistance, right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.2
+---------------------------------
+target=IS1008c.C.argumentstructs.Daan.3
+source=IS1008c.D.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.Daan.2:
+"But th for that you'd also have to do sort of an average across families and things like that if  unless everyone has their own personal remote."
+
+Past dialogue turns:
+AE_ID IS1008c.B.argumentstructs.Daan.1: "Yeah, so it's really molded to to your specific"
+AE_ID IS1008c.C.argumentstructs.Daan.2: "To t  an and then you would know like  um what the geometry of their hands would be and uh"
+AE_ID IS1008c.D.argumentstructs.9: "Mm-hmm."
+AE_ID IS1008c.D.argumentstructs.Daan.4: "How hard they squeeze ?  Resistance resistance, right."
+AE_ID IS1008c.C.argumentstructs.Daan.3: "Yes  you'd know what kind of wood to get."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1008c.B.argumentstructs.Daan.2
+source=IS1008c.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.C.argumentstructs.Daan.4:
+"That's right, that's right, you wouldn't wanna go too far down that."
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.2: "To t  an and then you would know like  um what the geometry of their hands would be and uh"
+AE_ID IS1008c.D.argumentstructs.9: "Mm-hmm."
+AE_ID IS1008c.D.argumentstructs.Daan.4: "How hard they squeeze ?  Resistance resistance, right."
+AE_ID IS1008c.C.argumentstructs.Daan.3: "Yes  you'd know what kind of wood to get."
+AE_ID IS1008c.B.argumentstructs.Daan.2: "But th for that you'd also have to do sort of an average across families and things like that if  unless everyone has their own personal remote."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1008c.C.argumentstructs.Daan.4
+source=IS1008c.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.C.argumentstructs.Daan.5:
+"Oh that  that actually would uh increase the um  the revenues we could expect, yeah."
+
+Past dialogue turns:
+AE_ID IS1008c.D.argumentstructs.9: "Mm-hmm."
+AE_ID IS1008c.D.argumentstructs.Daan.4: "How hard they squeeze ?  Resistance resistance, right."
+AE_ID IS1008c.C.argumentstructs.Daan.3: "Yes  you'd know what kind of wood to get."
+AE_ID IS1008c.B.argumentstructs.Daan.2: "But th for that you'd also have to do sort of an average across families and things like that if  unless everyone has their own personal remote."
+AE_ID IS1008c.C.argumentstructs.Daan.4: "That's right, that's right, you wouldn't wanna go too far down that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.4
+---------------------------------
+target=IS1008c.C.argumentstructs.Daan.5
+source=IS1008c.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.A.argumentstructs.8:
+"Yeah. I hope so."
+
+Past dialogue turns:
+AE_ID IS1008c.D.argumentstructs.Daan.4: "How hard they squeeze ?  Resistance resistance, right."
+AE_ID IS1008c.C.argumentstructs.Daan.3: "Yes  you'd know what kind of wood to get."
+AE_ID IS1008c.B.argumentstructs.Daan.2: "But th for that you'd also have to do sort of an average across families and things like that if  unless everyone has their own personal remote."
+AE_ID IS1008c.C.argumentstructs.Daan.4: "That's right, that's right, you wouldn't wanna go too far down that."
+AE_ID IS1008c.C.argumentstructs.Daan.5: "Oh that  that actually would uh increase the um  the revenues we could expect, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1008c.A.argumentstructs.8
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.D.argumentstructs.Daan.5:
+"No, but incorporating the three uh obviously it'd be something totally new on the market, totally different and from"
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.3: "Yes  you'd know what kind of wood to get."
+AE_ID IS1008c.B.argumentstructs.Daan.2: "But th for that you'd also have to do sort of an average across families and things like that if  unless everyone has their own personal remote."
+AE_ID IS1008c.C.argumentstructs.Daan.4: "That's right, that's right, you wouldn't wanna go too far down that."
+AE_ID IS1008c.C.argumentstructs.Daan.5: "Oh that  that actually would uh increase the um  the revenues we could expect, yeah."
+AE_ID IS1008c.A.argumentstructs.8: "Yeah. I hope so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.4
+---------------------------------
+target=IS1008c.D.argumentstructs.Daan.5
+source=IS1008c.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.15:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1008c.B.argumentstructs.Daan.2: "But th for that you'd also have to do sort of an average across families and things like that if  unless everyone has their own personal remote."
+AE_ID IS1008c.C.argumentstructs.Daan.4: "That's right, that's right, you wouldn't wanna go too far down that."
+AE_ID IS1008c.C.argumentstructs.Daan.5: "Oh that  that actually would uh increase the um  the revenues we could expect, yeah."
+AE_ID IS1008c.A.argumentstructs.8: "Yeah. I hope so."
+AE_ID IS1008c.D.argumentstructs.Daan.5: "No, but incorporating the three uh obviously it'd be something totally new on the market, totally different and from"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.A.argumentstructs.8
+---------------------------------
+target=IS1008c.B.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.Daan.3:
+"Well, already the customisability is a really good sort of new gimmick."
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.4: "That's right, that's right, you wouldn't wanna go too far down that."
+AE_ID IS1008c.C.argumentstructs.Daan.5: "Oh that  that actually would uh increase the um  the revenues we could expect, yeah."
+AE_ID IS1008c.A.argumentstructs.8: "Yeah. I hope so."
+AE_ID IS1008c.D.argumentstructs.Daan.5: "No, but incorporating the three uh obviously it'd be something totally new on the market, totally different and from"
+AE_ID IS1008c.B.argumentstructs.15: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.D.argumentstructs.Daan.5
+---------------------------------
+target=IS1008c.B.argumentstructs.Daan.3
+source=IS1008c.D.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1008c-Customizability.csv - True Judgement Ratio: 35.71%

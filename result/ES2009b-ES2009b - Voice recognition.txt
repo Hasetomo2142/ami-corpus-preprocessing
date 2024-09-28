@@ -1,0 +1,762 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.A.argumentstructs.Erik.1:
+"How  th this voice operation thing is  I think is a good idea um assuming that it's doable, um at least for the basic controls, maybe we can balance it that way, you know we can see. Okay you can't say record alias tonight at seven P_M_ but we might be able to say um  volume up."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2009b.A.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.1:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2009b.A.argumentstructs.Erik.1: "How  th this voice operation thing is  I think is a good idea um assuming that it's doable, um at least for the basic controls, maybe we can balance it that way, you know we can see. Okay you can't say record alias tonight at seven P_M_ but we might be able to say um  volume up."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.1
+source=ES2009b.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.13:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2009b.A.argumentstructs.Erik.1: "How  th this voice operation thing is  I think is a good idea um assuming that it's doable, um at least for the basic controls, maybe we can balance it that way, you know we can see. Okay you can't say record alias tonight at seven P_M_ but we might be able to say um  volume up."
+AE_ID ES2009b.D.argumentstructs.Erik.1: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2009b.B.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.2:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2009b.A.argumentstructs.Erik.1: "How  th this voice operation thing is  I think is a good idea um assuming that it's doable, um at least for the basic controls, maybe we can balance it that way, you know we can see. Okay you can't say record alias tonight at seven P_M_ but we might be able to say um  volume up."
+AE_ID ES2009b.D.argumentstructs.Erik.1: "Right."
+AE_ID ES2009b.B.argumentstructs.13: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.2
+source=ES2009b.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.Erik.1:
+"Right. I think it would be possible to uh combine the locator device and the voice recognition technology."
+
+Past dialogue turns:
+AE_ID ES2009b.A.argumentstructs.Erik.1: "How  th this voice operation thing is  I think is a good idea um assuming that it's doable, um at least for the basic controls, maybe we can balance it that way, you know we can see. Okay you can't say record alias tonight at seven P_M_ but we might be able to say um  volume up."
+AE_ID ES2009b.D.argumentstructs.Erik.1: "Right."
+AE_ID ES2009b.B.argumentstructs.13: "Mm."
+AE_ID ES2009b.D.argumentstructs.Erik.2: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2009b.B.argumentstructs.Erik.1
+source=ES2009b.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.A.argumentstructs.16:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2009b.A.argumentstructs.Erik.1: "How  th this voice operation thing is  I think is a good idea um assuming that it's doable, um at least for the basic controls, maybe we can balance it that way, you know we can see. Okay you can't say record alias tonight at seven P_M_ but we might be able to say um  volume up."
+AE_ID ES2009b.D.argumentstructs.Erik.1: "Right."
+AE_ID ES2009b.B.argumentstructs.13: "Mm."
+AE_ID ES2009b.D.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2009b.B.argumentstructs.Erik.1: "Right. I think it would be possible to uh combine the locator device and the voice recognition technology."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.13
+---------------------------------
+target=ES2009b.A.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.3:
+"Oh. That could work. I like that."
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.Erik.1: "Right."
+AE_ID ES2009b.B.argumentstructs.13: "Mm."
+AE_ID ES2009b.D.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2009b.B.argumentstructs.Erik.1: "Right. I think it would be possible to uh combine the locator device and the voice recognition technology."
+AE_ID ES2009b.A.argumentstructs.16: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.3
+source=ES2009b.B.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.14:
+"With a simple command like locate. And then it could start to beep and"
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.13: "Mm."
+AE_ID ES2009b.D.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2009b.B.argumentstructs.Erik.1: "Right. I think it would be possible to uh combine the locator device and the voice recognition technology."
+AE_ID ES2009b.A.argumentstructs.16: "Mm."
+AE_ID ES2009b.D.argumentstructs.Erik.3: "Oh. That could work. I like that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2009b.B.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.4:
+"Yeah. Something very basic."
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2009b.B.argumentstructs.Erik.1: "Right. I think it would be possible to uh combine the locator device and the voice recognition technology."
+AE_ID ES2009b.A.argumentstructs.16: "Mm."
+AE_ID ES2009b.D.argumentstructs.Erik.3: "Oh. That could work. I like that."
+AE_ID ES2009b.B.argumentstructs.14: "With a simple command like locate. And then it could start to beep and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.4
+source=ES2009b.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.21:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.Erik.1: "Right. I think it would be possible to uh combine the locator device and the voice recognition technology."
+AE_ID ES2009b.A.argumentstructs.16: "Mm."
+AE_ID ES2009b.D.argumentstructs.Erik.3: "Oh. That could work. I like that."
+AE_ID ES2009b.B.argumentstructs.14: "With a simple command like locate. And then it could start to beep and"
+AE_ID ES2009b.D.argumentstructs.Erik.4: "Yeah. Something very basic."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2009b.D.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.A.argumentstructs.Erik.2:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2009b.A.argumentstructs.16: "Mm."
+AE_ID ES2009b.D.argumentstructs.Erik.3: "Oh. That could work. I like that."
+AE_ID ES2009b.B.argumentstructs.14: "With a simple command like locate. And then it could start to beep and"
+AE_ID ES2009b.D.argumentstructs.Erik.4: "Yeah. Something very basic."
+AE_ID ES2009b.D.argumentstructs.21: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.21
+---------------------------------
+target=ES2009b.A.argumentstructs.Erik.2
+source=ES2009b.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.Erik.2:
+"therefore be found."
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.Erik.3: "Oh. That could work. I like that."
+AE_ID ES2009b.B.argumentstructs.14: "With a simple command like locate. And then it could start to beep and"
+AE_ID ES2009b.D.argumentstructs.Erik.4: "Yeah. Something very basic."
+AE_ID ES2009b.D.argumentstructs.21: "Right."
+AE_ID ES2009b.A.argumentstructs.Erik.2: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.14
+---------------------------------
+target=ES2009b.B.argumentstructs.Erik.2
+source=ES2009b.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.C.argumentstructs.Erik.1:
+"Sounds good."
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.14: "With a simple command like locate. And then it could start to beep and"
+AE_ID ES2009b.D.argumentstructs.Erik.4: "Yeah. Something very basic."
+AE_ID ES2009b.D.argumentstructs.21: "Right."
+AE_ID ES2009b.A.argumentstructs.Erik.2: "Right."
+AE_ID ES2009b.B.argumentstructs.Erik.2: "therefore be found."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.21
+---------------------------------
+target=ES2009b.C.argumentstructs.Erik.1
+source=ES2009b.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.5:
+"Is that only gonna be within our two hundred foot range then ?"
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.Erik.4: "Yeah. Something very basic."
+AE_ID ES2009b.D.argumentstructs.21: "Right."
+AE_ID ES2009b.A.argumentstructs.Erik.2: "Right."
+AE_ID ES2009b.B.argumentstructs.Erik.2: "therefore be found."
+AE_ID ES2009b.C.argumentstructs.Erik.1: "Sounds good."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.5
+source=ES2009b.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.Erik.3:
+"Oh yeah I think that's very doable."
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.21: "Right."
+AE_ID ES2009b.A.argumentstructs.Erik.2: "Right."
+AE_ID ES2009b.B.argumentstructs.Erik.2: "therefore be found."
+AE_ID ES2009b.C.argumentstructs.Erik.1: "Sounds good."
+AE_ID ES2009b.D.argumentstructs.Erik.5: "Is that only gonna be within our two hundred foot range then ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.21
+---------------------------------
+target=ES2009b.B.argumentstructs.Erik.3
+source=ES2009b.D.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.6:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2009b.A.argumentstructs.Erik.2: "Right."
+AE_ID ES2009b.B.argumentstructs.Erik.2: "therefore be found."
+AE_ID ES2009b.C.argumentstructs.Erik.1: "Sounds good."
+AE_ID ES2009b.D.argumentstructs.Erik.5: "Is that only gonna be within our two hundred foot range then ?"
+AE_ID ES2009b.B.argumentstructs.Erik.3: "Oh yeah I think that's very doable."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.3
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.6
+source=ES2009b.B.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.A.argumentstructs.17:
+"The difficulty wh would be in um I think like i you couldn't speak into the remote that you're trying to find. 'Kay you have something that picks up"
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.Erik.2: "therefore be found."
+AE_ID ES2009b.C.argumentstructs.Erik.1: "Sounds good."
+AE_ID ES2009b.D.argumentstructs.Erik.5: "Is that only gonna be within our two hundred foot range then ?"
+AE_ID ES2009b.B.argumentstructs.Erik.3: "Oh yeah I think that's very doable."
+AE_ID ES2009b.D.argumentstructs.Erik.6: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.Erik.5
+---------------------------------
+target=ES2009b.A.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.15:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2009b.C.argumentstructs.Erik.1: "Sounds good."
+AE_ID ES2009b.D.argumentstructs.Erik.5: "Is that only gonna be within our two hundred foot range then ?"
+AE_ID ES2009b.B.argumentstructs.Erik.3: "Oh yeah I think that's very doable."
+AE_ID ES2009b.D.argumentstructs.Erik.6: "Okay."
+AE_ID ES2009b.A.argumentstructs.17: "The difficulty wh would be in um I think like i you couldn't speak into the remote that you're trying to find. 'Kay you have something that picks up"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.3
+---------------------------------
+target=ES2009b.B.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.A.argumentstructs.Erik.3:
+"a voice from far away"
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.Erik.5: "Is that only gonna be within our two hundred foot range then ?"
+AE_ID ES2009b.B.argumentstructs.Erik.3: "Oh yeah I think that's very doable."
+AE_ID ES2009b.D.argumentstructs.Erik.6: "Okay."
+AE_ID ES2009b.A.argumentstructs.17: "The difficulty wh would be in um I think like i you couldn't speak into the remote that you're trying to find. 'Kay you have something that picks up"
+AE_ID ES2009b.B.argumentstructs.15: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.Erik.5
+---------------------------------
+target=ES2009b.A.argumentstructs.Erik.3
+source=ES2009b.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.7:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.Erik.3: "Oh yeah I think that's very doable."
+AE_ID ES2009b.D.argumentstructs.Erik.6: "Okay."
+AE_ID ES2009b.A.argumentstructs.17: "The difficulty wh would be in um I think like i you couldn't speak into the remote that you're trying to find. 'Kay you have something that picks up"
+AE_ID ES2009b.B.argumentstructs.15: "Mm."
+AE_ID ES2009b.A.argumentstructs.Erik.3: "a voice from far away"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.3
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.7
+source=ES2009b.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.Erik.4:
+"It's a good point."
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.Erik.6: "Okay."
+AE_ID ES2009b.A.argumentstructs.17: "The difficulty wh would be in um I think like i you couldn't speak into the remote that you're trying to find. 'Kay you have something that picks up"
+AE_ID ES2009b.B.argumentstructs.15: "Mm."
+AE_ID ES2009b.A.argumentstructs.Erik.3: "a voice from far away"
+AE_ID ES2009b.D.argumentstructs.Erik.7: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.Erik.7
+---------------------------------
+target=ES2009b.B.argumentstructs.Erik.4
+source=ES2009b.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.A.argumentstructs.Erik.4:
+"If it's hidden under the couch  but then again you have this wee  this wee thing you know that's just a little chip or whatever that has the page button, maybe that could be voice activated too."
+
+Past dialogue turns:
+AE_ID ES2009b.A.argumentstructs.17: "The difficulty wh would be in um I think like i you couldn't speak into the remote that you're trying to find. 'Kay you have something that picks up"
+AE_ID ES2009b.B.argumentstructs.15: "Mm."
+AE_ID ES2009b.A.argumentstructs.Erik.3: "a voice from far away"
+AE_ID ES2009b.D.argumentstructs.Erik.7: "Yeah."
+AE_ID ES2009b.B.argumentstructs.Erik.4: "It's a good point."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.A.argumentstructs.17
+---------------------------------
+target=ES2009b.A.argumentstructs.Erik.4
+source=ES2009b.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.22:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.15: "Mm."
+AE_ID ES2009b.A.argumentstructs.Erik.3: "a voice from far away"
+AE_ID ES2009b.D.argumentstructs.Erik.7: "Yeah."
+AE_ID ES2009b.B.argumentstructs.Erik.4: "It's a good point."
+AE_ID ES2009b.A.argumentstructs.Erik.4: "If it's hidden under the couch  but then again you have this wee  this wee thing you know that's just a little chip or whatever that has the page button, maybe that could be voice activated too."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.15
+---------------------------------
+target=ES2009b.D.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2009b.A.argumentstructs.Erik.3: "a voice from far away"
+AE_ID ES2009b.D.argumentstructs.Erik.7: "Yeah."
+AE_ID ES2009b.B.argumentstructs.Erik.4: "It's a good point."
+AE_ID ES2009b.A.argumentstructs.Erik.4: "If it's hidden under the couch  but then again you have this wee  this wee thing you know that's just a little chip or whatever that has the page button, maybe that could be voice activated too."
+AE_ID ES2009b.D.argumentstructs.22: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.Erik.7
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.8
+source=ES2009b.C.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.C.argumentstructs.8:
+"into that and it"
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.Erik.7: "Yeah."
+AE_ID ES2009b.B.argumentstructs.Erik.4: "It's a good point."
+AE_ID ES2009b.A.argumentstructs.Erik.4: "If it's hidden under the couch  but then again you have this wee  this wee thing you know that's just a little chip or whatever that has the page button, maybe that could be voice activated too."
+AE_ID ES2009b.D.argumentstructs.22: "Mm."
+AE_ID ES2009b.D.argumentstructs.Erik.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2009b.C.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.A.argumentstructs.Erik.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.Erik.4: "It's a good point."
+AE_ID ES2009b.A.argumentstructs.Erik.4: "If it's hidden under the couch  but then again you have this wee  this wee thing you know that's just a little chip or whatever that has the page button, maybe that could be voice activated too."
+AE_ID ES2009b.D.argumentstructs.22: "Mm."
+AE_ID ES2009b.D.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2009b.C.argumentstructs.8: "into that and it"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.Erik.8
+---------------------------------
+target=ES2009b.A.argumentstructs.Erik.5
+source=ES2009b.C.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.Erik.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2009b.A.argumentstructs.Erik.4: "If it's hidden under the couch  but then again you have this wee  this wee thing you know that's just a little chip or whatever that has the page button, maybe that could be voice activated too."
+AE_ID ES2009b.D.argumentstructs.22: "Mm."
+AE_ID ES2009b.D.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2009b.C.argumentstructs.8: "into that and it"
+AE_ID ES2009b.A.argumentstructs.Erik.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.A.argumentstructs.Erik.5
+---------------------------------
+target=ES2009b.B.argumentstructs.Erik.5
+source=ES2009b.C.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.C.argumentstructs.Erik.2:
+"finds your"
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.22: "Mm."
+AE_ID ES2009b.D.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2009b.C.argumentstructs.8: "into that and it"
+AE_ID ES2009b.A.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2009b.B.argumentstructs.Erik.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.C.argumentstructs.8
+---------------------------------
+target=ES2009b.C.argumentstructs.Erik.2
+source=ES2009b.A.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.23:
+"K"
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2009b.C.argumentstructs.8: "into that and it"
+AE_ID ES2009b.A.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2009b.B.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2009b.C.argumentstructs.Erik.2: "finds your"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.Erik.8
+---------------------------------
+target=ES2009b.D.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.A.argumentstructs.Erik.6:
+"Or an isolated magnet or something like, or you know something that wouldn't interfere I don't know that'd be the technical thing but  yeah I like that, I like that, the voice recognition for the paging system."
+
+Past dialogue turns:
+AE_ID ES2009b.C.argumentstructs.8: "into that and it"
+AE_ID ES2009b.A.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2009b.B.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2009b.C.argumentstructs.Erik.2: "finds your"
+AE_ID ES2009b.D.argumentstructs.23: "K"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.A.argumentstructs.Erik.5
+---------------------------------
+target=ES2009b.A.argumentstructs.Erik.6
+source=ES2009b.A.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.9:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2009b.A.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2009b.B.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2009b.C.argumentstructs.Erik.2: "finds your"
+AE_ID ES2009b.D.argumentstructs.23: "K"
+AE_ID ES2009b.A.argumentstructs.Erik.6: "Or an isolated magnet or something like, or you know something that wouldn't interfere I don't know that'd be the technical thing but  yeah I like that, I like that, the voice recognition for the paging system."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.A.argumentstructs.Erik.5
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.9
+source=ES2009b.A.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2009b-ES2009b - Voice recognition.csv - True Judgement Ratio: 19.35%

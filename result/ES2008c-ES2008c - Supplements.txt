@@ -1,0 +1,512 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.Erik.29:
+"Uh what do you mean by supplements, exactly ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2008c.C.argumentstructs.Erik.29
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.A.argumentstructs.Erik.26:
+"Um I assume that's what else we're gonna  like h ha the um the additional buttons we can use."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.Erik.29: "Uh what do you mean by supplements, exactly ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.Erik.29
+---------------------------------
+target=ES2008c.A.argumentstructs.Erik.26
+source=ES2008c.C.argumentstructs.Erik.29
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.59:
+"Oh."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.Erik.29: "Uh what do you mean by supplements, exactly ?"
+AE_ID ES2008c.A.argumentstructs.Erik.26: "Um I assume that's what else we're gonna  like h ha the um the additional buttons we can use."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.Erik.29
+---------------------------------
+target=ES2008c.B.argumentstructs.59
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.A.argumentstructs.Erik.27:
+"So we're gonna have like a menu button, so that we can access on-screen things then ? Okay, um so we're doing an on-screen menu that we can scroll through."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.Erik.29: "Uh what do you mean by supplements, exactly ?"
+AE_ID ES2008c.A.argumentstructs.Erik.26: "Um I assume that's what else we're gonna  like h ha the um the additional buttons we can use."
+AE_ID ES2008c.B.argumentstructs.59: "Oh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.A.argumentstructs.Erik.26
+---------------------------------
+target=ES2008c.A.argumentstructs.Erik.27
+source=ES2008c.A.argumentstructs.Erik.26
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.45:
+"Yep."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.Erik.29: "Uh what do you mean by supplements, exactly ?"
+AE_ID ES2008c.A.argumentstructs.Erik.26: "Um I assume that's what else we're gonna  like h ha the um the additional buttons we can use."
+AE_ID ES2008c.B.argumentstructs.59: "Oh."
+AE_ID ES2008c.A.argumentstructs.Erik.27: "So we're gonna have like a menu button, so that we can access on-screen things then ? Okay, um so we're doing an on-screen menu that we can scroll through."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.A.argumentstructs.Erik.27
+---------------------------------
+target=ES2008c.C.argumentstructs.45
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.Erik.30:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.Erik.29: "Uh what do you mean by supplements, exactly ?"
+AE_ID ES2008c.A.argumentstructs.Erik.26: "Um I assume that's what else we're gonna  like h ha the um the additional buttons we can use."
+AE_ID ES2008c.B.argumentstructs.59: "Oh."
+AE_ID ES2008c.A.argumentstructs.Erik.27: "So we're gonna have like a menu button, so that we can access on-screen things then ? Okay, um so we're doing an on-screen menu that we can scroll through."
+AE_ID ES2008c.C.argumentstructs.45: "Yep."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.45
+---------------------------------
+target=ES2008c.C.argumentstructs.Erik.30
+source=ES2008c.A.argumentstructs.Erik.27
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.Erik.43:
+"Alright."
+
+Past dialogue turns:
+AE_ID ES2008c.A.argumentstructs.Erik.26: "Um I assume that's what else we're gonna  like h ha the um the additional buttons we can use."
+AE_ID ES2008c.B.argumentstructs.59: "Oh."
+AE_ID ES2008c.A.argumentstructs.Erik.27: "So we're gonna have like a menu button, so that we can access on-screen things then ? Okay, um so we're doing an on-screen menu that we can scroll through."
+AE_ID ES2008c.C.argumentstructs.45: "Yep."
+AE_ID ES2008c.C.argumentstructs.Erik.30: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.45
+---------------------------------
+target=ES2008c.B.argumentstructs.Erik.43
+source=ES2008c.A.argumentstructs.Erik.27
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.46:
+"Um in"
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.59: "Oh."
+AE_ID ES2008c.A.argumentstructs.Erik.27: "So we're gonna have like a menu button, so that we can access on-screen things then ? Okay, um so we're doing an on-screen menu that we can scroll through."
+AE_ID ES2008c.C.argumentstructs.45: "Yep."
+AE_ID ES2008c.C.argumentstructs.Erik.30: "Yeah."
+AE_ID ES2008c.B.argumentstructs.Erik.43: "Alright."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.A.argumentstructs.Erik.27
+---------------------------------
+target=ES2008c.C.argumentstructs.46
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.Erik.44:
+"So what are what are our buttons gonna be ? On off"
+
+Past dialogue turns:
+AE_ID ES2008c.A.argumentstructs.Erik.27: "So we're gonna have like a menu button, so that we can access on-screen things then ? Okay, um so we're doing an on-screen menu that we can scroll through."
+AE_ID ES2008c.C.argumentstructs.45: "Yep."
+AE_ID ES2008c.C.argumentstructs.Erik.30: "Yeah."
+AE_ID ES2008c.B.argumentstructs.Erik.43: "Alright."
+AE_ID ES2008c.C.argumentstructs.46: "Um in"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.B.argumentstructs.Erik.43
+---------------------------------
+target=ES2008c.B.argumentstructs.Erik.44
+source=ES2008c.A.argumentstructs.Erik.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.Erik.31:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.45: "Yep."
+AE_ID ES2008c.C.argumentstructs.Erik.30: "Yeah."
+AE_ID ES2008c.B.argumentstructs.Erik.43: "Alright."
+AE_ID ES2008c.C.argumentstructs.46: "Um in"
+AE_ID ES2008c.B.argumentstructs.Erik.44: "So what are what are our buttons gonna be ? On off"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.Erik.30
+---------------------------------
+target=ES2008c.C.argumentstructs.Erik.31
+source=ES2008c.B.argumentstructs.Erik.44
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.Erik.32:
+"On off, uh volume, favourite channels, uh and menu. Yeah, yeah about  yeah like  yeah, a bit like radio presets. Um"
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.Erik.30: "Yeah."
+AE_ID ES2008c.B.argumentstructs.Erik.43: "Alright."
+AE_ID ES2008c.C.argumentstructs.46: "Um in"
+AE_ID ES2008c.B.argumentstructs.Erik.44: "So what are what are our buttons gonna be ? On off"
+AE_ID ES2008c.C.argumentstructs.Erik.31: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.B.argumentstructs.Erik.44
+---------------------------------
+target=ES2008c.C.argumentstructs.Erik.32
+source=ES2008c.B.argumentstructs.Erik.44
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.Erik.45:
+"So like one through five, or"
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.Erik.43: "Alright."
+AE_ID ES2008c.C.argumentstructs.46: "Um in"
+AE_ID ES2008c.B.argumentstructs.Erik.44: "So what are what are our buttons gonna be ? On off"
+AE_ID ES2008c.C.argumentstructs.Erik.31: "Yeah."
+AE_ID ES2008c.C.argumentstructs.Erik.32: "On off, uh volume, favourite channels, uh and menu. Yeah, yeah about  yeah like  yeah, a bit like radio presets. Um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.B.argumentstructs.Erik.44
+---------------------------------
+target=ES2008c.B.argumentstructs.Erik.45
+source=ES2008c.C.argumentstructs.Erik.32
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.D.argumentstructs.Erik.12:
+"Like a radio type sorta situation ?"
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.46: "Um in"
+AE_ID ES2008c.B.argumentstructs.Erik.44: "So what are what are our buttons gonna be ? On off"
+AE_ID ES2008c.C.argumentstructs.Erik.31: "Yeah."
+AE_ID ES2008c.C.argumentstructs.Erik.32: "On off, uh volume, favourite channels, uh and menu. Yeah, yeah about  yeah like  yeah, a bit like radio presets. Um"
+AE_ID ES2008c.B.argumentstructs.Erik.45: "So like one through five, or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.Erik.32
+---------------------------------
+target=ES2008c.D.argumentstructs.Erik.12
+source=ES2008c.C.argumentstructs.Erik.32
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.A.argumentstructs.Erik.28:
+"Pre-set channels and then we're gonna need um numbers one through zero, right ?"
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.Erik.44: "So what are what are our buttons gonna be ? On off"
+AE_ID ES2008c.C.argumentstructs.Erik.31: "Yeah."
+AE_ID ES2008c.C.argumentstructs.Erik.32: "On off, uh volume, favourite channels, uh and menu. Yeah, yeah about  yeah like  yeah, a bit like radio presets. Um"
+AE_ID ES2008c.B.argumentstructs.Erik.45: "So like one through five, or"
+AE_ID ES2008c.D.argumentstructs.Erik.12: "Like a radio type sorta situation ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.Erik.32
+---------------------------------
+target=ES2008c.A.argumentstructs.Erik.28
+source=ES2008c.C.argumentstructs.Erik.32
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.Erik.33:
+"Uh we wouldn't even need the numbers."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.Erik.31: "Yeah."
+AE_ID ES2008c.C.argumentstructs.Erik.32: "On off, uh volume, favourite channels, uh and menu. Yeah, yeah about  yeah like  yeah, a bit like radio presets. Um"
+AE_ID ES2008c.B.argumentstructs.Erik.45: "So like one through five, or"
+AE_ID ES2008c.D.argumentstructs.Erik.12: "Like a radio type sorta situation ?"
+AE_ID ES2008c.A.argumentstructs.Erik.28: "Pre-set channels and then we're gonna need um numbers one through zero, right ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.A.argumentstructs.Erik.28
+---------------------------------
+target=ES2008c.C.argumentstructs.Erik.33
+source=ES2008c.A.argumentstructs.Erik.28
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.Erik.46:
+"No."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.Erik.32: "On off, uh volume, favourite channels, uh and menu. Yeah, yeah about  yeah like  yeah, a bit like radio presets. Um"
+AE_ID ES2008c.B.argumentstructs.Erik.45: "So like one through five, or"
+AE_ID ES2008c.D.argumentstructs.Erik.12: "Like a radio type sorta situation ?"
+AE_ID ES2008c.A.argumentstructs.Erik.28: "Pre-set channels and then we're gonna need um numbers one through zero, right ?"
+AE_ID ES2008c.C.argumentstructs.Erik.33: "Uh we wouldn't even need the numbers."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.Erik.33
+---------------------------------
+target=ES2008c.B.argumentstructs.Erik.46
+source=ES2008c.C.argumentstructs.Erik.33
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.Erik.34:
+"I think maybe numbers seems  is kind of old-fashioned."
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.Erik.45: "So like one through five, or"
+AE_ID ES2008c.D.argumentstructs.Erik.12: "Like a radio type sorta situation ?"
+AE_ID ES2008c.A.argumentstructs.Erik.28: "Pre-set channels and then we're gonna need um numbers one through zero, right ?"
+AE_ID ES2008c.C.argumentstructs.Erik.33: "Uh we wouldn't even need the numbers."
+AE_ID ES2008c.B.argumentstructs.Erik.46: "No."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.A.argumentstructs.Erik.28
+---------------------------------
+target=ES2008c.C.argumentstructs.Erik.34
+source=ES2008c.C.argumentstructs.Erik.33
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.A.argumentstructs.Erik.29:
+"Well, but in order to pre-set a cha oh I guess you can just hold it down when you get to one when you're scrolling through."
+
+Past dialogue turns:
+AE_ID ES2008c.D.argumentstructs.Erik.12: "Like a radio type sorta situation ?"
+AE_ID ES2008c.A.argumentstructs.Erik.28: "Pre-set channels and then we're gonna need um numbers one through zero, right ?"
+AE_ID ES2008c.C.argumentstructs.Erik.33: "Uh we wouldn't even need the numbers."
+AE_ID ES2008c.B.argumentstructs.Erik.46: "No."
+AE_ID ES2008c.C.argumentstructs.Erik.34: "I think maybe numbers seems  is kind of old-fashioned."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.A.argumentstructs.Erik.28
+---------------------------------
+target=ES2008c.A.argumentstructs.Erik.29
+source=ES2008c.A.argumentstructs.Erik.28
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.Erik.35:
+"Yeah, yeah, you can just  and you need some kind of, I dunno, sort of up down kind of button, but the volume control could double for that, for example."
+
+Past dialogue turns:
+AE_ID ES2008c.A.argumentstructs.Erik.28: "Pre-set channels and then we're gonna need um numbers one through zero, right ?"
+AE_ID ES2008c.C.argumentstructs.Erik.33: "Uh we wouldn't even need the numbers."
+AE_ID ES2008c.B.argumentstructs.Erik.46: "No."
+AE_ID ES2008c.C.argumentstructs.Erik.34: "I think maybe numbers seems  is kind of old-fashioned."
+AE_ID ES2008c.A.argumentstructs.Erik.29: "Well, but in order to pre-set a cha oh I guess you can just hold it down when you get to one when you're scrolling through."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.A.argumentstructs.Erik.29
+---------------------------------
+target=ES2008c.C.argumentstructs.Erik.35
+source=ES2008c.A.argumentstructs.Erik.29
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.60:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.Erik.33: "Uh we wouldn't even need the numbers."
+AE_ID ES2008c.B.argumentstructs.Erik.46: "No."
+AE_ID ES2008c.C.argumentstructs.Erik.34: "I think maybe numbers seems  is kind of old-fashioned."
+AE_ID ES2008c.A.argumentstructs.Erik.29: "Well, but in order to pre-set a cha oh I guess you can just hold it down when you get to one when you're scrolling through."
+AE_ID ES2008c.C.argumentstructs.Erik.35: "Yeah, yeah, you can just  and you need some kind of, I dunno, sort of up down kind of button, but the volume control could double for that, for example."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2008c.B.argumentstructs.60
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.Erik.47:
+"Yeah, up down."
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.Erik.46: "No."
+AE_ID ES2008c.C.argumentstructs.Erik.34: "I think maybe numbers seems  is kind of old-fashioned."
+AE_ID ES2008c.A.argumentstructs.Erik.29: "Well, but in order to pre-set a cha oh I guess you can just hold it down when you get to one when you're scrolling through."
+AE_ID ES2008c.C.argumentstructs.Erik.35: "Yeah, yeah, you can just  and you need some kind of, I dunno, sort of up down kind of button, but the volume control could double for that, for example."
+AE_ID ES2008c.B.argumentstructs.60: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.Erik.35
+---------------------------------
+target=ES2008c.B.argumentstructs.Erik.47
+source=ES2008c.C.argumentstructs.Erik.35
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2008c-ES2008c - Supplements.csv - True Judgement Ratio: 57.14%

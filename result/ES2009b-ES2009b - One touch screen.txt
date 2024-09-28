@@ -1,0 +1,362 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.Erik.6:
+"Since we're doing uh touch screen, do we wanna look into the possibility of people being able to input different types of skins for the you know the actual interface part of it and things like that ? Or is it just gonna be one touch screen for everybody."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2009b.B.argumentstructs.Erik.6
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.C.argumentstructs.Erik.3:
+"Be interesting."
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.Erik.6: "Since we're doing uh touch screen, do we wanna look into the possibility of people being able to input different types of skins for the you know the actual interface part of it and things like that ? Or is it just gonna be one touch screen for everybody."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.6
+---------------------------------
+target=ES2009b.C.argumentstructs.Erik.3
+source=ES2009b.B.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.24:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.Erik.6: "Since we're doing uh touch screen, do we wanna look into the possibility of people being able to input different types of skins for the you know the actual interface part of it and things like that ? Or is it just gonna be one touch screen for everybody."
+AE_ID ES2009b.C.argumentstructs.Erik.3: "Be interesting."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.6
+---------------------------------
+target=ES2009b.D.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.Erik.7:
+"What what would be on that touch screen ?"
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.Erik.6: "Since we're doing uh touch screen, do we wanna look into the possibility of people being able to input different types of skins for the you know the actual interface part of it and things like that ? Or is it just gonna be one touch screen for everybody."
+AE_ID ES2009b.C.argumentstructs.Erik.3: "Be interesting."
+AE_ID ES2009b.D.argumentstructs.24: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.6
+---------------------------------
+target=ES2009b.B.argumentstructs.Erik.7
+source=ES2009b.B.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.Erik.8:
+"'Cause you said earlier that we have to think about company colours and um logo or something or motto, I can't remember exactly what you said."
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.Erik.6: "Since we're doing uh touch screen, do we wanna look into the possibility of people being able to input different types of skins for the you know the actual interface part of it and things like that ? Or is it just gonna be one touch screen for everybody."
+AE_ID ES2009b.C.argumentstructs.Erik.3: "Be interesting."
+AE_ID ES2009b.D.argumentstructs.24: "Mm."
+AE_ID ES2009b.B.argumentstructs.Erik.7: "What what would be on that touch screen ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.6
+---------------------------------
+target=ES2009b.B.argumentstructs.Erik.8
+source=ES2009b.B.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.10:
+"And  oh. Yeah the  the fashion do. Yeah."
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.Erik.6: "Since we're doing uh touch screen, do we wanna look into the possibility of people being able to input different types of skins for the you know the actual interface part of it and things like that ? Or is it just gonna be one touch screen for everybody."
+AE_ID ES2009b.C.argumentstructs.Erik.3: "Be interesting."
+AE_ID ES2009b.D.argumentstructs.24: "Mm."
+AE_ID ES2009b.B.argumentstructs.Erik.7: "What what would be on that touch screen ?"
+AE_ID ES2009b.B.argumentstructs.Erik.8: "'Cause you said earlier that we have to think about company colours and um logo or something or motto, I can't remember exactly what you said."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.8
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.10
+source=ES2009b.B.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.C.argumentstructs.Erik.4:
+"We put fashion into electronics."
+
+Past dialogue turns:
+AE_ID ES2009b.C.argumentstructs.Erik.3: "Be interesting."
+AE_ID ES2009b.D.argumentstructs.24: "Mm."
+AE_ID ES2009b.B.argumentstructs.Erik.7: "What what would be on that touch screen ?"
+AE_ID ES2009b.B.argumentstructs.Erik.8: "'Cause you said earlier that we have to think about company colours and um logo or something or motto, I can't remember exactly what you said."
+AE_ID ES2009b.D.argumentstructs.Erik.10: "And  oh. Yeah the  the fashion do. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.8
+---------------------------------
+target=ES2009b.C.argumentstructs.Erik.4
+source=ES2009b.B.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.A.argumentstructs.Erik.7:
+"W it's my understanding that if you were going to do a skin you'd need to have some way for people to download or import skins into the remote control. Yeah I think perhaps  good idea but yeah I think that that one m might just be um and they just  yeah I think that one might just be out of the range for this particular  a P_D_A_ would  they would  makes a lot of sense for a P_D_A_ 'cause you're gonna be using it to connect up to things anyway but"
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.24: "Mm."
+AE_ID ES2009b.B.argumentstructs.Erik.7: "What what would be on that touch screen ?"
+AE_ID ES2009b.B.argumentstructs.Erik.8: "'Cause you said earlier that we have to think about company colours and um logo or something or motto, I can't remember exactly what you said."
+AE_ID ES2009b.D.argumentstructs.Erik.10: "And  oh. Yeah the  the fashion do. Yeah."
+AE_ID ES2009b.C.argumentstructs.Erik.4: "We put fashion into electronics."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.8
+---------------------------------
+target=ES2009b.A.argumentstructs.Erik.7
+source=ES2009b.B.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.11:
+"Right, and then you're dealing with ports and cords and"
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.Erik.7: "What what would be on that touch screen ?"
+AE_ID ES2009b.B.argumentstructs.Erik.8: "'Cause you said earlier that we have to think about company colours and um logo or something or motto, I can't remember exactly what you said."
+AE_ID ES2009b.D.argumentstructs.Erik.10: "And  oh. Yeah the  the fashion do. Yeah."
+AE_ID ES2009b.C.argumentstructs.Erik.4: "We put fashion into electronics."
+AE_ID ES2009b.A.argumentstructs.Erik.7: "W it's my understanding that if you were going to do a skin you'd need to have some way for people to download or import skins into the remote control. Yeah I think perhaps  good idea but yeah I think that that one m might just be um and they just  yeah I think that one might just be out of the range for this particular  a P_D_A_ would  they would  makes a lot of sense for a P_D_A_ 'cause you're gonna be using it to connect up to things anyway but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.11
+source=ES2009b.A.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.Erik.9:
+"'S too much."
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.Erik.8: "'Cause you said earlier that we have to think about company colours and um logo or something or motto, I can't remember exactly what you said."
+AE_ID ES2009b.D.argumentstructs.Erik.10: "And  oh. Yeah the  the fashion do. Yeah."
+AE_ID ES2009b.C.argumentstructs.Erik.4: "We put fashion into electronics."
+AE_ID ES2009b.A.argumentstructs.Erik.7: "W it's my understanding that if you were going to do a skin you'd need to have some way for people to download or import skins into the remote control. Yeah I think perhaps  good idea but yeah I think that that one m might just be um and they just  yeah I think that one might just be out of the range for this particular  a P_D_A_ would  they would  makes a lot of sense for a P_D_A_ 'cause you're gonna be using it to connect up to things anyway but"
+AE_ID ES2009b.D.argumentstructs.Erik.11: "Right, and then you're dealing with ports and cords and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.B.argumentstructs.Erik.8
+---------------------------------
+target=ES2009b.B.argumentstructs.Erik.9
+source=ES2009b.A.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.12:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.Erik.10: "And  oh. Yeah the  the fashion do. Yeah."
+AE_ID ES2009b.C.argumentstructs.Erik.4: "We put fashion into electronics."
+AE_ID ES2009b.A.argumentstructs.Erik.7: "W it's my understanding that if you were going to do a skin you'd need to have some way for people to download or import skins into the remote control. Yeah I think perhaps  good idea but yeah I think that that one m might just be um and they just  yeah I think that one might just be out of the range for this particular  a P_D_A_ would  they would  makes a lot of sense for a P_D_A_ 'cause you're gonna be using it to connect up to things anyway but"
+AE_ID ES2009b.D.argumentstructs.Erik.11: "Right, and then you're dealing with ports and cords and"
+AE_ID ES2009b.B.argumentstructs.Erik.9: "'S too much."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.12
+source=ES2009b.B.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.13:
+"For now."
+
+Past dialogue turns:
+AE_ID ES2009b.C.argumentstructs.Erik.4: "We put fashion into electronics."
+AE_ID ES2009b.A.argumentstructs.Erik.7: "W it's my understanding that if you were going to do a skin you'd need to have some way for people to download or import skins into the remote control. Yeah I think perhaps  good idea but yeah I think that that one m might just be um and they just  yeah I think that one might just be out of the range for this particular  a P_D_A_ would  they would  makes a lot of sense for a P_D_A_ 'cause you're gonna be using it to connect up to things anyway but"
+AE_ID ES2009b.D.argumentstructs.Erik.11: "Right, and then you're dealing with ports and cords and"
+AE_ID ES2009b.B.argumentstructs.Erik.9: "'S too much."
+AE_ID ES2009b.D.argumentstructs.Erik.12: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.13
+source=ES2009b.B.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.A.argumentstructs.Erik.8:
+"I dunno, what do you guys think ?"
+
+Past dialogue turns:
+AE_ID ES2009b.A.argumentstructs.Erik.7: "W it's my understanding that if you were going to do a skin you'd need to have some way for people to download or import skins into the remote control. Yeah I think perhaps  good idea but yeah I think that that one m might just be um and they just  yeah I think that one might just be out of the range for this particular  a P_D_A_ would  they would  makes a lot of sense for a P_D_A_ 'cause you're gonna be using it to connect up to things anyway but"
+AE_ID ES2009b.D.argumentstructs.Erik.11: "Right, and then you're dealing with ports and cords and"
+AE_ID ES2009b.B.argumentstructs.Erik.9: "'S too much."
+AE_ID ES2009b.D.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2009b.D.argumentstructs.Erik.13: "For now."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2009b.A.argumentstructs.Erik.8
+source=ES2009b.A.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.B.argumentstructs.Erik.10:
+"Think we just need to come up with a nice black and red interface on the touch screen. That'd be okay."
+
+Past dialogue turns:
+AE_ID ES2009b.D.argumentstructs.Erik.11: "Right, and then you're dealing with ports and cords and"
+AE_ID ES2009b.B.argumentstructs.Erik.9: "'S too much."
+AE_ID ES2009b.D.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2009b.D.argumentstructs.Erik.13: "For now."
+AE_ID ES2009b.A.argumentstructs.Erik.8: "I dunno, what do you guys think ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.A.argumentstructs.Erik.8
+---------------------------------
+target=ES2009b.B.argumentstructs.Erik.10
+source=ES2009b.A.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009b.D.argumentstructs.Erik.14:
+"Yeah. Nice."
+
+Past dialogue turns:
+AE_ID ES2009b.B.argumentstructs.Erik.9: "'S too much."
+AE_ID ES2009b.D.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2009b.D.argumentstructs.Erik.13: "For now."
+AE_ID ES2009b.A.argumentstructs.Erik.8: "I dunno, what do you guys think ?"
+AE_ID ES2009b.B.argumentstructs.Erik.10: "Think we just need to come up with a nice black and red interface on the touch screen. That'd be okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009b.D.argumentstructs.Erik.12
+---------------------------------
+target=ES2009b.D.argumentstructs.Erik.14
+source=ES2009b.B.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2009b-ES2009b - One touch screen.csv - True Judgement Ratio: 40.00%

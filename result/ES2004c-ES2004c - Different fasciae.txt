@@ -1,0 +1,512 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.D.argumentstructs.12:
+"It does mark quite easily too if you let it fall. I've got a mobile phone myself which is titanium and it does mark very easily if you drop it."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2004c.D.argumentstructs.12
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.C.argumentstructs.24:
+"for a remote. Yeah, yeah."
+
+Past dialogue turns:
+AE_ID ES2004c.D.argumentstructs.12: "It does mark quite easily too if you let it fall. I've got a mobile phone myself which is titanium and it does mark very easily if you drop it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.D.argumentstructs.12
+---------------------------------
+target=ES2004c.C.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.D.argumentstructs.Erik.6:
+"I was just wondering if we make the basic mould out of plastic but have like a rubber cover that goes over, that would give the spongy feel, that also allows us to kind of have different fasciae for the phone."
+
+Past dialogue turns:
+AE_ID ES2004c.D.argumentstructs.12: "It does mark quite easily too if you let it fall. I've got a mobile phone myself which is titanium and it does mark very easily if you drop it."
+AE_ID ES2004c.C.argumentstructs.24: "for a remote. Yeah, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.D.argumentstructs.12
+---------------------------------
+target=ES2004c.D.argumentstructs.Erik.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.C.argumentstructs.Erik.14:
+"Rubber, yeah."
+
+Past dialogue turns:
+AE_ID ES2004c.D.argumentstructs.12: "It does mark quite easily too if you let it fall. I've got a mobile phone myself which is titanium and it does mark very easily if you drop it."
+AE_ID ES2004c.C.argumentstructs.24: "for a remote. Yeah, yeah."
+AE_ID ES2004c.D.argumentstructs.Erik.6: "I was just wondering if we make the basic mould out of plastic but have like a rubber cover that goes over, that would give the spongy feel, that also allows us to kind of have different fasciae for the phone."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.D.argumentstructs.Erik.6
+---------------------------------
+target=ES2004c.C.argumentstructs.Erik.14
+source=ES2004c.D.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.C.argumentstructs.Erik.15:
+"And you can peel them off yeah."
+
+Past dialogue turns:
+AE_ID ES2004c.D.argumentstructs.12: "It does mark quite easily too if you let it fall. I've got a mobile phone myself which is titanium and it does mark very easily if you drop it."
+AE_ID ES2004c.C.argumentstructs.24: "for a remote. Yeah, yeah."
+AE_ID ES2004c.D.argumentstructs.Erik.6: "I was just wondering if we make the basic mould out of plastic but have like a rubber cover that goes over, that would give the spongy feel, that also allows us to kind of have different fasciae for the phone."
+AE_ID ES2004c.C.argumentstructs.Erik.14: "Rubber, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.C.argumentstructs.Erik.14
+---------------------------------
+target=ES2004c.C.argumentstructs.Erik.15
+source=ES2004c.D.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.B.argumentstructs.Erik.13:
+"So instead of the fascia that comes off being plastic, the fascia that comes off would be the rubber, like those pens that you get with the grip, that you can you can pull that off."
+
+Past dialogue turns:
+AE_ID ES2004c.D.argumentstructs.12: "It does mark quite easily too if you let it fall. I've got a mobile phone myself which is titanium and it does mark very easily if you drop it."
+AE_ID ES2004c.C.argumentstructs.24: "for a remote. Yeah, yeah."
+AE_ID ES2004c.D.argumentstructs.Erik.6: "I was just wondering if we make the basic mould out of plastic but have like a rubber cover that goes over, that would give the spongy feel, that also allows us to kind of have different fasciae for the phone."
+AE_ID ES2004c.C.argumentstructs.Erik.14: "Rubber, yeah."
+AE_ID ES2004c.C.argumentstructs.Erik.15: "And you can peel them off yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.D.argumentstructs.Erik.6
+---------------------------------
+target=ES2004c.B.argumentstructs.Erik.13
+source=ES2004c.D.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.A.argumentstructs.Erik.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2004c.C.argumentstructs.24: "for a remote. Yeah, yeah."
+AE_ID ES2004c.D.argumentstructs.Erik.6: "I was just wondering if we make the basic mould out of plastic but have like a rubber cover that goes over, that would give the spongy feel, that also allows us to kind of have different fasciae for the phone."
+AE_ID ES2004c.C.argumentstructs.Erik.14: "Rubber, yeah."
+AE_ID ES2004c.C.argumentstructs.Erik.15: "And you can peel them off yeah."
+AE_ID ES2004c.B.argumentstructs.Erik.13: "So instead of the fascia that comes off being plastic, the fascia that comes off would be the rubber, like those pens that you get with the grip, that you can you can pull that off."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.C.argumentstructs.24
+---------------------------------
+target=ES2004c.A.argumentstructs.Erik.6
+source=ES2004c.B.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.D.argumentstructs.Erik.7:
+"Like a rubber sleeve almost, yeah."
+
+Past dialogue turns:
+AE_ID ES2004c.D.argumentstructs.Erik.6: "I was just wondering if we make the basic mould out of plastic but have like a rubber cover that goes over, that would give the spongy feel, that also allows us to kind of have different fasciae for the phone."
+AE_ID ES2004c.C.argumentstructs.Erik.14: "Rubber, yeah."
+AE_ID ES2004c.C.argumentstructs.Erik.15: "And you can peel them off yeah."
+AE_ID ES2004c.B.argumentstructs.Erik.13: "So instead of the fascia that comes off being plastic, the fascia that comes off would be the rubber, like those pens that you get with the grip, that you can you can pull that off."
+AE_ID ES2004c.A.argumentstructs.Erik.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.D.argumentstructs.Erik.6
+---------------------------------
+target=ES2004c.D.argumentstructs.Erik.7
+source=ES2004c.B.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.C.argumentstructs.Erik.16:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2004c.C.argumentstructs.Erik.14: "Rubber, yeah."
+AE_ID ES2004c.C.argumentstructs.Erik.15: "And you can peel them off yeah."
+AE_ID ES2004c.B.argumentstructs.Erik.13: "So instead of the fascia that comes off being plastic, the fascia that comes off would be the rubber, like those pens that you get with the grip, that you can you can pull that off."
+AE_ID ES2004c.A.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2004c.D.argumentstructs.Erik.7: "Like a rubber sleeve almost, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.D.argumentstructs.Erik.7
+---------------------------------
+target=ES2004c.C.argumentstructs.Erik.16
+source=ES2004c.B.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.A.argumentstructs.Erik.7:
+"Something like"
+
+Past dialogue turns:
+AE_ID ES2004c.C.argumentstructs.Erik.15: "And you can peel them off yeah."
+AE_ID ES2004c.B.argumentstructs.Erik.13: "So instead of the fascia that comes off being plastic, the fascia that comes off would be the rubber, like those pens that you get with the grip, that you can you can pull that off."
+AE_ID ES2004c.A.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2004c.D.argumentstructs.Erik.7: "Like a rubber sleeve almost, yeah."
+AE_ID ES2004c.C.argumentstructs.Erik.16: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.D.argumentstructs.Erik.7
+---------------------------------
+target=ES2004c.A.argumentstructs.Erik.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.C.argumentstructs.25:
+"Yeah. Hmm. T"
+
+Past dialogue turns:
+AE_ID ES2004c.B.argumentstructs.Erik.13: "So instead of the fascia that comes off being plastic, the fascia that comes off would be the rubber, like those pens that you get with the grip, that you can you can pull that off."
+AE_ID ES2004c.A.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2004c.D.argumentstructs.Erik.7: "Like a rubber sleeve almost, yeah."
+AE_ID ES2004c.C.argumentstructs.Erik.16: "Yeah."
+AE_ID ES2004c.A.argumentstructs.Erik.7: "Something like"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.D.argumentstructs.Erik.7
+---------------------------------
+target=ES2004c.C.argumentstructs.25
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.D.argumentstructs.13:
+"Mm. Mm."
+
+Past dialogue turns:
+AE_ID ES2004c.A.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2004c.D.argumentstructs.Erik.7: "Like a rubber sleeve almost, yeah."
+AE_ID ES2004c.C.argumentstructs.Erik.16: "Yeah."
+AE_ID ES2004c.A.argumentstructs.Erik.7: "Something like"
+AE_ID ES2004c.C.argumentstructs.25: "Yeah. Hmm. T"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.A.argumentstrucs.Erik.6
+---------------------------------
+target=ES2004c.D.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.A.argumentstructs.Erik.8:
+"Alright. That could be a good idea."
+
+Past dialogue turns:
+AE_ID ES2004c.D.argumentstructs.Erik.7: "Like a rubber sleeve almost, yeah."
+AE_ID ES2004c.C.argumentstructs.Erik.16: "Yeah."
+AE_ID ES2004c.A.argumentstructs.Erik.7: "Something like"
+AE_ID ES2004c.C.argumentstructs.25: "Yeah. Hmm. T"
+AE_ID ES2004c.D.argumentstructs.13: "Mm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.D.argumentstructs.Erik.7
+---------------------------------
+target=ES2004c.A.argumentstructs.Erik.8
+source=ES2004c.B.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.A.argumentstructs.Erik.9:
+"It could  it would be comfortable to hold on also."
+
+Past dialogue turns:
+AE_ID ES2004c.C.argumentstructs.Erik.16: "Yeah."
+AE_ID ES2004c.A.argumentstructs.Erik.7: "Something like"
+AE_ID ES2004c.C.argumentstructs.25: "Yeah. Hmm. T"
+AE_ID ES2004c.D.argumentstructs.13: "Mm. Mm."
+AE_ID ES2004c.A.argumentstructs.Erik.8: "Alright. That could be a good idea."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.A.argumentstructs.Erik.8
+---------------------------------
+target=ES2004c.A.argumentstructs.Erik.9
+source=ES2004c.A.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.B.argumentstructs.Erik.14:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2004c.A.argumentstructs.Erik.7: "Something like"
+AE_ID ES2004c.C.argumentstructs.25: "Yeah. Hmm. T"
+AE_ID ES2004c.D.argumentstructs.13: "Mm. Mm."
+AE_ID ES2004c.A.argumentstructs.Erik.8: "Alright. That could be a good idea."
+AE_ID ES2004c.A.argumentstructs.Erik.9: "It could  it would be comfortable to hold on also."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.A.argumentstructs.Erik.8
+---------------------------------
+target=ES2004c.B.argumentstructs.Erik.14
+source=ES2004c.A.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.B.argumentstructs.21:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2004c.C.argumentstructs.25: "Yeah. Hmm. T"
+AE_ID ES2004c.D.argumentstructs.13: "Mm. Mm."
+AE_ID ES2004c.A.argumentstructs.Erik.8: "Alright. That could be a good idea."
+AE_ID ES2004c.A.argumentstructs.Erik.9: "It could  it would be comfortable to hold on also."
+AE_ID ES2004c.B.argumentstructs.Erik.14: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.D.argumentstructs.13
+---------------------------------
+target=ES2004c.B.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.D.argumentstructs.Erik.8:
+"Very cheap way of changing the look of it and people can just buy a new one if they want to."
+
+Past dialogue turns:
+AE_ID ES2004c.D.argumentstructs.13: "Mm. Mm."
+AE_ID ES2004c.A.argumentstructs.Erik.8: "Alright. That could be a good idea."
+AE_ID ES2004c.A.argumentstructs.Erik.9: "It could  it would be comfortable to hold on also."
+AE_ID ES2004c.B.argumentstructs.Erik.14: "Okay."
+AE_ID ES2004c.B.argumentstructs.21: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.A.argumentstructs.Erik.8
+---------------------------------
+target=ES2004c.D.argumentstructs.Erik.8
+source=ES2004c.B.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.C.argumentstructs.Erik.17:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2004c.A.argumentstructs.Erik.8: "Alright. That could be a good idea."
+AE_ID ES2004c.A.argumentstructs.Erik.9: "It could  it would be comfortable to hold on also."
+AE_ID ES2004c.B.argumentstructs.Erik.14: "Okay."
+AE_ID ES2004c.B.argumentstructs.21: "Mm."
+AE_ID ES2004c.D.argumentstructs.Erik.8: "Very cheap way of changing the look of it and people can just buy a new one if they want to."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.A.argumentstructs.Erik.8
+---------------------------------
+target=ES2004c.C.argumentstructs.Erik.17
+source=ES2004c.D.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.B.argumentstructs.Erik.15:
+"Well that's been really popular with mobile phones so I don't see why not."
+
+Past dialogue turns:
+AE_ID ES2004c.A.argumentstructs.Erik.9: "It could  it would be comfortable to hold on also."
+AE_ID ES2004c.B.argumentstructs.Erik.14: "Okay."
+AE_ID ES2004c.B.argumentstructs.21: "Mm."
+AE_ID ES2004c.D.argumentstructs.Erik.8: "Very cheap way of changing the look of it and people can just buy a new one if they want to."
+AE_ID ES2004c.C.argumentstructs.Erik.17: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.D.argumentstructs.Erik.8
+---------------------------------
+target=ES2004c.B.argumentstructs.Erik.15
+source=ES2004c.B.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.D.argumentstructs.Erik.9:
+"Mm. Yeah"
+
+Past dialogue turns:
+AE_ID ES2004c.B.argumentstructs.Erik.14: "Okay."
+AE_ID ES2004c.B.argumentstructs.21: "Mm."
+AE_ID ES2004c.D.argumentstructs.Erik.8: "Very cheap way of changing the look of it and people can just buy a new one if they want to."
+AE_ID ES2004c.C.argumentstructs.Erik.17: "Yeah."
+AE_ID ES2004c.B.argumentstructs.Erik.15: "Well that's been really popular with mobile phones so I don't see why not."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.C.argumentstructs.Erik.17
+---------------------------------
+target=ES2004c.D.argumentstructs.Erik.9
+source=ES2004c.B.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004c.D.argumentstructs.14:
+"."
+
+Past dialogue turns:
+AE_ID ES2004c.B.argumentstructs.21: "Mm."
+AE_ID ES2004c.D.argumentstructs.Erik.8: "Very cheap way of changing the look of it and people can just buy a new one if they want to."
+AE_ID ES2004c.C.argumentstructs.Erik.17: "Yeah."
+AE_ID ES2004c.B.argumentstructs.Erik.15: "Well that's been really popular with mobile phones so I don't see why not."
+AE_ID ES2004c.D.argumentstructs.Erik.9: "Mm. Yeah"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004c.D.argumentstructs.Erik.9
+---------------------------------
+target=ES2004c.D.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2004c-ES2004c - Different fasciae.csv - True Judgement Ratio: 19.05%

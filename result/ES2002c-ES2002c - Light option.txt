@@ -1,0 +1,562 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.1:
+"Can we uh power a light in this ? Can we get a strong enough battery to power a light ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.1:
+"Um I think we could because the L_C_D_ panel requires power, and the L_C_D_ is a form of a light so that"
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.1: "Can we uh power a light in this ? Can we get a strong enough battery to power a light ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.1
+source=ES2002c.D.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.27:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.1: "Can we uh power a light in this ? Can we get a strong enough battery to power a light ?"
+AE_ID ES2002c.A.argumentstructs.Erik.1: "Um I think we could because the L_C_D_ panel requires power, and the L_C_D_ is a form of a light so that"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2002c.B.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.2:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.1: "Can we uh power a light in this ? Can we get a strong enough battery to power a light ?"
+AE_ID ES2002c.A.argumentstructs.Erik.1: "Um I think we could because the L_C_D_ panel requires power, and the L_C_D_ is a form of a light so that"
+AE_ID ES2002c.B.argumentstructs.27: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.2
+source=ES2002c.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.3:
+"So maybe one of the things we can just try and include is a really good battery."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.1: "Can we uh power a light in this ? Can we get a strong enough battery to power a light ?"
+AE_ID ES2002c.A.argumentstructs.Erik.1: "Um I think we could because the L_C_D_ panel requires power, and the L_C_D_ is a form of a light so that"
+AE_ID ES2002c.B.argumentstructs.27: "Mm."
+AE_ID ES2002c.D.argumentstructs.Erik.2: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.3
+source=ES2002c.D.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.1:
+"Why what kind of light do you want  are you thinking of ?"
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.1: "Can we uh power a light in this ? Can we get a strong enough battery to power a light ?"
+AE_ID ES2002c.A.argumentstructs.Erik.1: "Um I think we could because the L_C_D_ panel requires power, and the L_C_D_ is a form of a light so that"
+AE_ID ES2002c.B.argumentstructs.27: "Mm."
+AE_ID ES2002c.D.argumentstructs.Erik.2: "Okay."
+AE_ID ES2002c.D.argumentstructs.Erik.3: "So maybe one of the things we can just try and include is a really good battery."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.1
+source=ES2002c.D.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.28:
+"I mean I'm thinking it might be"
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.Erik.1: "Um I think we could because the L_C_D_ panel requires power, and the L_C_D_ is a form of a light so that"
+AE_ID ES2002c.B.argumentstructs.27: "Mm."
+AE_ID ES2002c.D.argumentstructs.Erik.2: "Okay."
+AE_ID ES2002c.D.argumentstructs.Erik.3: "So maybe one of the things we can just try and include is a really good battery."
+AE_ID ES2002c.B.argumentstructs.Erik.1: "Why what kind of light do you want  are you thinking of ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2002c.D.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.4:
+"That  for uh this to be a high-tech thing it's gonna have to have something high-tech about it and that's gonna take battery power, and to make that to make that a realistic goal I think one of the issues that will come up later is, can the battery power it ?"
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.27: "Mm."
+AE_ID ES2002c.D.argumentstructs.Erik.2: "Okay."
+AE_ID ES2002c.D.argumentstructs.Erik.3: "So maybe one of the things we can just try and include is a really good battery."
+AE_ID ES2002c.B.argumentstructs.Erik.1: "Why what kind of light do you want  are you thinking of ?"
+AE_ID ES2002c.D.argumentstructs.28: "I mean I'm thinking it might be"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.4
+source=ES2002c.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.28:
+"Uh-huh."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.2: "Okay."
+AE_ID ES2002c.D.argumentstructs.Erik.3: "So maybe one of the things we can just try and include is a really good battery."
+AE_ID ES2002c.B.argumentstructs.Erik.1: "Why what kind of light do you want  are you thinking of ?"
+AE_ID ES2002c.D.argumentstructs.28: "I mean I'm thinking it might be"
+AE_ID ES2002c.D.argumentstructs.Erik.4: "That  for uh this to be a high-tech thing it's gonna have to have something high-tech about it and that's gonna take battery power, and to make that to make that a realistic goal I think one of the issues that will come up later is, can the battery power it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2002c.B.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.2:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.3: "So maybe one of the things we can just try and include is a really good battery."
+AE_ID ES2002c.B.argumentstructs.Erik.1: "Why what kind of light do you want  are you thinking of ?"
+AE_ID ES2002c.D.argumentstructs.28: "I mean I'm thinking it might be"
+AE_ID ES2002c.D.argumentstructs.Erik.4: "That  for uh this to be a high-tech thing it's gonna have to have something high-tech about it and that's gonna take battery power, and to make that to make that a realistic goal I think one of the issues that will come up later is, can the battery power it ?"
+AE_ID ES2002c.B.argumentstructs.28: "Uh-huh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.2
+source=ES2002c.D.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.2:
+"Are you thinking are you thinking of of a light in the sense of um a light light, or a light in the sense of it glows kind of you know Frankenstein, it's alive."
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.Erik.1: "Why what kind of light do you want  are you thinking of ?"
+AE_ID ES2002c.D.argumentstructs.28: "I mean I'm thinking it might be"
+AE_ID ES2002c.D.argumentstructs.Erik.4: "That  for uh this to be a high-tech thing it's gonna have to have something high-tech about it and that's gonna take battery power, and to make that to make that a realistic goal I think one of the issues that will come up later is, can the battery power it ?"
+AE_ID ES2002c.B.argumentstructs.28: "Uh-huh."
+AE_ID ES2002c.B.argumentstructs.Erik.2: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.2
+source=ES2002c.B.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.5:
+"Illuminate the buttons. Yeah it glows."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.28: "I mean I'm thinking it might be"
+AE_ID ES2002c.D.argumentstructs.Erik.4: "That  for uh this to be a high-tech thing it's gonna have to have something high-tech about it and that's gonna take battery power, and to make that to make that a realistic goal I think one of the issues that will come up later is, can the battery power it ?"
+AE_ID ES2002c.B.argumentstructs.28: "Uh-huh."
+AE_ID ES2002c.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2002c.A.argumentstructs.Erik.2: "Are you thinking are you thinking of of a light in the sense of um a light light, or a light in the sense of it glows kind of you know Frankenstein, it's alive."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.5
+source=ES2002c.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.6:
+"Well m I'm thinking along the lines of you're you're in the dark watching a D_V_D_ and you um you find the thing in the dark and you go like this, and that's what everybody does. Oh where's the volume button in the dark, and uh y you just touch it, or you just pick it up, and it lights up or something."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.4: "That  for uh this to be a high-tech thing it's gonna have to have something high-tech about it and that's gonna take battery power, and to make that to make that a realistic goal I think one of the issues that will come up later is, can the battery power it ?"
+AE_ID ES2002c.B.argumentstructs.28: "Uh-huh."
+AE_ID ES2002c.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2002c.A.argumentstructs.Erik.2: "Are you thinking are you thinking of of a light in the sense of um a light light, or a light in the sense of it glows kind of you know Frankenstein, it's alive."
+AE_ID ES2002c.D.argumentstructs.Erik.5: "Illuminate the buttons. Yeah it glows."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.5
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.6
+source=ES2002c.D.argumentstructs.Erik.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.3:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.28: "Uh-huh."
+AE_ID ES2002c.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2002c.A.argumentstructs.Erik.2: "Are you thinking are you thinking of of a light in the sense of um a light light, or a light in the sense of it glows kind of you know Frankenstein, it's alive."
+AE_ID ES2002c.D.argumentstructs.Erik.5: "Illuminate the buttons. Yeah it glows."
+AE_ID ES2002c.D.argumentstructs.Erik.6: "Well m I'm thinking along the lines of you're you're in the dark watching a D_V_D_ and you um you find the thing in the dark and you go like this, and that's what everybody does. Oh where's the volume button in the dark, and uh y you just touch it, or you just pick it up, and it lights up or something."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.6
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.3
+source=ES2002c.D.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.3:
+"Yeah yeah yeah."
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2002c.A.argumentstructs.Erik.2: "Are you thinking are you thinking of of a light in the sense of um a light light, or a light in the sense of it glows kind of you know Frankenstein, it's alive."
+AE_ID ES2002c.D.argumentstructs.Erik.5: "Illuminate the buttons. Yeah it glows."
+AE_ID ES2002c.D.argumentstructs.Erik.6: "Well m I'm thinking along the lines of you're you're in the dark watching a D_V_D_ and you um you find the thing in the dark and you go like this, and that's what everybody does. Oh where's the volume button in the dark, and uh y you just touch it, or you just pick it up, and it lights up or something."
+AE_ID ES2002c.A.argumentstructs.Erik.3: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.3
+source=ES2002c.D.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.18:
+"Okay. Okay."
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.Erik.2: "Are you thinking are you thinking of of a light in the sense of um a light light, or a light in the sense of it glows kind of you know Frankenstein, it's alive."
+AE_ID ES2002c.D.argumentstructs.Erik.5: "Illuminate the buttons. Yeah it glows."
+AE_ID ES2002c.D.argumentstructs.Erik.6: "Well m I'm thinking along the lines of you're you're in the dark watching a D_V_D_ and you um you find the thing in the dark and you go like this, and that's what everybody does. Oh where's the volume button in the dark, and uh y you just touch it, or you just pick it up, and it lights up or something."
+AE_ID ES2002c.A.argumentstructs.Erik.3: "Okay."
+AE_ID ES2002c.B.argumentstructs.Erik.3: "Yeah yeah yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2002c.A.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.4:
+"Like a phone yeah, like the backlight in a phone. Okay cool."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.5: "Illuminate the buttons. Yeah it glows."
+AE_ID ES2002c.D.argumentstructs.Erik.6: "Well m I'm thinking along the lines of you're you're in the dark watching a D_V_D_ and you um you find the thing in the dark and you go like this, and that's what everybody does. Oh where's the volume button in the dark, and uh y you just touch it, or you just pick it up, and it lights up or something."
+AE_ID ES2002c.A.argumentstructs.Erik.3: "Okay."
+AE_ID ES2002c.B.argumentstructs.Erik.3: "Yeah yeah yeah."
+AE_ID ES2002c.A.argumentstructs.18: "Okay. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.5
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.4
+source=ES2002c.D.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.7:
+"Like a phone, yeah yeah."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.6: "Well m I'm thinking along the lines of you're you're in the dark watching a D_V_D_ and you um you find the thing in the dark and you go like this, and that's what everybody does. Oh where's the volume button in the dark, and uh y you just touch it, or you just pick it up, and it lights up or something."
+AE_ID ES2002c.A.argumentstructs.Erik.3: "Okay."
+AE_ID ES2002c.B.argumentstructs.Erik.3: "Yeah yeah yeah."
+AE_ID ES2002c.A.argumentstructs.18: "Okay. Okay."
+AE_ID ES2002c.B.argumentstructs.Erik.4: "Like a phone yeah, like the backlight in a phone. Okay cool."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.7
+source=ES2002c.B.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.8:
+"Whereas with phones, people charge them once a week. We're gonna need to put in a really good battery so people don't have to charge their r remote control every few days."
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.Erik.3: "Okay."
+AE_ID ES2002c.B.argumentstructs.Erik.3: "Yeah yeah yeah."
+AE_ID ES2002c.A.argumentstructs.18: "Okay. Okay."
+AE_ID ES2002c.B.argumentstructs.Erik.4: "Like a phone yeah, like the backlight in a phone. Okay cool."
+AE_ID ES2002c.D.argumentstructs.Erik.7: "Like a phone, yeah yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.8
+source=ES2002c.D.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.Erik.3: "Yeah yeah yeah."
+AE_ID ES2002c.A.argumentstructs.18: "Okay. Okay."
+AE_ID ES2002c.B.argumentstructs.Erik.4: "Like a phone yeah, like the backlight in a phone. Okay cool."
+AE_ID ES2002c.D.argumentstructs.Erik.7: "Like a phone, yeah yeah."
+AE_ID ES2002c.D.argumentstructs.Erik.8: "Whereas with phones, people charge them once a week. We're gonna need to put in a really good battery so people don't have to charge their r remote control every few days."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.5
+source=ES2002c.D.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.4:
+"Um that's why I think the option of the the kinetic thing which basically means as long as you shake it like a watch, like an automatic watch"
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.18: "Okay. Okay."
+AE_ID ES2002c.B.argumentstructs.Erik.4: "Like a phone yeah, like the backlight in a phone. Okay cool."
+AE_ID ES2002c.D.argumentstructs.Erik.7: "Like a phone, yeah yeah."
+AE_ID ES2002c.D.argumentstructs.Erik.8: "Whereas with phones, people charge them once a week. We're gonna need to put in a really good battery so people don't have to charge their r remote control every few days."
+AE_ID ES2002c.B.argumentstructs.Erik.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.4
+source=ES2002c.D.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.9:
+"But are people gonna wanna shake their movie controller ?"
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.Erik.4: "Like a phone yeah, like the backlight in a phone. Okay cool."
+AE_ID ES2002c.D.argumentstructs.Erik.7: "Like a phone, yeah yeah."
+AE_ID ES2002c.D.argumentstructs.Erik.8: "Whereas with phones, people charge them once a week. We're gonna need to put in a really good battery so people don't have to charge their r remote control every few days."
+AE_ID ES2002c.B.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2002c.A.argumentstructs.Erik.4: "Um that's why I think the option of the the kinetic thing which basically means as long as you shake it like a watch, like an automatic watch"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.9
+source=ES2002c.A.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.29:
+"Mm. Mm."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.7: "Like a phone, yeah yeah."
+AE_ID ES2002c.D.argumentstructs.Erik.8: "Whereas with phones, people charge them once a week. We're gonna need to put in a really good battery so people don't have to charge their r remote control every few days."
+AE_ID ES2002c.B.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2002c.A.argumentstructs.Erik.4: "Um that's why I think the option of the the kinetic thing which basically means as long as you shake it like a watch, like an automatic watch"
+AE_ID ES2002c.D.argumentstructs.Erik.9: "But are people gonna wanna shake their movie controller ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.9
+---------------------------------
+target=ES2002c.B.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

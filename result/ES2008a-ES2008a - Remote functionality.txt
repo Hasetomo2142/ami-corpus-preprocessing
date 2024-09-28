@@ -1,0 +1,412 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.A.argumentstructs.4:
+"Um."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2008a.A.argumentstructs.4
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.A.argumentstructs.Erik.1:
+"Okay, it seems we have a little bit of a conflict over um to uh combining all the remotes cont together versus having f five different remotes. So um like you said you don't like having all the buttons on one on one remote, and yet you don't wanna have five remotes. So how do we work with that ?"
+
+Past dialogue turns:
+AE_ID ES2008a.A.argumentstructs.4: "Um."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2008a.A.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.C.argumentstructs.7:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2008a.A.argumentstructs.4: "Um."
+AE_ID ES2008a.A.argumentstructs.Erik.1: "Okay, it seems we have a little bit of a conflict over um to uh combining all the remotes cont together versus having f five different remotes. So um like you said you don't like having all the buttons on one on one remote, and yet you don't wanna have five remotes. So how do we work with that ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2008a.C.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.B.argumentstructs.8:
+"that work for everything, you know volume control, on, off,"
+
+Past dialogue turns:
+AE_ID ES2008a.A.argumentstructs.4: "Um."
+AE_ID ES2008a.A.argumentstructs.Erik.1: "Okay, it seems we have a little bit of a conflict over um to uh combining all the remotes cont together versus having f five different remotes. So um like you said you don't like having all the buttons on one on one remote, and yet you don't wanna have five remotes. So how do we work with that ?"
+AE_ID ES2008a.C.argumentstructs.7: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2008a.B.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.A.argumentstructs.5:
+"Mm-hmm. Mm. Mm."
+
+Past dialogue turns:
+AE_ID ES2008a.A.argumentstructs.4: "Um."
+AE_ID ES2008a.A.argumentstructs.Erik.1: "Okay, it seems we have a little bit of a conflict over um to uh combining all the remotes cont together versus having f five different remotes. So um like you said you don't like having all the buttons on one on one remote, and yet you don't wanna have five remotes. So how do we work with that ?"
+AE_ID ES2008a.C.argumentstructs.7: "Mm."
+AE_ID ES2008a.B.argumentstructs.8: "that work for everything, you know volume control, on, off,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.A.argumentstructs.4
+---------------------------------
+target=ES2008a.A.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.B.argumentstructs.Erik.1:
+"channel changing."
+
+Past dialogue turns:
+AE_ID ES2008a.A.argumentstructs.4: "Um."
+AE_ID ES2008a.A.argumentstructs.Erik.1: "Okay, it seems we have a little bit of a conflict over um to uh combining all the remotes cont together versus having f five different remotes. So um like you said you don't like having all the buttons on one on one remote, and yet you don't wanna have five remotes. So how do we work with that ?"
+AE_ID ES2008a.C.argumentstructs.7: "Mm."
+AE_ID ES2008a.B.argumentstructs.8: "that work for everything, you know volume control, on, off,"
+AE_ID ES2008a.A.argumentstructs.5: "Mm-hmm. Mm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2008a.B.argumentstructs.Erik.1
+source=ES2008a.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.D.argumentstructs.Erik.1:
+"And maybe that spatially divides it, so it's like if you're looki if you're trying to get the T_V_ on that's, you know, like the top thing on the remote, I dunno if d be vertical or horizontal in terms of how we're gonna make it, but if it's like all the T_V_ stuff was here, then all the V_C_R_ stuff was here, all the  whatever else we have programmed into it it's all just in its separate place and not like all the on buttons together, 'cause then you like, I don't even know what I'm turning on."
+
+Past dialogue turns:
+AE_ID ES2008a.A.argumentstructs.Erik.1: "Okay, it seems we have a little bit of a conflict over um to uh combining all the remotes cont together versus having f five different remotes. So um like you said you don't like having all the buttons on one on one remote, and yet you don't wanna have five remotes. So how do we work with that ?"
+AE_ID ES2008a.C.argumentstructs.7: "Mm."
+AE_ID ES2008a.B.argumentstructs.8: "that work for everything, you know volume control, on, off,"
+AE_ID ES2008a.A.argumentstructs.5: "Mm-hmm. Mm. Mm."
+AE_ID ES2008a.B.argumentstructs.Erik.1: "channel changing."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2008a.D.argumentstructs.Erik.1
+source=ES2008a.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.B.argumentstructs.Erik.2:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2008a.C.argumentstructs.7: "Mm."
+AE_ID ES2008a.B.argumentstructs.8: "that work for everything, you know volume control, on, off,"
+AE_ID ES2008a.A.argumentstructs.5: "Mm-hmm. Mm. Mm."
+AE_ID ES2008a.B.argumentstructs.Erik.1: "channel changing."
+AE_ID ES2008a.D.argumentstructs.Erik.1: "And maybe that spatially divides it, so it's like if you're looki if you're trying to get the T_V_ on that's, you know, like the top thing on the remote, I dunno if d be vertical or horizontal in terms of how we're gonna make it, but if it's like all the T_V_ stuff was here, then all the V_C_R_ stuff was here, all the  whatever else we have programmed into it it's all just in its separate place and not like all the on buttons together, 'cause then you like, I don't even know what I'm turning on."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2008a.B.argumentstructs.Erik.2
+source=ES2008a.D.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.B.argumentstructs.9:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2008a.B.argumentstructs.8: "that work for everything, you know volume control, on, off,"
+AE_ID ES2008a.A.argumentstructs.5: "Mm-hmm. Mm. Mm."
+AE_ID ES2008a.B.argumentstructs.Erik.1: "channel changing."
+AE_ID ES2008a.D.argumentstructs.Erik.1: "And maybe that spatially divides it, so it's like if you're looki if you're trying to get the T_V_ on that's, you know, like the top thing on the remote, I dunno if d be vertical or horizontal in terms of how we're gonna make it, but if it's like all the T_V_ stuff was here, then all the V_C_R_ stuff was here, all the  whatever else we have programmed into it it's all just in its separate place and not like all the on buttons together, 'cause then you like, I don't even know what I'm turning on."
+AE_ID ES2008a.B.argumentstructs.Erik.2: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2008a.B.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.B.argumentstructs.Erik.3:
+"Yeah, and if um if you'd save the more complicated functions maybe for separate remotes that you wouldn't need to use every day."
+
+Past dialogue turns:
+AE_ID ES2008a.A.argumentstructs.5: "Mm-hmm. Mm. Mm."
+AE_ID ES2008a.B.argumentstructs.Erik.1: "channel changing."
+AE_ID ES2008a.D.argumentstructs.Erik.1: "And maybe that spatially divides it, so it's like if you're looki if you're trying to get the T_V_ on that's, you know, like the top thing on the remote, I dunno if d be vertical or horizontal in terms of how we're gonna make it, but if it's like all the T_V_ stuff was here, then all the V_C_R_ stuff was here, all the  whatever else we have programmed into it it's all just in its separate place and not like all the on buttons together, 'cause then you like, I don't even know what I'm turning on."
+AE_ID ES2008a.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2008a.B.argumentstructs.9: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2008a.B.argumentstructs.Erik.3
+source=ES2008a.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.D.argumentstructs.4:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2008a.B.argumentstructs.Erik.1: "channel changing."
+AE_ID ES2008a.D.argumentstructs.Erik.1: "And maybe that spatially divides it, so it's like if you're looki if you're trying to get the T_V_ on that's, you know, like the top thing on the remote, I dunno if d be vertical or horizontal in terms of how we're gonna make it, but if it's like all the T_V_ stuff was here, then all the V_C_R_ stuff was here, all the  whatever else we have programmed into it it's all just in its separate place and not like all the on buttons together, 'cause then you like, I don't even know what I'm turning on."
+AE_ID ES2008a.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2008a.B.argumentstructs.9: "Yeah."
+AE_ID ES2008a.B.argumentstructs.Erik.3: "Yeah, and if um if you'd save the more complicated functions maybe for separate remotes that you wouldn't need to use every day."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2008a.D.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.A.argumentstructs.Erik.2:
+"Okay, so maybe have like one remote that has the main functions on, off, channel changing, volume, and another rote remote with all the special things. Because that is one thing that um remotes tend to have buttons that the T_V_s no longer have as well. So like you have to have them somewhere, 'cause you're gonna m need those special functions occasionally. Um but not necessarily on the m the normal remote."
+
+Past dialogue turns:
+AE_ID ES2008a.D.argumentstructs.Erik.1: "And maybe that spatially divides it, so it's like if you're looki if you're trying to get the T_V_ on that's, you know, like the top thing on the remote, I dunno if d be vertical or horizontal in terms of how we're gonna make it, but if it's like all the T_V_ stuff was here, then all the V_C_R_ stuff was here, all the  whatever else we have programmed into it it's all just in its separate place and not like all the on buttons together, 'cause then you like, I don't even know what I'm turning on."
+AE_ID ES2008a.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2008a.B.argumentstructs.9: "Yeah."
+AE_ID ES2008a.B.argumentstructs.Erik.3: "Yeah, and if um if you'd save the more complicated functions maybe for separate remotes that you wouldn't need to use every day."
+AE_ID ES2008a.D.argumentstructs.4: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2008a.A.argumentstructs.Erik.2
+source=ES2008a.B.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.B.argumentstructs.10:
+"Um."
+
+Past dialogue turns:
+AE_ID ES2008a.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2008a.B.argumentstructs.9: "Yeah."
+AE_ID ES2008a.B.argumentstructs.Erik.3: "Yeah, and if um if you'd save the more complicated functions maybe for separate remotes that you wouldn't need to use every day."
+AE_ID ES2008a.D.argumentstructs.4: "Mm-hmm."
+AE_ID ES2008a.A.argumentstructs.Erik.2: "Okay, so maybe have like one remote that has the main functions on, off, channel changing, volume, and another rote remote with all the special things. Because that is one thing that um remotes tend to have buttons that the T_V_s no longer have as well. So like you have to have them somewhere, 'cause you're gonna m need those special functions occasionally. Um but not necessarily on the m the normal remote."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.B.argumentstructs.Erik.3
+---------------------------------
+target=ES2008a.B.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.B.argumentstructs.Erik.4:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2008a.B.argumentstructs.9: "Yeah."
+AE_ID ES2008a.B.argumentstructs.Erik.3: "Yeah, and if um if you'd save the more complicated functions maybe for separate remotes that you wouldn't need to use every day."
+AE_ID ES2008a.D.argumentstructs.4: "Mm-hmm."
+AE_ID ES2008a.A.argumentstructs.Erik.2: "Okay, so maybe have like one remote that has the main functions on, off, channel changing, volume, and another rote remote with all the special things. Because that is one thing that um remotes tend to have buttons that the T_V_s no longer have as well. So like you have to have them somewhere, 'cause you're gonna m need those special functions occasionally. Um but not necessarily on the m the normal remote."
+AE_ID ES2008a.B.argumentstructs.10: "Um."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.B.argumentstructs.9
+---------------------------------
+target=ES2008a.B.argumentstructs.Erik.4
+source=ES2008a.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.B.argumentstructs.11:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2008a.B.argumentstructs.Erik.3: "Yeah, and if um if you'd save the more complicated functions maybe for separate remotes that you wouldn't need to use every day."
+AE_ID ES2008a.D.argumentstructs.4: "Mm-hmm."
+AE_ID ES2008a.A.argumentstructs.Erik.2: "Okay, so maybe have like one remote that has the main functions on, off, channel changing, volume, and another rote remote with all the special things. Because that is one thing that um remotes tend to have buttons that the T_V_s no longer have as well. So like you have to have them somewhere, 'cause you're gonna m need those special functions occasionally. Um but not necessarily on the m the normal remote."
+AE_ID ES2008a.B.argumentstructs.10: "Um."
+AE_ID ES2008a.B.argumentstructs.Erik.4: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.B.argumentstructs.10
+---------------------------------
+target=ES2008a.B.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.C.argumentstructs.Erik.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2008a.D.argumentstructs.4: "Mm-hmm."
+AE_ID ES2008a.A.argumentstructs.Erik.2: "Okay, so maybe have like one remote that has the main functions on, off, channel changing, volume, and another rote remote with all the special things. Because that is one thing that um remotes tend to have buttons that the T_V_s no longer have as well. So like you have to have them somewhere, 'cause you're gonna m need those special functions occasionally. Um but not necessarily on the m the normal remote."
+AE_ID ES2008a.B.argumentstructs.10: "Um."
+AE_ID ES2008a.B.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2008a.B.argumentstructs.11: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.B.argumentstructs.11
+---------------------------------
+target=ES2008a.C.argumentstructs.Erik.1
+source=ES2008a.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.B.argumentstructs.Erik.5:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2008a.A.argumentstructs.Erik.2: "Okay, so maybe have like one remote that has the main functions on, off, channel changing, volume, and another rote remote with all the special things. Because that is one thing that um remotes tend to have buttons that the T_V_s no longer have as well. So like you have to have them somewhere, 'cause you're gonna m need those special functions occasionally. Um but not necessarily on the m the normal remote."
+AE_ID ES2008a.B.argumentstructs.10: "Um."
+AE_ID ES2008a.B.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2008a.B.argumentstructs.11: "Mm."
+AE_ID ES2008a.C.argumentstructs.Erik.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2008a.B.argumentstructs.Erik.5
+source=ES2008a.A.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2008a-ES2008a - Remote functionality.csv - True Judgement Ratio: 23.53%

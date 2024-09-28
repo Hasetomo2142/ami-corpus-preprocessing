@@ -1,0 +1,712 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.A.argumentstructs.Daan.2:
+"So, but uh le let's decide first about the components concept and uh interface concept, okay, if is acceptable for both of you, what uh Ed was talking."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1008c.A.argumentstructs.Daan.2
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.A.argumentstructs.Daan.3:
+"And your design  whether you want with the display or without display or just a simple, so"
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.Daan.2: "So, but uh le let's decide first about the components concept and uh interface concept, okay, if is acceptable for both of you, what uh Ed was talking."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.A.argumentstructs.Daan.2
+---------------------------------
+target=IS1008c.A.argumentstructs.Daan.3
+source=IS1008c.A.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.16:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.Daan.2: "So, but uh le let's decide first about the components concept and uh interface concept, okay, if is acceptable for both of you, what uh Ed was talking."
+AE_ID IS1008c.A.argumentstructs.Daan.3: "And your design  whether you want with the display or without display or just a simple, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.A.argumentstructs.Daan.2
+---------------------------------
+target=IS1008c.B.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.Daan.4:
+"I think it depends, I mean I think it's a good idea, but we need to really think about how useful it's gonna be because theoretically with the T_V_ you already have a big display  right in front of you."
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.Daan.2: "So, but uh le let's decide first about the components concept and uh interface concept, okay, if is acceptable for both of you, what uh Ed was talking."
+AE_ID IS1008c.A.argumentstructs.Daan.3: "And your design  whether you want with the display or without display or just a simple, so"
+AE_ID IS1008c.B.argumentstructs.16: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.A.argumentstructs.Daan.2
+---------------------------------
+target=IS1008c.B.argumentstructs.Daan.4
+source=IS1008c.A.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.C.argumentstructs.11:
+"Hmm. Hmm. Hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.Daan.2: "So, but uh le let's decide first about the components concept and uh interface concept, okay, if is acceptable for both of you, what uh Ed was talking."
+AE_ID IS1008c.A.argumentstructs.Daan.3: "And your design  whether you want with the display or without display or just a simple, so"
+AE_ID IS1008c.B.argumentstructs.16: "Mm-hmm."
+AE_ID IS1008c.B.argumentstructs.Daan.4: "I think it depends, I mean I think it's a good idea, but we need to really think about how useful it's gonna be because theoretically with the T_V_ you already have a big display  right in front of you."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.B.argumentstructs.16
+---------------------------------
+target=IS1008c.C.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.Daan.5:
+"So, if we're trying to keep costs down, then maybe sacrificing the display"
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.Daan.2: "So, but uh le let's decide first about the components concept and uh interface concept, okay, if is acceptable for both of you, what uh Ed was talking."
+AE_ID IS1008c.A.argumentstructs.Daan.3: "And your design  whether you want with the display or without display or just a simple, so"
+AE_ID IS1008c.B.argumentstructs.16: "Mm-hmm."
+AE_ID IS1008c.B.argumentstructs.Daan.4: "I think it depends, I mean I think it's a good idea, but we need to really think about how useful it's gonna be because theoretically with the T_V_ you already have a big display  right in front of you."
+AE_ID IS1008c.C.argumentstructs.11: "Hmm. Hmm. Hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.A.argumentstructs.Daan.3
+---------------------------------
+target=IS1008c.B.argumentstructs.Daan.5
+source=IS1008c.B.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.Daan.6:
+"is a way to go. I mean it depends on how much putting a display costs and what it would be used for  very specifically what it would be used for, 'cause if it's only used for one little thing, then putting in a big display case or a big display that's"
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.Daan.3: "And your design  whether you want with the display or without display or just a simple, so"
+AE_ID IS1008c.B.argumentstructs.16: "Mm-hmm."
+AE_ID IS1008c.B.argumentstructs.Daan.4: "I think it depends, I mean I think it's a good idea, but we need to really think about how useful it's gonna be because theoretically with the T_V_ you already have a big display  right in front of you."
+AE_ID IS1008c.C.argumentstructs.11: "Hmm. Hmm. Hmm. Mm-hmm."
+AE_ID IS1008c.B.argumentstructs.Daan.5: "So, if we're trying to keep costs down, then maybe sacrificing the display"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1008c.B.argumentstructs.Daan.6
+source=IS1008c.B.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.Daan.7:
+"probably expensive just to do the training on the chip for the speech recognition or whatever, may not be the most cost-efficient way to go, but"
+
+Past dialogue turns:
+AE_ID IS1008c.B.argumentstructs.16: "Mm-hmm."
+AE_ID IS1008c.B.argumentstructs.Daan.4: "I think it depends, I mean I think it's a good idea, but we need to really think about how useful it's gonna be because theoretically with the T_V_ you already have a big display  right in front of you."
+AE_ID IS1008c.C.argumentstructs.11: "Hmm. Hmm. Hmm. Mm-hmm."
+AE_ID IS1008c.B.argumentstructs.Daan.5: "So, if we're trying to keep costs down, then maybe sacrificing the display"
+AE_ID IS1008c.B.argumentstructs.Daan.6: "is a way to go. I mean it depends on how much putting a display costs and what it would be used for  very specifically what it would be used for, 'cause if it's only used for one little thing, then putting in a big display case or a big display that's"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1008c.B.argumentstructs.Daan.7
+source=IS1008c.A.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.Daan.8:
+"that's just sort of speculation, I mean."
+
+Past dialogue turns:
+AE_ID IS1008c.B.argumentstructs.Daan.4: "I think it depends, I mean I think it's a good idea, but we need to really think about how useful it's gonna be because theoretically with the T_V_ you already have a big display  right in front of you."
+AE_ID IS1008c.C.argumentstructs.11: "Hmm. Hmm. Hmm. Mm-hmm."
+AE_ID IS1008c.B.argumentstructs.Daan.5: "So, if we're trying to keep costs down, then maybe sacrificing the display"
+AE_ID IS1008c.B.argumentstructs.Daan.6: "is a way to go. I mean it depends on how much putting a display costs and what it would be used for  very specifically what it would be used for, 'cause if it's only used for one little thing, then putting in a big display case or a big display that's"
+AE_ID IS1008c.B.argumentstructs.Daan.7: "probably expensive just to do the training on the chip for the speech recognition or whatever, may not be the most cost-efficient way to go, but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1008c.B.argumentstructs.Daan.8
+source=IS1008c.B.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.C.argumentstructs.Daan.6:
+"What do you think Ed ? Do you  he liked the display in one of the concepts that you showed, um, do you know how much it costs, um, to to add a little display like this uh ?"
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.11: "Hmm. Hmm. Hmm. Mm-hmm."
+AE_ID IS1008c.B.argumentstructs.Daan.5: "So, if we're trying to keep costs down, then maybe sacrificing the display"
+AE_ID IS1008c.B.argumentstructs.Daan.6: "is a way to go. I mean it depends on how much putting a display costs and what it would be used for  very specifically what it would be used for, 'cause if it's only used for one little thing, then putting in a big display case or a big display that's"
+AE_ID IS1008c.B.argumentstructs.Daan.7: "probably expensive just to do the training on the chip for the speech recognition or whatever, may not be the most cost-efficient way to go, but"
+AE_ID IS1008c.B.argumentstructs.Daan.8: "that's just sort of speculation, I mean."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1008c.C.argumentstructs.Daan.6
+source=IS1008c.A.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.D.argumentstructs.Daan.6:
+"No. No  no p spec  It's 'cause we have to find out cost on it."
+
+Past dialogue turns:
+AE_ID IS1008c.B.argumentstructs.Daan.5: "So, if we're trying to keep costs down, then maybe sacrificing the display"
+AE_ID IS1008c.B.argumentstructs.Daan.6: "is a way to go. I mean it depends on how much putting a display costs and what it would be used for  very specifically what it would be used for, 'cause if it's only used for one little thing, then putting in a big display case or a big display that's"
+AE_ID IS1008c.B.argumentstructs.Daan.7: "probably expensive just to do the training on the chip for the speech recognition or whatever, may not be the most cost-efficient way to go, but"
+AE_ID IS1008c.B.argumentstructs.Daan.8: "that's just sort of speculation, I mean."
+AE_ID IS1008c.C.argumentstructs.Daan.6: "What do you think Ed ? Do you  he liked the display in one of the concepts that you showed, um, do you know how much it costs, um, to to add a little display like this uh ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1008c.D.argumentstructs.Daan.6
+source=IS1008c.C.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.C.argumentstructs.Daan.7:
+"Do you wanna take an action item to go find out ?"
+
+Past dialogue turns:
+AE_ID IS1008c.B.argumentstructs.Daan.6: "is a way to go. I mean it depends on how much putting a display costs and what it would be used for  very specifically what it would be used for, 'cause if it's only used for one little thing, then putting in a big display case or a big display that's"
+AE_ID IS1008c.B.argumentstructs.Daan.7: "probably expensive just to do the training on the chip for the speech recognition or whatever, may not be the most cost-efficient way to go, but"
+AE_ID IS1008c.B.argumentstructs.Daan.8: "that's just sort of speculation, I mean."
+AE_ID IS1008c.C.argumentstructs.Daan.6: "What do you think Ed ? Do you  he liked the display in one of the concepts that you showed, um, do you know how much it costs, um, to to add a little display like this uh ?"
+AE_ID IS1008c.D.argumentstructs.Daan.6: "No. No  no p spec  It's 'cause we have to find out cost on it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.D.argumentstructs.Daan.6
+---------------------------------
+target=IS1008c.C.argumentstructs.Daan.7
+source=IS1008c.D.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.C.argumentstructs.12:
+"Sorry about that."
+
+Past dialogue turns:
+AE_ID IS1008c.B.argumentstructs.Daan.7: "probably expensive just to do the training on the chip for the speech recognition or whatever, may not be the most cost-efficient way to go, but"
+AE_ID IS1008c.B.argumentstructs.Daan.8: "that's just sort of speculation, I mean."
+AE_ID IS1008c.C.argumentstructs.Daan.6: "What do you think Ed ? Do you  he liked the display in one of the concepts that you showed, um, do you know how much it costs, um, to to add a little display like this uh ?"
+AE_ID IS1008c.D.argumentstructs.Daan.6: "No. No  no p spec  It's 'cause we have to find out cost on it."
+AE_ID IS1008c.C.argumentstructs.Daan.7: "Do you wanna take an action item to go find out ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.7
+---------------------------------
+target=IS1008c.C.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.D.argumentstructs.Daan.7:
+"Um, no that's no problem. I'm here for the  pushing it after it's made.  I will market it.  Once we get a price on it then we can market it."
+
+Past dialogue turns:
+AE_ID IS1008c.B.argumentstructs.Daan.8: "that's just sort of speculation, I mean."
+AE_ID IS1008c.C.argumentstructs.Daan.6: "What do you think Ed ? Do you  he liked the display in one of the concepts that you showed, um, do you know how much it costs, um, to to add a little display like this uh ?"
+AE_ID IS1008c.D.argumentstructs.Daan.6: "No. No  no p spec  It's 'cause we have to find out cost on it."
+AE_ID IS1008c.C.argumentstructs.Daan.7: "Do you wanna take an action item to go find out ?"
+AE_ID IS1008c.C.argumentstructs.12: "Sorry about that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.D.argumentstructs.Daan.6
+---------------------------------
+target=IS1008c.D.argumentstructs.Daan.7
+source=IS1008c.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.A.argumentstructs.9:
+"Yes."
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.6: "What do you think Ed ? Do you  he liked the display in one of the concepts that you showed, um, do you know how much it costs, um, to to add a little display like this uh ?"
+AE_ID IS1008c.D.argumentstructs.Daan.6: "No. No  no p spec  It's 'cause we have to find out cost on it."
+AE_ID IS1008c.C.argumentstructs.Daan.7: "Do you wanna take an action item to go find out ?"
+AE_ID IS1008c.C.argumentstructs.12: "Sorry about that."
+AE_ID IS1008c.D.argumentstructs.Daan.7: "Um, no that's no problem. I'm here for the  pushing it after it's made.  I will market it.  Once we get a price on it then we can market it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.6
+---------------------------------
+target=IS1008c.A.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.C.argumentstructs.Daan.8:
+"So the  the advanced chip on print is what um what we've  we've deci we've determined and the uh engineering industrial design is the recommendation, and um I think we've kinda come to some agreement regarding um this concept of a wooden case."
+
+Past dialogue turns:
+AE_ID IS1008c.D.argumentstructs.Daan.6: "No. No  no p spec  It's 'cause we have to find out cost on it."
+AE_ID IS1008c.C.argumentstructs.Daan.7: "Do you wanna take an action item to go find out ?"
+AE_ID IS1008c.C.argumentstructs.12: "Sorry about that."
+AE_ID IS1008c.D.argumentstructs.Daan.7: "Um, no that's no problem. I'm here for the  pushing it after it's made.  I will market it.  Once we get a price on it then we can market it."
+AE_ID IS1008c.A.argumentstructs.9: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.D.argumentstructs.Daan.7
+---------------------------------
+target=IS1008c.C.argumentstructs.Daan.8
+source=IS1008c.A.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.17:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.7: "Do you wanna take an action item to go find out ?"
+AE_ID IS1008c.C.argumentstructs.12: "Sorry about that."
+AE_ID IS1008c.D.argumentstructs.Daan.7: "Um, no that's no problem. I'm here for the  pushing it after it's made.  I will market it.  Once we get a price on it then we can market it."
+AE_ID IS1008c.A.argumentstructs.9: "Yes."
+AE_ID IS1008c.C.argumentstructs.Daan.8: "So the  the advanced chip on print is what um what we've  we've deci we've determined and the uh engineering industrial design is the recommendation, and um I think we've kinda come to some agreement regarding um this concept of a wooden case."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.7
+---------------------------------
+target=IS1008c.B.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.C.argumentstructs.Daan.9:
+"A customisable and"
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.12: "Sorry about that."
+AE_ID IS1008c.D.argumentstructs.Daan.7: "Um, no that's no problem. I'm here for the  pushing it after it's made.  I will market it.  Once we get a price on it then we can market it."
+AE_ID IS1008c.A.argumentstructs.9: "Yes."
+AE_ID IS1008c.C.argumentstructs.Daan.8: "So the  the advanced chip on print is what um what we've  we've deci we've determined and the uh engineering industrial design is the recommendation, and um I think we've kinda come to some agreement regarding um this concept of a wooden case."
+AE_ID IS1008c.B.argumentstructs.17: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.8
+---------------------------------
+target=IS1008c.C.argumentstructs.Daan.9
+source=IS1008c.C.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.D.argumentstructs.Daan.8:
+"Nice beautiful mahogany red wooden case."
+
+Past dialogue turns:
+AE_ID IS1008c.D.argumentstructs.Daan.7: "Um, no that's no problem. I'm here for the  pushing it after it's made.  I will market it.  Once we get a price on it then we can market it."
+AE_ID IS1008c.A.argumentstructs.9: "Yes."
+AE_ID IS1008c.C.argumentstructs.Daan.8: "So the  the advanced chip on print is what um what we've  we've deci we've determined and the uh engineering industrial design is the recommendation, and um I think we've kinda come to some agreement regarding um this concept of a wooden case."
+AE_ID IS1008c.B.argumentstructs.17: "Mm-hmm."
+AE_ID IS1008c.C.argumentstructs.Daan.9: "A customisable and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.8
+---------------------------------
+target=IS1008c.D.argumentstructs.Daan.8
+source=IS1008c.C.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.Daan.9:
+"What about the buttons, would"
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.9: "Yes."
+AE_ID IS1008c.C.argumentstructs.Daan.8: "So the  the advanced chip on print is what um what we've  we've deci we've determined and the uh engineering industrial design is the recommendation, and um I think we've kinda come to some agreement regarding um this concept of a wooden case."
+AE_ID IS1008c.B.argumentstructs.17: "Mm-hmm."
+AE_ID IS1008c.C.argumentstructs.Daan.9: "A customisable and"
+AE_ID IS1008c.D.argumentstructs.Daan.8: "Nice beautiful mahogany red wooden case."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.8
+---------------------------------
+target=IS1008c.B.argumentstructs.Daan.9
+source=IS1008c.C.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.Daan.10:
+"Would the buttons be wood too, or"
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.8: "So the  the advanced chip on print is what um what we've  we've deci we've determined and the uh engineering industrial design is the recommendation, and um I think we've kinda come to some agreement regarding um this concept of a wooden case."
+AE_ID IS1008c.B.argumentstructs.17: "Mm-hmm."
+AE_ID IS1008c.C.argumentstructs.Daan.9: "A customisable and"
+AE_ID IS1008c.D.argumentstructs.Daan.8: "Nice beautiful mahogany red wooden case."
+AE_ID IS1008c.B.argumentstructs.Daan.9: "What about the buttons, would"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.B.argumentstructs.Daan.9
+---------------------------------
+target=IS1008c.B.argumentstructs.Daan.10
+source=IS1008c.B.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.C.argumentstructs.Daan.10:
+"Uh I don't think so, no, I think they could be rubber like they are now, so you have that tactile experience of"
+
+Past dialogue turns:
+AE_ID IS1008c.B.argumentstructs.17: "Mm-hmm."
+AE_ID IS1008c.C.argumentstructs.Daan.9: "A customisable and"
+AE_ID IS1008c.D.argumentstructs.Daan.8: "Nice beautiful mahogany red wooden case."
+AE_ID IS1008c.B.argumentstructs.Daan.9: "What about the buttons, would"
+AE_ID IS1008c.B.argumentstructs.Daan.10: "Would the buttons be wood too, or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.B.argumentstructs.Daan.10
+---------------------------------
+target=IS1008c.C.argumentstructs.Daan.10
+source=IS1008c.B.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.A.argumentstructs.Daan.4:
+"I don't think so."
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.9: "A customisable and"
+AE_ID IS1008c.D.argumentstructs.Daan.8: "Nice beautiful mahogany red wooden case."
+AE_ID IS1008c.B.argumentstructs.Daan.9: "What about the buttons, would"
+AE_ID IS1008c.B.argumentstructs.Daan.10: "Would the buttons be wood too, or"
+AE_ID IS1008c.C.argumentstructs.Daan.10: "Uh I don't think so, no, I think they could be rubber like they are now, so you have that tactile experience of"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.10
+---------------------------------
+target=IS1008c.A.argumentstructs.Daan.4
+source=IS1008c.B.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.A.argumentstructs.10:
+"Yes. Yes."
+
+Past dialogue turns:
+AE_ID IS1008c.D.argumentstructs.Daan.8: "Nice beautiful mahogany red wooden case."
+AE_ID IS1008c.B.argumentstructs.Daan.9: "What about the buttons, would"
+AE_ID IS1008c.B.argumentstructs.Daan.10: "Would the buttons be wood too, or"
+AE_ID IS1008c.C.argumentstructs.Daan.10: "Uh I don't think so, no, I think they could be rubber like they are now, so you have that tactile experience of"
+AE_ID IS1008c.A.argumentstructs.Daan.4: "I don't think so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.C.argumentstructs.Daan.10
+---------------------------------
+target=IS1008c.A.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.A.argumentstructs.Daan.5:
+"Don't looks nice uh."
+
+Past dialogue turns:
+AE_ID IS1008c.B.argumentstructs.Daan.9: "What about the buttons, would"
+AE_ID IS1008c.B.argumentstructs.Daan.10: "Would the buttons be wood too, or"
+AE_ID IS1008c.C.argumentstructs.Daan.10: "Uh I don't think so, no, I think they could be rubber like they are now, so you have that tactile experience of"
+AE_ID IS1008c.A.argumentstructs.Daan.4: "I don't think so."
+AE_ID IS1008c.A.argumentstructs.10: "Yes. Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.B.argumentstructs.Daan.9
+---------------------------------
+target=IS1008c.A.argumentstructs.Daan.5
+source=IS1008c.A.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.A.argumentstructs.Daan.6:
+"Yeah, so uh what we'll do is, uh, we will stick with the the simple design for time being until uh th Ed find outs about the how much it's cost to the extra, in case we go for the display. Okay. So maybe what you can do is uh, both of you, you can come up with the the prototype, okay, the model. Okay ?"
+
+Past dialogue turns:
+AE_ID IS1008c.B.argumentstructs.Daan.10: "Would the buttons be wood too, or"
+AE_ID IS1008c.C.argumentstructs.Daan.10: "Uh I don't think so, no, I think they could be rubber like they are now, so you have that tactile experience of"
+AE_ID IS1008c.A.argumentstructs.Daan.4: "I don't think so."
+AE_ID IS1008c.A.argumentstructs.10: "Yes. Yes."
+AE_ID IS1008c.A.argumentstructs.Daan.5: "Don't looks nice uh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID IS1008c.B.argumentstructs.Daan.10
+---------------------------------
+target=IS1008c.A.argumentstructs.Daan.6
+source=IS1008c.A.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.18:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1008c.C.argumentstructs.Daan.10: "Uh I don't think so, no, I think they could be rubber like they are now, so you have that tactile experience of"
+AE_ID IS1008c.A.argumentstructs.Daan.4: "I don't think so."
+AE_ID IS1008c.A.argumentstructs.10: "Yes. Yes."
+AE_ID IS1008c.A.argumentstructs.Daan.5: "Don't looks nice uh."
+AE_ID IS1008c.A.argumentstructs.Daan.6: "Yeah, so uh what we'll do is, uh, we will stick with the the simple design for time being until uh th Ed find outs about the how much it's cost to the extra, in case we go for the display. Okay. So maybe what you can do is uh, both of you, you can come up with the the prototype, okay, the model. Okay ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.A.argumentstructs.Daan.4
+---------------------------------
+target=IS1008c.B.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.Daan.11:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.Daan.4: "I don't think so."
+AE_ID IS1008c.A.argumentstructs.10: "Yes. Yes."
+AE_ID IS1008c.A.argumentstructs.Daan.5: "Don't looks nice uh."
+AE_ID IS1008c.A.argumentstructs.Daan.6: "Yeah, so uh what we'll do is, uh, we will stick with the the simple design for time being until uh th Ed find outs about the how much it's cost to the extra, in case we go for the display. Okay. So maybe what you can do is uh, both of you, you can come up with the the prototype, okay, the model. Okay ?"
+AE_ID IS1008c.B.argumentstructs.18: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.A.argumentstructs.Daan.6
+---------------------------------
+target=IS1008c.B.argumentstructs.Daan.11
+source=IS1008c.A.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.Daan.12:
+"Sure."
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.10: "Yes. Yes."
+AE_ID IS1008c.A.argumentstructs.Daan.5: "Don't looks nice uh."
+AE_ID IS1008c.A.argumentstructs.Daan.6: "Yeah, so uh what we'll do is, uh, we will stick with the the simple design for time being until uh th Ed find outs about the how much it's cost to the extra, in case we go for the display. Okay. So maybe what you can do is uh, both of you, you can come up with the the prototype, okay, the model. Okay ?"
+AE_ID IS1008c.B.argumentstructs.18: "Mm-hmm."
+AE_ID IS1008c.B.argumentstructs.Daan.11: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.A.argumentstructs.Daan.6
+---------------------------------
+target=IS1008c.B.argumentstructs.Daan.12
+source=IS1008c.A.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1008c-Design decisions.csv - True Judgement Ratio: 34.48%

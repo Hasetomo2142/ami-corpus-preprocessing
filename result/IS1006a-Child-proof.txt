@@ -1,0 +1,437 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.A.argumentstructs.Daan.1:
+"So any of you have experience in remote controls ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1006a.A.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.D.argumentstructs.Daan.1:
+"Uh yes, we have plenty at home.  In fact, my daughter likes l    remote controls. To eat ? Yeah, mainly, and to break."
+
+Past dialogue turns:
+AE_ID IS1006a.A.argumentstructs.Daan.1: "So any of you have experience in remote controls ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1006a.D.argumentstructs.Daan.1
+source=IS1006a.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.A.argumentstructs.4:
+"That"
+
+Past dialogue turns:
+AE_ID IS1006a.A.argumentstructs.Daan.1: "So any of you have experience in remote controls ?"
+AE_ID IS1006a.D.argumentstructs.Daan.1: "Uh yes, we have plenty at home.  In fact, my daughter likes l    remote controls. To eat ? Yeah, mainly, and to break."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1006a.A.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.B.argumentstructs.Daan.1:
+"Mm. To eat ?"
+
+Past dialogue turns:
+AE_ID IS1006a.A.argumentstructs.Daan.1: "So any of you have experience in remote controls ?"
+AE_ID IS1006a.D.argumentstructs.Daan.1: "Uh yes, we have plenty at home.  In fact, my daughter likes l    remote controls. To eat ? Yeah, mainly, and to break."
+AE_ID IS1006a.A.argumentstructs.4: "That"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1006a.B.argumentstructs.Daan.1
+source=IS1006a.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.A.argumentstructs.Daan.2:
+"So that could be a great um  application. Remote controls children proof. Mm mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1006a.A.argumentstructs.Daan.1: "So any of you have experience in remote controls ?"
+AE_ID IS1006a.D.argumentstructs.Daan.1: "Uh yes, we have plenty at home.  In fact, my daughter likes l    remote controls. To eat ? Yeah, mainly, and to break."
+AE_ID IS1006a.A.argumentstructs.4: "That"
+AE_ID IS1006a.B.argumentstructs.Daan.1: "Mm. To eat ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1006a.A.argumentstructs.Daan.2
+source=IS1006a.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.D.argumentstructs.6:
+"Ye ye yeah."
+
+Past dialogue turns:
+AE_ID IS1006a.A.argumentstructs.Daan.1: "So any of you have experience in remote controls ?"
+AE_ID IS1006a.D.argumentstructs.Daan.1: "Uh yes, we have plenty at home.  In fact, my daughter likes l    remote controls. To eat ? Yeah, mainly, and to break."
+AE_ID IS1006a.A.argumentstructs.4: "That"
+AE_ID IS1006a.B.argumentstructs.Daan.1: "Mm. To eat ?"
+AE_ID IS1006a.A.argumentstructs.Daan.2: "So that could be a great um  application. Remote controls children proof. Mm mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1006a.D.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.B.argumentstructs.4:
+"Children proof. Hmm."
+
+Past dialogue turns:
+AE_ID IS1006a.D.argumentstructs.Daan.1: "Uh yes, we have plenty at home.  In fact, my daughter likes l    remote controls. To eat ? Yeah, mainly, and to break."
+AE_ID IS1006a.A.argumentstructs.4: "That"
+AE_ID IS1006a.B.argumentstructs.Daan.1: "Mm. To eat ?"
+AE_ID IS1006a.A.argumentstructs.Daan.2: "So that could be a great um  application. Remote controls children proof. Mm mm-hmm."
+AE_ID IS1006a.D.argumentstructs.6: "Ye ye yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.A.argumentstructs.Daan.2
+---------------------------------
+target=IS1006a.B.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.D.argumentstructs.Daan.2:
+"So she likes uh buttons  which make click, so  it has to click."
+
+Past dialogue turns:
+AE_ID IS1006a.A.argumentstructs.4: "That"
+AE_ID IS1006a.B.argumentstructs.Daan.1: "Mm. To eat ?"
+AE_ID IS1006a.A.argumentstructs.Daan.2: "So that could be a great um  application. Remote controls children proof. Mm mm-hmm."
+AE_ID IS1006a.D.argumentstructs.6: "Ye ye yeah."
+AE_ID IS1006a.B.argumentstructs.4: "Children proof. Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.A.argumentstructs.Daan.2
+---------------------------------
+target=IS1006a.D.argumentstructs.Daan.2
+source=IS1006a.D.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.A.argumentstructs.5:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1006a.B.argumentstructs.Daan.1: "Mm. To eat ?"
+AE_ID IS1006a.A.argumentstructs.Daan.2: "So that could be a great um  application. Remote controls children proof. Mm mm-hmm."
+AE_ID IS1006a.D.argumentstructs.6: "Ye ye yeah."
+AE_ID IS1006a.B.argumentstructs.4: "Children proof. Hmm."
+AE_ID IS1006a.D.argumentstructs.Daan.2: "So she likes uh buttons  which make click, so  it has to click."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1006a.A.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.A.argumentstructs.Daan.3:
+"So they have to be waterproof maybe ?  'Cause they eat  she ate it."
+
+Past dialogue turns:
+AE_ID IS1006a.A.argumentstructs.Daan.2: "So that could be a great um  application. Remote controls children proof. Mm mm-hmm."
+AE_ID IS1006a.D.argumentstructs.6: "Ye ye yeah."
+AE_ID IS1006a.B.argumentstructs.4: "Children proof. Hmm."
+AE_ID IS1006a.D.argumentstructs.Daan.2: "So she likes uh buttons  which make click, so  it has to click."
+AE_ID IS1006a.A.argumentstructs.5: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.D.argumentstructs.Daan.2
+---------------------------------
+target=IS1006a.A.argumentstructs.Daan.3
+source=IS1006a.D.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.D.argumentstructs.Daan.3:
+"It has to be uh wha  baby proof  yeah  but mainly it has to be very robust because even if she's not very tall she's uh  high enough so that uh when she throw it away it's uh"
+
+Past dialogue turns:
+AE_ID IS1006a.D.argumentstructs.6: "Ye ye yeah."
+AE_ID IS1006a.B.argumentstructs.4: "Children proof. Hmm."
+AE_ID IS1006a.D.argumentstructs.Daan.2: "So she likes uh buttons  which make click, so  it has to click."
+AE_ID IS1006a.A.argumentstructs.5: "Okay."
+AE_ID IS1006a.A.argumentstructs.Daan.3: "So they have to be waterproof maybe ?  'Cause they eat  she ate it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.D.argumentstructs.Daan.2
+---------------------------------
+target=IS1006a.D.argumentstructs.Daan.3
+source=IS1006a.A.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.A.argumentstructs.6:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1006a.B.argumentstructs.4: "Children proof. Hmm."
+AE_ID IS1006a.D.argumentstructs.Daan.2: "So she likes uh buttons  which make click, so  it has to click."
+AE_ID IS1006a.A.argumentstructs.5: "Okay."
+AE_ID IS1006a.A.argumentstructs.Daan.3: "So they have to be waterproof maybe ?  'Cause they eat  she ate it."
+AE_ID IS1006a.D.argumentstructs.Daan.3: "It has to be uh wha  baby proof  yeah  but mainly it has to be very robust because even if she's not very tall she's uh  high enough so that uh when she throw it away it's uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1006a.A.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.C.argumentstructs.2:
+"Ah."
+
+Past dialogue turns:
+AE_ID IS1006a.D.argumentstructs.Daan.2: "So she likes uh buttons  which make click, so  it has to click."
+AE_ID IS1006a.A.argumentstructs.5: "Okay."
+AE_ID IS1006a.A.argumentstructs.Daan.3: "So they have to be waterproof maybe ?  'Cause they eat  she ate it."
+AE_ID IS1006a.D.argumentstructs.Daan.3: "It has to be uh wha  baby proof  yeah  but mainly it has to be very robust because even if she's not very tall she's uh  high enough so that uh when she throw it away it's uh"
+AE_ID IS1006a.A.argumentstructs.6: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.D.argumentstructs.Daan.2
+---------------------------------
+target=IS1006a.C.argumentstructs.2
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.D.argumentstructs.Daan.4:
+"So it has to be very robust."
+
+Past dialogue turns:
+AE_ID IS1006a.A.argumentstructs.5: "Okay."
+AE_ID IS1006a.A.argumentstructs.Daan.3: "So they have to be waterproof maybe ?  'Cause they eat  she ate it."
+AE_ID IS1006a.D.argumentstructs.Daan.3: "It has to be uh wha  baby proof  yeah  but mainly it has to be very robust because even if she's not very tall she's uh  high enough so that uh when she throw it away it's uh"
+AE_ID IS1006a.A.argumentstructs.6: "Mm-hmm."
+AE_ID IS1006a.C.argumentstructs.2: "Ah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1006a.D.argumentstructs.Daan.4
+source=IS1006a.D.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.B.argumentstructs.Daan.3:
+"Okay, unbreakable."
+
+Past dialogue turns:
+AE_ID IS1006a.A.argumentstructs.Daan.3: "So they have to be waterproof maybe ?  'Cause they eat  she ate it."
+AE_ID IS1006a.D.argumentstructs.Daan.3: "It has to be uh wha  baby proof  yeah  but mainly it has to be very robust because even if she's not very tall she's uh  high enough so that uh when she throw it away it's uh"
+AE_ID IS1006a.A.argumentstructs.6: "Mm-hmm."
+AE_ID IS1006a.C.argumentstructs.2: "Ah."
+AE_ID IS1006a.D.argumentstructs.Daan.4: "So it has to be very robust."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.D.argumentstructs.Daan.4
+---------------------------------
+target=IS1006a.B.argumentstructs.Daan.3
+source=IS1006a.D.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.D.argumentstructs.Daan.5:
+"Unbreakable, yeah."
+
+Past dialogue turns:
+AE_ID IS1006a.D.argumentstructs.Daan.3: "It has to be uh wha  baby proof  yeah  but mainly it has to be very robust because even if she's not very tall she's uh  high enough so that uh when she throw it away it's uh"
+AE_ID IS1006a.A.argumentstructs.6: "Mm-hmm."
+AE_ID IS1006a.C.argumentstructs.2: "Ah."
+AE_ID IS1006a.D.argumentstructs.Daan.4: "So it has to be very robust."
+AE_ID IS1006a.B.argumentstructs.Daan.3: "Okay, unbreakable."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.B.argumentstructs.Daan.3
+---------------------------------
+target=IS1006a.D.argumentstructs.Daan.5
+source=IS1006a.B.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.B.argumentstructs.5:
+"Uh-huh."
+
+Past dialogue turns:
+AE_ID IS1006a.A.argumentstructs.6: "Mm-hmm."
+AE_ID IS1006a.C.argumentstructs.2: "Ah."
+AE_ID IS1006a.D.argumentstructs.Daan.4: "So it has to be very robust."
+AE_ID IS1006a.B.argumentstructs.Daan.3: "Okay, unbreakable."
+AE_ID IS1006a.D.argumentstructs.Daan.5: "Unbreakable, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.D.argumentstructs.Daan.5
+---------------------------------
+target=IS1006a.B.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006a.C.argumentstructs.Daan.1:
+"Yeah, we have some child lock or something, yeah."
+
+Past dialogue turns:
+AE_ID IS1006a.C.argumentstructs.2: "Ah."
+AE_ID IS1006a.D.argumentstructs.Daan.4: "So it has to be very robust."
+AE_ID IS1006a.B.argumentstructs.Daan.3: "Okay, unbreakable."
+AE_ID IS1006a.D.argumentstructs.Daan.5: "Unbreakable, yeah."
+AE_ID IS1006a.B.argumentstructs.5: "Uh-huh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006a.B.argumentstructs.Daan.3
+---------------------------------
+target=IS1006a.C.argumentstructs.Daan.1
+source=IS1006a.D.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1006a-Child-proof.csv - True Judgement Ratio: 38.89%

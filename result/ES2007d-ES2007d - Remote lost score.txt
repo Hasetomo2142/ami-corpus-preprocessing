@@ -1,0 +1,687 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.24:
+"Um criteria six. R_S_I_ is it good against ? Yes. Very good. It's one."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007d.D.argumentstructs.24
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.14:
+"Yes s yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.24: "Um criteria six. R_S_I_ is it good against ? Yes. Very good. It's one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.24
+---------------------------------
+target=ES2007d.B.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.14:
+"So it's anti-R_S_I_."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.24: "Um criteria six. R_S_I_ is it good against ? Yes. Very good. It's one."
+AE_ID ES2007d.B.argumentstructs.14: "Yes s yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.24
+---------------------------------
+target=ES2007d.A.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.12:
+"And criteria seven, which is the last one, does it get lost ? Is it easy to get lost ?"
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.24: "Um criteria six. R_S_I_ is it good against ? Yes. Very good. It's one."
+AE_ID ES2007d.B.argumentstructs.14: "Yes s yeah."
+AE_ID ES2007d.A.argumentstructs.14: "So it's anti-R_S_I_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.24
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.Erik.12:
+"It's yellow."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.24: "Um criteria six. R_S_I_ is it good against ? Yes. Very good. It's one."
+AE_ID ES2007d.B.argumentstructs.14: "Yes s yeah."
+AE_ID ES2007d.A.argumentstructs.14: "So it's anti-R_S_I_."
+AE_ID ES2007d.D.argumentstructs.Erik.12: "And criteria seven, which is the last one, does it get lost ? Is it easy to get lost ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.A.argumentstructs.14
+---------------------------------
+target=ES2007d.B.argumentstructs.Erik.12
+source=ES2007d.D.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.Erik.10:
+"I don't think it's gonna get lost easily."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.24: "Um criteria six. R_S_I_ is it good against ? Yes. Very good. It's one."
+AE_ID ES2007d.B.argumentstructs.14: "Yes s yeah."
+AE_ID ES2007d.A.argumentstructs.14: "So it's anti-R_S_I_."
+AE_ID ES2007d.D.argumentstructs.Erik.12: "And criteria seven, which is the last one, does it get lost ? Is it easy to get lost ?"
+AE_ID ES2007d.B.argumentstructs.Erik.12: "It's yellow."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.12
+---------------------------------
+target=ES2007d.A.argumentstructs.Erik.10
+source=ES2007d.D.argumentstructs.Erik.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.10:
+"It is very bright, yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.B.argumentstructs.14: "Yes s yeah."
+AE_ID ES2007d.A.argumentstructs.14: "So it's anti-R_S_I_."
+AE_ID ES2007d.D.argumentstructs.Erik.12: "And criteria seven, which is the last one, does it get lost ? Is it easy to get lost ?"
+AE_ID ES2007d.B.argumentstructs.Erik.12: "It's yellow."
+AE_ID ES2007d.A.argumentstructs.Erik.10: "I don't think it's gonna get lost easily."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.10
+source=ES2007d.B.argumentstructs.Erik.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.13:
+"No ?"
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.14: "So it's anti-R_S_I_."
+AE_ID ES2007d.D.argumentstructs.Erik.12: "And criteria seven, which is the last one, does it get lost ? Is it easy to get lost ?"
+AE_ID ES2007d.B.argumentstructs.Erik.12: "It's yellow."
+AE_ID ES2007d.A.argumentstructs.Erik.10: "I don't think it's gonna get lost easily."
+AE_ID ES2007d.C.argumentstructs.Erik.10: "It is very bright, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.A.argumentstructs.14
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.13
+source=ES2007d.A.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.14:
+"But it is smallish."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.12: "And criteria seven, which is the last one, does it get lost ? Is it easy to get lost ?"
+AE_ID ES2007d.B.argumentstructs.Erik.12: "It's yellow."
+AE_ID ES2007d.A.argumentstructs.Erik.10: "I don't think it's gonna get lost easily."
+AE_ID ES2007d.C.argumentstructs.Erik.10: "It is very bright, yeah."
+AE_ID ES2007d.D.argumentstructs.Erik.13: "No ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.13
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.14
+source=ES2007d.D.argumentstructs.Erik.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.11:
+"It's not the kinda thing that's gonna slip like between a couch cushion or something, you know."
+
+Past dialogue turns:
+AE_ID ES2007d.B.argumentstructs.Erik.12: "It's yellow."
+AE_ID ES2007d.A.argumentstructs.Erik.10: "I don't think it's gonna get lost easily."
+AE_ID ES2007d.C.argumentstructs.Erik.10: "It is very bright, yeah."
+AE_ID ES2007d.D.argumentstructs.Erik.13: "No ?"
+AE_ID ES2007d.D.argumentstructs.Erik.14: "But it is smallish."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.A.argumentstructs.Erik.10
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.11
+source=ES2007d.D.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.15:
+"Two. T Mm. Mm."
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.10: "I don't think it's gonna get lost easily."
+AE_ID ES2007d.C.argumentstructs.Erik.10: "It is very bright, yeah."
+AE_ID ES2007d.D.argumentstructs.Erik.13: "No ?"
+AE_ID ES2007d.D.argumentstructs.Erik.14: "But it is smallish."
+AE_ID ES2007d.C.argumentstructs.Erik.11: "It's not the kinda thing that's gonna slip like between a couch cushion or something, you know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.11
+---------------------------------
+target=ES2007d.B.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.12:
+"Maybe it will. Uh."
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.10: "It is very bright, yeah."
+AE_ID ES2007d.D.argumentstructs.Erik.13: "No ?"
+AE_ID ES2007d.D.argumentstructs.Erik.14: "But it is smallish."
+AE_ID ES2007d.C.argumentstructs.Erik.11: "It's not the kinda thing that's gonna slip like between a couch cushion or something, you know."
+AE_ID ES2007d.B.argumentstructs.15: "Two. T Mm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.11
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.12
+source=ES2007d.C.argumentstructs.Erik.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.15:
+"Mm. I think i it would, could be, could get lost."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.13: "No ?"
+AE_ID ES2007d.D.argumentstructs.Erik.14: "But it is smallish."
+AE_ID ES2007d.C.argumentstructs.Erik.11: "It's not the kinda thing that's gonna slip like between a couch cushion or something, you know."
+AE_ID ES2007d.B.argumentstructs.15: "Two. T Mm. Mm."
+AE_ID ES2007d.C.argumentstructs.Erik.12: "Maybe it will. Uh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.12
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.15
+source=ES2007d.D.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.13:
+"You think it could lost"
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.14: "But it is smallish."
+AE_ID ES2007d.C.argumentstructs.Erik.11: "It's not the kinda thing that's gonna slip like between a couch cushion or something, you know."
+AE_ID ES2007d.B.argumentstructs.15: "Two. T Mm. Mm."
+AE_ID ES2007d.C.argumentstructs.Erik.12: "Maybe it will. Uh."
+AE_ID ES2007d.D.argumentstructs.Erik.15: "Mm. I think i it would, could be, could get lost."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.15
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.13
+source=ES2007d.D.argumentstructs.Erik.15
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.16:
+"Mm. Yeah. I mean it's not fully it's not fully  like you can't say  I mean, it's not a one, definitely."
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.11: "It's not the kinda thing that's gonna slip like between a couch cushion or something, you know."
+AE_ID ES2007d.B.argumentstructs.15: "Two. T Mm. Mm."
+AE_ID ES2007d.C.argumentstructs.Erik.12: "Maybe it will. Uh."
+AE_ID ES2007d.D.argumentstructs.Erik.15: "Mm. I think i it would, could be, could get lost."
+AE_ID ES2007d.C.argumentstructs.Erik.13: "You think it could lost"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.15
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.16
+source=ES2007d.C.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.15:
+"two. I mean it"
+
+Past dialogue turns:
+AE_ID ES2007d.B.argumentstructs.15: "Two. T Mm. Mm."
+AE_ID ES2007d.C.argumentstructs.Erik.12: "Maybe it will. Uh."
+AE_ID ES2007d.D.argumentstructs.Erik.15: "Mm. I think i it would, could be, could get lost."
+AE_ID ES2007d.C.argumentstructs.Erik.13: "You think it could lost"
+AE_ID ES2007d.D.argumentstructs.Erik.16: "Mm. Yeah. I mean it's not fully it's not fully  like you can't say  I mean, it's not a one, definitely."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.B.argumentstructs.15
+---------------------------------
+target=ES2007d.A.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.20:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.12: "Maybe it will. Uh."
+AE_ID ES2007d.D.argumentstructs.Erik.15: "Mm. I think i it would, could be, could get lost."
+AE_ID ES2007d.C.argumentstructs.Erik.13: "You think it could lost"
+AE_ID ES2007d.D.argumentstructs.Erik.16: "Mm. Yeah. I mean it's not fully it's not fully  like you can't say  I mean, it's not a one, definitely."
+AE_ID ES2007d.A.argumentstructs.15: "two. I mean it"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.16
+---------------------------------
+target=ES2007d.C.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.Erik.11:
+"No, I mean I mean, you could still flush it down the toilet theoretically, but"
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.15: "Mm. I think i it would, could be, could get lost."
+AE_ID ES2007d.C.argumentstructs.Erik.13: "You think it could lost"
+AE_ID ES2007d.D.argumentstructs.Erik.16: "Mm. Yeah. I mean it's not fully it's not fully  like you can't say  I mean, it's not a one, definitely."
+AE_ID ES2007d.A.argumentstructs.15: "two. I mean it"
+AE_ID ES2007d.C.argumentstructs.20: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.16
+---------------------------------
+target=ES2007d.A.argumentstructs.Erik.11
+source=ES2007d.D.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.14:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.13: "You think it could lost"
+AE_ID ES2007d.D.argumentstructs.Erik.16: "Mm. Yeah. I mean it's not fully it's not fully  like you can't say  I mean, it's not a one, definitely."
+AE_ID ES2007d.A.argumentstructs.15: "two. I mean it"
+AE_ID ES2007d.C.argumentstructs.20: "Mm."
+AE_ID ES2007d.A.argumentstructs.Erik.11: "No, I mean I mean, you could still flush it down the toilet theoretically, but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.13
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.14
+source=ES2007d.A.argumentstructs.Erik.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.15:
+"Yeah, anything, I mean. Okay. It's bigger than the average mobile, I guess."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.16: "Mm. Yeah. I mean it's not fully it's not fully  like you can't say  I mean, it's not a one, definitely."
+AE_ID ES2007d.A.argumentstructs.15: "two. I mean it"
+AE_ID ES2007d.C.argumentstructs.20: "Mm."
+AE_ID ES2007d.A.argumentstructs.Erik.11: "No, I mean I mean, you could still flush it down the toilet theoretically, but"
+AE_ID ES2007d.C.argumentstructs.Erik.14: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.14
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.15
+source=ES2007d.C.argumentstructs.Erik.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.17:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.15: "two. I mean it"
+AE_ID ES2007d.C.argumentstructs.20: "Mm."
+AE_ID ES2007d.A.argumentstructs.Erik.11: "No, I mean I mean, you could still flush it down the toilet theoretically, but"
+AE_ID ES2007d.C.argumentstructs.Erik.14: "Okay."
+AE_ID ES2007d.C.argumentstructs.Erik.15: "Yeah, anything, I mean. Okay. It's bigger than the average mobile, I guess."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.15
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.17
+source=ES2007d.C.argumentstructs.Erik.15
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.16:
+"But, yeah, it can get lost."
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.20: "Mm."
+AE_ID ES2007d.A.argumentstructs.Erik.11: "No, I mean I mean, you could still flush it down the toilet theoretically, but"
+AE_ID ES2007d.C.argumentstructs.Erik.14: "Okay."
+AE_ID ES2007d.C.argumentstructs.Erik.15: "Yeah, anything, I mean. Okay. It's bigger than the average mobile, I guess."
+AE_ID ES2007d.D.argumentstructs.Erik.17: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.A.argumentstructs.Erik.11
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.16
+source=ES2007d.C.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.18:
+"The mobiles get lost all the time."
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.11: "No, I mean I mean, you could still flush it down the toilet theoretically, but"
+AE_ID ES2007d.C.argumentstructs.Erik.14: "Okay."
+AE_ID ES2007d.C.argumentstructs.Erik.15: "Yeah, anything, I mean. Okay. It's bigger than the average mobile, I guess."
+AE_ID ES2007d.D.argumentstructs.Erik.17: "Yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.16: "But, yeah, it can get lost."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.16
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.18
+source=ES2007d.C.argumentstructs.Erik.16
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.17:
+"Yeah. Okay, yeah, two is fine."
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.14: "Okay."
+AE_ID ES2007d.C.argumentstructs.Erik.15: "Yeah, anything, I mean. Okay. It's bigger than the average mobile, I guess."
+AE_ID ES2007d.D.argumentstructs.Erik.17: "Yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.16: "But, yeah, it can get lost."
+AE_ID ES2007d.D.argumentstructs.Erik.18: "The mobiles get lost all the time."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.15
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.17
+source=ES2007d.D.argumentstructs.Erik.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.19:
+"But then you ring 'em and you find them.  So"
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.15: "Yeah, anything, I mean. Okay. It's bigger than the average mobile, I guess."
+AE_ID ES2007d.D.argumentstructs.Erik.17: "Yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.16: "But, yeah, it can get lost."
+AE_ID ES2007d.D.argumentstructs.Erik.18: "The mobiles get lost all the time."
+AE_ID ES2007d.C.argumentstructs.Erik.17: "Yeah. Okay, yeah, two is fine."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.18
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.19
+source=ES2007d.D.argumentstructs.Erik.18
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.18:
+"Yeah, yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.17: "Yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.16: "But, yeah, it can get lost."
+AE_ID ES2007d.D.argumentstructs.Erik.18: "The mobiles get lost all the time."
+AE_ID ES2007d.C.argumentstructs.Erik.17: "Yeah. Okay, yeah, two is fine."
+AE_ID ES2007d.D.argumentstructs.Erik.19: "But then you ring 'em and you find them.  So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.17
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.18
+source=ES2007d.D.argumentstructs.Erik.19
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.Erik.12:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.16: "But, yeah, it can get lost."
+AE_ID ES2007d.D.argumentstructs.Erik.18: "The mobiles get lost all the time."
+AE_ID ES2007d.C.argumentstructs.Erik.17: "Yeah. Okay, yeah, two is fine."
+AE_ID ES2007d.D.argumentstructs.Erik.19: "But then you ring 'em and you find them.  So"
+AE_ID ES2007d.C.argumentstructs.Erik.18: "Yeah, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.17
+---------------------------------
+target=ES2007d.A.argumentstructs.Erik.12
+source=ES2007d.D.argumentstructs.Erik.19
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.20:
+"Yeah. So, that's that."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.18: "The mobiles get lost all the time."
+AE_ID ES2007d.C.argumentstructs.Erik.17: "Yeah. Okay, yeah, two is fine."
+AE_ID ES2007d.D.argumentstructs.Erik.19: "But then you ring 'em and you find them.  So"
+AE_ID ES2007d.C.argumentstructs.Erik.18: "Yeah, yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.12: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.19
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.20
+source=ES2007d.D.argumentstructs.Erik.19
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2007d-ES2007d - Remote lost score.csv - True Judgement Ratio: 39.29%

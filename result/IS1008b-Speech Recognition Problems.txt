@@ -1,0 +1,437 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.A.argumentstructs.Daan.6:
+"What do you think about uh the design, uh what he was talking about  of the speech recognition ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1008b.A.argumentstructs.Daan.6
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.D.argumentstructs.5:
+"Speech recognition. Mm."
+
+Past dialogue turns:
+AE_ID IS1008b.A.argumentstructs.Daan.6: "What do you think about uh the design, uh what he was talking about  of the speech recognition ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.A.argumentstructs.Daan.6
+---------------------------------
+target=IS1008b.D.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.9:
+"Well, uh training is always an issue with uh commands."
+
+Past dialogue turns:
+AE_ID IS1008b.A.argumentstructs.Daan.6: "What do you think about uh the design, uh what he was talking about  of the speech recognition ?"
+AE_ID IS1008b.D.argumentstructs.5: "Speech recognition. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.9
+source=IS1008b.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.A.argumentstructs.12:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1008b.A.argumentstructs.Daan.6: "What do you think about uh the design, uh what he was talking about  of the speech recognition ?"
+AE_ID IS1008b.D.argumentstructs.5: "Speech recognition. Mm."
+AE_ID IS1008b.B.argumentstructs.Daan.9: "Well, uh training is always an issue with uh commands."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.D.argumentstructs.5
+---------------------------------
+target=IS1008b.A.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.10:
+"So um  might uh  we can perhaps um  do it if the user is willing to spend some time in the training process, uh it could reduce th th uh the overall um cost."
+
+Past dialogue turns:
+AE_ID IS1008b.A.argumentstructs.Daan.6: "What do you think about uh the design, uh what he was talking about  of the speech recognition ?"
+AE_ID IS1008b.D.argumentstructs.5: "Speech recognition. Mm."
+AE_ID IS1008b.B.argumentstructs.Daan.9: "Well, uh training is always an issue with uh commands."
+AE_ID IS1008b.A.argumentstructs.12: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.9
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.10
+source=IS1008b.B.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.11:
+"Not sure how."
+
+Past dialogue turns:
+AE_ID IS1008b.A.argumentstructs.Daan.6: "What do you think about uh the design, uh what he was talking about  of the speech recognition ?"
+AE_ID IS1008b.D.argumentstructs.5: "Speech recognition. Mm."
+AE_ID IS1008b.B.argumentstructs.Daan.9: "Well, uh training is always an issue with uh commands."
+AE_ID IS1008b.A.argumentstructs.12: "Mm-hmm."
+AE_ID IS1008b.B.argumentstructs.Daan.10: "So um  might uh  we can perhaps um  do it if the user is willing to spend some time in the training process, uh it could reduce th th uh the overall um cost."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.10
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.11
+source=IS1008b.B.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.12:
+"But um anyway, um  I I think also that uh this might impact the battery life"
+
+Past dialogue turns:
+AE_ID IS1008b.D.argumentstructs.5: "Speech recognition. Mm."
+AE_ID IS1008b.B.argumentstructs.Daan.9: "Well, uh training is always an issue with uh commands."
+AE_ID IS1008b.A.argumentstructs.12: "Mm-hmm."
+AE_ID IS1008b.B.argumentstructs.Daan.10: "So um  might uh  we can perhaps um  do it if the user is willing to spend some time in the training process, uh it could reduce th th uh the overall um cost."
+AE_ID IS1008b.B.argumentstructs.Daan.11: "Not sure how."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.10
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.12
+source=IS1008b.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.25:
+"."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.9: "Well, uh training is always an issue with uh commands."
+AE_ID IS1008b.A.argumentstructs.12: "Mm-hmm."
+AE_ID IS1008b.B.argumentstructs.Daan.10: "So um  might uh  we can perhaps um  do it if the user is willing to spend some time in the training process, uh it could reduce th th uh the overall um cost."
+AE_ID IS1008b.B.argumentstructs.Daan.11: "Not sure how."
+AE_ID IS1008b.B.argumentstructs.Daan.12: "But um anyway, um  I I think also that uh this might impact the battery life"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.10
+---------------------------------
+target=IS1008b.B.argumentstructs.25
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.13:
+"And um so, maybe what we'll have to do is um add something where you can um recharge it wirelessly"
+
+Past dialogue turns:
+AE_ID IS1008b.A.argumentstructs.12: "Mm-hmm."
+AE_ID IS1008b.B.argumentstructs.Daan.10: "So um  might uh  we can perhaps um  do it if the user is willing to spend some time in the training process, uh it could reduce th th uh the overall um cost."
+AE_ID IS1008b.B.argumentstructs.Daan.11: "Not sure how."
+AE_ID IS1008b.B.argumentstructs.Daan.12: "But um anyway, um  I I think also that uh this might impact the battery life"
+AE_ID IS1008b.B.argumentstructs.25: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.12
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.13
+source=IS1008b.B.argumentstructs.Daan.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.14:
+"so that uh  y you know sen send power to it. So uh or maybe uh set it out in the sun and it uh, you know, gets uh, from the light, um a a solar cell inside there so that uh you have enough uh juice to do all these fancy things."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.10: "So um  might uh  we can perhaps um  do it if the user is willing to spend some time in the training process, uh it could reduce th th uh the overall um cost."
+AE_ID IS1008b.B.argumentstructs.Daan.11: "Not sure how."
+AE_ID IS1008b.B.argumentstructs.Daan.12: "But um anyway, um  I I think also that uh this might impact the battery life"
+AE_ID IS1008b.B.argumentstructs.25: "."
+AE_ID IS1008b.B.argumentstructs.Daan.13: "And um so, maybe what we'll have to do is um add something where you can um recharge it wirelessly"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.13
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.14
+source=IS1008b.B.argumentstructs.Daan.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.C.argumentstructs.19:
+"Hmm."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.11: "Not sure how."
+AE_ID IS1008b.B.argumentstructs.Daan.12: "But um anyway, um  I I think also that uh this might impact the battery life"
+AE_ID IS1008b.B.argumentstructs.25: "."
+AE_ID IS1008b.B.argumentstructs.Daan.13: "And um so, maybe what we'll have to do is um add something where you can um recharge it wirelessly"
+AE_ID IS1008b.B.argumentstructs.Daan.14: "so that uh  y you know sen send power to it. So uh or maybe uh set it out in the sun and it uh, you know, gets uh, from the light, um a a solar cell inside there so that uh you have enough uh juice to do all these fancy things."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.12
+---------------------------------
+target=IS1008b.C.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.C.argumentstructs.Daan.4:
+"It seems also like with the speech recognition, yeah, it's a great feature, but if you're watching T_V_, there's a lot of ambient sound, and it's words. It's not just, you know, noises like something hitting."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.12: "But um anyway, um  I I think also that uh this might impact the battery life"
+AE_ID IS1008b.B.argumentstructs.25: "."
+AE_ID IS1008b.B.argumentstructs.Daan.13: "And um so, maybe what we'll have to do is um add something where you can um recharge it wirelessly"
+AE_ID IS1008b.B.argumentstructs.Daan.14: "so that uh  y you know sen send power to it. So uh or maybe uh set it out in the sun and it uh, you know, gets uh, from the light, um a a solar cell inside there so that uh you have enough uh juice to do all these fancy things."
+AE_ID IS1008b.C.argumentstructs.19: "Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1008b.C.argumentstructs.Daan.4
+source=IS1008b.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.C.argumentstructs.Daan.5:
+"It's actual speech, so then you have to make sure that the speech recognizer is good enough to filter out the T_V_ speech, and the the user's speech. Otherwise, you can say remote. But if someone on the screen is saying the same thing, all of a sudden, you have someone in a movie saying off and your screen dies,"
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.25: "."
+AE_ID IS1008b.B.argumentstructs.Daan.13: "And um so, maybe what we'll have to do is um add something where you can um recharge it wirelessly"
+AE_ID IS1008b.B.argumentstructs.Daan.14: "so that uh  y you know sen send power to it. So uh or maybe uh set it out in the sun and it uh, you know, gets uh, from the light, um a a solar cell inside there so that uh you have enough uh juice to do all these fancy things."
+AE_ID IS1008b.C.argumentstructs.19: "Hmm."
+AE_ID IS1008b.C.argumentstructs.Daan.4: "It seems also like with the speech recognition, yeah, it's a great feature, but if you're watching T_V_, there's a lot of ambient sound, and it's words. It's not just, you know, noises like something hitting."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.C.argumentstructs.Daan.4
+---------------------------------
+target=IS1008b.C.argumentstructs.Daan.5
+source=IS1008b.C.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.26:
+"Off."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.13: "And um so, maybe what we'll have to do is um add something where you can um recharge it wirelessly"
+AE_ID IS1008b.B.argumentstructs.Daan.14: "so that uh  y you know sen send power to it. So uh or maybe uh set it out in the sun and it uh, you know, gets uh, from the light, um a a solar cell inside there so that uh you have enough uh juice to do all these fancy things."
+AE_ID IS1008b.C.argumentstructs.19: "Hmm."
+AE_ID IS1008b.C.argumentstructs.Daan.4: "It seems also like with the speech recognition, yeah, it's a great feature, but if you're watching T_V_, there's a lot of ambient sound, and it's words. It's not just, you know, noises like something hitting."
+AE_ID IS1008b.C.argumentstructs.Daan.5: "It's actual speech, so then you have to make sure that the speech recognizer is good enough to filter out the T_V_ speech, and the the user's speech. Otherwise, you can say remote. But if someone on the screen is saying the same thing, all of a sudden, you have someone in a movie saying off and your screen dies,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.C.argumentstructs.Daan.5
+---------------------------------
+target=IS1008b.B.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.C.argumentstructs.Daan.6:
+"because they've triggered the remote control and it's turned off your T_V_."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.14: "so that uh  y you know sen send power to it. So uh or maybe uh set it out in the sun and it uh, you know, gets uh, from the light, um a a solar cell inside there so that uh you have enough uh juice to do all these fancy things."
+AE_ID IS1008b.C.argumentstructs.19: "Hmm."
+AE_ID IS1008b.C.argumentstructs.Daan.4: "It seems also like with the speech recognition, yeah, it's a great feature, but if you're watching T_V_, there's a lot of ambient sound, and it's words. It's not just, you know, noises like something hitting."
+AE_ID IS1008b.C.argumentstructs.Daan.5: "It's actual speech, so then you have to make sure that the speech recognizer is good enough to filter out the T_V_ speech, and the the user's speech. Otherwise, you can say remote. But if someone on the screen is saying the same thing, all of a sudden, you have someone in a movie saying off and your screen dies,"
+AE_ID IS1008b.B.argumentstructs.26: "Off."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.C.argumentstructs.Daan.5
+---------------------------------
+target=IS1008b.C.argumentstructs.Daan.6
+source=IS1008b.C.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.C.argumentstructs.Daan.7:
+"So, I think if we can find a speech recognizer that can handle those types of problems, then yeah, it'd be a really good marketing gimmick. But, I think we seriously need to consider how that would impact"
+
+Past dialogue turns:
+AE_ID IS1008b.C.argumentstructs.19: "Hmm."
+AE_ID IS1008b.C.argumentstructs.Daan.4: "It seems also like with the speech recognition, yeah, it's a great feature, but if you're watching T_V_, there's a lot of ambient sound, and it's words. It's not just, you know, noises like something hitting."
+AE_ID IS1008b.C.argumentstructs.Daan.5: "It's actual speech, so then you have to make sure that the speech recognizer is good enough to filter out the T_V_ speech, and the the user's speech. Otherwise, you can say remote. But if someone on the screen is saying the same thing, all of a sudden, you have someone in a movie saying off and your screen dies,"
+AE_ID IS1008b.B.argumentstructs.26: "Off."
+AE_ID IS1008b.C.argumentstructs.Daan.6: "because they've triggered the remote control and it's turned off your T_V_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+Daan.5
+---------------------------------
+target=IS1008b.C.argumentstructs.Daan.7
+source=IS1008b.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.C.argumentstructs.20:
+"the situation."
+
+Past dialogue turns:
+AE_ID IS1008b.C.argumentstructs.Daan.4: "It seems also like with the speech recognition, yeah, it's a great feature, but if you're watching T_V_, there's a lot of ambient sound, and it's words. It's not just, you know, noises like something hitting."
+AE_ID IS1008b.C.argumentstructs.Daan.5: "It's actual speech, so then you have to make sure that the speech recognizer is good enough to filter out the T_V_ speech, and the the user's speech. Otherwise, you can say remote. But if someone on the screen is saying the same thing, all of a sudden, you have someone in a movie saying off and your screen dies,"
+AE_ID IS1008b.B.argumentstructs.26: "Off."
+AE_ID IS1008b.C.argumentstructs.Daan.6: "because they've triggered the remote control and it's turned off your T_V_."
+AE_ID IS1008b.C.argumentstructs.Daan.7: "So, I think if we can find a speech recognizer that can handle those types of problems, then yeah, it'd be a really good marketing gimmick. But, I think we seriously need to consider how that would impact"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.C.argumentstructs.Daan.7
+---------------------------------
+target=IS1008b.C.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.15:
+"Very good point."
+
+Past dialogue turns:
+AE_ID IS1008b.C.argumentstructs.Daan.5: "It's actual speech, so then you have to make sure that the speech recognizer is good enough to filter out the T_V_ speech, and the the user's speech. Otherwise, you can say remote. But if someone on the screen is saying the same thing, all of a sudden, you have someone in a movie saying off and your screen dies,"
+AE_ID IS1008b.B.argumentstructs.26: "Off."
+AE_ID IS1008b.C.argumentstructs.Daan.6: "because they've triggered the remote control and it's turned off your T_V_."
+AE_ID IS1008b.C.argumentstructs.Daan.7: "So, I think if we can find a speech recognizer that can handle those types of problems, then yeah, it'd be a really good marketing gimmick. But, I think we seriously need to consider how that would impact"
+AE_ID IS1008b.C.argumentstructs.20: "the situation."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.C.argumentstructs.Daan.5
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.15
+source=IS1008b.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1008b-Speech Recognition Problems.csv - True Judgement Ratio: 38.89%

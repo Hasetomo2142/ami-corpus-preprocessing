@@ -1,0 +1,1187 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.31:
+"Great."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2005c.A.argumentstructs.31
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.17:
+"Um as for the energy source um, you know, almost every remote control uses just batteries, but we don't have to be limited by that. We can use a hand-dynamo. Um I don't know what that means, we crank it ?"
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.31: "Great."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.17
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.26:
+"Uh It's I think it's basically the more you move i it, it's got a wee thing inside that just kinda  powers it. Uh yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.31: "Great."
+AE_ID ES2005c.A.argumentstructs.Erik.17: "Um as for the energy source um, you know, almost every remote control uses just batteries, but we don't have to be limited by that. We can use a hand-dynamo. Um I don't know what that means, we crank it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.17
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.26
+source=ES2005c.A.argumentstructs.Erik.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.18:
+"Right, it's like those watches that you c So, this might be an idea for something that people really wanna grab, you can shake it if it's out of power."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.31: "Great."
+AE_ID ES2005c.A.argumentstructs.Erik.17: "Um as for the energy source um, you know, almost every remote control uses just batteries, but we don't have to be limited by that. We can use a hand-dynamo. Um I don't know what that means, we crank it ?"
+AE_ID ES2005c.C.argumentstructs.Erik.26: "Uh It's I think it's basically the more you move i it, it's got a wee thing inside that just kinda  powers it. Uh yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.17
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.18
+source=ES2005c.C.argumentstructs.Erik.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.30:
+"Oh, a d a dynamo ?"
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.31: "Great."
+AE_ID ES2005c.A.argumentstructs.Erik.17: "Um as for the energy source um, you know, almost every remote control uses just batteries, but we don't have to be limited by that. We can use a hand-dynamo. Um I don't know what that means, we crank it ?"
+AE_ID ES2005c.C.argumentstructs.Erik.26: "Uh It's I think it's basically the more you move i it, it's got a wee thing inside that just kinda  powers it. Uh yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.18: "Right, it's like those watches that you c So, this might be an idea for something that people really wanna grab, you can shake it if it's out of power."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.17
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.30
+source=ES2005c.A.argumentstructs.Erik.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.7:
+"Yeah,."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.31: "Great."
+AE_ID ES2005c.A.argumentstructs.Erik.17: "Um as for the energy source um, you know, almost every remote control uses just batteries, but we don't have to be limited by that. We can use a hand-dynamo. Um I don't know what that means, we crank it ?"
+AE_ID ES2005c.C.argumentstructs.Erik.26: "Uh It's I think it's basically the more you move i it, it's got a wee thing inside that just kinda  powers it. Uh yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.18: "Right, it's like those watches that you c So, this might be an idea for something that people really wanna grab, you can shake it if it's out of power."
+AE_ID ES2005c.D.argumentstructs.Erik.30: "Oh, a d a dynamo ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.30
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.7
+source=ES2005c.D.argumentstructs.Erik.30
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.31:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.17: "Um as for the energy source um, you know, almost every remote control uses just batteries, but we don't have to be limited by that. We can use a hand-dynamo. Um I don't know what that means, we crank it ?"
+AE_ID ES2005c.C.argumentstructs.Erik.26: "Uh It's I think it's basically the more you move i it, it's got a wee thing inside that just kinda  powers it. Uh yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.18: "Right, it's like those watches that you c So, this might be an idea for something that people really wanna grab, you can shake it if it's out of power."
+AE_ID ES2005c.D.argumentstructs.Erik.30: "Oh, a d a dynamo ?"
+AE_ID ES2005c.B.argumentstructs.Erik.7: "Yeah,."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.30
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.31
+source=ES2005c.D.argumentstructs.Erik.30
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.32:
+"Yeah, like with those watches that you kind of twist. Yeah that's quite cool."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.26: "Uh It's I think it's basically the more you move i it, it's got a wee thing inside that just kinda  powers it. Uh yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.18: "Right, it's like those watches that you c So, this might be an idea for something that people really wanna grab, you can shake it if it's out of power."
+AE_ID ES2005c.D.argumentstructs.Erik.30: "Oh, a d a dynamo ?"
+AE_ID ES2005c.B.argumentstructs.Erik.7: "Yeah,."
+AE_ID ES2005c.D.argumentstructs.Erik.31: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.18
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.32
+source=ES2005c.A.argumentstructs.Erik.18
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.27:
+"Yeah, I like that, yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.18: "Right, it's like those watches that you c So, this might be an idea for something that people really wanna grab, you can shake it if it's out of power."
+AE_ID ES2005c.D.argumentstructs.Erik.30: "Oh, a d a dynamo ?"
+AE_ID ES2005c.B.argumentstructs.Erik.7: "Yeah,."
+AE_ID ES2005c.D.argumentstructs.Erik.31: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.32: "Yeah, like with those watches that you kind of twist. Yeah that's quite cool."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.32
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.27
+source=ES2005c.D.argumentstructs.Erik.30
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.28:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.30: "Oh, a d a dynamo ?"
+AE_ID ES2005c.B.argumentstructs.Erik.7: "Yeah,."
+AE_ID ES2005c.D.argumentstructs.Erik.31: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.32: "Yeah, like with those watches that you kind of twist. Yeah that's quite cool."
+AE_ID ES2005c.C.argumentstructs.Erik.27: "Yeah, I like that, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.27
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.28
+source=ES2005c.D.argumentstructs.Erik.32
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.19:
+"Okay. So if it if it's not working, I guess people's natural reaction anyway is to just shake the thing."
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.Erik.7: "Yeah,."
+AE_ID ES2005c.D.argumentstructs.Erik.31: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.32: "Yeah, like with those watches that you kind of twist. Yeah that's quite cool."
+AE_ID ES2005c.C.argumentstructs.Erik.27: "Yeah, I like that, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.28: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.32
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.19
+source=ES2005c.A.argumentstructs.Erik.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.29:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.31: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.32: "Yeah, like with those watches that you kind of twist. Yeah that's quite cool."
+AE_ID ES2005c.C.argumentstructs.Erik.27: "Yeah, I like that, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.28: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.19: "Okay. So if it if it's not working, I guess people's natural reaction anyway is to just shake the thing."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.19
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.29
+source=ES2005c.A.argumentstructs.Erik.19
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.19:
+"But"
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.32: "Yeah, like with those watches that you kind of twist. Yeah that's quite cool."
+AE_ID ES2005c.C.argumentstructs.Erik.27: "Yeah, I like that, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.28: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.19: "Okay. So if it if it's not working, I guess people's natural reaction anyway is to just shake the thing."
+AE_ID ES2005c.C.argumentstructs.Erik.29: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.32
+---------------------------------
+target=ES2005c.B.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.30:
+"You shake it and scream at it. Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.27: "Yeah, I like that, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.28: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.19: "Okay. So if it if it's not working, I guess people's natural reaction anyway is to just shake the thing."
+AE_ID ES2005c.C.argumentstructs.Erik.29: "Okay."
+AE_ID ES2005c.B.argumentstructs.19: "But"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.19
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.30
+source=ES2005c.A.argumentstructs.Erik.19
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.8:
+"But but do you think that it will be a good idea to use dynamo, tha these type of cells ? Because then people have to, well like if the cell is out of bat Yeah, to mo Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.28: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.19: "Okay. So if it if it's not working, I guess people's natural reaction anyway is to just shake the thing."
+AE_ID ES2005c.C.argumentstructs.Erik.29: "Okay."
+AE_ID ES2005c.B.argumentstructs.19: "But"
+AE_ID ES2005c.C.argumentstructs.Erik.30: "You shake it and scream at it. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.19
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.8
+source=ES2005c.A.argumentstructs.Erik.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.33:
+"Yeah, it is, yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.19: "Okay. So if it if it's not working, I guess people's natural reaction anyway is to just shake the thing."
+AE_ID ES2005c.C.argumentstructs.Erik.29: "Okay."
+AE_ID ES2005c.B.argumentstructs.19: "But"
+AE_ID ES2005c.C.argumentstructs.Erik.30: "You shake it and scream at it. Yeah."
+AE_ID ES2005c.B.argumentstructs.Erik.8: "But but do you think that it will be a good idea to use dynamo, tha these type of cells ? Because then people have to, well like if the cell is out of bat Yeah, to mo Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.30
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.33
+source=ES2005c.B.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.31:
+"It does leave them with an obligation to  Especially if they want to use it uh uh sp uh specifically as um voice activated. Then if it's just sitting on the"
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.29: "Okay."
+AE_ID ES2005c.B.argumentstructs.19: "But"
+AE_ID ES2005c.C.argumentstructs.Erik.30: "You shake it and scream at it. Yeah."
+AE_ID ES2005c.B.argumentstructs.Erik.8: "But but do you think that it will be a good idea to use dynamo, tha these type of cells ? Because then people have to, well like if the cell is out of bat Yeah, to mo Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.33: "Yeah, it is, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.30
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.31
+source=ES2005c.B.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.9:
+"Yeah, because most of the people  Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.19: "But"
+AE_ID ES2005c.C.argumentstructs.Erik.30: "You shake it and scream at it. Yeah."
+AE_ID ES2005c.B.argumentstructs.Erik.8: "But but do you think that it will be a good idea to use dynamo, tha these type of cells ? Because then people have to, well like if the cell is out of bat Yeah, to mo Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.33: "Yeah, it is, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.31: "It does leave them with an obligation to  Especially if they want to use it uh uh sp uh specifically as um voice activated. Then if it's just sitting on the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.33
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.9
+source=ES2005c.C.argumentstructs.Erik.31
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.20:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.30: "You shake it and scream at it. Yeah."
+AE_ID ES2005c.B.argumentstructs.Erik.8: "But but do you think that it will be a good idea to use dynamo, tha these type of cells ? Because then people have to, well like if the cell is out of bat Yeah, to mo Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.33: "Yeah, it is, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.31: "It does leave them with an obligation to  Especially if they want to use it uh uh sp uh specifically as um voice activated. Then if it's just sitting on the"
+AE_ID ES2005c.B.argumentstructs.Erik.9: "Yeah, because most of the people  Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.33
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.20
+source=ES2005c.C.argumentstructs.Erik.31
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.34:
+"Yeah, then they have to pick it up and then activate it and then  Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.Erik.8: "But but do you think that it will be a good idea to use dynamo, tha these type of cells ? Because then people have to, well like if the cell is out of bat Yeah, to mo Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.33: "Yeah, it is, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.31: "It does leave them with an obligation to  Especially if they want to use it uh uh sp uh specifically as um voice activated. Then if it's just sitting on the"
+AE_ID ES2005c.B.argumentstructs.Erik.9: "Yeah, because most of the people  Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.20: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.8
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.34
+source=ES2005c.C.argumentstructs.Erik.31
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.32:
+"Okay, okay."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.33: "Yeah, it is, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.31: "It does leave them with an obligation to  Especially if they want to use it uh uh sp uh specifically as um voice activated. Then if it's just sitting on the"
+AE_ID ES2005c.B.argumentstructs.Erik.9: "Yeah, because most of the people  Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.20: "Right."
+AE_ID ES2005c.D.argumentstructs.Erik.34: "Yeah, then they have to pick it up and then activate it and then  Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.34
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.32
+source=ES2005c.D.argumentstructs.Erik.34
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.32:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.31: "It does leave them with an obligation to  Especially if they want to use it uh uh sp uh specifically as um voice activated. Then if it's just sitting on the"
+AE_ID ES2005c.B.argumentstructs.Erik.9: "Yeah, because most of the people  Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.20: "Right."
+AE_ID ES2005c.D.argumentstructs.Erik.34: "Yeah, then they have to pick it up and then activate it and then  Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.32: "Okay, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.32
+---------------------------------
+target=ES2005c.A.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.33:
+"Right um what are the other options ?"
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.Erik.9: "Yeah, because most of the people  Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.20: "Right."
+AE_ID ES2005c.D.argumentstructs.Erik.34: "Yeah, then they have to pick it up and then activate it and then  Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.32: "Okay, okay."
+AE_ID ES2005c.A.argumentstructs.32: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.34
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.33
+source=ES2005c.A.argumentstructs.Erik.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.21:
+"Uh there's solar power. Um."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.20: "Right."
+AE_ID ES2005c.D.argumentstructs.Erik.34: "Yeah, then they have to pick it up and then activate it and then  Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.32: "Okay, okay."
+AE_ID ES2005c.A.argumentstructs.32: "Okay."
+AE_ID ES2005c.C.argumentstructs.Erik.33: "Right um what are the other options ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.33
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.21
+source=ES2005c.C.argumentstructs.Erik.33
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.10:
+"Uh, solar power will w also not be a good idea, because then they have to keep m their mobiles outside in solar energy, and the days when there is no sola sunlight   Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.34: "Yeah, then they have to pick it up and then activate it and then  Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.32: "Okay, okay."
+AE_ID ES2005c.A.argumentstructs.32: "Okay."
+AE_ID ES2005c.C.argumentstructs.Erik.33: "Right um what are the other options ?"
+AE_ID ES2005c.A.argumentstructs.Erik.21: "Uh there's solar power. Um."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.21
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.10
+source=ES2005c.A.argumentstructs.Erik.21
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.34:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.32: "Okay, okay."
+AE_ID ES2005c.A.argumentstructs.32: "Okay."
+AE_ID ES2005c.C.argumentstructs.Erik.33: "Right um what are the other options ?"
+AE_ID ES2005c.A.argumentstructs.Erik.21: "Uh there's solar power. Um."
+AE_ID ES2005c.B.argumentstructs.Erik.10: "Uh, solar power will w also not be a good idea, because then they have to keep m their mobiles outside in solar energy, and the days when there is no sola sunlight   Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.10
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.34
+source=ES2005c.B.argumentstructs.Erik.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.22:
+"Yeah"
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.32: "Okay."
+AE_ID ES2005c.C.argumentstructs.Erik.33: "Right um what are the other options ?"
+AE_ID ES2005c.A.argumentstructs.Erik.21: "Uh there's solar power. Um."
+AE_ID ES2005c.B.argumentstructs.Erik.10: "Uh, solar power will w also not be a good idea, because then they have to keep m their mobiles outside in solar energy, and the days when there is no sola sunlight   Yeah. Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.34: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.34
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.22
+source=ES2005c.B.argumentstructs.Erik.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.35:
+"I'm I'm with uh Raj on that, I think, you know, I've got I've got no I've got a north facing house, there's not really ever sun coming in my window."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.33: "Right um what are the other options ?"
+AE_ID ES2005c.A.argumentstructs.Erik.21: "Uh there's solar power. Um."
+AE_ID ES2005c.B.argumentstructs.Erik.10: "Uh, solar power will w also not be a good idea, because then they have to keep m their mobiles outside in solar energy, and the days when there is no sola sunlight   Yeah. Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.34: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.22: "Yeah"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.10
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.35
+source=ES2005c.B.argumentstructs.Erik.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.11:
+"What we w yeah. I think we should  a rechargeable  battery will be a good idea. They can they can recharge it."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.21: "Uh there's solar power. Um."
+AE_ID ES2005c.B.argumentstructs.Erik.10: "Uh, solar power will w also not be a good idea, because then they have to keep m their mobiles outside in solar energy, and the days when there is no sola sunlight   Yeah. Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.34: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.22: "Yeah"
+AE_ID ES2005c.C.argumentstructs.Erik.35: "I'm I'm with uh Raj on that, I think, you know, I've got I've got no I've got a north facing house, there's not really ever sun coming in my window."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.10
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.11
+source=ES2005c.C.argumentstructs.Erik.33
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.53:
+"like just normal light ?"
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.Erik.10: "Uh, solar power will w also not be a good idea, because then they have to keep m their mobiles outside in solar energy, and the days when there is no sola sunlight   Yeah. Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.34: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.22: "Yeah"
+AE_ID ES2005c.C.argumentstructs.Erik.35: "I'm I'm with uh Raj on that, I think, you know, I've got I've got no I've got a north facing house, there's not really ever sun coming in my window."
+AE_ID ES2005c.B.argumentstructs.Erik.11: "What we w yeah. I think we should  a rechargeable  battery will be a good idea. They can they can recharge it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.11
+---------------------------------
+target=ES2005c.D.argumentstructs.53
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.48:
+"Oh that's true."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.34: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.22: "Yeah"
+AE_ID ES2005c.C.argumentstructs.Erik.35: "I'm I'm with uh Raj on that, I think, you know, I've got I've got no I've got a north facing house, there's not really ever sun coming in my window."
+AE_ID ES2005c.B.argumentstructs.Erik.11: "What we w yeah. I think we should  a rechargeable  battery will be a good idea. They can they can recharge it."
+AE_ID ES2005c.D.argumentstructs.53: "like just normal light ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.35
+---------------------------------
+target=ES2005c.C.argumentstructs.48
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.36:
+"I mean I w I w uh that idea that I thought  um just on the basis of like ridding them of batteries and that kind of bother is having a, yeah, having a rechargeable stand, so that not only it doubles as a stand, but um for using it as  uh recharging it, but also for using it as sound recognition."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.22: "Yeah"
+AE_ID ES2005c.C.argumentstructs.Erik.35: "I'm I'm with uh Raj on that, I think, you know, I've got I've got no I've got a north facing house, there's not really ever sun coming in my window."
+AE_ID ES2005c.B.argumentstructs.Erik.11: "What we w yeah. I think we should  a rechargeable  battery will be a good idea. They can they can recharge it."
+AE_ID ES2005c.D.argumentstructs.53: "like just normal light ?"
+AE_ID ES2005c.C.argumentstructs.48: "Oh that's true."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.11
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.36
+source=ES2005c.B.argumentstructs.Erik.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.33:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.35: "I'm I'm with uh Raj on that, I think, you know, I've got I've got no I've got a north facing house, there's not really ever sun coming in my window."
+AE_ID ES2005c.B.argumentstructs.Erik.11: "What we w yeah. I think we should  a rechargeable  battery will be a good idea. They can they can recharge it."
+AE_ID ES2005c.D.argumentstructs.53: "like just normal light ?"
+AE_ID ES2005c.C.argumentstructs.48: "Oh that's true."
+AE_ID ES2005c.C.argumentstructs.Erik.36: "I mean I w I w uh that idea that I thought  um just on the basis of like ridding them of batteries and that kind of bother is having a, yeah, having a rechargeable stand, so that not only it doubles as a stand, but um for using it as  uh recharging it, but also for using it as sound recognition."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.35
+---------------------------------
+target=ES2005c.A.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.35:
+"And we're a very environmentally friendly company, aren't we as well ?"
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.Erik.11: "What we w yeah. I think we should  a rechargeable  battery will be a good idea. They can they can recharge it."
+AE_ID ES2005c.D.argumentstructs.53: "like just normal light ?"
+AE_ID ES2005c.C.argumentstructs.48: "Oh that's true."
+AE_ID ES2005c.C.argumentstructs.Erik.36: "I mean I w I w uh that idea that I thought  um just on the basis of like ridding them of batteries and that kind of bother is having a, yeah, having a rechargeable stand, so that not only it doubles as a stand, but um for using it as  uh recharging it, but also for using it as sound recognition."
+AE_ID ES2005c.A.argumentstructs.33: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.35
+source=ES2005c.C.argumentstructs.Erik.36
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.12:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.53: "like just normal light ?"
+AE_ID ES2005c.C.argumentstructs.48: "Oh that's true."
+AE_ID ES2005c.C.argumentstructs.Erik.36: "I mean I w I w uh that idea that I thought  um just on the basis of like ridding them of batteries and that kind of bother is having a, yeah, having a rechargeable stand, so that not only it doubles as a stand, but um for using it as  uh recharging it, but also for using it as sound recognition."
+AE_ID ES2005c.A.argumentstructs.33: "Mm."
+AE_ID ES2005c.D.argumentstructs.Erik.35: "And we're a very environmentally friendly company, aren't we as well ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.53
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.12
+source=ES2005c.C.argumentstructs.Erik.36
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.36:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.48: "Oh that's true."
+AE_ID ES2005c.C.argumentstructs.Erik.36: "I mean I w I w uh that idea that I thought  um just on the basis of like ridding them of batteries and that kind of bother is having a, yeah, having a rechargeable stand, so that not only it doubles as a stand, but um for using it as  uh recharging it, but also for using it as sound recognition."
+AE_ID ES2005c.A.argumentstructs.33: "Mm."
+AE_ID ES2005c.D.argumentstructs.Erik.35: "And we're a very environmentally friendly company, aren't we as well ?"
+AE_ID ES2005c.B.argumentstructs.Erik.12: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.36
+source=ES2005c.C.argumentstructs.Erik.36
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.13:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.36: "I mean I w I w uh that idea that I thought  um just on the basis of like ridding them of batteries and that kind of bother is having a, yeah, having a rechargeable stand, so that not only it doubles as a stand, but um for using it as  uh recharging it, but also for using it as sound recognition."
+AE_ID ES2005c.A.argumentstructs.33: "Mm."
+AE_ID ES2005c.D.argumentstructs.Erik.35: "And we're a very environmentally friendly company, aren't we as well ?"
+AE_ID ES2005c.B.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.36: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.13
+source=ES2005c.D.argumentstructs.Erik.35
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.37:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.33: "Mm."
+AE_ID ES2005c.D.argumentstructs.Erik.35: "And we're a very environmentally friendly company, aren't we as well ?"
+AE_ID ES2005c.B.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.36: "Yeah."
+AE_ID ES2005c.B.argumentstructs.Erik.13: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.37
+source=ES2005c.D.argumentstructs.Erik.35
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.23:
+"'Kay."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.35: "And we're a very environmentally friendly company, aren't we as well ?"
+AE_ID ES2005c.B.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.36: "Yeah."
+AE_ID ES2005c.B.argumentstructs.Erik.13: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.37: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.23
+source=ES2005c.C.argumentstructs.Erik.36
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.38:
+"Like like a hand  like one of those portable phones kind of thing."
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.36: "Yeah."
+AE_ID ES2005c.B.argumentstructs.Erik.13: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.37: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.23: "'Kay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.36
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.38
+source=ES2005c.C.argumentstructs.Erik.36
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.37:
+"Yeah that kind of thing."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.36: "Yeah."
+AE_ID ES2005c.B.argumentstructs.Erik.13: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.37: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.23: "'Kay."
+AE_ID ES2005c.D.argumentstructs.Erik.38: "Like like a hand  like one of those portable phones kind of thing."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.38
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.37
+source=ES2005c.D.argumentstructs.Erik.38
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.14:
+"Yeah, that's  Yeah, exactly."
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.Erik.13: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.37: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.23: "'Kay."
+AE_ID ES2005c.D.argumentstructs.Erik.38: "Like like a hand  like one of those portable phones kind of thing."
+AE_ID ES2005c.C.argumentstructs.Erik.37: "Yeah that kind of thing."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.37
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.14
+source=ES2005c.D.argumentstructs.Erik.38
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.24:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.37: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.23: "'Kay."
+AE_ID ES2005c.D.argumentstructs.Erik.38: "Like like a hand  like one of those portable phones kind of thing."
+AE_ID ES2005c.C.argumentstructs.Erik.37: "Yeah that kind of thing."
+AE_ID ES2005c.B.argumentstructs.Erik.14: "Yeah, that's  Yeah, exactly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.23
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.24
+source=ES2005c.B.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.25:
+"So uh a rechargeable battery. Okay."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.23: "'Kay."
+AE_ID ES2005c.D.argumentstructs.Erik.38: "Like like a hand  like one of those portable phones kind of thing."
+AE_ID ES2005c.C.argumentstructs.Erik.37: "Yeah that kind of thing."
+AE_ID ES2005c.B.argumentstructs.Erik.14: "Yeah, that's  Yeah, exactly."
+AE_ID ES2005c.A.argumentstructs.Erik.24: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.24
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.25
+source=ES2005c.B.argumentstructs.Erik.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.38:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.38: "Like like a hand  like one of those portable phones kind of thing."
+AE_ID ES2005c.C.argumentstructs.Erik.37: "Yeah that kind of thing."
+AE_ID ES2005c.B.argumentstructs.Erik.14: "Yeah, that's  Yeah, exactly."
+AE_ID ES2005c.A.argumentstructs.Erik.24: "Okay."
+AE_ID ES2005c.A.argumentstructs.Erik.25: "So uh a rechargeable battery. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.37
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.38
+source=ES2005c.A.argumentstructs.Erik.25
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.15:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.37: "Yeah that kind of thing."
+AE_ID ES2005c.B.argumentstructs.Erik.14: "Yeah, that's  Yeah, exactly."
+AE_ID ES2005c.A.argumentstructs.Erik.24: "Okay."
+AE_ID ES2005c.A.argumentstructs.Erik.25: "So uh a rechargeable battery. Okay."
+AE_ID ES2005c.C.argumentstructs.Erik.38: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.38
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.15
+source=ES2005c.A.argumentstructs.Erik.25
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.39:
+"Rechargeable."
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.Erik.14: "Yeah, that's  Yeah, exactly."
+AE_ID ES2005c.A.argumentstructs.Erik.24: "Okay."
+AE_ID ES2005c.A.argumentstructs.Erik.25: "So uh a rechargeable battery. Okay."
+AE_ID ES2005c.C.argumentstructs.Erik.38: "Yeah."
+AE_ID ES2005c.B.argumentstructs.Erik.15: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.25
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.39
+source=ES2005c.A.argumentstructs.Erik.25
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.34:
+"Um the user interface, the buttons, I guess we talked about this already."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.24: "Okay."
+AE_ID ES2005c.A.argumentstructs.Erik.25: "So uh a rechargeable battery. Okay."
+AE_ID ES2005c.C.argumentstructs.Erik.38: "Yeah."
+AE_ID ES2005c.B.argumentstructs.Erik.15: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.39: "Rechargeable."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2005c.A.argumentstructs.34
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2005c-ES2005c - Rechargeable.csv - True Judgement Ratio: 33.33%

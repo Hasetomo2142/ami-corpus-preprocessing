@@ -1,0 +1,612 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.Daan.2:
+"And um if the remote control is too complicated it takes much time to learn the functionality of it."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1007c.D.argumentstructs.Daan.2
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.Daan.3:
+"So you can just see the percentage, fifty percent people they responded that they always lose their remotes and thirty four percent they say that it's quite difficult to learn if it's too complex. So keeping in view all these findings and the frustrations I think this should be the solution for them. We should have an L_C_D_ on the rem remote control."
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.2: "And um if the remote control is too complicated it takes much time to learn the functionality of it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.2
+---------------------------------
+target=IS1007c.D.argumentstructs.Daan.3
+source=IS1007c.D.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.17:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.2: "And um if the remote control is too complicated it takes much time to learn the functionality of it."
+AE_ID IS1007c.D.argumentstructs.Daan.3: "So you can just see the percentage, fifty percent people they responded that they always lose their remotes and thirty four percent they say that it's quite difficult to learn if it's too complex. So keeping in view all these findings and the frustrations I think this should be the solution for them. We should have an L_C_D_ on the rem remote control."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1007c.C.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.4:
+"Well mm w well I I I don't really see the advantage of having uh L_C_D_ on the on the remote control if we have a a a big screen and uh display on the screen."
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.2: "And um if the remote control is too complicated it takes much time to learn the functionality of it."
+AE_ID IS1007c.D.argumentstructs.Daan.3: "So you can just see the percentage, fifty percent people they responded that they always lose their remotes and thirty four percent they say that it's quite difficult to learn if it's too complex. So keeping in view all these findings and the frustrations I think this should be the solution for them. We should have an L_C_D_ on the rem remote control."
+AE_ID IS1007c.C.argumentstructs.17: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.4
+source=IS1007c.D.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.5:
+"It's  yeah of course it's fancy trendy and so on but it's it's expensive to produce  and it's not really"
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.2: "And um if the remote control is too complicated it takes much time to learn the functionality of it."
+AE_ID IS1007c.D.argumentstructs.Daan.3: "So you can just see the percentage, fifty percent people they responded that they always lose their remotes and thirty four percent they say that it's quite difficult to learn if it's too complex. So keeping in view all these findings and the frustrations I think this should be the solution for them. We should have an L_C_D_ on the rem remote control."
+AE_ID IS1007c.C.argumentstructs.17: "Yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.4: "Well mm w well I I I don't really see the advantage of having uh L_C_D_ on the on the remote control if we have a a a big screen and uh display on the screen."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.4
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.5
+source=IS1007c.C.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.13:
+"Mm-hmm ?"
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.2: "And um if the remote control is too complicated it takes much time to learn the functionality of it."
+AE_ID IS1007c.D.argumentstructs.Daan.3: "So you can just see the percentage, fifty percent people they responded that they always lose their remotes and thirty four percent they say that it's quite difficult to learn if it's too complex. So keeping in view all these findings and the frustrations I think this should be the solution for them. We should have an L_C_D_ on the rem remote control."
+AE_ID IS1007c.C.argumentstructs.17: "Yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.4: "Well mm w well I I I don't really see the advantage of having uh L_C_D_ on the on the remote control if we have a a a big screen and uh display on the screen."
+AE_ID IS1007c.C.argumentstructs.Daan.5: "It's  yeah of course it's fancy trendy and so on but it's it's expensive to produce  and it's not really"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1007c.D.argumentstructs.13
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.Daan.4:
+"I mean as our survey says that people are willing to pay more if their remotes are fancy. So if we have a L_C_D_ on the remote, rather than looking onto the T_V_ you just look into a remote and navigate it. It's the same menu as we have saw that iPod remote control. We just  play around"
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.3: "So you can just see the percentage, fifty percent people they responded that they always lose their remotes and thirty four percent they say that it's quite difficult to learn if it's too complex. So keeping in view all these findings and the frustrations I think this should be the solution for them. We should have an L_C_D_ on the rem remote control."
+AE_ID IS1007c.C.argumentstructs.17: "Yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.4: "Well mm w well I I I don't really see the advantage of having uh L_C_D_ on the on the remote control if we have a a a big screen and uh display on the screen."
+AE_ID IS1007c.C.argumentstructs.Daan.5: "It's  yeah of course it's fancy trendy and so on but it's it's expensive to produce  and it's not really"
+AE_ID IS1007c.D.argumentstructs.13: "Mm-hmm ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1007c.D.argumentstructs.Daan.4
+source=IS1007c.D.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.18:
+"Yeah yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.17: "Yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.4: "Well mm w well I I I don't really see the advantage of having uh L_C_D_ on the on the remote control if we have a a a big screen and uh display on the screen."
+AE_ID IS1007c.C.argumentstructs.Daan.5: "It's  yeah of course it's fancy trendy and so on but it's it's expensive to produce  and it's not really"
+AE_ID IS1007c.D.argumentstructs.13: "Mm-hmm ?"
+AE_ID IS1007c.D.argumentstructs.Daan.4: "I mean as our survey says that people are willing to pay more if their remotes are fancy. So if we have a L_C_D_ on the remote, rather than looking onto the T_V_ you just look into a remote and navigate it. It's the same menu as we have saw that iPod remote control. We just  play around"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.17
+---------------------------------
+target=IS1007c.C.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.6:
+"Yeah but when you play with the iPod you don't have  a big screen in front of you, s"
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.Daan.4: "Well mm w well I I I don't really see the advantage of having uh L_C_D_ on the on the remote control if we have a a a big screen and uh display on the screen."
+AE_ID IS1007c.C.argumentstructs.Daan.5: "It's  yeah of course it's fancy trendy and so on but it's it's expensive to produce  and it's not really"
+AE_ID IS1007c.D.argumentstructs.13: "Mm-hmm ?"
+AE_ID IS1007c.D.argumentstructs.Daan.4: "I mean as our survey says that people are willing to pay more if their remotes are fancy. So if we have a L_C_D_ on the remote, rather than looking onto the T_V_ you just look into a remote and navigate it. It's the same menu as we have saw that iPod remote control. We just  play around"
+AE_ID IS1007c.C.argumentstructs.18: "Yeah yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.Daan.4
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.6
+source=IS1007c.D.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.21:
+"Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.Daan.5: "It's  yeah of course it's fancy trendy and so on but it's it's expensive to produce  and it's not really"
+AE_ID IS1007c.D.argumentstructs.13: "Mm-hmm ?"
+AE_ID IS1007c.D.argumentstructs.Daan.4: "I mean as our survey says that people are willing to pay more if their remotes are fancy. So if we have a L_C_D_ on the remote, rather than looking onto the T_V_ you just look into a remote and navigate it. It's the same menu as we have saw that iPod remote control. We just  play around"
+AE_ID IS1007c.C.argumentstructs.18: "Yeah yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.6: "Yeah but when you play with the iPod you don't have  a big screen in front of you, s"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.18
+---------------------------------
+target=IS1007c.B.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.14:
+"Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.13: "Mm-hmm ?"
+AE_ID IS1007c.D.argumentstructs.Daan.4: "I mean as our survey says that people are willing to pay more if their remotes are fancy. So if we have a L_C_D_ on the remote, rather than looking onto the T_V_ you just look into a remote and navigate it. It's the same menu as we have saw that iPod remote control. We just  play around"
+AE_ID IS1007c.C.argumentstructs.18: "Yeah yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.6: "Yeah but when you play with the iPod you don't have  a big screen in front of you, s"
+AE_ID IS1007c.B.argumentstructs.21: "Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.18
+---------------------------------
+target=IS1007c.D.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.Daan.3:
+"You can use this screen instead of the big se screen, instead of use the  yeah"
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.4: "I mean as our survey says that people are willing to pay more if their remotes are fancy. So if we have a L_C_D_ on the remote, rather than looking onto the T_V_ you just look into a remote and navigate it. It's the same menu as we have saw that iPod remote control. We just  play around"
+AE_ID IS1007c.C.argumentstructs.18: "Yeah yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.6: "Yeah but when you play with the iPod you don't have  a big screen in front of you, s"
+AE_ID IS1007c.B.argumentstructs.21: "Yeah. Yeah."
+AE_ID IS1007c.D.argumentstructs.14: "Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.4
+---------------------------------
+target=IS1007c.A.argumentstructs.Daan.3
+source=IS1007c.C.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.5:
+"Yeah. If you re-use the existing screen, we element  eliminate the L_C_D_, after all the L_C_D_ just to display and if you have the colourful screen you can make the display colourful, fancy, as fancy as the one on the L_C_D_, maybe even better. So"
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.18: "Yeah yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.6: "Yeah but when you play with the iPod you don't have  a big screen in front of you, s"
+AE_ID IS1007c.B.argumentstructs.21: "Yeah. Yeah."
+AE_ID IS1007c.D.argumentstructs.14: "Yeah. Yeah."
+AE_ID IS1007c.A.argumentstructs.Daan.3: "You can use this screen instead of the big se screen, instead of use the  yeah"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.A.argumentstructs.Daan.3
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.5
+source=IS1007c.C.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.19:
+"Yeah. Yeah. Yeah yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.Daan.6: "Yeah but when you play with the iPod you don't have  a big screen in front of you, s"
+AE_ID IS1007c.B.argumentstructs.21: "Yeah. Yeah."
+AE_ID IS1007c.D.argumentstructs.14: "Yeah. Yeah."
+AE_ID IS1007c.A.argumentstructs.Daan.3: "You can use this screen instead of the big se screen, instead of use the  yeah"
+AE_ID IS1007c.B.argumentstructs.Daan.5: "Yeah. If you re-use the existing screen, we element  eliminate the L_C_D_, after all the L_C_D_ just to display and if you have the colourful screen you can make the display colourful, fancy, as fancy as the one on the L_C_D_, maybe even better. So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.21
+---------------------------------
+target=IS1007c.C.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.Daan.5:
+"I mean this were the points which we got from the market demands. So"
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.21: "Yeah. Yeah."
+AE_ID IS1007c.D.argumentstructs.14: "Yeah. Yeah."
+AE_ID IS1007c.A.argumentstructs.Daan.3: "You can use this screen instead of the big se screen, instead of use the  yeah"
+AE_ID IS1007c.B.argumentstructs.Daan.5: "Yeah. If you re-use the existing screen, we element  eliminate the L_C_D_, after all the L_C_D_ just to display and if you have the colourful screen you can make the display colourful, fancy, as fancy as the one on the L_C_D_, maybe even better. So"
+AE_ID IS1007c.C.argumentstructs.19: "Yeah. Yeah. Yeah yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1007c.D.argumentstructs.Daan.5
+source=IS1007c.D.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.7:
+"So I th I I  well I think we we can focus on the uh on the fancy look on the uh"
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.14: "Yeah. Yeah."
+AE_ID IS1007c.A.argumentstructs.Daan.3: "You can use this screen instead of the big se screen, instead of use the  yeah"
+AE_ID IS1007c.B.argumentstructs.Daan.5: "Yeah. If you re-use the existing screen, we element  eliminate the L_C_D_, after all the L_C_D_ just to display and if you have the colourful screen you can make the display colourful, fancy, as fancy as the one on the L_C_D_, maybe even better. So"
+AE_ID IS1007c.C.argumentstructs.19: "Yeah. Yeah. Yeah yeah."
+AE_ID IS1007c.D.argumentstructs.Daan.5: "I mean this were the points which we got from the market demands. So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.7
+source=IS1007c.D.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.8:
+"on the speech recognition if the technology is available but well I think L_C_D_ will uh will uh make us spend a lot of money for not so big results."
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.Daan.3: "You can use this screen instead of the big se screen, instead of use the  yeah"
+AE_ID IS1007c.B.argumentstructs.Daan.5: "Yeah. If you re-use the existing screen, we element  eliminate the L_C_D_, after all the L_C_D_ just to display and if you have the colourful screen you can make the display colourful, fancy, as fancy as the one on the L_C_D_, maybe even better. So"
+AE_ID IS1007c.C.argumentstructs.19: "Yeah. Yeah. Yeah yeah."
+AE_ID IS1007c.D.argumentstructs.Daan.5: "I mean this were the points which we got from the market demands. So"
+AE_ID IS1007c.C.argumentstructs.Daan.7: "So I th I I  well I think we we can focus on the uh on the fancy look on the uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.8
+source=IS1007c.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.22:
+"Yeah. Mm."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.5: "Yeah. If you re-use the existing screen, we element  eliminate the L_C_D_, after all the L_C_D_ just to display and if you have the colourful screen you can make the display colourful, fancy, as fancy as the one on the L_C_D_, maybe even better. So"
+AE_ID IS1007c.C.argumentstructs.19: "Yeah. Yeah. Yeah yeah."
+AE_ID IS1007c.D.argumentstructs.Daan.5: "I mean this were the points which we got from the market demands. So"
+AE_ID IS1007c.C.argumentstructs.Daan.7: "So I th I I  well I think we we can focus on the uh on the fancy look on the uh"
+AE_ID IS1007c.C.argumentstructs.Daan.8: "on the speech recognition if the technology is available but well I think L_C_D_ will uh will uh make us spend a lot of money for not so big results."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1007c.B.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.6:
+"Remember we have a s budget for the cost of producing the remote controller."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.19: "Yeah. Yeah. Yeah yeah."
+AE_ID IS1007c.D.argumentstructs.Daan.5: "I mean this were the points which we got from the market demands. So"
+AE_ID IS1007c.C.argumentstructs.Daan.7: "So I th I I  well I think we we can focus on the uh on the fancy look on the uh"
+AE_ID IS1007c.C.argumentstructs.Daan.8: "on the speech recognition if the technology is available but well I think L_C_D_ will uh will uh make us spend a lot of money for not so big results."
+AE_ID IS1007c.B.argumentstructs.22: "Yeah. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.5
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.6
+source=IS1007c.C.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.12:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.5: "I mean this were the points which we got from the market demands. So"
+AE_ID IS1007c.C.argumentstructs.Daan.7: "So I th I I  well I think we we can focus on the uh on the fancy look on the uh"
+AE_ID IS1007c.C.argumentstructs.Daan.8: "on the speech recognition if the technology is available but well I think L_C_D_ will uh will uh make us spend a lot of money for not so big results."
+AE_ID IS1007c.B.argumentstructs.22: "Yeah. Mm."
+AE_ID IS1007c.B.argumentstructs.Daan.6: "Remember we have a s budget for the cost of producing the remote controller."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.22
+---------------------------------
+target=IS1007c.A.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.7:
+"Yeah. So i is  so the thing is you can find out how much an L_C_D_ will cost and then we'll decide again."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.Daan.7: "So I th I I  well I think we we can focus on the uh on the fancy look on the uh"
+AE_ID IS1007c.C.argumentstructs.Daan.8: "on the speech recognition if the technology is available but well I think L_C_D_ will uh will uh make us spend a lot of money for not so big results."
+AE_ID IS1007c.B.argumentstructs.22: "Yeah. Mm."
+AE_ID IS1007c.B.argumentstructs.Daan.6: "Remember we have a s budget for the cost of producing the remote controller."
+AE_ID IS1007c.A.argumentstructs.12: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.Daan.8
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.7
+source=IS1007c.B.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.15:
+"I mean that should be found out by the Industrial Designers."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.Daan.8: "on the speech recognition if the technology is available but well I think L_C_D_ will uh will uh make us spend a lot of money for not so big results."
+AE_ID IS1007c.B.argumentstructs.22: "Yeah. Mm."
+AE_ID IS1007c.B.argumentstructs.Daan.6: "Remember we have a s budget for the cost of producing the remote controller."
+AE_ID IS1007c.A.argumentstructs.12: "Yeah."
+AE_ID IS1007c.B.argumentstructs.Daan.7: "Yeah. So i is  so the thing is you can find out how much an L_C_D_ will cost and then we'll decide again."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.7
+---------------------------------
+target=IS1007c.D.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.8:
+"Uh maybe you can find out the price and tell us next time. Is i if i"
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.22: "Yeah. Mm."
+AE_ID IS1007c.B.argumentstructs.Daan.6: "Remember we have a s budget for the cost of producing the remote controller."
+AE_ID IS1007c.A.argumentstructs.12: "Yeah."
+AE_ID IS1007c.B.argumentstructs.Daan.7: "Yeah. So i is  so the thing is you can find out how much an L_C_D_ will cost and then we'll decide again."
+AE_ID IS1007c.D.argumentstructs.15: "I mean that should be found out by the Industrial Designers."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.7
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.8
+source=IS1007c.B.argumentstructs.Daan.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.9:
+"So price of uh L_C_D_ display. And"
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.6: "Remember we have a s budget for the cost of producing the remote controller."
+AE_ID IS1007c.A.argumentstructs.12: "Yeah."
+AE_ID IS1007c.B.argumentstructs.Daan.7: "Yeah. So i is  so the thing is you can find out how much an L_C_D_ will cost and then we'll decide again."
+AE_ID IS1007c.D.argumentstructs.15: "I mean that should be found out by the Industrial Designers."
+AE_ID IS1007c.B.argumentstructs.Daan.8: "Uh maybe you can find out the price and tell us next time. Is i if i"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.7
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.9
+source=IS1007c.B.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.23:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.12: "Yeah."
+AE_ID IS1007c.B.argumentstructs.Daan.7: "Yeah. So i is  so the thing is you can find out how much an L_C_D_ will cost and then we'll decide again."
+AE_ID IS1007c.D.argumentstructs.15: "I mean that should be found out by the Industrial Designers."
+AE_ID IS1007c.B.argumentstructs.Daan.8: "Uh maybe you can find out the price and tell us next time. Is i if i"
+AE_ID IS1007c.C.argumentstructs.Daan.9: "So price of uh L_C_D_ display. And"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.A.argumentstructs.12
+---------------------------------
+target=IS1007c.B.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1007c-LCD or Big screen.csv - True Judgement Ratio: 24.00%

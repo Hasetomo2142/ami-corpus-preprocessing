@@ -1,0 +1,412 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.Daan.1:
+"Are we doing the the speech recognition ? Because we didn't have enough time to uh de um design the inside as well."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3004d.B.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.Daan.1:
+"Okay, but it's still possible uh uh financially. So if you want to, it's okay."
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.1: "Are we doing the the speech recognition ? Because we didn't have enough time to uh de um design the inside as well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.1
+---------------------------------
+target=TS3004d.A.argumentstructs.Daan.1
+source=TS3004d.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.Daan.2:
+"Okay yeah. Well then then we're gonna put it in."
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.1: "Are we doing the the speech recognition ? Because we didn't have enough time to uh de um design the inside as well."
+AE_ID TS3004d.A.argumentstructs.Daan.1: "Okay, but it's still possible uh uh financially. So if you want to, it's okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.1
+---------------------------------
+target=TS3004d.B.argumentstructs.Daan.2
+source=TS3004d.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.10:
+"Okay, just"
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.1: "Are we doing the the speech recognition ? Because we didn't have enough time to uh de um design the inside as well."
+AE_ID TS3004d.A.argumentstructs.Daan.1: "Okay, but it's still possible uh uh financially. So if you want to, it's okay."
+AE_ID TS3004d.B.argumentstructs.Daan.2: "Okay yeah. Well then then we're gonna put it in."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.2
+---------------------------------
+target=TS3004d.A.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.Daan.3:
+"Yeah, just uh we have to design the inside then, but it should be uh"
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.1: "Are we doing the the speech recognition ? Because we didn't have enough time to uh de um design the inside as well."
+AE_ID TS3004d.A.argumentstructs.Daan.1: "Okay, but it's still possible uh uh financially. So if you want to, it's okay."
+AE_ID TS3004d.B.argumentstructs.Daan.2: "Okay yeah. Well then then we're gonna put it in."
+AE_ID TS3004d.A.argumentstructs.10: "Okay, just"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.1
+---------------------------------
+target=TS3004d.B.argumentstructs.Daan.3
+source=TS3004d.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.Daan.1:
+"Yeah, and   Or are we making a slide open, like underneath ? Or fold open"
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.1: "Are we doing the the speech recognition ? Because we didn't have enough time to uh de um design the inside as well."
+AE_ID TS3004d.A.argumentstructs.Daan.1: "Okay, but it's still possible uh uh financially. So if you want to, it's okay."
+AE_ID TS3004d.B.argumentstructs.Daan.2: "Okay yeah. Well then then we're gonna put it in."
+AE_ID TS3004d.A.argumentstructs.10: "Okay, just"
+AE_ID TS3004d.B.argumentstructs.Daan.3: "Yeah, just uh we have to design the inside then, but it should be uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.2
+---------------------------------
+target=TS3004d.C.argumentstructs.Daan.1
+source=TS3004d.B.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.9:
+"? I don't know."
+
+Past dialogue turns:
+AE_ID TS3004d.A.argumentstructs.Daan.1: "Okay, but it's still possible uh uh financially. So if you want to, it's okay."
+AE_ID TS3004d.B.argumentstructs.Daan.2: "Okay yeah. Well then then we're gonna put it in."
+AE_ID TS3004d.A.argumentstructs.10: "Okay, just"
+AE_ID TS3004d.B.argumentstructs.Daan.3: "Yeah, just uh we have to design the inside then, but it should be uh"
+AE_ID TS3004d.C.argumentstructs.Daan.1: "Yeah, and   Or are we making a slide open, like underneath ? Or fold open"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.2
+---------------------------------
+target=TS3004d.C.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.Daan.2:
+"Slide open is uh quite usable for remote controls."
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.2: "Okay yeah. Well then then we're gonna put it in."
+AE_ID TS3004d.A.argumentstructs.10: "Okay, just"
+AE_ID TS3004d.B.argumentstructs.Daan.3: "Yeah, just uh we have to design the inside then, but it should be uh"
+AE_ID TS3004d.C.argumentstructs.Daan.1: "Yeah, and   Or are we making a slide open, like underneath ? Or fold open"
+AE_ID TS3004d.C.argumentstructs.9: "? I don't know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3004d.A.argumentstructs.Daan.2
+source=TS3004d.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.Daan.2:
+"It's probably better"
+
+Past dialogue turns:
+AE_ID TS3004d.A.argumentstructs.10: "Okay, just"
+AE_ID TS3004d.B.argumentstructs.Daan.3: "Yeah, just uh we have to design the inside then, but it should be uh"
+AE_ID TS3004d.C.argumentstructs.Daan.1: "Yeah, and   Or are we making a slide open, like underneath ? Or fold open"
+AE_ID TS3004d.C.argumentstructs.9: "? I don't know."
+AE_ID TS3004d.A.argumentstructs.Daan.2: "Slide open is uh quite usable for remote controls."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.3
+---------------------------------
+target=TS3004d.C.argumentstructs.Daan.2
+source=TS3004d.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.10:
+"."
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.3: "Yeah, just uh we have to design the inside then, but it should be uh"
+AE_ID TS3004d.C.argumentstructs.Daan.1: "Yeah, and   Or are we making a slide open, like underneath ? Or fold open"
+AE_ID TS3004d.C.argumentstructs.9: "? I don't know."
+AE_ID TS3004d.A.argumentstructs.Daan.2: "Slide open is uh quite usable for remote controls."
+AE_ID TS3004d.C.argumentstructs.Daan.2: "It's probably better"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3004d.C.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.Daan.3:
+"Yeah, s Like underneath uh you can slide it open and you  other functions."
+
+Past dialogue turns:
+AE_ID TS3004d.C.argumentstructs.Daan.1: "Yeah, and   Or are we making a slide open, like underneath ? Or fold open"
+AE_ID TS3004d.C.argumentstructs.9: "? I don't know."
+AE_ID TS3004d.A.argumentstructs.Daan.2: "Slide open is uh quite usable for remote controls."
+AE_ID TS3004d.C.argumentstructs.Daan.2: "It's probably better"
+AE_ID TS3004d.C.argumentstructs.10: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3004d.C.argumentstructs.Daan.3
+source=TS3004d.C.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.Daan.4:
+"It's may maybe uh a bit stronger as well."
+
+Past dialogue turns:
+AE_ID TS3004d.C.argumentstructs.9: "? I don't know."
+AE_ID TS3004d.A.argumentstructs.Daan.2: "Slide open is uh quite usable for remote controls."
+AE_ID TS3004d.C.argumentstructs.Daan.2: "It's probably better"
+AE_ID TS3004d.C.argumentstructs.10: "."
+AE_ID TS3004d.C.argumentstructs.Daan.3: "Yeah, s Like underneath uh you can slide it open and you  other functions."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3004d.B.argumentstructs.Daan.4
+source=TS3004d.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.Daan.3:
+"Maybe that's better."
+
+Past dialogue turns:
+AE_ID TS3004d.A.argumentstructs.Daan.2: "Slide open is uh quite usable for remote controls."
+AE_ID TS3004d.C.argumentstructs.Daan.2: "It's probably better"
+AE_ID TS3004d.C.argumentstructs.10: "."
+AE_ID TS3004d.C.argumentstructs.Daan.3: "Yeah, s Like underneath uh you can slide it open and you  other functions."
+AE_ID TS3004d.B.argumentstructs.Daan.4: "It's may maybe uh a bit stronger as well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3004d.A.argumentstructs.Daan.3
+source=TS3004d.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.Daan.4:
+"Yeah, that's that's a very good point."
+
+Past dialogue turns:
+AE_ID TS3004d.C.argumentstructs.Daan.2: "It's probably better"
+AE_ID TS3004d.C.argumentstructs.10: "."
+AE_ID TS3004d.C.argumentstructs.Daan.3: "Yeah, s Like underneath uh you can slide it open and you  other functions."
+AE_ID TS3004d.B.argumentstructs.Daan.4: "It's may maybe uh a bit stronger as well."
+AE_ID TS3004d.A.argumentstructs.Daan.3: "Maybe that's better."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3004d.A.argumentstructs.Daan.4
+source=TS3004d.C.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.13:
+"No. Yeah, we're gonna use the advanced chip then. Advanced chip was for uh spee Yeah. Okay. Good."
+
+Past dialogue turns:
+AE_ID TS3004d.C.argumentstructs.10: "."
+AE_ID TS3004d.C.argumentstructs.Daan.3: "Yeah, s Like underneath uh you can slide it open and you  other functions."
+AE_ID TS3004d.B.argumentstructs.Daan.4: "It's may maybe uh a bit stronger as well."
+AE_ID TS3004d.A.argumentstructs.Daan.3: "Maybe that's better."
+AE_ID TS3004d.A.argumentstructs.Daan.4: "Yeah, that's that's a very good point."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.A.argumentstructs.Daan.4
+---------------------------------
+target=TS3004d.B.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.11:
+"Yeah, I I think so. I don't know. Ah okay."
+
+Past dialogue turns:
+AE_ID TS3004d.C.argumentstructs.Daan.3: "Yeah, s Like underneath uh you can slide it open and you  other functions."
+AE_ID TS3004d.B.argumentstructs.Daan.4: "It's may maybe uh a bit stronger as well."
+AE_ID TS3004d.A.argumentstructs.Daan.3: "Maybe that's better."
+AE_ID TS3004d.A.argumentstructs.Daan.4: "Yeah, that's that's a very good point."
+AE_ID TS3004d.B.argumentstructs.13: "No. Yeah, we're gonna use the advanced chip then. Advanced chip was for uh spee Yeah. Okay. Good."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.13
+---------------------------------
+target=TS3004d.C.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.11:
+"So I already calculated that and it's still in the budget. So it's okay."
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.4: "It's may maybe uh a bit stronger as well."
+AE_ID TS3004d.A.argumentstructs.Daan.3: "Maybe that's better."
+AE_ID TS3004d.A.argumentstructs.Daan.4: "Yeah, that's that's a very good point."
+AE_ID TS3004d.B.argumentstructs.13: "No. Yeah, we're gonna use the advanced chip then. Advanced chip was for uh spee Yeah. Okay. Good."
+AE_ID TS3004d.C.argumentstructs.11: "Yeah, I I think so. I don't know. Ah okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.13
+---------------------------------
+target=TS3004d.A.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3004d-Speech recognition.csv - True Judgement Ratio: 29.41%

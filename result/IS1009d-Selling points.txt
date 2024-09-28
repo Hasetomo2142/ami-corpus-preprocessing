@@ -1,0 +1,212 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.Daan.6:
+"Now what, what are our special features for the marketing ? That's really the voice recognition that's really unusual"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1009d.A.argumentstructs.Daan.6
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.3:
+"I think voice recognition is our big selling point 'cause nobody else seems to have that in in this price range."
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.6: "Now what, what are our special features for the marketing ? That's really the voice recognition that's really unusual"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.A.argumentstructs.Daan.6
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.3
+source=IS1009d.A.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.C.argumentstructs.14:
+"Mm. Mm-hmm. Mm. Mm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.6: "Now what, what are our special features for the marketing ? That's really the voice recognition that's really unusual"
+AE_ID IS1009d.D.argumentstructs.Daan.3: "I think voice recognition is our big selling point 'cause nobody else seems to have that in in this price range."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1009d.C.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.Daan.7:
+"And then, and then the other thing would basically be sh shape or practicality of use."
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.6: "Now what, what are our special features for the marketing ? That's really the voice recognition that's really unusual"
+AE_ID IS1009d.D.argumentstructs.Daan.3: "I think voice recognition is our big selling point 'cause nobody else seems to have that in in this price range."
+AE_ID IS1009d.C.argumentstructs.14: "Mm. Mm-hmm. Mm. Mm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.A.argumentstructs.Daan.6
+---------------------------------
+target=IS1009d.A.argumentstructs.Daan.7
+source=IS1009d.A.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.4:
+"Yep uh well I think that everybody's gonna say their remote control is practical. I think we have to, we have to dwell on on on the appearance. We're really gonna have the be the"
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.6: "Now what, what are our special features for the marketing ? That's really the voice recognition that's really unusual"
+AE_ID IS1009d.D.argumentstructs.Daan.3: "I think voice recognition is our big selling point 'cause nobody else seems to have that in in this price range."
+AE_ID IS1009d.C.argumentstructs.14: "Mm. Mm-hmm. Mm. Mm. Mm-hmm."
+AE_ID IS1009d.A.argumentstructs.Daan.7: "And then, and then the other thing would basically be sh shape or practicality of use."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.A.argumentstructs.Daan.6
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.4
+source=IS1009d.A.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.Daan.8:
+"You know. Colours."
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.6: "Now what, what are our special features for the marketing ? That's really the voice recognition that's really unusual"
+AE_ID IS1009d.D.argumentstructs.Daan.3: "I think voice recognition is our big selling point 'cause nobody else seems to have that in in this price range."
+AE_ID IS1009d.C.argumentstructs.14: "Mm. Mm-hmm. Mm. Mm. Mm-hmm."
+AE_ID IS1009d.A.argumentstructs.Daan.7: "And then, and then the other thing would basically be sh shape or practicality of use."
+AE_ID IS1009d.D.argumentstructs.Daan.4: "Yep uh well I think that everybody's gonna say their remote control is practical. I think we have to, we have to dwell on on on the appearance. We're really gonna have the be the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.A.argumentstructs.Daan.7
+---------------------------------
+target=IS1009d.A.argumentstructs.Daan.8
+source=IS1009d.A.argumentstructs.Daan.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.23:
+"Mm-hmm. Cutest. Yeah."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.3: "I think voice recognition is our big selling point 'cause nobody else seems to have that in in this price range."
+AE_ID IS1009d.C.argumentstructs.14: "Mm. Mm-hmm. Mm. Mm. Mm-hmm."
+AE_ID IS1009d.A.argumentstructs.Daan.7: "And then, and then the other thing would basically be sh shape or practicality of use."
+AE_ID IS1009d.D.argumentstructs.Daan.4: "Yep uh well I think that everybody's gonna say their remote control is practical. I think we have to, we have to dwell on on on the appearance. We're really gonna have the be the"
+AE_ID IS1009d.A.argumentstructs.Daan.8: "You know. Colours."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.A.argumentstructs.Daan.8
+---------------------------------
+target=IS1009d.A.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.5:
+"cutest remote control on the block. So I think we have to play with the image, play with the snail image um play with the visual and then the voice recognition. I think those are the two things to push. The look"
+
+Past dialogue turns:
+AE_ID IS1009d.C.argumentstructs.14: "Mm. Mm-hmm. Mm. Mm. Mm-hmm."
+AE_ID IS1009d.A.argumentstructs.Daan.7: "And then, and then the other thing would basically be sh shape or practicality of use."
+AE_ID IS1009d.D.argumentstructs.Daan.4: "Yep uh well I think that everybody's gonna say their remote control is practical. I think we have to, we have to dwell on on on the appearance. We're really gonna have the be the"
+AE_ID IS1009d.A.argumentstructs.Daan.8: "You know. Colours."
+AE_ID IS1009d.A.argumentstructs.23: "Mm-hmm. Cutest. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.4
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.5
+source=IS1009d.A.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.6:
+"and the voice recognition. They're gonna be our two selling points."
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.7: "And then, and then the other thing would basically be sh shape or practicality of use."
+AE_ID IS1009d.D.argumentstructs.Daan.4: "Yep uh well I think that everybody's gonna say their remote control is practical. I think we have to, we have to dwell on on on the appearance. We're really gonna have the be the"
+AE_ID IS1009d.A.argumentstructs.Daan.8: "You know. Colours."
+AE_ID IS1009d.A.argumentstructs.23: "Mm-hmm. Cutest. Yeah."
+AE_ID IS1009d.D.argumentstructs.Daan.5: "cutest remote control on the block. So I think we have to play with the image, play with the snail image um play with the visual and then the voice recognition. I think those are the two things to push. The look"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.5
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.6
+source=IS1009d.D.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1009d-Selling points.csv - True Judgement Ratio: 55.56%

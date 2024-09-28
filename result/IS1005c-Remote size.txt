@@ -1,0 +1,812 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.A.argumentstructs.Rutger.9:
+"So I think before talking about the other thing, it's important thing it's the case. Uh what what are gonna be the size, because its weight drives the other  what we are going to use as features and so on. For example for the for the L_C_D_, if we choose to have a small device, we cannot use this um a such a a a screen."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1005c.A.argumentstructs.Rutger.9
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.B.argumentstructs.Rutger.10:
+"Uh the s the screen is okay, but the board, uh that's the problem."
+
+Past dialogue turns:
+AE_ID IS1005c.A.argumentstructs.Rutger.9: "So I think before talking about the other thing, it's important thing it's the case. Uh what what are gonna be the size, because its weight drives the other  what we are going to use as features and so on. For example for the for the L_C_D_, if we choose to have a small device, we cannot use this um a such a a a screen."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.A.argumentstructs.Rutger.9
+---------------------------------
+target=IS1005c.B.argumentstructs.Rutger.10
+source=IS1005c.A.argumentstructs.Rutger.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.B.argumentstructs.Rutger.11:
+"Well what what would you guess as a shape ? Or what what would be the shape ?"
+
+Past dialogue turns:
+AE_ID IS1005c.A.argumentstructs.Rutger.9: "So I think before talking about the other thing, it's important thing it's the case. Uh what what are gonna be the size, because its weight drives the other  what we are going to use as features and so on. For example for the for the L_C_D_, if we choose to have a small device, we cannot use this um a such a a a screen."
+AE_ID IS1005c.B.argumentstructs.Rutger.10: "Uh the s the screen is okay, but the board, uh that's the problem."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.A.argumentstructs.Rutger.9
+---------------------------------
+target=IS1005c.B.argumentstructs.Rutger.11
+source=IS1005c.A.argumentstructs.Rutger.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.C.argumentstructs.10:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1005c.A.argumentstructs.Rutger.9: "So I think before talking about the other thing, it's important thing it's the case. Uh what what are gonna be the size, because its weight drives the other  what we are going to use as features and so on. For example for the for the L_C_D_, if we choose to have a small device, we cannot use this um a such a a a screen."
+AE_ID IS1005c.B.argumentstructs.Rutger.10: "Uh the s the screen is okay, but the board, uh that's the problem."
+AE_ID IS1005c.B.argumentstructs.Rutger.11: "Well what what would you guess as a shape ? Or what what would be the shape ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.B.argumentstructs.Rutger.10
+---------------------------------
+target=IS1005c.C.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.C.argumentstructs.Rutger.2:
+"I think I think their being uh large or small is not important. The only important thing is to be able to take it in uh inside hand easily. So let's say an average size, okay, and it should not be very heavy also. And I prefer to  is it shouldn't have a uniform shape, so in the middle it should be a little bit thinner, maybe maybe. So we c it's like like some joysticks. You can take uh some some joystick you can take inside hand easier because it's it's designed for your f uh taking into account your finger shape and your palm shape. So the general shape should be like this. I think uh seven centimetre by seven centimetre is a little bit large. So uh seven  not seven but let's say five by ten it's I think it's  that's my opinion. It's easier."
+
+Past dialogue turns:
+AE_ID IS1005c.A.argumentstructs.Rutger.9: "So I think before talking about the other thing, it's important thing it's the case. Uh what what are gonna be the size, because its weight drives the other  what we are going to use as features and so on. For example for the for the L_C_D_, if we choose to have a small device, we cannot use this um a such a a a screen."
+AE_ID IS1005c.B.argumentstructs.Rutger.10: "Uh the s the screen is okay, but the board, uh that's the problem."
+AE_ID IS1005c.B.argumentstructs.Rutger.11: "Well what what would you guess as a shape ? Or what what would be the shape ?"
+AE_ID IS1005c.C.argumentstructs.10: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.A.argumentstructs.Rutger.9
+---------------------------------
+target=IS1005c.C.argumentstructs.Rutger.2
+source=IS1005c.B.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.B.argumentstructs.Rutger.12:
+"Mm. Okay."
+
+Past dialogue turns:
+AE_ID IS1005c.A.argumentstructs.Rutger.9: "So I think before talking about the other thing, it's important thing it's the case. Uh what what are gonna be the size, because its weight drives the other  what we are going to use as features and so on. For example for the for the L_C_D_, if we choose to have a small device, we cannot use this um a such a a a screen."
+AE_ID IS1005c.B.argumentstructs.Rutger.10: "Uh the s the screen is okay, but the board, uh that's the problem."
+AE_ID IS1005c.B.argumentstructs.Rutger.11: "Well what what would you guess as a shape ? Or what what would be the shape ?"
+AE_ID IS1005c.C.argumentstructs.10: "Mm."
+AE_ID IS1005c.C.argumentstructs.Rutger.2: "I think I think their being uh large or small is not important. The only important thing is to be able to take it in uh inside hand easily. So let's say an average size, okay, and it should not be very heavy also. And I prefer to  is it shouldn't have a uniform shape, so in the middle it should be a little bit thinner, maybe maybe. So we c it's like like some joysticks. You can take uh some some joystick you can take inside hand easier because it's it's designed for your f uh taking into account your finger shape and your palm shape. So the general shape should be like this. I think uh seven centimetre by seven centimetre is a little bit large. So uh seven  not seven but let's say five by ten it's I think it's  that's my opinion. It's easier."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.B.argumentstructs.Rutger.11
+---------------------------------
+target=IS1005c.B.argumentstructs.Rutger.12
+source=IS1005c.C.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.D.argumentstructs.Rutger.6:
+"Which is the same area."
+
+Past dialogue turns:
+AE_ID IS1005c.B.argumentstructs.Rutger.10: "Uh the s the screen is okay, but the board, uh that's the problem."
+AE_ID IS1005c.B.argumentstructs.Rutger.11: "Well what what would you guess as a shape ? Or what what would be the shape ?"
+AE_ID IS1005c.C.argumentstructs.10: "Mm."
+AE_ID IS1005c.C.argumentstructs.Rutger.2: "I think I think their being uh large or small is not important. The only important thing is to be able to take it in uh inside hand easily. So let's say an average size, okay, and it should not be very heavy also. And I prefer to  is it shouldn't have a uniform shape, so in the middle it should be a little bit thinner, maybe maybe. So we c it's like like some joysticks. You can take uh some some joystick you can take inside hand easier because it's it's designed for your f uh taking into account your finger shape and your palm shape. So the general shape should be like this. I think uh seven centimetre by seven centimetre is a little bit large. So uh seven  not seven but let's say five by ten it's I think it's  that's my opinion. It's easier."
+AE_ID IS1005c.B.argumentstructs.Rutger.12: "Mm. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.B.argumentstructs.Rutger.12
+---------------------------------
+target=IS1005c.D.argumentstructs.Rutger.6
+source=IS1005c.C.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.B.argumentstructs.Rutger.13:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1005c.B.argumentstructs.Rutger.11: "Well what what would you guess as a shape ? Or what what would be the shape ?"
+AE_ID IS1005c.C.argumentstructs.10: "Mm."
+AE_ID IS1005c.C.argumentstructs.Rutger.2: "I think I think their being uh large or small is not important. The only important thing is to be able to take it in uh inside hand easily. So let's say an average size, okay, and it should not be very heavy also. And I prefer to  is it shouldn't have a uniform shape, so in the middle it should be a little bit thinner, maybe maybe. So we c it's like like some joysticks. You can take uh some some joystick you can take inside hand easier because it's it's designed for your f uh taking into account your finger shape and your palm shape. So the general shape should be like this. I think uh seven centimetre by seven centimetre is a little bit large. So uh seven  not seven but let's say five by ten it's I think it's  that's my opinion. It's easier."
+AE_ID IS1005c.B.argumentstructs.Rutger.12: "Mm. Okay."
+AE_ID IS1005c.D.argumentstructs.Rutger.6: "Which is the same area."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.B.argumentstructs.Rutger.12
+---------------------------------
+target=IS1005c.B.argumentstructs.Rutger.13
+source=IS1005c.D.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.C.argumentstructs.Rutger.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1005c.C.argumentstructs.10: "Mm."
+AE_ID IS1005c.C.argumentstructs.Rutger.2: "I think I think their being uh large or small is not important. The only important thing is to be able to take it in uh inside hand easily. So let's say an average size, okay, and it should not be very heavy also. And I prefer to  is it shouldn't have a uniform shape, so in the middle it should be a little bit thinner, maybe maybe. So we c it's like like some joysticks. You can take uh some some joystick you can take inside hand easier because it's it's designed for your f uh taking into account your finger shape and your palm shape. So the general shape should be like this. I think uh seven centimetre by seven centimetre is a little bit large. So uh seven  not seven but let's say five by ten it's I think it's  that's my opinion. It's easier."
+AE_ID IS1005c.B.argumentstructs.Rutger.12: "Mm. Okay."
+AE_ID IS1005c.D.argumentstructs.Rutger.6: "Which is the same area."
+AE_ID IS1005c.B.argumentstructs.Rutger.13: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.C.argumentstructs.Rutger.2
+---------------------------------
+target=IS1005c.C.argumentstructs.Rutger.3
+source=IS1005c.D.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.D.argumentstructs.Rutger.8:
+"Could you re could you redesign your board ?"
+
+Past dialogue turns:
+AE_ID IS1005c.C.argumentstructs.Rutger.2: "I think I think their being uh large or small is not important. The only important thing is to be able to take it in uh inside hand easily. So let's say an average size, okay, and it should not be very heavy also. And I prefer to  is it shouldn't have a uniform shape, so in the middle it should be a little bit thinner, maybe maybe. So we c it's like like some joysticks. You can take uh some some joystick you can take inside hand easier because it's it's designed for your f uh taking into account your finger shape and your palm shape. So the general shape should be like this. I think uh seven centimetre by seven centimetre is a little bit large. So uh seven  not seven but let's say five by ten it's I think it's  that's my opinion. It's easier."
+AE_ID IS1005c.B.argumentstructs.Rutger.12: "Mm. Okay."
+AE_ID IS1005c.D.argumentstructs.Rutger.6: "Which is the same area."
+AE_ID IS1005c.B.argumentstructs.Rutger.13: "Okay."
+AE_ID IS1005c.C.argumentstructs.Rutger.3: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.C.argumentstructs.Rutger.2
+---------------------------------
+target=IS1005c.D.argumentstructs.Rutger.8
+source=IS1005c.B.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.B.argumentstructs.Rutger.14:
+"Five to ten. Well that"
+
+Past dialogue turns:
+AE_ID IS1005c.B.argumentstructs.Rutger.12: "Mm. Okay."
+AE_ID IS1005c.D.argumentstructs.Rutger.6: "Which is the same area."
+AE_ID IS1005c.B.argumentstructs.Rutger.13: "Okay."
+AE_ID IS1005c.C.argumentstructs.Rutger.3: "Yeah."
+AE_ID IS1005c.D.argumentstructs.Rutger.8: "Could you re could you redesign your board ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.B.argumentstructs.Rutger.12
+---------------------------------
+target=IS1005c.B.argumentstructs.Rutger.14
+source=IS1005c.D.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.D.argumentstructs.Rutger.7:
+"Oh, five five centimetres by ten centimetres"
+
+Past dialogue turns:
+AE_ID IS1005c.D.argumentstructs.Rutger.6: "Which is the same area."
+AE_ID IS1005c.B.argumentstructs.Rutger.13: "Okay."
+AE_ID IS1005c.C.argumentstructs.Rutger.3: "Yeah."
+AE_ID IS1005c.D.argumentstructs.Rutger.8: "Could you re could you redesign your board ?"
+AE_ID IS1005c.B.argumentstructs.Rutger.14: "Five to ten. Well that"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.B.argumentstructs.Rutger.14
+---------------------------------
+target=IS1005c.D.argumentstructs.Rutger.7
+source=IS1005c.B.argumentstructs.Rutger.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.B.argumentstructs.Rutger.15:
+"Yeah, right. Yeah, I think it's feasib Well one um um  How could we do it ? We could put the board next to, well, under the L_C_D_ and for example make the L_C_D_ be totally unrelated to the thing that you hold in your hand. Like holding something, and the L_C_D_ to be just on top of it, you know somehow. Well  But maybe let's stick to the s spongy thing, like one unit. Well fi five to ten it would be feasible."
+
+Past dialogue turns:
+AE_ID IS1005c.B.argumentstructs.Rutger.13: "Okay."
+AE_ID IS1005c.C.argumentstructs.Rutger.3: "Yeah."
+AE_ID IS1005c.D.argumentstructs.Rutger.8: "Could you re could you redesign your board ?"
+AE_ID IS1005c.B.argumentstructs.Rutger.14: "Five to ten. Well that"
+AE_ID IS1005c.D.argumentstructs.Rutger.7: "Oh, five five centimetres by ten centimetres"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.D.argumentstructs.Rutger.7
+---------------------------------
+target=IS1005c.B.argumentstructs.Rutger.15
+source=IS1005c.D.argumentstructs.Rutger.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.D.argumentstructs.11:
+"."
+
+Past dialogue turns:
+AE_ID IS1005c.C.argumentstructs.Rutger.3: "Yeah."
+AE_ID IS1005c.D.argumentstructs.Rutger.8: "Could you re could you redesign your board ?"
+AE_ID IS1005c.B.argumentstructs.Rutger.14: "Five to ten. Well that"
+AE_ID IS1005c.D.argumentstructs.Rutger.7: "Oh, five five centimetres by ten centimetres"
+AE_ID IS1005c.B.argumentstructs.Rutger.15: "Yeah, right. Yeah, I think it's feasib Well one um um  How could we do it ? We could put the board next to, well, under the L_C_D_ and for example make the L_C_D_ be totally unrelated to the thing that you hold in your hand. Like holding something, and the L_C_D_ to be just on top of it, you know somehow. Well  But maybe let's stick to the s spongy thing, like one unit. Well fi five to ten it would be feasible."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.B.argumentstructs.Rutger.15
+---------------------------------
+target=IS1005c.D.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.D.argumentstructs.Rutger.9:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1005c.D.argumentstructs.Rutger.8: "Could you re could you redesign your board ?"
+AE_ID IS1005c.B.argumentstructs.Rutger.14: "Five to ten. Well that"
+AE_ID IS1005c.D.argumentstructs.Rutger.7: "Oh, five five centimetres by ten centimetres"
+AE_ID IS1005c.B.argumentstructs.Rutger.15: "Yeah, right. Yeah, I think it's feasib Well one um um  How could we do it ? We could put the board next to, well, under the L_C_D_ and for example make the L_C_D_ be totally unrelated to the thing that you hold in your hand. Like holding something, and the L_C_D_ to be just on top of it, you know somehow. Well  But maybe let's stick to the s spongy thing, like one unit. Well fi five to ten it would be feasible."
+AE_ID IS1005c.D.argumentstructs.11: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.D.argumentstructs.Rutger.8
+---------------------------------
+target=IS1005c.D.argumentstructs.Rutger.9
+source=IS1005c.B.argumentstructs.Rutger.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.C.argumentstructs.11:
+"Mm-hmm. Mm."
+
+Past dialogue turns:
+AE_ID IS1005c.B.argumentstructs.Rutger.14: "Five to ten. Well that"
+AE_ID IS1005c.D.argumentstructs.Rutger.7: "Oh, five five centimetres by ten centimetres"
+AE_ID IS1005c.B.argumentstructs.Rutger.15: "Yeah, right. Yeah, I think it's feasib Well one um um  How could we do it ? We could put the board next to, well, under the L_C_D_ and for example make the L_C_D_ be totally unrelated to the thing that you hold in your hand. Like holding something, and the L_C_D_ to be just on top of it, you know somehow. Well  But maybe let's stick to the s spongy thing, like one unit. Well fi five to ten it would be feasible."
+AE_ID IS1005c.D.argumentstructs.11: "."
+AE_ID IS1005c.D.argumentstructs.Rutger.9: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.B.argumentstructs.Rutger.15
+---------------------------------
+target=IS1005c.C.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.A.argumentstructs.Rutger.10:
+"Oh. I've I s I think the easiest thing would be to to have a smaller L_C_D_, if it's possible."
+
+Past dialogue turns:
+AE_ID IS1005c.D.argumentstructs.Rutger.7: "Oh, five five centimetres by ten centimetres"
+AE_ID IS1005c.B.argumentstructs.Rutger.15: "Yeah, right. Yeah, I think it's feasib Well one um um  How could we do it ? We could put the board next to, well, under the L_C_D_ and for example make the L_C_D_ be totally unrelated to the thing that you hold in your hand. Like holding something, and the L_C_D_ to be just on top of it, you know somehow. Well  But maybe let's stick to the s spongy thing, like one unit. Well fi five to ten it would be feasible."
+AE_ID IS1005c.D.argumentstructs.11: "."
+AE_ID IS1005c.D.argumentstructs.Rutger.9: "Yeah."
+AE_ID IS1005c.C.argumentstructs.11: "Mm-hmm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.B.argumentstructs.Rutger.15
+---------------------------------
+target=IS1005c.A.argumentstructs.Rutger.10
+source=IS1005c.B.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.B.argumentstructs.Rutger.16:
+"Okay, so five to ten, I I think it's it's feasible. I'll make it."
+
+Past dialogue turns:
+AE_ID IS1005c.B.argumentstructs.Rutger.15: "Yeah, right. Yeah, I think it's feasib Well one um um  How could we do it ? We could put the board next to, well, under the L_C_D_ and for example make the L_C_D_ be totally unrelated to the thing that you hold in your hand. Like holding something, and the L_C_D_ to be just on top of it, you know somehow. Well  But maybe let's stick to the s spongy thing, like one unit. Well fi five to ten it would be feasible."
+AE_ID IS1005c.D.argumentstructs.11: "."
+AE_ID IS1005c.D.argumentstructs.Rutger.9: "Yeah."
+AE_ID IS1005c.C.argumentstructs.11: "Mm-hmm. Mm."
+AE_ID IS1005c.A.argumentstructs.Rutger.10: "Oh. I've I s I think the easiest thing would be to to have a smaller L_C_D_, if it's possible."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.B.argumentstructs.Rutger.15
+---------------------------------
+target=IS1005c.B.argumentstructs.Rutger.16
+source=IS1005c.A.argumentstructs.Rutger.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.A.argumentstructs.Rutger.11:
+"Okay. So we are agree with a small"
+
+Past dialogue turns:
+AE_ID IS1005c.D.argumentstructs.11: "."
+AE_ID IS1005c.D.argumentstructs.Rutger.9: "Yeah."
+AE_ID IS1005c.C.argumentstructs.11: "Mm-hmm. Mm."
+AE_ID IS1005c.A.argumentstructs.Rutger.10: "Oh. I've I s I think the easiest thing would be to to have a smaller L_C_D_, if it's possible."
+AE_ID IS1005c.B.argumentstructs.Rutger.16: "Okay, so five to ten, I I think it's it's feasible. I'll make it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.A.argumentstructs.Rutger.10
+---------------------------------
+target=IS1005c.A.argumentstructs.Rutger.11
+source=IS1005c.A.argumentstructs.Rutger.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.C.argumentstructs.Rutger.4:
+"Or uh or I don't know but I don't want to now invent something new, because we didn't discuss about it."
+
+Past dialogue turns:
+AE_ID IS1005c.D.argumentstructs.Rutger.9: "Yeah."
+AE_ID IS1005c.C.argumentstructs.11: "Mm-hmm. Mm."
+AE_ID IS1005c.A.argumentstructs.Rutger.10: "Oh. I've I s I think the easiest thing would be to to have a smaller L_C_D_, if it's possible."
+AE_ID IS1005c.B.argumentstructs.Rutger.16: "Okay, so five to ten, I I think it's it's feasible. I'll make it."
+AE_ID IS1005c.A.argumentstructs.Rutger.11: "Okay. So we are agree with a small"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.A.argumentstructs.Rutger.11
+---------------------------------
+target=IS1005c.C.argumentstructs.Rutger.4
+source=IS1005c.A.argumentstructs.Rutger.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.B.argumentstructs.Rutger.17:
+"Fo Five by ten."
+
+Past dialogue turns:
+AE_ID IS1005c.C.argumentstructs.11: "Mm-hmm. Mm."
+AE_ID IS1005c.A.argumentstructs.Rutger.10: "Oh. I've I s I think the easiest thing would be to to have a smaller L_C_D_, if it's possible."
+AE_ID IS1005c.B.argumentstructs.Rutger.16: "Okay, so five to ten, I I think it's it's feasible. I'll make it."
+AE_ID IS1005c.A.argumentstructs.Rutger.11: "Okay. So we are agree with a small"
+AE_ID IS1005c.C.argumentstructs.Rutger.4: "Or uh or I don't know but I don't want to now invent something new, because we didn't discuss about it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.B.argumentstructs.Rutger.16
+---------------------------------
+target=IS1005c.B.argumentstructs.Rutger.17
+source=IS1005c.C.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.A.argumentstructs.Rutger.12:
+"L_C_D_.  Yeah. Tactile or something, yeah. Touch screen, yeah."
+
+Past dialogue turns:
+AE_ID IS1005c.A.argumentstructs.Rutger.10: "Oh. I've I s I think the easiest thing would be to to have a smaller L_C_D_, if it's possible."
+AE_ID IS1005c.B.argumentstructs.Rutger.16: "Okay, so five to ten, I I think it's it's feasible. I'll make it."
+AE_ID IS1005c.A.argumentstructs.Rutger.11: "Okay. So we are agree with a small"
+AE_ID IS1005c.C.argumentstructs.Rutger.4: "Or uh or I don't know but I don't want to now invent something new, because we didn't discuss about it."
+AE_ID IS1005c.B.argumentstructs.Rutger.17: "Fo Five by ten."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.A.argumentstructs.Rutger.10
+---------------------------------
+target=IS1005c.A.argumentstructs.Rutger.12
+source=IS1005c.C.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.C.argumentstructs.Rutger.5:
+"So using some L_C_D_s we can touch, so we can remove uh keys and just uh having uh, I dunno the name, L_C_D_ responding to fingers. Touching the screen. Something like  Mm like tactile."
+
+Past dialogue turns:
+AE_ID IS1005c.B.argumentstructs.Rutger.16: "Okay, so five to ten, I I think it's it's feasible. I'll make it."
+AE_ID IS1005c.A.argumentstructs.Rutger.11: "Okay. So we are agree with a small"
+AE_ID IS1005c.C.argumentstructs.Rutger.4: "Or uh or I don't know but I don't want to now invent something new, because we didn't discuss about it."
+AE_ID IS1005c.B.argumentstructs.Rutger.17: "Fo Five by ten."
+AE_ID IS1005c.A.argumentstructs.Rutger.12: "L_C_D_.  Yeah. Tactile or something, yeah. Touch screen, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.A.argumentstructs.Rutger.12
+---------------------------------
+target=IS1005c.C.argumentstructs.Rutger.5
+source=IS1005c.C.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.D.argumentstructs.Rutger.10:
+"Mm, touch screen."
+
+Past dialogue turns:
+AE_ID IS1005c.A.argumentstructs.Rutger.11: "Okay. So we are agree with a small"
+AE_ID IS1005c.C.argumentstructs.Rutger.4: "Or uh or I don't know but I don't want to now invent something new, because we didn't discuss about it."
+AE_ID IS1005c.B.argumentstructs.Rutger.17: "Fo Five by ten."
+AE_ID IS1005c.A.argumentstructs.Rutger.12: "L_C_D_.  Yeah. Tactile or something, yeah. Touch screen, yeah."
+AE_ID IS1005c.C.argumentstructs.Rutger.5: "So using some L_C_D_s we can touch, so we can remove uh keys and just uh having uh, I dunno the name, L_C_D_ responding to fingers. Touching the screen. Something like  Mm like tactile."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.A.argumentstructs.Rutger.12
+---------------------------------
+target=IS1005c.D.argumentstructs.Rutger.10
+source=IS1005c.C.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.C.argumentstructs.Rutger.6:
+"So  But for now if we don't want to use such kind of screens I I think we using a a smaller screen is better, because"
+
+Past dialogue turns:
+AE_ID IS1005c.C.argumentstructs.Rutger.4: "Or uh or I don't know but I don't want to now invent something new, because we didn't discuss about it."
+AE_ID IS1005c.B.argumentstructs.Rutger.17: "Fo Five by ten."
+AE_ID IS1005c.A.argumentstructs.Rutger.12: "L_C_D_.  Yeah. Tactile or something, yeah. Touch screen, yeah."
+AE_ID IS1005c.C.argumentstructs.Rutger.5: "So using some L_C_D_s we can touch, so we can remove uh keys and just uh having uh, I dunno the name, L_C_D_ responding to fingers. Touching the screen. Something like  Mm like tactile."
+AE_ID IS1005c.D.argumentstructs.Rutger.10: "Mm, touch screen."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.D.argumentstructs.Rutger.10
+---------------------------------
+target=IS1005c.C.argumentstructs.Rutger.6
+source=IS1005c.C.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.A.argumentstructs.Rutger.13:
+"Yeah. The problem is we have a limit in a month of time, so we cannot do something very new."
+
+Past dialogue turns:
+AE_ID IS1005c.B.argumentstructs.Rutger.17: "Fo Five by ten."
+AE_ID IS1005c.A.argumentstructs.Rutger.12: "L_C_D_.  Yeah. Tactile or something, yeah. Touch screen, yeah."
+AE_ID IS1005c.C.argumentstructs.Rutger.5: "So using some L_C_D_s we can touch, so we can remove uh keys and just uh having uh, I dunno the name, L_C_D_ responding to fingers. Touching the screen. Something like  Mm like tactile."
+AE_ID IS1005c.D.argumentstructs.Rutger.10: "Mm, touch screen."
+AE_ID IS1005c.C.argumentstructs.Rutger.6: "So  But for now if we don't want to use such kind of screens I I think we using a a smaller screen is better, because"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.C.argumentstructs.Rutger.5
+---------------------------------
+target=IS1005c.A.argumentstructs.Rutger.13
+source=IS1005c.C.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.B.argumentstructs.20:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1005c.A.argumentstructs.Rutger.12: "L_C_D_.  Yeah. Tactile or something, yeah. Touch screen, yeah."
+AE_ID IS1005c.C.argumentstructs.Rutger.5: "So using some L_C_D_s we can touch, so we can remove uh keys and just uh having uh, I dunno the name, L_C_D_ responding to fingers. Touching the screen. Something like  Mm like tactile."
+AE_ID IS1005c.D.argumentstructs.Rutger.10: "Mm, touch screen."
+AE_ID IS1005c.C.argumentstructs.Rutger.6: "So  But for now if we don't want to use such kind of screens I I think we using a a smaller screen is better, because"
+AE_ID IS1005c.A.argumentstructs.Rutger.13: "Yeah. The problem is we have a limit in a month of time, so we cannot do something very new."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.D.argumentstructs.Rutger.10
+---------------------------------
+target=IS1005c.B.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.A.argumentstructs.Rutger.14:
+"So let's go for a small L_C_D_."
+
+Past dialogue turns:
+AE_ID IS1005c.C.argumentstructs.Rutger.5: "So using some L_C_D_s we can touch, so we can remove uh keys and just uh having uh, I dunno the name, L_C_D_ responding to fingers. Touching the screen. Something like  Mm like tactile."
+AE_ID IS1005c.D.argumentstructs.Rutger.10: "Mm, touch screen."
+AE_ID IS1005c.C.argumentstructs.Rutger.6: "So  But for now if we don't want to use such kind of screens I I think we using a a smaller screen is better, because"
+AE_ID IS1005c.A.argumentstructs.Rutger.13: "Yeah. The problem is we have a limit in a month of time, so we cannot do something very new."
+AE_ID IS1005c.B.argumentstructs.20: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.C.argumentstructs.Rutger.5
+---------------------------------
+target=IS1005c.A.argumentstructs.Rutger.14
+source=IS1005c.C.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.D.argumentstructs.12:
+"So"
+
+Past dialogue turns:
+AE_ID IS1005c.D.argumentstructs.Rutger.10: "Mm, touch screen."
+AE_ID IS1005c.C.argumentstructs.Rutger.6: "So  But for now if we don't want to use such kind of screens I I think we using a a smaller screen is better, because"
+AE_ID IS1005c.A.argumentstructs.Rutger.13: "Yeah. The problem is we have a limit in a month of time, so we cannot do something very new."
+AE_ID IS1005c.B.argumentstructs.20: "Mm-hmm."
+AE_ID IS1005c.A.argumentstructs.Rutger.14: "So let's go for a small L_C_D_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.C.argumentstructs.Rutger.6
+---------------------------------
+target=IS1005c.D.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.B.argumentstructs.Rutger.18:
+"Okay, so Yeah, so so just just give me the the the five by ten numbers that you find the best and send it me and I will work it out."
+
+Past dialogue turns:
+AE_ID IS1005c.C.argumentstructs.Rutger.6: "So  But for now if we don't want to use such kind of screens I I think we using a a smaller screen is better, because"
+AE_ID IS1005c.A.argumentstructs.Rutger.13: "Yeah. The problem is we have a limit in a month of time, so we cannot do something very new."
+AE_ID IS1005c.B.argumentstructs.20: "Mm-hmm."
+AE_ID IS1005c.A.argumentstructs.Rutger.14: "So let's go for a small L_C_D_."
+AE_ID IS1005c.D.argumentstructs.12: "So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.A.argumentstructs.Rutger.13
+---------------------------------
+target=IS1005c.B.argumentstructs.Rutger.18
+source=IS1005c.A.argumentstructs.Rutger.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.C.argumentstructs.Rutger.7:
+"A smaller s Okay"
+
+Past dialogue turns:
+AE_ID IS1005c.A.argumentstructs.Rutger.13: "Yeah. The problem is we have a limit in a month of time, so we cannot do something very new."
+AE_ID IS1005c.B.argumentstructs.20: "Mm-hmm."
+AE_ID IS1005c.A.argumentstructs.Rutger.14: "So let's go for a small L_C_D_."
+AE_ID IS1005c.D.argumentstructs.12: "So"
+AE_ID IS1005c.B.argumentstructs.Rutger.18: "Okay, so Yeah, so so just just give me the the the five by ten numbers that you find the best and send it me and I will work it out."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.A.argumentstructs.Rutger.14
+---------------------------------
+target=IS1005c.C.argumentstructs.Rutger.7
+source=IS1005c.A.argumentstructs.Rutger.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.A.argumentstructs.Rutger.15:
+"Yeah okay. So, five by s ten."
+
+Past dialogue turns:
+AE_ID IS1005c.B.argumentstructs.20: "Mm-hmm."
+AE_ID IS1005c.A.argumentstructs.Rutger.14: "So let's go for a small L_C_D_."
+AE_ID IS1005c.D.argumentstructs.12: "So"
+AE_ID IS1005c.B.argumentstructs.Rutger.18: "Okay, so Yeah, so so just just give me the the the five by ten numbers that you find the best and send it me and I will work it out."
+AE_ID IS1005c.C.argumentstructs.Rutger.7: "A smaller s Okay"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.B.argumentstructs.20
+---------------------------------
+target=IS1005c.A.argumentstructs.Rutger.15
+source=IS1005c.C.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005c.C.argumentstructs.12:
+"."
+
+Past dialogue turns:
+AE_ID IS1005c.A.argumentstructs.Rutger.14: "So let's go for a small L_C_D_."
+AE_ID IS1005c.D.argumentstructs.12: "So"
+AE_ID IS1005c.B.argumentstructs.Rutger.18: "Okay, so Yeah, so so just just give me the the the five by ten numbers that you find the best and send it me and I will work it out."
+AE_ID IS1005c.C.argumentstructs.Rutger.7: "A smaller s Okay"
+AE_ID IS1005c.A.argumentstructs.Rutger.15: "Yeah okay. So, five by s ten."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005c.A.argumentstructs.Rutger.15
+---------------------------------
+target=IS1005c.C.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1005c-Remote size.csv - True Judgement Ratio: 21.21%

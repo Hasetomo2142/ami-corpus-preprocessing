@@ -1,0 +1,612 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.1:
+"So, that's  those are my f preferences, and that's my presentation."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.A.argumentstructs.Daan.1:
+"Yeah, let me uh interrupt you uh if you can add other facility, other feature, like uh unbreakable."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.1: "So, that's  those are my f preferences, and that's my presentation."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1008b.A.argumentstructs.Daan.1
+source=IS1008b.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.23:
+"Yes."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.1: "So, that's  those are my f preferences, and that's my presentation."
+AE_ID IS1008b.A.argumentstructs.Daan.1: "Yeah, let me uh interrupt you uh if you can add other facility, other feature, like uh unbreakable."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID IS1008b.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1008b.B.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.A.argumentstructs.Daan.2:
+"Okay, because uh especially today, you know, you have the family and the kids, okay, and the kids throw it and they they play with their remotes and."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.1: "So, that's  those are my f preferences, and that's my presentation."
+AE_ID IS1008b.A.argumentstructs.Daan.1: "Yeah, let me uh interrupt you uh if you can add other facility, other feature, like uh unbreakable."
+AE_ID IS1008b.B.argumentstructs.23: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1008b.A.argumentstructs.Daan.2
+source=IS1008b.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.2:
+"Run over it with a car."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.1: "So, that's  those are my f preferences, and that's my presentation."
+AE_ID IS1008b.A.argumentstructs.Daan.1: "Yeah, let me uh interrupt you uh if you can add other facility, other feature, like uh unbreakable."
+AE_ID IS1008b.B.argumentstructs.23: "Yes."
+AE_ID IS1008b.A.argumentstructs.Daan.2: "Okay, because uh especially today, you know, you have the family and the kids, okay, and the kids throw it and they they play with their remotes and."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.2
+source=IS1008b.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.A.argumentstructs.9:
+"Yes."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.1: "So, that's  those are my f preferences, and that's my presentation."
+AE_ID IS1008b.A.argumentstructs.Daan.1: "Yeah, let me uh interrupt you uh if you can add other facility, other feature, like uh unbreakable."
+AE_ID IS1008b.B.argumentstructs.23: "Yes."
+AE_ID IS1008b.A.argumentstructs.Daan.2: "Okay, because uh especially today, you know, you have the family and the kids, okay, and the kids throw it and they they play with their remotes and."
+AE_ID IS1008b.B.argumentstructs.Daan.2: "Run over it with a car."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.23
+---------------------------------
+target=IS1008b.A.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.A.argumentstructs.Daan.3:
+"Okay, so if you can add the feature, okay, for your uh fabric whatever in your outline design okay, with unbreakable, okay, I think that will give a lot of advantage for our product,"
+
+Past dialogue turns:
+AE_ID IS1008b.A.argumentstructs.Daan.1: "Yeah, let me uh interrupt you uh if you can add other facility, other feature, like uh unbreakable."
+AE_ID IS1008b.B.argumentstructs.23: "Yes."
+AE_ID IS1008b.A.argumentstructs.Daan.2: "Okay, because uh especially today, you know, you have the family and the kids, okay, and the kids throw it and they they play with their remotes and."
+AE_ID IS1008b.B.argumentstructs.Daan.2: "Run over it with a car."
+AE_ID IS1008b.A.argumentstructs.9: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1008b.A.argumentstructs.Daan.3
+source=IS1008b.A.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.3:
+"Good idea. Good idea, I'll I'll uh um"
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.23: "Yes."
+AE_ID IS1008b.A.argumentstructs.Daan.2: "Okay, because uh especially today, you know, you have the family and the kids, okay, and the kids throw it and they they play with their remotes and."
+AE_ID IS1008b.B.argumentstructs.Daan.2: "Run over it with a car."
+AE_ID IS1008b.A.argumentstructs.9: "Yes."
+AE_ID IS1008b.A.argumentstructs.Daan.3: "Okay, so if you can add the feature, okay, for your uh fabric whatever in your outline design okay, with unbreakable, okay, I think that will give a lot of advantage for our product,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.A.argumentstructs.Daan.3
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.3
+source=IS1008b.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.A.argumentstructs.10:
+"if I'm not wrong. Maybe you can uh add it in that."
+
+Past dialogue turns:
+AE_ID IS1008b.A.argumentstructs.Daan.2: "Okay, because uh especially today, you know, you have the family and the kids, okay, and the kids throw it and they they play with their remotes and."
+AE_ID IS1008b.B.argumentstructs.Daan.2: "Run over it with a car."
+AE_ID IS1008b.A.argumentstructs.9: "Yes."
+AE_ID IS1008b.A.argumentstructs.Daan.3: "Okay, so if you can add the feature, okay, for your uh fabric whatever in your outline design okay, with unbreakable, okay, I think that will give a lot of advantage for our product,"
+AE_ID IS1008b.B.argumentstructs.Daan.3: "Good idea. Good idea, I'll I'll uh um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.A.argumentstructs.Daan.3
+---------------------------------
+target=IS1008b.A.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.24:
+"Yes, very good. Hmm."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.2: "Run over it with a car."
+AE_ID IS1008b.A.argumentstructs.9: "Yes."
+AE_ID IS1008b.A.argumentstructs.Daan.3: "Okay, so if you can add the feature, okay, for your uh fabric whatever in your outline design okay, with unbreakable, okay, I think that will give a lot of advantage for our product,"
+AE_ID IS1008b.B.argumentstructs.Daan.3: "Good idea. Good idea, I'll I'll uh um"
+AE_ID IS1008b.A.argumentstructs.10: "if I'm not wrong. Maybe you can uh add it in that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.3
+---------------------------------
+target=IS1008b.B.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.A.argumentstructs.Daan.4:
+"Okay, uh thank you Christine, and uh uh any questions or uh clarifications, or any discussion on the functional design ?"
+
+Past dialogue turns:
+AE_ID IS1008b.A.argumentstructs.9: "Yes."
+AE_ID IS1008b.A.argumentstructs.Daan.3: "Okay, so if you can add the feature, okay, for your uh fabric whatever in your outline design okay, with unbreakable, okay, I think that will give a lot of advantage for our product,"
+AE_ID IS1008b.B.argumentstructs.Daan.3: "Good idea. Good idea, I'll I'll uh um"
+AE_ID IS1008b.A.argumentstructs.10: "if I'm not wrong. Maybe you can uh add it in that."
+AE_ID IS1008b.B.argumentstructs.24: "Yes, very good. Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.A.argumentstructs.Daan.3
+---------------------------------
+target=IS1008b.A.argumentstructs.Daan.4
+source=IS1008b.B.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.C.argumentstructs.Daan.1:
+"Do you have any preconceived ideas in terms of materials ?"
+
+Past dialogue turns:
+AE_ID IS1008b.A.argumentstructs.Daan.3: "Okay, so if you can add the feature, okay, for your uh fabric whatever in your outline design okay, with unbreakable, okay, I think that will give a lot of advantage for our product,"
+AE_ID IS1008b.B.argumentstructs.Daan.3: "Good idea. Good idea, I'll I'll uh um"
+AE_ID IS1008b.A.argumentstructs.10: "if I'm not wrong. Maybe you can uh add it in that."
+AE_ID IS1008b.B.argumentstructs.24: "Yes, very good. Hmm."
+AE_ID IS1008b.A.argumentstructs.Daan.4: "Okay, uh thank you Christine, and uh uh any questions or uh clarifications, or any discussion on the functional design ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.A.argumentstructs.Daan.4
+---------------------------------
+target=IS1008b.C.argumentstructs.Daan.1
+source=IS1008b.A.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.C.argumentstructs.Daan.2:
+"'Cause, for example, in the unbreakable thing, doing something plastic would be harder, whereas having something like, I dunno, steel or titanium isn't really economically viable."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.3: "Good idea. Good idea, I'll I'll uh um"
+AE_ID IS1008b.A.argumentstructs.10: "if I'm not wrong. Maybe you can uh add it in that."
+AE_ID IS1008b.B.argumentstructs.24: "Yes, very good. Hmm."
+AE_ID IS1008b.A.argumentstructs.Daan.4: "Okay, uh thank you Christine, and uh uh any questions or uh clarifications, or any discussion on the functional design ?"
+AE_ID IS1008b.C.argumentstructs.Daan.1: "Do you have any preconceived ideas in terms of materials ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1008b.C.argumentstructs.Daan.2
+source=IS1008b.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.4:
+"Titanium. Titanium would be  be heavy, too, wouldn't it ?"
+
+Past dialogue turns:
+AE_ID IS1008b.A.argumentstructs.10: "if I'm not wrong. Maybe you can uh add it in that."
+AE_ID IS1008b.B.argumentstructs.24: "Yes, very good. Hmm."
+AE_ID IS1008b.A.argumentstructs.Daan.4: "Okay, uh thank you Christine, and uh uh any questions or uh clarifications, or any discussion on the functional design ?"
+AE_ID IS1008b.C.argumentstructs.Daan.1: "Do you have any preconceived ideas in terms of materials ?"
+AE_ID IS1008b.C.argumentstructs.Daan.2: "'Cause, for example, in the unbreakable thing, doing something plastic would be harder, whereas having something like, I dunno, steel or titanium isn't really economically viable."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.C.argumentstructs.Daan.2
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.4
+source=IS1008b.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.D.argumentstructs.4:
+"Titanium."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.24: "Yes, very good. Hmm."
+AE_ID IS1008b.A.argumentstructs.Daan.4: "Okay, uh thank you Christine, and uh uh any questions or uh clarifications, or any discussion on the functional design ?"
+AE_ID IS1008b.C.argumentstructs.Daan.1: "Do you have any preconceived ideas in terms of materials ?"
+AE_ID IS1008b.C.argumentstructs.Daan.2: "'Cause, for example, in the unbreakable thing, doing something plastic would be harder, whereas having something like, I dunno, steel or titanium isn't really economically viable."
+AE_ID IS1008b.B.argumentstructs.Daan.4: "Titanium. Titanium would be  be heavy, too, wouldn't it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1008b.D.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.C.argumentstructs.17:
+"Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID IS1008b.A.argumentstructs.Daan.4: "Okay, uh thank you Christine, and uh uh any questions or uh clarifications, or any discussion on the functional design ?"
+AE_ID IS1008b.C.argumentstructs.Daan.1: "Do you have any preconceived ideas in terms of materials ?"
+AE_ID IS1008b.C.argumentstructs.Daan.2: "'Cause, for example, in the unbreakable thing, doing something plastic would be harder, whereas having something like, I dunno, steel or titanium isn't really economically viable."
+AE_ID IS1008b.B.argumentstructs.Daan.4: "Titanium. Titanium would be  be heavy, too, wouldn't it ?"
+AE_ID IS1008b.D.argumentstructs.4: "Titanium."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1008b.C.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.5:
+"No, I haven't really um  I wanted feedback, I think we need to rate  rank these, but we'll see what your uh personal preferences are and your thoughts."
+
+Past dialogue turns:
+AE_ID IS1008b.C.argumentstructs.Daan.1: "Do you have any preconceived ideas in terms of materials ?"
+AE_ID IS1008b.C.argumentstructs.Daan.2: "'Cause, for example, in the unbreakable thing, doing something plastic would be harder, whereas having something like, I dunno, steel or titanium isn't really economically viable."
+AE_ID IS1008b.B.argumentstructs.Daan.4: "Titanium. Titanium would be  be heavy, too, wouldn't it ?"
+AE_ID IS1008b.D.argumentstructs.4: "Titanium."
+AE_ID IS1008b.C.argumentstructs.17: "Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.5
+source=IS1008b.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.C.argumentstructs.Daan.3:
+"Sure, yeah. No, I just wondering whether  that you had any sort of"
+
+Past dialogue turns:
+AE_ID IS1008b.C.argumentstructs.Daan.2: "'Cause, for example, in the unbreakable thing, doing something plastic would be harder, whereas having something like, I dunno, steel or titanium isn't really economically viable."
+AE_ID IS1008b.B.argumentstructs.Daan.4: "Titanium. Titanium would be  be heavy, too, wouldn't it ?"
+AE_ID IS1008b.D.argumentstructs.4: "Titanium."
+AE_ID IS1008b.C.argumentstructs.17: "Yeah. Yeah."
+AE_ID IS1008b.B.argumentstructs.Daan.5: "No, I haven't really um  I wanted feedback, I think we need to rate  rank these, but we'll see what your uh personal preferences are and your thoughts."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1008b.C.argumentstructs.Daan.3
+source=IS1008b.B.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.6:
+"I like titanium. It's light."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.4: "Titanium. Titanium would be  be heavy, too, wouldn't it ?"
+AE_ID IS1008b.D.argumentstructs.4: "Titanium."
+AE_ID IS1008b.C.argumentstructs.17: "Yeah. Yeah."
+AE_ID IS1008b.B.argumentstructs.Daan.5: "No, I haven't really um  I wanted feedback, I think we need to rate  rank these, but we'll see what your uh personal preferences are and your thoughts."
+AE_ID IS1008b.C.argumentstructs.Daan.3: "Sure, yeah. No, I just wondering whether  that you had any sort of"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.6
+source=IS1008b.B.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.D.argumentstructs.Daan.1:
+"Expensive."
+
+Past dialogue turns:
+AE_ID IS1008b.D.argumentstructs.4: "Titanium."
+AE_ID IS1008b.C.argumentstructs.17: "Yeah. Yeah."
+AE_ID IS1008b.B.argumentstructs.Daan.5: "No, I haven't really um  I wanted feedback, I think we need to rate  rank these, but we'll see what your uh personal preferences are and your thoughts."
+AE_ID IS1008b.C.argumentstructs.Daan.3: "Sure, yeah. No, I just wondering whether  that you had any sort of"
+AE_ID IS1008b.B.argumentstructs.Daan.6: "I like titanium. It's light."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.6
+---------------------------------
+target=IS1008b.D.argumentstructs.Daan.1
+source=IS1008b.B.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.7:
+"Uh  yeah but uh who who said  who said we were, you know, nobody told me how mu what our financial objective is, so um"
+
+Past dialogue turns:
+AE_ID IS1008b.C.argumentstructs.17: "Yeah. Yeah."
+AE_ID IS1008b.B.argumentstructs.Daan.5: "No, I haven't really um  I wanted feedback, I think we need to rate  rank these, but we'll see what your uh personal preferences are and your thoughts."
+AE_ID IS1008b.C.argumentstructs.Daan.3: "Sure, yeah. No, I just wondering whether  that you had any sort of"
+AE_ID IS1008b.B.argumentstructs.Daan.6: "I like titanium. It's light."
+AE_ID IS1008b.D.argumentstructs.Daan.1: "Expensive."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.7
+source=IS1008b.D.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.C.argumentstructs.18:
+"The marketing comes out."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.5: "No, I haven't really um  I wanted feedback, I think we need to rate  rank these, but we'll see what your uh personal preferences are and your thoughts."
+AE_ID IS1008b.C.argumentstructs.Daan.3: "Sure, yeah. No, I just wondering whether  that you had any sort of"
+AE_ID IS1008b.B.argumentstructs.Daan.6: "I like titanium. It's light."
+AE_ID IS1008b.D.argumentstructs.Daan.1: "Expensive."
+AE_ID IS1008b.B.argumentstructs.Daan.7: "Uh  yeah but uh who who said  who said we were, you know, nobody told me how mu what our financial objective is, so um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1008b.C.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.A.argumentstructs.11:
+"Yeah so"
+
+Past dialogue turns:
+AE_ID IS1008b.C.argumentstructs.Daan.3: "Sure, yeah. No, I just wondering whether  that you had any sort of"
+AE_ID IS1008b.B.argumentstructs.Daan.6: "I like titanium. It's light."
+AE_ID IS1008b.D.argumentstructs.Daan.1: "Expensive."
+AE_ID IS1008b.B.argumentstructs.Daan.7: "Uh  yeah but uh who who said  who said we were, you know, nobody told me how mu what our financial objective is, so um"
+AE_ID IS1008b.C.argumentstructs.18: "The marketing comes out."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.7
+---------------------------------
+target=IS1008b.A.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.B.argumentstructs.Daan.8:
+"It'd be hard to inflate something ou made out of titanium though."
+
+Past dialogue turns:
+AE_ID IS1008b.B.argumentstructs.Daan.6: "I like titanium. It's light."
+AE_ID IS1008b.D.argumentstructs.Daan.1: "Expensive."
+AE_ID IS1008b.B.argumentstructs.Daan.7: "Uh  yeah but uh who who said  who said we were, you know, nobody told me how mu what our financial objective is, so um"
+AE_ID IS1008b.C.argumentstructs.18: "The marketing comes out."
+AE_ID IS1008b.A.argumentstructs.11: "Yeah so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.6
+---------------------------------
+target=IS1008b.B.argumentstructs.Daan.8
+source=IS1008b.B.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008b.A.argumentstructs.Daan.5:
+"Yeah the the  I'm sorry because uh the last meeting we supposed to discuss about the financial thing."
+
+Past dialogue turns:
+AE_ID IS1008b.D.argumentstructs.Daan.1: "Expensive."
+AE_ID IS1008b.B.argumentstructs.Daan.7: "Uh  yeah but uh who who said  who said we were, you know, nobody told me how mu what our financial objective is, so um"
+AE_ID IS1008b.C.argumentstructs.18: "The marketing comes out."
+AE_ID IS1008b.A.argumentstructs.11: "Yeah so"
+AE_ID IS1008b.B.argumentstructs.Daan.8: "It'd be hard to inflate something ou made out of titanium though."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008b.B.argumentstructs.Daan.7
+---------------------------------
+target=IS1008b.A.argumentstructs.Daan.5
+source=IS1008b.B.argumentstructs.Daan.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1008b-Additional features.csv - True Judgement Ratio: 40.00%

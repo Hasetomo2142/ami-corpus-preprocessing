@@ -1,0 +1,1112 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.C.argumentstructs.Daan.1:
+"A lot of buttons. And you always lose them. A lot of buttons which you don't use or who you don't use Complex."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3005a.C.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.8:
+"Yeah. Complex. No. No. Boring."
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.Daan.1: "A lot of buttons. And you always lose them. A lot of buttons which you don't use or who you don't use Complex."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3005a.D.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.8:
+"Yes. Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.Daan.1: "A lot of buttons. And you always lose them. A lot of buttons which you don't use or who you don't use Complex."
+AE_ID TS3005a.D.argumentstructs.8: "Yeah. Complex. No. No. Boring."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.D.argumentstructs.8
+---------------------------------
+target=TS3005a.B.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.A.argumentstructs.5:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.Daan.1: "A lot of buttons. And you always lose them. A lot of buttons which you don't use or who you don't use Complex."
+AE_ID TS3005a.D.argumentstructs.8: "Yeah. Complex. No. No. Boring."
+AE_ID TS3005a.B.argumentstructs.8: "Yes. Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.D.argumentstructs.8
+---------------------------------
+target=TS3005a.A.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.C.argumentstructs.Daan.2:
+"Not user friendly."
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.Daan.1: "A lot of buttons. And you always lose them. A lot of buttons which you don't use or who you don't use Complex."
+AE_ID TS3005a.D.argumentstructs.8: "Yeah. Complex. No. No. Boring."
+AE_ID TS3005a.B.argumentstructs.8: "Yes. Yeah. Yeah."
+AE_ID TS3005a.A.argumentstructs.5: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3005a.C.argumentstructs.Daan.2
+source=TS3005a.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.Daan.1:
+"search for the buttons, which one is which and uh"
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.Daan.1: "A lot of buttons. And you always lose them. A lot of buttons which you don't use or who you don't use Complex."
+AE_ID TS3005a.D.argumentstructs.8: "Yeah. Complex. No. No. Boring."
+AE_ID TS3005a.B.argumentstructs.8: "Yes. Yeah. Yeah."
+AE_ID TS3005a.A.argumentstructs.5: "Mm-hmm."
+AE_ID TS3005a.C.argumentstructs.Daan.2: "Not user friendly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3005a.B.argumentstructs.Daan.1
+source=TS3005a.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.A.argumentstructs.Daan.1:
+"Boring, it's not fun to use a remote."
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.8: "Yeah. Complex. No. No. Boring."
+AE_ID TS3005a.B.argumentstructs.8: "Yes. Yeah. Yeah."
+AE_ID TS3005a.A.argumentstructs.5: "Mm-hmm."
+AE_ID TS3005a.C.argumentstructs.Daan.2: "Not user friendly."
+AE_ID TS3005a.B.argumentstructs.Daan.1: "search for the buttons, which one is which and uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.D.argumentstructs.8
+---------------------------------
+target=TS3005a.A.argumentstructs.Daan.1
+source=TS3005a.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.Daan.1:
+"No. Black, all black."
+
+Past dialogue turns:
+AE_ID TS3005a.B.argumentstructs.8: "Yes. Yeah. Yeah."
+AE_ID TS3005a.A.argumentstructs.5: "Mm-hmm."
+AE_ID TS3005a.C.argumentstructs.Daan.2: "Not user friendly."
+AE_ID TS3005a.B.argumentstructs.Daan.1: "search for the buttons, which one is which and uh"
+AE_ID TS3005a.A.argumentstructs.Daan.1: "Boring, it's not fun to use a remote."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.B.argumentstructs.Daan.1
+---------------------------------
+target=TS3005a.D.argumentstructs.Daan.1
+source=TS3005a.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.C.argumentstructs.8:
+"Mm."
+
+Past dialogue turns:
+AE_ID TS3005a.A.argumentstructs.5: "Mm-hmm."
+AE_ID TS3005a.C.argumentstructs.Daan.2: "Not user friendly."
+AE_ID TS3005a.B.argumentstructs.Daan.1: "search for the buttons, which one is which and uh"
+AE_ID TS3005a.A.argumentstructs.Daan.1: "Boring, it's not fun to use a remote."
+AE_ID TS3005a.D.argumentstructs.Daan.1: "No. Black, all black."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.A.argumentstructs.5
+---------------------------------
+target=TS3005a.C.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.9:
+"Well."
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.Daan.2: "Not user friendly."
+AE_ID TS3005a.B.argumentstructs.Daan.1: "search for the buttons, which one is which and uh"
+AE_ID TS3005a.A.argumentstructs.Daan.1: "Boring, it's not fun to use a remote."
+AE_ID TS3005a.D.argumentstructs.Daan.1: "No. Black, all black."
+AE_ID TS3005a.C.argumentstructs.8: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3005a.B.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.A.argumentstructs.6:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID TS3005a.B.argumentstructs.Daan.1: "search for the buttons, which one is which and uh"
+AE_ID TS3005a.A.argumentstructs.Daan.1: "Boring, it's not fun to use a remote."
+AE_ID TS3005a.D.argumentstructs.Daan.1: "No. Black, all black."
+AE_ID TS3005a.C.argumentstructs.8: "Mm."
+AE_ID TS3005a.B.argumentstructs.9: "Well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3005a.A.argumentstructs.6
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.9:
+"So, yeah. Mm-hmm. Yeah."
+
+Past dialogue turns:
+AE_ID TS3005a.A.argumentstructs.Daan.1: "Boring, it's not fun to use a remote."
+AE_ID TS3005a.D.argumentstructs.Daan.1: "No. Black, all black."
+AE_ID TS3005a.C.argumentstructs.8: "Mm."
+AE_ID TS3005a.B.argumentstructs.9: "Well."
+AE_ID TS3005a.A.argumentstructs.6: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.A.argumentstructs.6
+---------------------------------
+target=TS3005a.D.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.C.argumentstructs.Daan.3:
+"Black colours."
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.Daan.1: "No. Black, all black."
+AE_ID TS3005a.C.argumentstructs.8: "Mm."
+AE_ID TS3005a.B.argumentstructs.9: "Well."
+AE_ID TS3005a.A.argumentstructs.6: "Mm-hmm."
+AE_ID TS3005a.D.argumentstructs.9: "So, yeah. Mm-hmm. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3005a.C.argumentstructs.Daan.3
+source=TS3005a.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.A.argumentstructs.Daan.2:
+"Well maybe we should try to make it fun"
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.8: "Mm."
+AE_ID TS3005a.B.argumentstructs.9: "Well."
+AE_ID TS3005a.A.argumentstructs.6: "Mm-hmm."
+AE_ID TS3005a.D.argumentstructs.9: "So, yeah. Mm-hmm. Yeah."
+AE_ID TS3005a.C.argumentstructs.Daan.3: "Black colours."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.B.argumentstructs.9
+---------------------------------
+target=TS3005a.A.argumentstructs.Daan.2
+source=TS3005a.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.A.argumentstructs.7:
+". Mm-hmm. Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID TS3005a.B.argumentstructs.9: "Well."
+AE_ID TS3005a.A.argumentstructs.6: "Mm-hmm."
+AE_ID TS3005a.D.argumentstructs.9: "So, yeah. Mm-hmm. Yeah."
+AE_ID TS3005a.C.argumentstructs.Daan.3: "Black colours."
+AE_ID TS3005a.A.argumentstructs.Daan.2: "Well maybe we should try to make it fun"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.A.argumentstructs.6
+---------------------------------
+target=TS3005a.A.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.C.argumentstructs.Daan.4:
+"They use batteries and  batteries uh and poor signal."
+
+Past dialogue turns:
+AE_ID TS3005a.A.argumentstructs.6: "Mm-hmm."
+AE_ID TS3005a.D.argumentstructs.9: "So, yeah. Mm-hmm. Yeah."
+AE_ID TS3005a.C.argumentstructs.Daan.3: "Black colours."
+AE_ID TS3005a.A.argumentstructs.Daan.2: "Well maybe we should try to make it fun"
+AE_ID TS3005a.A.argumentstructs.7: ". Mm-hmm. Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.C.argumentstructs.Daan.3
+---------------------------------
+target=TS3005a.C.argumentstructs.Daan.4
+source=TS3005a.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.C.argumentstructs.9:
+"Uh."
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.9: "So, yeah. Mm-hmm. Yeah."
+AE_ID TS3005a.C.argumentstructs.Daan.3: "Black colours."
+AE_ID TS3005a.A.argumentstructs.Daan.2: "Well maybe we should try to make it fun"
+AE_ID TS3005a.A.argumentstructs.7: ". Mm-hmm. Mm-hmm. Mm-hmm."
+AE_ID TS3005a.C.argumentstructs.Daan.4: "They use batteries and  batteries uh and poor signal."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.D.argumentstructs.9
+---------------------------------
+target=TS3005a.C.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.Daan.2:
+"The the angle you have to use"
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.Daan.3: "Black colours."
+AE_ID TS3005a.A.argumentstructs.Daan.2: "Well maybe we should try to make it fun"
+AE_ID TS3005a.A.argumentstructs.7: ". Mm-hmm. Mm-hmm. Mm-hmm."
+AE_ID TS3005a.C.argumentstructs.Daan.4: "They use batteries and  batteries uh and poor signal."
+AE_ID TS3005a.C.argumentstructs.9: "Uh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3005a.D.argumentstructs.Daan.2
+source=TS3005a.C.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.Daan.2:
+"Perhaps that you have a lot of road remotes r road con remote controls.  Yes, perhaps you can integrate them or something."
+
+Past dialogue turns:
+AE_ID TS3005a.A.argumentstructs.Daan.2: "Well maybe we should try to make it fun"
+AE_ID TS3005a.A.argumentstructs.7: ". Mm-hmm. Mm-hmm. Mm-hmm."
+AE_ID TS3005a.C.argumentstructs.Daan.4: "They use batteries and  batteries uh and poor signal."
+AE_ID TS3005a.C.argumentstructs.9: "Uh."
+AE_ID TS3005a.D.argumentstructs.Daan.2: "The the angle you have to use"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.C.argumentstructs.Daan.4
+---------------------------------
+target=TS3005a.B.argumentstructs.Daan.2
+source=TS3005a.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.10:
+"."
+
+Past dialogue turns:
+AE_ID TS3005a.A.argumentstructs.7: ". Mm-hmm. Mm-hmm. Mm-hmm."
+AE_ID TS3005a.C.argumentstructs.Daan.4: "They use batteries and  batteries uh and poor signal."
+AE_ID TS3005a.C.argumentstructs.9: "Uh."
+AE_ID TS3005a.D.argumentstructs.Daan.2: "The the angle you have to use"
+AE_ID TS3005a.B.argumentstructs.Daan.2: "Perhaps that you have a lot of road remotes r road con remote controls.  Yes, perhaps you can integrate them or something."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3005a.D.argumentstructs.10
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.Daan.3:
+"You had different remote controls for different devices. Yes."
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.Daan.4: "They use batteries and  batteries uh and poor signal."
+AE_ID TS3005a.C.argumentstructs.9: "Uh."
+AE_ID TS3005a.D.argumentstructs.Daan.2: "The the angle you have to use"
+AE_ID TS3005a.B.argumentstructs.Daan.2: "Perhaps that you have a lot of road remotes r road con remote controls.  Yes, perhaps you can integrate them or something."
+AE_ID TS3005a.D.argumentstructs.10: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.B.argumentstructs.Daan.2
+---------------------------------
+target=TS3005a.D.argumentstructs.Daan.3
+source=TS3005a.B.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.C.argumentstructs.Daan.5:
+"Yeah, different remote controls, yeah. Uh for the use of different uh devices."
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.9: "Uh."
+AE_ID TS3005a.D.argumentstructs.Daan.2: "The the angle you have to use"
+AE_ID TS3005a.B.argumentstructs.Daan.2: "Perhaps that you have a lot of road remotes r road con remote controls.  Yes, perhaps you can integrate them or something."
+AE_ID TS3005a.D.argumentstructs.10: "."
+AE_ID TS3005a.D.argumentstructs.Daan.3: "You had different remote controls for different devices. Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.D.argumentstructs.Daan.3
+---------------------------------
+target=TS3005a.C.argumentstructs.Daan.5
+source=TS3005a.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.10:
+"Yes."
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.Daan.2: "The the angle you have to use"
+AE_ID TS3005a.B.argumentstructs.Daan.2: "Perhaps that you have a lot of road remotes r road con remote controls.  Yes, perhaps you can integrate them or something."
+AE_ID TS3005a.D.argumentstructs.10: "."
+AE_ID TS3005a.D.argumentstructs.Daan.3: "You had different remote controls for different devices. Yes."
+AE_ID TS3005a.C.argumentstructs.Daan.5: "Yeah, different remote controls, yeah. Uh for the use of different uh devices."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.B.argumentstructs.Daan.2
+---------------------------------
+target=TS3005a.B.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.11:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3005a.B.argumentstructs.Daan.2: "Perhaps that you have a lot of road remotes r road con remote controls.  Yes, perhaps you can integrate them or something."
+AE_ID TS3005a.D.argumentstructs.10: "."
+AE_ID TS3005a.D.argumentstructs.Daan.3: "You had different remote controls for different devices. Yes."
+AE_ID TS3005a.C.argumentstructs.Daan.5: "Yeah, different remote controls, yeah. Uh for the use of different uh devices."
+AE_ID TS3005a.B.argumentstructs.10: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.C.argumentstructs.Daan.5
+---------------------------------
+target=TS3005a.D.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.Daan.3:
+"Your stereo and your T_V_ and uh."
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.10: "."
+AE_ID TS3005a.D.argumentstructs.Daan.3: "You had different remote controls for different devices. Yes."
+AE_ID TS3005a.C.argumentstructs.Daan.5: "Yeah, different remote controls, yeah. Uh for the use of different uh devices."
+AE_ID TS3005a.B.argumentstructs.10: "Yes."
+AE_ID TS3005a.D.argumentstructs.11: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.D.argumentstructs.Daan.3
+---------------------------------
+target=TS3005a.B.argumentstructs.Daan.3
+source=TS3005a.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.Daan.4:
+"Perhaps that's an idea."
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.Daan.3: "You had different remote controls for different devices. Yes."
+AE_ID TS3005a.C.argumentstructs.Daan.5: "Yeah, different remote controls, yeah. Uh for the use of different uh devices."
+AE_ID TS3005a.B.argumentstructs.10: "Yes."
+AE_ID TS3005a.D.argumentstructs.11: "Yeah."
+AE_ID TS3005a.B.argumentstructs.Daan.3: "Your stereo and your T_V_ and uh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.B.argumentstructs.Daan.3
+---------------------------------
+target=TS3005a.B.argumentstructs.Daan.4
+source=TS3005a.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.Daan.4:
+"Yeah but then again you you still have a lot of buttons, so"
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.Daan.5: "Yeah, different remote controls, yeah. Uh for the use of different uh devices."
+AE_ID TS3005a.B.argumentstructs.10: "Yes."
+AE_ID TS3005a.D.argumentstructs.11: "Yeah."
+AE_ID TS3005a.B.argumentstructs.Daan.3: "Your stereo and your T_V_ and uh."
+AE_ID TS3005a.B.argumentstructs.Daan.4: "Perhaps that's an idea."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.C.argumentstructs.Daan.5
+---------------------------------
+target=TS3005a.D.argumentstructs.Daan.4
+source=TS3005a.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.Daan.5:
+"Yeah, that's right. And which you don't use."
+
+Past dialogue turns:
+AE_ID TS3005a.B.argumentstructs.10: "Yes."
+AE_ID TS3005a.D.argumentstructs.11: "Yeah."
+AE_ID TS3005a.B.argumentstructs.Daan.3: "Your stereo and your T_V_ and uh."
+AE_ID TS3005a.B.argumentstructs.Daan.4: "Perhaps that's an idea."
+AE_ID TS3005a.D.argumentstructs.Daan.4: "Yeah but then again you you still have a lot of buttons, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.B.argumentstructs.Daan.4
+---------------------------------
+target=TS3005a.B.argumentstructs.Daan.5
+source=TS3005a.D.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.C.argumentstructs.Daan.6:
+"Yeah but you could uh I thin uh there's a possibility to g uh to uh to put those buttons uh behind some uh kind of uh protection so that if y y you only get to see them when you need 'em."
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.11: "Yeah."
+AE_ID TS3005a.B.argumentstructs.Daan.3: "Your stereo and your T_V_ and uh."
+AE_ID TS3005a.B.argumentstructs.Daan.4: "Perhaps that's an idea."
+AE_ID TS3005a.D.argumentstructs.Daan.4: "Yeah but then again you you still have a lot of buttons, so"
+AE_ID TS3005a.B.argumentstructs.Daan.5: "Yeah, that's right. And which you don't use."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.D.argumentstructs.Daan.4
+---------------------------------
+target=TS3005a.C.argumentstructs.Daan.6
+source=TS3005a.D.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.12:
+"Flap yeah."
+
+Past dialogue turns:
+AE_ID TS3005a.B.argumentstructs.Daan.3: "Your stereo and your T_V_ and uh."
+AE_ID TS3005a.B.argumentstructs.Daan.4: "Perhaps that's an idea."
+AE_ID TS3005a.D.argumentstructs.Daan.4: "Yeah but then again you you still have a lot of buttons, so"
+AE_ID TS3005a.B.argumentstructs.Daan.5: "Yeah, that's right. And which you don't use."
+AE_ID TS3005a.C.argumentstructs.Daan.6: "Yeah but you could uh I thin uh there's a possibility to g uh to uh to put those buttons uh behind some uh kind of uh protection so that if y y you only get to see them when you need 'em."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.B.argumentstructs.Daan.4
+---------------------------------
+target=TS3005a.D.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.Daan.5:
+"Yeah, okay, that's possible, but it'll get very big the the remote control."
+
+Past dialogue turns:
+AE_ID TS3005a.B.argumentstructs.Daan.4: "Perhaps that's an idea."
+AE_ID TS3005a.D.argumentstructs.Daan.4: "Yeah but then again you you still have a lot of buttons, so"
+AE_ID TS3005a.B.argumentstructs.Daan.5: "Yeah, that's right. And which you don't use."
+AE_ID TS3005a.C.argumentstructs.Daan.6: "Yeah but you could uh I thin uh there's a possibility to g uh to uh to put those buttons uh behind some uh kind of uh protection so that if y y you only get to see them when you need 'em."
+AE_ID TS3005a.D.argumentstructs.12: "Flap yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.D.argumentstructs.Daan.4
+---------------------------------
+target=TS3005a.D.argumentstructs.Daan.5
+source=TS3005a.C.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.C.argumentstructs.Daan.7:
+"That's possible, so that you only get the  No n n no, just   Uh for example you got th uh the same size uh remote control you use everyday, but um  the usual buttons such as uh um  zapping uh as you call it in Dutch. Uh and the volume control uh are only the only possible buttons uh to use directly. Or uh  the numbers, of course. But uh not uh the buttons used to search on the the channels on your television. You only use those uh the first time, or."
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.Daan.4: "Yeah but then again you you still have a lot of buttons, so"
+AE_ID TS3005a.B.argumentstructs.Daan.5: "Yeah, that's right. And which you don't use."
+AE_ID TS3005a.C.argumentstructs.Daan.6: "Yeah but you could uh I thin uh there's a possibility to g uh to uh to put those buttons uh behind some uh kind of uh protection so that if y y you only get to see them when you need 'em."
+AE_ID TS3005a.D.argumentstructs.12: "Flap yeah."
+AE_ID TS3005a.D.argumentstructs.Daan.5: "Yeah, okay, that's possible, but it'll get very big the the remote control."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.C.argumentstructs.Daan.6
+---------------------------------
+target=TS3005a.C.argumentstructs.Daan.7
+source=TS3005a.C.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.11:
+"."
+
+Past dialogue turns:
+AE_ID TS3005a.B.argumentstructs.Daan.5: "Yeah, that's right. And which you don't use."
+AE_ID TS3005a.C.argumentstructs.Daan.6: "Yeah but you could uh I thin uh there's a possibility to g uh to uh to put those buttons uh behind some uh kind of uh protection so that if y y you only get to see them when you need 'em."
+AE_ID TS3005a.D.argumentstructs.12: "Flap yeah."
+AE_ID TS3005a.D.argumentstructs.Daan.5: "Yeah, okay, that's possible, but it'll get very big the the remote control."
+AE_ID TS3005a.C.argumentstructs.Daan.7: "That's possible, so that you only get the  No n n no, just   Uh for example you got th uh the same size uh remote control you use everyday, but um  the usual buttons such as uh um  zapping uh as you call it in Dutch. Uh and the volume control uh are only the only possible buttons uh to use directly. Or uh  the numbers, of course. But uh not uh the buttons used to search on the the channels on your television. You only use those uh the first time, or."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.C.argumentstructs.Daan.7
+---------------------------------
+target=TS3005a.B.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.Daan.6:
+"Changing channel."
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.Daan.6: "Yeah but you could uh I thin uh there's a possibility to g uh to uh to put those buttons uh behind some uh kind of uh protection so that if y y you only get to see them when you need 'em."
+AE_ID TS3005a.D.argumentstructs.12: "Flap yeah."
+AE_ID TS3005a.D.argumentstructs.Daan.5: "Yeah, okay, that's possible, but it'll get very big the the remote control."
+AE_ID TS3005a.C.argumentstructs.Daan.7: "That's possible, so that you only get the  No n n no, just   Uh for example you got th uh the same size uh remote control you use everyday, but um  the usual buttons such as uh um  zapping uh as you call it in Dutch. Uh and the volume control uh are only the only possible buttons uh to use directly. Or uh  the numbers, of course. But uh not uh the buttons used to search on the the channels on your television. You only use those uh the first time, or."
+AE_ID TS3005a.B.argumentstructs.11: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.C.argumentstructs.Daan.6
+---------------------------------
+target=TS3005a.B.argumentstructs.Daan.6
+source=TS3005a.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.13:
+"numbers."
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.12: "Flap yeah."
+AE_ID TS3005a.D.argumentstructs.Daan.5: "Yeah, okay, that's possible, but it'll get very big the the remote control."
+AE_ID TS3005a.C.argumentstructs.Daan.7: "That's possible, so that you only get the  No n n no, just   Uh for example you got th uh the same size uh remote control you use everyday, but um  the usual buttons such as uh um  zapping uh as you call it in Dutch. Uh and the volume control uh are only the only possible buttons uh to use directly. Or uh  the numbers, of course. But uh not uh the buttons used to search on the the channels on your television. You only use those uh the first time, or."
+AE_ID TS3005a.B.argumentstructs.11: "."
+AE_ID TS3005a.B.argumentstructs.Daan.6: "Changing channel."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.C.argumentstructs.Daan.7
+---------------------------------
+target=TS3005a.D.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.Daan.6:
+"On and off."
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.Daan.5: "Yeah, okay, that's possible, but it'll get very big the the remote control."
+AE_ID TS3005a.C.argumentstructs.Daan.7: "That's possible, so that you only get the  No n n no, just   Uh for example you got th uh the same size uh remote control you use everyday, but um  the usual buttons such as uh um  zapping uh as you call it in Dutch. Uh and the volume control uh are only the only possible buttons uh to use directly. Or uh  the numbers, of course. But uh not uh the buttons used to search on the the channels on your television. You only use those uh the first time, or."
+AE_ID TS3005a.B.argumentstructs.11: "."
+AE_ID TS3005a.B.argumentstructs.Daan.6: "Changing channel."
+AE_ID TS3005a.D.argumentstructs.13: "numbers."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3005a.D.argumentstructs.Daan.6
+source=TS3005a.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.Daan.7:
+"Yeah, play, pause, stop."
+
+Past dialogue turns:
+AE_ID TS3005a.C.argumentstructs.Daan.7: "That's possible, so that you only get the  No n n no, just   Uh for example you got th uh the same size uh remote control you use everyday, but um  the usual buttons such as uh um  zapping uh as you call it in Dutch. Uh and the volume control uh are only the only possible buttons uh to use directly. Or uh  the numbers, of course. But uh not uh the buttons used to search on the the channels on your television. You only use those uh the first time, or."
+AE_ID TS3005a.B.argumentstructs.11: "."
+AE_ID TS3005a.B.argumentstructs.Daan.6: "Changing channel."
+AE_ID TS3005a.D.argumentstructs.13: "numbers."
+AE_ID TS3005a.D.argumentstructs.Daan.6: "On and off."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.B.argumentstructs.Daan.6
+---------------------------------
+target=TS3005a.D.argumentstructs.Daan.7
+source=TS3005a.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.A.argumentstructs.Daan.3:
+"Mm-hmm. So maybe a a minimalist design, the least uh possible amount uh of buttons."
+
+Past dialogue turns:
+AE_ID TS3005a.B.argumentstructs.11: "."
+AE_ID TS3005a.B.argumentstructs.Daan.6: "Changing channel."
+AE_ID TS3005a.D.argumentstructs.13: "numbers."
+AE_ID TS3005a.D.argumentstructs.Daan.6: "On and off."
+AE_ID TS3005a.D.argumentstructs.Daan.7: "Yeah, play, pause, stop."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.D.argumentstructs.Daan.7
+---------------------------------
+target=TS3005a.A.argumentstructs.Daan.3
+source=TS3005a.C.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.12:
+"Yes."
+
+Past dialogue turns:
+AE_ID TS3005a.B.argumentstructs.Daan.6: "Changing channel."
+AE_ID TS3005a.D.argumentstructs.13: "numbers."
+AE_ID TS3005a.D.argumentstructs.Daan.6: "On and off."
+AE_ID TS3005a.D.argumentstructs.Daan.7: "Yeah, play, pause, stop."
+AE_ID TS3005a.A.argumentstructs.Daan.3: "Mm-hmm. So maybe a a minimalist design, the least uh possible amount uh of buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.A.argumentstructs.Daan.3
+---------------------------------
+target=TS3005a.B.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.Daan.7:
+"But you should make sure that you have every button they need on it. Because uh things for uh teletext, I dunno uh,  w what's the name ?"
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.13: "numbers."
+AE_ID TS3005a.D.argumentstructs.Daan.6: "On and off."
+AE_ID TS3005a.D.argumentstructs.Daan.7: "Yeah, play, pause, stop."
+AE_ID TS3005a.A.argumentstructs.Daan.3: "Mm-hmm. So maybe a a minimalist design, the least uh possible amount uh of buttons."
+AE_ID TS3005a.B.argumentstructs.12: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.A.argumentstructs.Daan.3
+---------------------------------
+target=TS3005a.B.argumentstructs.Daan.7
+source=TS3005a.A.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.A.argumentstructs.8:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.Daan.6: "On and off."
+AE_ID TS3005a.D.argumentstructs.Daan.7: "Yeah, play, pause, stop."
+AE_ID TS3005a.A.argumentstructs.Daan.3: "Mm-hmm. So maybe a a minimalist design, the least uh possible amount uh of buttons."
+AE_ID TS3005a.B.argumentstructs.12: "Yes."
+AE_ID TS3005a.B.argumentstructs.Daan.7: "But you should make sure that you have every button they need on it. Because uh things for uh teletext, I dunno uh,  w what's the name ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.A.argumentstructs.Daan.3
+---------------------------------
+target=TS3005a.A.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.C.argumentstructs.10:
+"think so. Okay. Right."
+
+Past dialogue turns:
+AE_ID TS3005a.D.argumentstructs.Daan.7: "Yeah, play, pause, stop."
+AE_ID TS3005a.A.argumentstructs.Daan.3: "Mm-hmm. So maybe a a minimalist design, the least uh possible amount uh of buttons."
+AE_ID TS3005a.B.argumentstructs.12: "Yes."
+AE_ID TS3005a.B.argumentstructs.Daan.7: "But you should make sure that you have every button they need on it. Because uh things for uh teletext, I dunno uh,  w what's the name ?"
+AE_ID TS3005a.A.argumentstructs.8: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.A.argumentstructs.Daan.3
+---------------------------------
+target=TS3005a.C.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.A.argumentstructs.Daan.4:
+"So you don't want to bother people with uh loads of buttons, but on the other hand they need many buttons so they don't have to get out of their seat."
+
+Past dialogue turns:
+AE_ID TS3005a.A.argumentstructs.Daan.3: "Mm-hmm. So maybe a a minimalist design, the least uh possible amount uh of buttons."
+AE_ID TS3005a.B.argumentstructs.12: "Yes."
+AE_ID TS3005a.B.argumentstructs.Daan.7: "But you should make sure that you have every button they need on it. Because uh things for uh teletext, I dunno uh,  w what's the name ?"
+AE_ID TS3005a.A.argumentstructs.8: "Mm-hmm."
+AE_ID TS3005a.C.argumentstructs.10: "think so. Okay. Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.A.argumentstructs.Daan.3
+---------------------------------
+target=TS3005a.A.argumentstructs.Daan.4
+source=TS3005a.A.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.D.argumentstructs.14:
+"No. Yeah."
+
+Past dialogue turns:
+AE_ID TS3005a.B.argumentstructs.12: "Yes."
+AE_ID TS3005a.B.argumentstructs.Daan.7: "But you should make sure that you have every button they need on it. Because uh things for uh teletext, I dunno uh,  w what's the name ?"
+AE_ID TS3005a.A.argumentstructs.8: "Mm-hmm."
+AE_ID TS3005a.C.argumentstructs.10: "think so. Okay. Right."
+AE_ID TS3005a.A.argumentstructs.Daan.4: "So you don't want to bother people with uh loads of buttons, but on the other hand they need many buttons so they don't have to get out of their seat."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.B.argumentstructs.12
+---------------------------------
+target=TS3005a.D.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005a.B.argumentstructs.13:
+"Yeah. But"
+
+Past dialogue turns:
+AE_ID TS3005a.B.argumentstructs.Daan.7: "But you should make sure that you have every button they need on it. Because uh things for uh teletext, I dunno uh,  w what's the name ?"
+AE_ID TS3005a.A.argumentstructs.8: "Mm-hmm."
+AE_ID TS3005a.C.argumentstructs.10: "think so. Okay. Right."
+AE_ID TS3005a.A.argumentstructs.Daan.4: "So you don't want to bother people with uh loads of buttons, but on the other hand they need many buttons so they don't have to get out of their seat."
+AE_ID TS3005a.D.argumentstructs.14: "No. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005a.B.argumentstructs.Daan.7
+---------------------------------
+target=TS3005a.B.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3005a-Button problem.csv - True Judgement Ratio: 24.44%

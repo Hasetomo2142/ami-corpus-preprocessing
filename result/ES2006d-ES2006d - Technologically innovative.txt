@@ -1,0 +1,562 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.C.argumentstructs.Erik.3:
+"G_ technologically innovative."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2006d.C.argumentstructs.Erik.3
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.A.argumentstructs.Erik.6:
+"Anyway it ha yeah, it's the most sophisticated remote that I ever seen."
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.Erik.3: "G_ technologically innovative."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2006d.A.argumentstructs.Erik.6
+source=ES2006d.C.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.D.argumentstructs.10:
+"well"
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.Erik.3: "G_ technologically innovative."
+AE_ID ES2006d.A.argumentstructs.Erik.6: "Anyway it ha yeah, it's the most sophisticated remote that I ever seen."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2006d.D.argumentstructs.10
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.D.argumentstructs.Erik.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.Erik.3: "G_ technologically innovative."
+AE_ID ES2006d.A.argumentstructs.Erik.6: "Anyway it ha yeah, it's the most sophisticated remote that I ever seen."
+AE_ID ES2006d.D.argumentstructs.10: "well"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.A.argumentstructs.Erik.6
+---------------------------------
+target=ES2006d.D.argumentstructs.Erik.5
+source=ES2006d.C.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.C.argumentstructs.Erik.4:
+"But in terms of the actual technology, none of it is actually new."
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.Erik.3: "G_ technologically innovative."
+AE_ID ES2006d.A.argumentstructs.Erik.6: "Anyway it ha yeah, it's the most sophisticated remote that I ever seen."
+AE_ID ES2006d.D.argumentstructs.10: "well"
+AE_ID ES2006d.D.argumentstructs.Erik.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2006d.C.argumentstructs.Erik.4
+source=ES2006d.A.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.D.argumentstructs.Erik.6:
+"Well mm we have we have the sample speaker as well, which is  yeah, it's kind of new."
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.Erik.3: "G_ technologically innovative."
+AE_ID ES2006d.A.argumentstructs.Erik.6: "Anyway it ha yeah, it's the most sophisticated remote that I ever seen."
+AE_ID ES2006d.D.argumentstructs.10: "well"
+AE_ID ES2006d.D.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2006d.C.argumentstructs.Erik.4: "But in terms of the actual technology, none of it is actually new."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2006d.D.argumentstructs.Erik.6
+source=ES2006d.C.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.C.argumentstructs.Erik.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.Erik.6: "Anyway it ha yeah, it's the most sophisticated remote that I ever seen."
+AE_ID ES2006d.D.argumentstructs.10: "well"
+AE_ID ES2006d.D.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2006d.C.argumentstructs.Erik.4: "But in terms of the actual technology, none of it is actually new."
+AE_ID ES2006d.D.argumentstructs.Erik.6: "Well mm we have we have the sample speaker as well, which is  yeah, it's kind of new."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.D.argumentstructs.Erik.5
+---------------------------------
+target=ES2006d.C.argumentstructs.Erik.5
+source=ES2006d.D.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.8:
+"Yeah, but I mean you don't"
+
+Past dialogue turns:
+AE_ID ES2006d.D.argumentstructs.10: "well"
+AE_ID ES2006d.D.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2006d.C.argumentstructs.Erik.4: "But in terms of the actual technology, none of it is actually new."
+AE_ID ES2006d.D.argumentstructs.Erik.6: "Well mm we have we have the sample speaker as well, which is  yeah, it's kind of new."
+AE_ID ES2006d.C.argumentstructs.Erik.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.8
+source=ES2006d.D.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.C.argumentstructs.Erik.6:
+"All of the components have been used in other things before. But do  yeah, yeah."
+
+Past dialogue turns:
+AE_ID ES2006d.D.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2006d.C.argumentstructs.Erik.4: "But in terms of the actual technology, none of it is actually new."
+AE_ID ES2006d.D.argumentstructs.Erik.6: "Well mm we have we have the sample speaker as well, which is  yeah, it's kind of new."
+AE_ID ES2006d.C.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2006d.B.argumentstructs.Erik.8: "Yeah, but I mean you don't"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2006d.C.argumentstructs.Erik.6
+source=ES2006d.B.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.D.argumentstructs.Erik.7:
+"But at the same time they are all they are all relatively new."
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.Erik.4: "But in terms of the actual technology, none of it is actually new."
+AE_ID ES2006d.D.argumentstructs.Erik.6: "Well mm we have we have the sample speaker as well, which is  yeah, it's kind of new."
+AE_ID ES2006d.C.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2006d.B.argumentstructs.Erik.8: "Yeah, but I mean you don't"
+AE_ID ES2006d.C.argumentstructs.Erik.6: "All of the components have been used in other things before. But do  yeah, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.D.argumentstructs.Erik.6
+---------------------------------
+target=ES2006d.D.argumentstructs.Erik.7
+source=ES2006d.C.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.A.argumentstructs.Erik.7:
+"Yeah, but they've been brought together in a remote."
+
+Past dialogue turns:
+AE_ID ES2006d.D.argumentstructs.Erik.6: "Well mm we have we have the sample speaker as well, which is  yeah, it's kind of new."
+AE_ID ES2006d.C.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2006d.B.argumentstructs.Erik.8: "Yeah, but I mean you don't"
+AE_ID ES2006d.C.argumentstructs.Erik.6: "All of the components have been used in other things before. But do  yeah, yeah."
+AE_ID ES2006d.D.argumentstructs.Erik.7: "But at the same time they are all they are all relatively new."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2006d.A.argumentstructs.Erik.7
+source=ES2006d.D.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.9:
+"They're never been used i they've never been using remote remote control before I don't think."
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2006d.B.argumentstructs.Erik.8: "Yeah, but I mean you don't"
+AE_ID ES2006d.C.argumentstructs.Erik.6: "All of the components have been used in other things before. But do  yeah, yeah."
+AE_ID ES2006d.D.argumentstructs.Erik.7: "But at the same time they are all they are all relatively new."
+AE_ID ES2006d.A.argumentstructs.Erik.7: "Yeah, but they've been brought together in a remote."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.9
+source=ES2006d.A.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.C.argumentstructs.Erik.7:
+"Yeah. What do you reckon, five, six ?"
+
+Past dialogue turns:
+AE_ID ES2006d.B.argumentstructs.Erik.8: "Yeah, but I mean you don't"
+AE_ID ES2006d.C.argumentstructs.Erik.6: "All of the components have been used in other things before. But do  yeah, yeah."
+AE_ID ES2006d.D.argumentstructs.Erik.7: "But at the same time they are all they are all relatively new."
+AE_ID ES2006d.A.argumentstructs.Erik.7: "Yeah, but they've been brought together in a remote."
+AE_ID ES2006d.B.argumentstructs.Erik.9: "They're never been used i they've never been using remote remote control before I don't think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2006d.C.argumentstructs.Erik.7
+source=ES2006d.B.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.15:
+"."
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.Erik.6: "All of the components have been used in other things before. But do  yeah, yeah."
+AE_ID ES2006d.D.argumentstructs.Erik.7: "But at the same time they are all they are all relatively new."
+AE_ID ES2006d.A.argumentstructs.Erik.7: "Yeah, but they've been brought together in a remote."
+AE_ID ES2006d.B.argumentstructs.Erik.9: "They're never been used i they've never been using remote remote control before I don't think."
+AE_ID ES2006d.C.argumentstructs.Erik.7: "Yeah. What do you reckon, five, six ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.9
+---------------------------------
+target=ES2006d.B.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.10:
+"Yeah, what do you all think ? Six ?"
+
+Past dialogue turns:
+AE_ID ES2006d.D.argumentstructs.Erik.7: "But at the same time they are all they are all relatively new."
+AE_ID ES2006d.A.argumentstructs.Erik.7: "Yeah, but they've been brought together in a remote."
+AE_ID ES2006d.B.argumentstructs.Erik.9: "They're never been used i they've never been using remote remote control before I don't think."
+AE_ID ES2006d.C.argumentstructs.Erik.7: "Yeah. What do you reckon, five, six ?"
+AE_ID ES2006d.B.argumentstructs.15: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.10
+source=ES2006d.C.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.D.argumentstructs.Erik.8:
+"Six."
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.Erik.7: "Yeah, but they've been brought together in a remote."
+AE_ID ES2006d.B.argumentstructs.Erik.9: "They're never been used i they've never been using remote remote control before I don't think."
+AE_ID ES2006d.C.argumentstructs.Erik.7: "Yeah. What do you reckon, five, six ?"
+AE_ID ES2006d.B.argumentstructs.15: "."
+AE_ID ES2006d.B.argumentstructs.Erik.10: "Yeah, what do you all think ? Six ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2006d.D.argumentstructs.Erik.8
+source=ES2006d.B.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.A.argumentstructs.Erik.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006d.B.argumentstructs.Erik.9: "They're never been used i they've never been using remote remote control before I don't think."
+AE_ID ES2006d.C.argumentstructs.Erik.7: "Yeah. What do you reckon, five, six ?"
+AE_ID ES2006d.B.argumentstructs.15: "."
+AE_ID ES2006d.B.argumentstructs.Erik.10: "Yeah, what do you all think ? Six ?"
+AE_ID ES2006d.D.argumentstructs.Erik.8: "Six."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2006d.A.argumentstructs.Erik.8
+source=ES2006d.B.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.D.argumentstructs.Erik.9:
+"I mean how how far can you go with a remote control, really ? It still has to do what i what it has to do."
+
+Past dialogue turns:
+AE_ID ES2006d.C.argumentstructs.Erik.7: "Yeah. What do you reckon, five, six ?"
+AE_ID ES2006d.B.argumentstructs.15: "."
+AE_ID ES2006d.B.argumentstructs.Erik.10: "Yeah, what do you all think ? Six ?"
+AE_ID ES2006d.D.argumentstructs.Erik.8: "Six."
+AE_ID ES2006d.A.argumentstructs.Erik.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.D.argumentstructs.Erik.8
+---------------------------------
+target=ES2006d.D.argumentstructs.Erik.9
+source=ES2006d.C.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.11:
+"Well, that's it, I mean"
+
+Past dialogue turns:
+AE_ID ES2006d.B.argumentstructs.15: "."
+AE_ID ES2006d.B.argumentstructs.Erik.10: "Yeah, what do you all think ? Six ?"
+AE_ID ES2006d.D.argumentstructs.Erik.8: "Six."
+AE_ID ES2006d.A.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2006d.D.argumentstructs.Erik.9: "I mean how how far can you go with a remote control, really ? It still has to do what i what it has to do."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.10
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.11
+source=ES2006d.D.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.C.argumentstructs.Erik.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006d.B.argumentstructs.Erik.10: "Yeah, what do you all think ? Six ?"
+AE_ID ES2006d.D.argumentstructs.Erik.8: "Six."
+AE_ID ES2006d.A.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2006d.D.argumentstructs.Erik.9: "I mean how how far can you go with a remote control, really ? It still has to do what i what it has to do."
+AE_ID ES2006d.B.argumentstructs.Erik.11: "Well, that's it, I mean"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.10
+---------------------------------
+target=ES2006d.C.argumentstructs.Erik.8
+source=ES2006d.D.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.12:
+"Yeah, but I mean everything has been used in space before it gets to anyone else really, hasn't it ? So, I don't think many peop"
+
+Past dialogue turns:
+AE_ID ES2006d.D.argumentstructs.Erik.8: "Six."
+AE_ID ES2006d.A.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2006d.D.argumentstructs.Erik.9: "I mean how how far can you go with a remote control, really ? It still has to do what i what it has to do."
+AE_ID ES2006d.B.argumentstructs.Erik.11: "Well, that's it, I mean"
+AE_ID ES2006d.C.argumentstructs.Erik.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.11
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.12
+source=ES2006d.D.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.C.argumentstructs.Erik.9:
+"Space remote."
+
+Past dialogue turns:
+AE_ID ES2006d.A.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2006d.D.argumentstructs.Erik.9: "I mean how how far can you go with a remote control, really ? It still has to do what i what it has to do."
+AE_ID ES2006d.B.argumentstructs.Erik.11: "Well, that's it, I mean"
+AE_ID ES2006d.C.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2006d.B.argumentstructs.Erik.12: "Yeah, but I mean everything has been used in space before it gets to anyone else really, hasn't it ? So, I don't think many peop"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.D.argumentstructs.Erik.9
+---------------------------------
+target=ES2006d.C.argumentstructs.Erik.9
+source=ES2006d.B.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006d.B.argumentstructs.Erik.13:
+"That's it, they can take it with them."
+
+Past dialogue turns:
+AE_ID ES2006d.D.argumentstructs.Erik.9: "I mean how how far can you go with a remote control, really ? It still has to do what i what it has to do."
+AE_ID ES2006d.B.argumentstructs.Erik.11: "Well, that's it, I mean"
+AE_ID ES2006d.C.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2006d.B.argumentstructs.Erik.12: "Yeah, but I mean everything has been used in space before it gets to anyone else really, hasn't it ? So, I don't think many peop"
+AE_ID ES2006d.C.argumentstructs.Erik.9: "Space remote."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006d.B.argumentstructs.Erik.11
+---------------------------------
+target=ES2006d.B.argumentstructs.Erik.13
+source=ES2006d.B.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2006d-ES2006d - Technologically innovative.csv - True Judgement Ratio: 26.09%

@@ -1,0 +1,812 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.A.argumentstructs.Erik.1:
+"See I'm having I'm having trouble imagining the  is it uh gonna be the size, like the the controller ? It  or bigger ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2011d.A.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.B.argumentstructs.7:
+"mm."
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.1: "See I'm having I'm having trouble imagining the  is it uh gonna be the size, like the the controller ? It  or bigger ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2011d.B.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.A.argumentstructs.11:
+"Because"
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.1: "See I'm having I'm having trouble imagining the  is it uh gonna be the size, like the the controller ? It  or bigger ?"
+AE_ID ES2011d.B.argumentstructs.7: "mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2011d.A.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.C.argumentstructs.7:
+"you could hold it in your hand better."
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.1: "See I'm having I'm having trouble imagining the  is it uh gonna be the size, like the the controller ? It  or bigger ?"
+AE_ID ES2011d.B.argumentstructs.7: "mm."
+AE_ID ES2011d.A.argumentstructs.11: "Because"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2011d.C.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.B.argumentstructs.Erik.1:
+"I think the base would definitely be larger, 'cause some of these are not as easy to hold. They're kinda smallish."
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.1: "See I'm having I'm having trouble imagining the  is it uh gonna be the size, like the the controller ? It  or bigger ?"
+AE_ID ES2011d.B.argumentstructs.7: "mm."
+AE_ID ES2011d.A.argumentstructs.11: "Because"
+AE_ID ES2011d.C.argumentstructs.7: "you could hold it in your hand better."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2011d.B.argumentstructs.Erik.1
+source=ES2011d.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.A.argumentstructs.Erik.2:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.1: "See I'm having I'm having trouble imagining the  is it uh gonna be the size, like the the controller ? It  or bigger ?"
+AE_ID ES2011d.B.argumentstructs.7: "mm."
+AE_ID ES2011d.A.argumentstructs.11: "Because"
+AE_ID ES2011d.C.argumentstructs.7: "you could hold it in your hand better."
+AE_ID ES2011d.B.argumentstructs.Erik.1: "I think the base would definitely be larger, 'cause some of these are not as easy to hold. They're kinda smallish."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2011d.A.argumentstructs.Erik.2
+source=ES2011d.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.A.argumentstructs.Erik.3:
+"No but I imagine even if it was bigger, like if it's round and it's big then you you can't get  that's why remote controls are long because you have that thumb kind of  so c they could all be bananas and cucumbers.  Um but I don't s I I personally don't think this is comfortable to to sit there, like it's an awkward position."
+
+Past dialogue turns:
+AE_ID ES2011d.B.argumentstructs.7: "mm."
+AE_ID ES2011d.A.argumentstructs.11: "Because"
+AE_ID ES2011d.C.argumentstructs.7: "you could hold it in your hand better."
+AE_ID ES2011d.B.argumentstructs.Erik.1: "I think the base would definitely be larger, 'cause some of these are not as easy to hold. They're kinda smallish."
+AE_ID ES2011d.A.argumentstructs.Erik.2: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2011d.A.argumentstructs.Erik.3
+source=ES2011d.B.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.C.argumentstructs.Erik.1:
+"Yeah. The flat one. Yeah."
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.11: "Because"
+AE_ID ES2011d.C.argumentstructs.7: "you could hold it in your hand better."
+AE_ID ES2011d.B.argumentstructs.Erik.1: "I think the base would definitely be larger, 'cause some of these are not as easy to hold. They're kinda smallish."
+AE_ID ES2011d.A.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2011d.A.argumentstructs.Erik.3: "No but I imagine even if it was bigger, like if it's round and it's big then you you can't get  that's why remote controls are long because you have that thumb kind of  so c they could all be bananas and cucumbers.  Um but I don't s I I personally don't think this is comfortable to to sit there, like it's an awkward position."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2011d.C.argumentstructs.Erik.1
+source=ES2011d.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.B.argumentstructs.Erik.2:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011d.C.argumentstructs.7: "you could hold it in your hand better."
+AE_ID ES2011d.B.argumentstructs.Erik.1: "I think the base would definitely be larger, 'cause some of these are not as easy to hold. They're kinda smallish."
+AE_ID ES2011d.A.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2011d.A.argumentstructs.Erik.3: "No but I imagine even if it was bigger, like if it's round and it's big then you you can't get  that's why remote controls are long because you have that thumb kind of  so c they could all be bananas and cucumbers.  Um but I don't s I I personally don't think this is comfortable to to sit there, like it's an awkward position."
+AE_ID ES2011d.C.argumentstructs.Erik.1: "Yeah. The flat one. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2011d.B.argumentstructs.Erik.2
+source=ES2011d.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.C.argumentstructs.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011d.B.argumentstructs.Erik.1: "I think the base would definitely be larger, 'cause some of these are not as easy to hold. They're kinda smallish."
+AE_ID ES2011d.A.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2011d.A.argumentstructs.Erik.3: "No but I imagine even if it was bigger, like if it's round and it's big then you you can't get  that's why remote controls are long because you have that thumb kind of  so c they could all be bananas and cucumbers.  Um but I don't s I I personally don't think this is comfortable to to sit there, like it's an awkward position."
+AE_ID ES2011d.C.argumentstructs.Erik.1: "Yeah. The flat one. Yeah."
+AE_ID ES2011d.B.argumentstructs.Erik.2: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2011d.C.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.C.argumentstructs.Erik.2:
+"I didn't  yeah. But like if if you just squash them flat like and you made it flat"
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2011d.A.argumentstructs.Erik.3: "No but I imagine even if it was bigger, like if it's round and it's big then you you can't get  that's why remote controls are long because you have that thumb kind of  so c they could all be bananas and cucumbers.  Um but I don't s I I personally don't think this is comfortable to to sit there, like it's an awkward position."
+AE_ID ES2011d.C.argumentstructs.Erik.1: "Yeah. The flat one. Yeah."
+AE_ID ES2011d.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2011d.C.argumentstructs.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2011d.C.argumentstructs.Erik.2
+source=ES2011d.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.B.argumentstructs.Erik.3:
+"Well if they're that s uh stress ball stuff they would be pretty squishable."
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.3: "No but I imagine even if it was bigger, like if it's round and it's big then you you can't get  that's why remote controls are long because you have that thumb kind of  so c they could all be bananas and cucumbers.  Um but I don't s I I personally don't think this is comfortable to to sit there, like it's an awkward position."
+AE_ID ES2011d.C.argumentstructs.Erik.1: "Yeah. The flat one. Yeah."
+AE_ID ES2011d.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2011d.C.argumentstructs.8: "Yeah."
+AE_ID ES2011d.C.argumentstructs.Erik.2: "I didn't  yeah. But like if if you just squash them flat like and you made it flat"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2011d.B.argumentstructs.Erik.3
+source=ES2011d.C.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.C.argumentstructs.Erik.3:
+"But it's still too big I think, in your hand. Yeah."
+
+Past dialogue turns:
+AE_ID ES2011d.C.argumentstructs.Erik.1: "Yeah. The flat one. Yeah."
+AE_ID ES2011d.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2011d.C.argumentstructs.8: "Yeah."
+AE_ID ES2011d.C.argumentstructs.Erik.2: "I didn't  yeah. But like if if you just squash them flat like and you made it flat"
+AE_ID ES2011d.B.argumentstructs.Erik.3: "Well if they're that s uh stress ball stuff they would be pretty squishable."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2011d.C.argumentstructs.Erik.3
+source=ES2011d.C.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.B.argumentstructs.8:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2011d.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2011d.C.argumentstructs.8: "Yeah."
+AE_ID ES2011d.C.argumentstructs.Erik.2: "I didn't  yeah. But like if if you just squash them flat like and you made it flat"
+AE_ID ES2011d.B.argumentstructs.Erik.3: "Well if they're that s uh stress ball stuff they would be pretty squishable."
+AE_ID ES2011d.C.argumentstructs.Erik.3: "But it's still too big I think, in your hand. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.B.argumentstructs.Erik.3
+---------------------------------
+target=ES2011d.B.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.A.argumentstructs.Erik.4:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011d.C.argumentstructs.8: "Yeah."
+AE_ID ES2011d.C.argumentstructs.Erik.2: "I didn't  yeah. But like if if you just squash them flat like and you made it flat"
+AE_ID ES2011d.B.argumentstructs.Erik.3: "Well if they're that s uh stress ball stuff they would be pretty squishable."
+AE_ID ES2011d.C.argumentstructs.Erik.3: "But it's still too big I think, in your hand. Yeah."
+AE_ID ES2011d.B.argumentstructs.8: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.C.argumentstructs.8
+---------------------------------
+target=ES2011d.A.argumentstructs.Erik.4
+source=ES2011d.C.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.A.argumentstructs.Erik.5:
+"And would it even resemble fruit that way ? I mean"
+
+Past dialogue turns:
+AE_ID ES2011d.C.argumentstructs.Erik.2: "I didn't  yeah. But like if if you just squash them flat like and you made it flat"
+AE_ID ES2011d.B.argumentstructs.Erik.3: "Well if they're that s uh stress ball stuff they would be pretty squishable."
+AE_ID ES2011d.C.argumentstructs.Erik.3: "But it's still too big I think, in your hand. Yeah."
+AE_ID ES2011d.B.argumentstructs.8: "Mm."
+AE_ID ES2011d.A.argumentstructs.Erik.4: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2011d.A.argumentstructs.Erik.5
+source=ES2011d.C.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.C.argumentstructs.Erik.4:
+"Yeah like certain ones  you'd have to limit the fruit selection, like you could probably do a strawberry still. I think the broccoli would be out."
+
+Past dialogue turns:
+AE_ID ES2011d.B.argumentstructs.Erik.3: "Well if they're that s uh stress ball stuff they would be pretty squishable."
+AE_ID ES2011d.C.argumentstructs.Erik.3: "But it's still too big I think, in your hand. Yeah."
+AE_ID ES2011d.B.argumentstructs.8: "Mm."
+AE_ID ES2011d.A.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2011d.A.argumentstructs.Erik.5: "And would it even resemble fruit that way ? I mean"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2011d.C.argumentstructs.Erik.4
+source=ES2011d.A.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.A.argumentstructs.Erik.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011d.C.argumentstructs.Erik.3: "But it's still too big I think, in your hand. Yeah."
+AE_ID ES2011d.B.argumentstructs.8: "Mm."
+AE_ID ES2011d.A.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2011d.A.argumentstructs.Erik.5: "And would it even resemble fruit that way ? I mean"
+AE_ID ES2011d.C.argumentstructs.Erik.4: "Yeah like certain ones  you'd have to limit the fruit selection, like you could probably do a strawberry still. I think the broccoli would be out."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2011d.A.argumentstructs.Erik.6
+source=ES2011d.C.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.A.argumentstructs.12:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011d.B.argumentstructs.8: "Mm."
+AE_ID ES2011d.A.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2011d.A.argumentstructs.Erik.5: "And would it even resemble fruit that way ? I mean"
+AE_ID ES2011d.C.argumentstructs.Erik.4: "Yeah like certain ones  you'd have to limit the fruit selection, like you could probably do a strawberry still. I think the broccoli would be out."
+AE_ID ES2011d.A.argumentstructs.Erik.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2011d.A.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.C.argumentstructs.Erik.5:
+"You could do, although the broccoli is quite comfortable, I have to say, like  sorta like a joystick."
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2011d.A.argumentstructs.Erik.5: "And would it even resemble fruit that way ? I mean"
+AE_ID ES2011d.C.argumentstructs.Erik.4: "Yeah like certain ones  you'd have to limit the fruit selection, like you could probably do a strawberry still. I think the broccoli would be out."
+AE_ID ES2011d.A.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2011d.A.argumentstructs.12: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2011d.C.argumentstructs.Erik.5
+source=ES2011d.C.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.A.argumentstructs.Erik.7:
+"Yeah that I I  when you were holding that before, it actually looked  yeah."
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.5: "And would it even resemble fruit that way ? I mean"
+AE_ID ES2011d.C.argumentstructs.Erik.4: "Yeah like certain ones  you'd have to limit the fruit selection, like you could probably do a strawberry still. I think the broccoli would be out."
+AE_ID ES2011d.A.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2011d.A.argumentstructs.12: "Yeah."
+AE_ID ES2011d.C.argumentstructs.Erik.5: "You could do, although the broccoli is quite comfortable, I have to say, like  sorta like a joystick."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.6
+---------------------------------
+target=ES2011d.A.argumentstructs.Erik.7
+source=ES2011d.C.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.D.argumentstructs.Erik.1:
+"Yeah. That looked really good."
+
+Past dialogue turns:
+AE_ID ES2011d.C.argumentstructs.Erik.4: "Yeah like certain ones  you'd have to limit the fruit selection, like you could probably do a strawberry still. I think the broccoli would be out."
+AE_ID ES2011d.A.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2011d.A.argumentstructs.12: "Yeah."
+AE_ID ES2011d.C.argumentstructs.Erik.5: "You could do, although the broccoli is quite comfortable, I have to say, like  sorta like a joystick."
+AE_ID ES2011d.A.argumentstructs.Erik.7: "Yeah that I I  when you were holding that before, it actually looked  yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2011d.D.argumentstructs.Erik.1
+source=ES2011d.A.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.D.argumentstructs.Erik.2:
+"Are there any fruits that look like broccoli, no ?"
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2011d.A.argumentstructs.12: "Yeah."
+AE_ID ES2011d.C.argumentstructs.Erik.5: "You could do, although the broccoli is quite comfortable, I have to say, like  sorta like a joystick."
+AE_ID ES2011d.A.argumentstructs.Erik.7: "Yeah that I I  when you were holding that before, it actually looked  yeah."
+AE_ID ES2011d.D.argumentstructs.Erik.1: "Yeah. That looked really good."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2011d.D.argumentstructs.Erik.2
+source=ES2011d.C.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.B.argumentstructs.Erik.4:
+"Not that I can think of."
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.12: "Yeah."
+AE_ID ES2011d.C.argumentstructs.Erik.5: "You could do, although the broccoli is quite comfortable, I have to say, like  sorta like a joystick."
+AE_ID ES2011d.A.argumentstructs.Erik.7: "Yeah that I I  when you were holding that before, it actually looked  yeah."
+AE_ID ES2011d.D.argumentstructs.Erik.1: "Yeah. That looked really good."
+AE_ID ES2011d.D.argumentstructs.Erik.2: "Are there any fruits that look like broccoli, no ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2011d.B.argumentstructs.Erik.4
+source=ES2011d.D.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.B.argumentstructs.Erik.5:
+"Rhubarb."
+
+Past dialogue turns:
+AE_ID ES2011d.C.argumentstructs.Erik.5: "You could do, although the broccoli is quite comfortable, I have to say, like  sorta like a joystick."
+AE_ID ES2011d.A.argumentstructs.Erik.7: "Yeah that I I  when you were holding that before, it actually looked  yeah."
+AE_ID ES2011d.D.argumentstructs.Erik.1: "Yeah. That looked really good."
+AE_ID ES2011d.D.argumentstructs.Erik.2: "Are there any fruits that look like broccoli, no ?"
+AE_ID ES2011d.B.argumentstructs.Erik.4: "Not that I can think of."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2011d.B.argumentstructs.Erik.5
+source=ES2011d.D.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.D.argumentstructs.Erik.3:
+"I think that broccoli is my favourite actually. Uh despite the"
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.7: "Yeah that I I  when you were holding that before, it actually looked  yeah."
+AE_ID ES2011d.D.argumentstructs.Erik.1: "Yeah. That looked really good."
+AE_ID ES2011d.D.argumentstructs.Erik.2: "Are there any fruits that look like broccoli, no ?"
+AE_ID ES2011d.B.argumentstructs.Erik.4: "Not that I can think of."
+AE_ID ES2011d.B.argumentstructs.Erik.5: "Rhubarb."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2011d.D.argumentstructs.Erik.3
+source=ES2011d.C.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.A.argumentstructs.Erik.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011d.D.argumentstructs.Erik.1: "Yeah. That looked really good."
+AE_ID ES2011d.D.argumentstructs.Erik.2: "Are there any fruits that look like broccoli, no ?"
+AE_ID ES2011d.B.argumentstructs.Erik.4: "Not that I can think of."
+AE_ID ES2011d.B.argumentstructs.Erik.5: "Rhubarb."
+AE_ID ES2011d.D.argumentstructs.Erik.3: "I think that broccoli is my favourite actually. Uh despite the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2011d.A.argumentstructs.Erik.8
+source=ES2011d.D.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.A.argumentstructs.Erik.9:
+"What if um the  it was just patterns on like  we we chose the shape or the sh shape could be whatever we wanted and then it would just be like a design on the rubber."
+
+Past dialogue turns:
+AE_ID ES2011d.D.argumentstructs.Erik.2: "Are there any fruits that look like broccoli, no ?"
+AE_ID ES2011d.B.argumentstructs.Erik.4: "Not that I can think of."
+AE_ID ES2011d.B.argumentstructs.Erik.5: "Rhubarb."
+AE_ID ES2011d.D.argumentstructs.Erik.3: "I think that broccoli is my favourite actually. Uh despite the"
+AE_ID ES2011d.A.argumentstructs.Erik.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2011d.A.argumentstructs.Erik.9
+source=ES2011d.C.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.C.argumentstructs.9:
+"Huh ? Oh okay."
+
+Past dialogue turns:
+AE_ID ES2011d.B.argumentstructs.Erik.4: "Not that I can think of."
+AE_ID ES2011d.B.argumentstructs.Erik.5: "Rhubarb."
+AE_ID ES2011d.D.argumentstructs.Erik.3: "I think that broccoli is my favourite actually. Uh despite the"
+AE_ID ES2011d.A.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2011d.A.argumentstructs.Erik.9: "What if um the  it was just patterns on like  we we chose the shape or the sh shape could be whatever we wanted and then it would just be like a design on the rubber."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2011d.C.argumentstructs.9
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.A.argumentstructs.Erik.10:
+"You know like like just a printed yeah or coloured yeah."
+
+Past dialogue turns:
+AE_ID ES2011d.B.argumentstructs.Erik.5: "Rhubarb."
+AE_ID ES2011d.D.argumentstructs.Erik.3: "I think that broccoli is my favourite actually. Uh despite the"
+AE_ID ES2011d.A.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2011d.A.argumentstructs.Erik.9: "What if um the  it was just patterns on like  we we chose the shape or the sh shape could be whatever we wanted and then it would just be like a design on the rubber."
+AE_ID ES2011d.C.argumentstructs.9: "Huh ? Oh okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.9
+---------------------------------
+target=ES2011d.A.argumentstructs.Erik.10
+source=ES2011d.A.argumentstructs.Erik.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.B.argumentstructs.Erik.6:
+"So it's just colour, and not necessarily the shape of a strawberry."
+
+Past dialogue turns:
+AE_ID ES2011d.D.argumentstructs.Erik.3: "I think that broccoli is my favourite actually. Uh despite the"
+AE_ID ES2011d.A.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2011d.A.argumentstructs.Erik.9: "What if um the  it was just patterns on like  we we chose the shape or the sh shape could be whatever we wanted and then it would just be like a design on the rubber."
+AE_ID ES2011d.C.argumentstructs.9: "Huh ? Oh okay."
+AE_ID ES2011d.A.argumentstructs.Erik.10: "You know like like just a printed yeah or coloured yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.10
+---------------------------------
+target=ES2011d.B.argumentstructs.Erik.6
+source=ES2011d.A.argumentstructs.Erik.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.C.argumentstructs.Erik.6:
+"Yeah. That could work."
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2011d.A.argumentstructs.Erik.9: "What if um the  it was just patterns on like  we we chose the shape or the sh shape could be whatever we wanted and then it would just be like a design on the rubber."
+AE_ID ES2011d.C.argumentstructs.9: "Huh ? Oh okay."
+AE_ID ES2011d.A.argumentstructs.Erik.10: "You know like like just a printed yeah or coloured yeah."
+AE_ID ES2011d.B.argumentstructs.Erik.6: "So it's just colour, and not necessarily the shape of a strawberry."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.A.argumentstructs.Erik.9
+---------------------------------
+target=ES2011d.C.argumentstructs.Erik.6
+source=ES2011d.B.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011d.D.argumentstructs.Erik.4:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011d.A.argumentstructs.Erik.9: "What if um the  it was just patterns on like  we we chose the shape or the sh shape could be whatever we wanted and then it would just be like a design on the rubber."
+AE_ID ES2011d.C.argumentstructs.9: "Huh ? Oh okay."
+AE_ID ES2011d.A.argumentstructs.Erik.10: "You know like like just a printed yeah or coloured yeah."
+AE_ID ES2011d.B.argumentstructs.Erik.6: "So it's just colour, and not necessarily the shape of a strawberry."
+AE_ID ES2011d.C.argumentstructs.Erik.6: "Yeah. That could work."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011d.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2011d.D.argumentstructs.Erik.4
+source=ES2011d.B.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2011d-ES2011d - Remote holding comfort.csv - True Judgement Ratio: 33.33%

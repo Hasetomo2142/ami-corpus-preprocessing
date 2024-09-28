@@ -1,0 +1,462 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.A.argumentstructs.5:
+"Yeah round it up to two"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2005d.A.argumentstructs.5
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.D.argumentstructs.Erik.1:
+"Okay, yeah."
+
+Past dialogue turns:
+AE_ID ES2005d.A.argumentstructs.5: "Yeah round it up to two"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.A.argumentstructs.5
+---------------------------------
+target=ES2005d.D.argumentstructs.Erik.1
+source=ES2005d.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.A.argumentstructs.Erik.1:
+". So trends."
+
+Past dialogue turns:
+AE_ID ES2005d.A.argumentstructs.5: "Yeah round it up to two"
+AE_ID ES2005d.D.argumentstructs.Erik.1: "Okay, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.A.argumentstructs.5
+---------------------------------
+target=ES2005d.A.argumentstructs.Erik.1
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.A.argumentstructs.Erik.2:
+"Can you explain what you want us to write there ?"
+
+Past dialogue turns:
+AE_ID ES2005d.A.argumentstructs.5: "Yeah round it up to two"
+AE_ID ES2005d.D.argumentstructs.Erik.1: "Okay, yeah."
+AE_ID ES2005d.A.argumentstructs.Erik.1: ". So trends."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2005d.A.argumentstructs.Erik.2
+source=ES2005d.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.B.argumentstructs.Erik.1:
+"Sorry ?"
+
+Past dialogue turns:
+AE_ID ES2005d.A.argumentstructs.5: "Yeah round it up to two"
+AE_ID ES2005d.D.argumentstructs.Erik.1: "Okay, yeah."
+AE_ID ES2005d.A.argumentstructs.Erik.1: ". So trends."
+AE_ID ES2005d.A.argumentstructs.Erik.2: "Can you explain what you want us to write there ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2005d.B.argumentstructs.Erik.1
+source=ES2005d.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.A.argumentstructs.Erik.3:
+"How it  how conforms to the current trends ?"
+
+Past dialogue turns:
+AE_ID ES2005d.A.argumentstructs.5: "Yeah round it up to two"
+AE_ID ES2005d.D.argumentstructs.Erik.1: "Okay, yeah."
+AE_ID ES2005d.A.argumentstructs.Erik.1: ". So trends."
+AE_ID ES2005d.A.argumentstructs.Erik.2: "Can you explain what you want us to write there ?"
+AE_ID ES2005d.B.argumentstructs.Erik.1: "Sorry ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2005d.A.argumentstructs.Erik.3
+source=ES2005d.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.B.argumentstructs.Erik.2:
+"Yeah, again the the fashion trends, this also like whether it it will be fashionable to have these products in the  uh as a fruit shape or something."
+
+Past dialogue turns:
+AE_ID ES2005d.D.argumentstructs.Erik.1: "Okay, yeah."
+AE_ID ES2005d.A.argumentstructs.Erik.1: ". So trends."
+AE_ID ES2005d.A.argumentstructs.Erik.2: "Can you explain what you want us to write there ?"
+AE_ID ES2005d.B.argumentstructs.Erik.1: "Sorry ?"
+AE_ID ES2005d.A.argumentstructs.Erik.3: "How it  how conforms to the current trends ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2005d.B.argumentstructs.Erik.2
+source=ES2005d.A.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.D.argumentstructs.4:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2005d.A.argumentstructs.Erik.1: ". So trends."
+AE_ID ES2005d.A.argumentstructs.Erik.2: "Can you explain what you want us to write there ?"
+AE_ID ES2005d.B.argumentstructs.Erik.1: "Sorry ?"
+AE_ID ES2005d.A.argumentstructs.Erik.3: "How it  how conforms to the current trends ?"
+AE_ID ES2005d.B.argumentstructs.Erik.2: "Yeah, again the the fashion trends, this also like whether it it will be fashionable to have these products in the  uh as a fruit shape or something."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2005d.D.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.D.argumentstructs.Erik.2:
+"Okay. Well um going on uh the specifications that we had, that fruit and vegetables are quite popular, and that people like something that is good to look at and not many buttons, I would give it um, well, because it's hard to make a fruit good to look at, that that looks cool, you know, so I would actually give it a three."
+
+Past dialogue turns:
+AE_ID ES2005d.A.argumentstructs.Erik.2: "Can you explain what you want us to write there ?"
+AE_ID ES2005d.B.argumentstructs.Erik.1: "Sorry ?"
+AE_ID ES2005d.A.argumentstructs.Erik.3: "How it  how conforms to the current trends ?"
+AE_ID ES2005d.B.argumentstructs.Erik.2: "Yeah, again the the fashion trends, this also like whether it it will be fashionable to have these products in the  uh as a fruit shape or something."
+AE_ID ES2005d.D.argumentstructs.4: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2005d.D.argumentstructs.Erik.2
+source=ES2005d.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.B.argumentstructs.6:
+"Uh."
+
+Past dialogue turns:
+AE_ID ES2005d.B.argumentstructs.Erik.1: "Sorry ?"
+AE_ID ES2005d.A.argumentstructs.Erik.3: "How it  how conforms to the current trends ?"
+AE_ID ES2005d.B.argumentstructs.Erik.2: "Yeah, again the the fashion trends, this also like whether it it will be fashionable to have these products in the  uh as a fruit shape or something."
+AE_ID ES2005d.D.argumentstructs.4: "Mm-hmm."
+AE_ID ES2005d.D.argumentstructs.Erik.2: "Okay. Well um going on uh the specifications that we had, that fruit and vegetables are quite popular, and that people like something that is good to look at and not many buttons, I would give it um, well, because it's hard to make a fruit good to look at, that that looks cool, you know, so I would actually give it a three."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2005d.B.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.D.argumentstructs.Erik.3:
+"Tha three or four, I'm not sure. Three. Go for three. That's fine."
+
+Past dialogue turns:
+AE_ID ES2005d.A.argumentstructs.Erik.3: "How it  how conforms to the current trends ?"
+AE_ID ES2005d.B.argumentstructs.Erik.2: "Yeah, again the the fashion trends, this also like whether it it will be fashionable to have these products in the  uh as a fruit shape or something."
+AE_ID ES2005d.D.argumentstructs.4: "Mm-hmm."
+AE_ID ES2005d.D.argumentstructs.Erik.2: "Okay. Well um going on uh the specifications that we had, that fruit and vegetables are quite popular, and that people like something that is good to look at and not many buttons, I would give it um, well, because it's hard to make a fruit good to look at, that that looks cool, you know, so I would actually give it a three."
+AE_ID ES2005d.B.argumentstructs.6: "Uh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2005d.D.argumentstructs.Erik.3
+source=ES2005d.D.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.B.argumentstructs.Erik.3:
+"Okay. Yeah."
+
+Past dialogue turns:
+AE_ID ES2005d.B.argumentstructs.Erik.2: "Yeah, again the the fashion trends, this also like whether it it will be fashionable to have these products in the  uh as a fruit shape or something."
+AE_ID ES2005d.D.argumentstructs.4: "Mm-hmm."
+AE_ID ES2005d.D.argumentstructs.Erik.2: "Okay. Well um going on uh the specifications that we had, that fruit and vegetables are quite popular, and that people like something that is good to look at and not many buttons, I would give it um, well, because it's hard to make a fruit good to look at, that that looks cool, you know, so I would actually give it a three."
+AE_ID ES2005d.B.argumentstructs.6: "Uh."
+AE_ID ES2005d.D.argumentstructs.Erik.3: "Tha three or four, I'm not sure. Three. Go for three. That's fine."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2005d.B.argumentstructs.Erik.3
+source=ES2005d.D.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.B.argumentstructs.7:
+"Uh"
+
+Past dialogue turns:
+AE_ID ES2005d.D.argumentstructs.4: "Mm-hmm."
+AE_ID ES2005d.D.argumentstructs.Erik.2: "Okay. Well um going on uh the specifications that we had, that fruit and vegetables are quite popular, and that people like something that is good to look at and not many buttons, I would give it um, well, because it's hard to make a fruit good to look at, that that looks cool, you know, so I would actually give it a three."
+AE_ID ES2005d.B.argumentstructs.6: "Uh."
+AE_ID ES2005d.D.argumentstructs.Erik.3: "Tha three or four, I'm not sure. Three. Go for three. That's fine."
+AE_ID ES2005d.B.argumentstructs.Erik.3: "Okay. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.B.argumentstructs.6
+---------------------------------
+target=ES2005d.B.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.A.argumentstructs.Erik.4:
+"'Kay. As far as the uh technology it its' got the latest trends in speech technology, but it's missing the screen, as we said, um but it does have the push-buttons, or the scroll-buttons, um but it doesn't have that fancy solar power or the the vibrating energy mechanism. So I give it a a four. I'd give it a kinda middle of the road for for technology."
+
+Past dialogue turns:
+AE_ID ES2005d.D.argumentstructs.Erik.2: "Okay. Well um going on uh the specifications that we had, that fruit and vegetables are quite popular, and that people like something that is good to look at and not many buttons, I would give it um, well, because it's hard to make a fruit good to look at, that that looks cool, you know, so I would actually give it a three."
+AE_ID ES2005d.B.argumentstructs.6: "Uh."
+AE_ID ES2005d.D.argumentstructs.Erik.3: "Tha three or four, I'm not sure. Three. Go for three. That's fine."
+AE_ID ES2005d.B.argumentstructs.Erik.3: "Okay. Yeah."
+AE_ID ES2005d.B.argumentstructs.7: "Uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2005d.A.argumentstructs.Erik.4
+source=ES2005d.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.C.argumentstructs.Erik.2:
+"Yeah, I am sort of pret uh   Just the fruit does me in, I mean uh it might it might be trendy to some, but I'm just not swallowing the fruit, so um   Uh also uh I would have liked to have seen the L_C_D_ screen in it. Um so yeah I'd say about four as well."
+
+Past dialogue turns:
+AE_ID ES2005d.B.argumentstructs.6: "Uh."
+AE_ID ES2005d.D.argumentstructs.Erik.3: "Tha three or four, I'm not sure. Three. Go for three. That's fine."
+AE_ID ES2005d.B.argumentstructs.Erik.3: "Okay. Yeah."
+AE_ID ES2005d.B.argumentstructs.7: "Uh"
+AE_ID ES2005d.A.argumentstructs.Erik.4: "'Kay. As far as the uh technology it its' got the latest trends in speech technology, but it's missing the screen, as we said, um but it does have the push-buttons, or the scroll-buttons, um but it doesn't have that fancy solar power or the the vibrating energy mechanism. So I give it a a four. I'd give it a kinda middle of the road for for technology."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2005d.C.argumentstructs.Erik.2
+source=ES2005d.A.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.D.argumentstructs.5:
+"Yeah. Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2005d.D.argumentstructs.Erik.3: "Tha three or four, I'm not sure. Three. Go for three. That's fine."
+AE_ID ES2005d.B.argumentstructs.Erik.3: "Okay. Yeah."
+AE_ID ES2005d.B.argumentstructs.7: "Uh"
+AE_ID ES2005d.A.argumentstructs.Erik.4: "'Kay. As far as the uh technology it its' got the latest trends in speech technology, but it's missing the screen, as we said, um but it does have the push-buttons, or the scroll-buttons, um but it doesn't have that fancy solar power or the the vibrating energy mechanism. So I give it a a four. I'd give it a kinda middle of the road for for technology."
+AE_ID ES2005d.C.argumentstructs.Erik.2: "Yeah, I am sort of pret uh   Just the fruit does me in, I mean uh it might it might be trendy to some, but I'm just not swallowing the fruit, so um   Uh also uh I would have liked to have seen the L_C_D_ screen in it. Um so yeah I'd say about four as well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.B.argumentstructs.Erik.3
+---------------------------------
+target=ES2005d.D.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.B.argumentstructs.Erik.4:
+"Okay. Uh personally I wi uh I think that in terms of trends, these products are quite good, like, these products are in fruit shape, because that wha people now  our fashion trend shows that people like everything  all f everything that is being advertised, like clothes, shoes, and everything is being advertised in the form of fruits and vegetables, or getting them  or showing some association with them."
+
+Past dialogue turns:
+AE_ID ES2005d.B.argumentstructs.Erik.3: "Okay. Yeah."
+AE_ID ES2005d.B.argumentstructs.7: "Uh"
+AE_ID ES2005d.A.argumentstructs.Erik.4: "'Kay. As far as the uh technology it its' got the latest trends in speech technology, but it's missing the screen, as we said, um but it does have the push-buttons, or the scroll-buttons, um but it doesn't have that fancy solar power or the the vibrating energy mechanism. So I give it a a four. I'd give it a kinda middle of the road for for technology."
+AE_ID ES2005d.C.argumentstructs.Erik.2: "Yeah, I am sort of pret uh   Just the fruit does me in, I mean uh it might it might be trendy to some, but I'm just not swallowing the fruit, so um   Uh also uh I would have liked to have seen the L_C_D_ screen in it. Um so yeah I'd say about four as well."
+AE_ID ES2005d.D.argumentstructs.5: "Yeah. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2005d.B.argumentstructs.Erik.4
+source=ES2005d.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.B.argumentstructs.Erik.5:
+"So and in this way our product is good. And the second thing, now people don't want any complicated or bulky products and ours is quite simple and quite handy. So that is also ef that also  Our product meets the f the fashion uh trends of the market. And yes. It is cus spongy also. So they can play with it, it's quite good. So then I think, maybe I can give it two."
+
+Past dialogue turns:
+AE_ID ES2005d.B.argumentstructs.7: "Uh"
+AE_ID ES2005d.A.argumentstructs.Erik.4: "'Kay. As far as the uh technology it its' got the latest trends in speech technology, but it's missing the screen, as we said, um but it does have the push-buttons, or the scroll-buttons, um but it doesn't have that fancy solar power or the the vibrating energy mechanism. So I give it a a four. I'd give it a kinda middle of the road for for technology."
+AE_ID ES2005d.C.argumentstructs.Erik.2: "Yeah, I am sort of pret uh   Just the fruit does me in, I mean uh it might it might be trendy to some, but I'm just not swallowing the fruit, so um   Uh also uh I would have liked to have seen the L_C_D_ screen in it. Um so yeah I'd say about four as well."
+AE_ID ES2005d.D.argumentstructs.5: "Yeah. Mm-hmm."
+AE_ID ES2005d.B.argumentstructs.Erik.4: "Okay. Uh personally I wi uh I think that in terms of trends, these products are quite good, like, these products are in fruit shape, because that wha people now  our fashion trend shows that people like everything  all f everything that is being advertised, like clothes, shoes, and everything is being advertised in the form of fruits and vegetables, or getting them  or showing some association with them."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2005d.B.argumentstructs.Erik.5
+source=ES2005d.B.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005d.B.argumentstructs.8:
+"Is it fine ? So what about company strategy ?"
+
+Past dialogue turns:
+AE_ID ES2005d.A.argumentstructs.Erik.4: "'Kay. As far as the uh technology it its' got the latest trends in speech technology, but it's missing the screen, as we said, um but it does have the push-buttons, or the scroll-buttons, um but it doesn't have that fancy solar power or the the vibrating energy mechanism. So I give it a a four. I'd give it a kinda middle of the road for for technology."
+AE_ID ES2005d.C.argumentstructs.Erik.2: "Yeah, I am sort of pret uh   Just the fruit does me in, I mean uh it might it might be trendy to some, but I'm just not swallowing the fruit, so um   Uh also uh I would have liked to have seen the L_C_D_ screen in it. Um so yeah I'd say about four as well."
+AE_ID ES2005d.D.argumentstructs.5: "Yeah. Mm-hmm."
+AE_ID ES2005d.B.argumentstructs.Erik.4: "Okay. Uh personally I wi uh I think that in terms of trends, these products are quite good, like, these products are in fruit shape, because that wha people now  our fashion trend shows that people like everything  all f everything that is being advertised, like clothes, shoes, and everything is being advertised in the form of fruits and vegetables, or getting them  or showing some association with them."
+AE_ID ES2005d.B.argumentstructs.Erik.5: "So and in this way our product is good. And the second thing, now people don't want any complicated or bulky products and ours is quite simple and quite handy. So that is also ef that also  Our product meets the f the fashion uh trends of the market. And yes. It is cus spongy also. So they can play with it, it's quite good. So then I think, maybe I can give it two."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005d.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2005d.B.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2005d-ES2005d - Trend score.csv - True Judgement Ratio: 31.58%

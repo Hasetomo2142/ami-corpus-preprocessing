@@ -1,0 +1,1087 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.14:
+"Well so this is in the next slide certainly. It's not ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1004c.A.argumentstructs.14
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.1:
+"So which fruit are you thinking of ?"
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.14: "Well so this is in the next slide certainly. It's not ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.22:
+"could remind some kind of vegetable, some kind of instead of vegetable, some natur mm uh natural object or something."
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.14: "Well so this is in the next slide certainly. It's not ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.1: "So which fruit are you thinking of ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004c.D.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.C.argumentstructs.6:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.14: "Well so this is in the next slide certainly. It's not ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.1: "So which fruit are you thinking of ?"
+AE_ID IS1004c.D.argumentstructs.22: "could remind some kind of vegetable, some kind of instead of vegetable, some natur mm uh natural object or something."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004c.C.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.1:
+"But yeah it it depends on the"
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.14: "Well so this is in the next slide certainly. It's not ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.1: "So which fruit are you thinking of ?"
+AE_ID IS1004c.D.argumentstructs.22: "could remind some kind of vegetable, some kind of instead of vegetable, some natur mm uh natural object or something."
+AE_ID IS1004c.C.argumentstructs.6: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID IS1004c.B.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.1
+source=IS1004c.B.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.1:
+"So maybe you maybe you can display a banana on the L_C_D_."
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.14: "Well so this is in the next slide certainly. It's not ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.1: "So which fruit are you thinking of ?"
+AE_ID IS1004c.D.argumentstructs.22: "could remind some kind of vegetable, some kind of instead of vegetable, some natur mm uh natural object or something."
+AE_ID IS1004c.C.argumentstructs.6: "Mm-hmm."
+AE_ID IS1004c.D.argumentstructs.Rutger.1: "But yeah it it depends on the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.1
+source=IS1004c.B.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.2:
+"Oh, so you want the remote control to be the shape of a fruit, or you want just some kind of like fruit logo on the"
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.1: "So which fruit are you thinking of ?"
+AE_ID IS1004c.D.argumentstructs.22: "could remind some kind of vegetable, some kind of instead of vegetable, some natur mm uh natural object or something."
+AE_ID IS1004c.C.argumentstructs.6: "Mm-hmm."
+AE_ID IS1004c.D.argumentstructs.Rutger.1: "But yeah it it depends on the"
+AE_ID IS1004c.A.argumentstructs.Rutger.1: "So maybe you maybe you can display a banana on the L_C_D_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.2
+source=IS1004c.B.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.C.argumentstructs.Rutger.1:
+"Means buttons are in the shape of fruits, buttons are in the frape  shape of fruits or something, apple, banana, something like that."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.22: "could remind some kind of vegetable, some kind of instead of vegetable, some natur mm uh natural object or something."
+AE_ID IS1004c.C.argumentstructs.6: "Mm-hmm."
+AE_ID IS1004c.D.argumentstructs.Rutger.1: "But yeah it it depends on the"
+AE_ID IS1004c.A.argumentstructs.Rutger.1: "So maybe you maybe you can display a banana on the L_C_D_."
+AE_ID IS1004c.B.argumentstructs.Rutger.2: "Oh, so you want the remote control to be the shape of a fruit, or you want just some kind of like fruit logo on the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.2
+---------------------------------
+target=IS1004c.C.argumentstructs.Rutger.1
+source=IS1004c.B.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.2:
+"Yeah maybe the shape the shape"
+
+Past dialogue turns:
+AE_ID IS1004c.C.argumentstructs.6: "Mm-hmm."
+AE_ID IS1004c.D.argumentstructs.Rutger.1: "But yeah it it depends on the"
+AE_ID IS1004c.A.argumentstructs.Rutger.1: "So maybe you maybe you can display a banana on the L_C_D_."
+AE_ID IS1004c.B.argumentstructs.Rutger.2: "Oh, so you want the remote control to be the shape of a fruit, or you want just some kind of like fruit logo on the"
+AE_ID IS1004c.C.argumentstructs.Rutger.1: "Means buttons are in the shape of fruits, buttons are in the frape  shape of fruits or something, apple, banana, something like that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.2
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.2
+source=IS1004c.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.3:
+"No, not n not not too much focus, not too much focu not n not too s not too similar to a fruit because next year the ten the trend the trend will be different. So we shouldn't be at re really attached"
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.1: "But yeah it it depends on the"
+AE_ID IS1004c.A.argumentstructs.Rutger.1: "So maybe you maybe you can display a banana on the L_C_D_."
+AE_ID IS1004c.B.argumentstructs.Rutger.2: "Oh, so you want the remote control to be the shape of a fruit, or you want just some kind of like fruit logo on the"
+AE_ID IS1004c.C.argumentstructs.Rutger.1: "Means buttons are in the shape of fruits, buttons are in the frape  shape of fruits or something, apple, banana, something like that."
+AE_ID IS1004c.D.argumentstructs.Rutger.2: "Yeah maybe the shape the shape"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.C.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.3
+source=IS1004c.B.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.2:
+"Apple for channel one."
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.Rutger.1: "So maybe you maybe you can display a banana on the L_C_D_."
+AE_ID IS1004c.B.argumentstructs.Rutger.2: "Oh, so you want the remote control to be the shape of a fruit, or you want just some kind of like fruit logo on the"
+AE_ID IS1004c.C.argumentstructs.Rutger.1: "Means buttons are in the shape of fruits, buttons are in the frape  shape of fruits or something, apple, banana, something like that."
+AE_ID IS1004c.D.argumentstructs.Rutger.2: "Yeah maybe the shape the shape"
+AE_ID IS1004c.D.argumentstructs.Rutger.3: "No, not n not not too much focus, not too much focu not n not too s not too similar to a fruit because next year the ten the trend the trend will be different. So we shouldn't be at re really attached"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.C.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.2
+source=IS1004c.C.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.C.argumentstructs.7:
+"Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.2: "Oh, so you want the remote control to be the shape of a fruit, or you want just some kind of like fruit logo on the"
+AE_ID IS1004c.C.argumentstructs.Rutger.1: "Means buttons are in the shape of fruits, buttons are in the frape  shape of fruits or something, apple, banana, something like that."
+AE_ID IS1004c.D.argumentstructs.Rutger.2: "Yeah maybe the shape the shape"
+AE_ID IS1004c.D.argumentstructs.Rutger.3: "No, not n not not too much focus, not too much focu not n not too s not too similar to a fruit because next year the ten the trend the trend will be different. So we shouldn't be at re really attached"
+AE_ID IS1004c.A.argumentstructs.Rutger.2: "Apple for channel one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.C.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004c.C.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.23:
+"to to the trend but"
+
+Past dialogue turns:
+AE_ID IS1004c.C.argumentstructs.Rutger.1: "Means buttons are in the shape of fruits, buttons are in the frape  shape of fruits or something, apple, banana, something like that."
+AE_ID IS1004c.D.argumentstructs.Rutger.2: "Yeah maybe the shape the shape"
+AE_ID IS1004c.D.argumentstructs.Rutger.3: "No, not n not not too much focus, not too much focu not n not too s not too similar to a fruit because next year the ten the trend the trend will be different. So we shouldn't be at re really attached"
+AE_ID IS1004c.A.argumentstructs.Rutger.2: "Apple for channel one."
+AE_ID IS1004c.C.argumentstructs.7: "Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.D.argumentstructs.Rutger.3
+---------------------------------
+target=IS1004c.D.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.3:
+"So something that looks half like a fruit and half like an elephant."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.2: "Yeah maybe the shape the shape"
+AE_ID IS1004c.D.argumentstructs.Rutger.3: "No, not n not not too much focus, not too much focu not n not too s not too similar to a fruit because next year the ten the trend the trend will be different. So we shouldn't be at re really attached"
+AE_ID IS1004c.A.argumentstructs.Rutger.2: "Apple for channel one."
+AE_ID IS1004c.C.argumentstructs.7: "Mm-hmm. Mm-hmm."
+AE_ID IS1004c.D.argumentstructs.23: "to to the trend but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.D.argumentstructs.Rutger.2
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.3
+source=IS1004c.B.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.4:
+"For instance, yeah. African or as an elephant ?"
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.3: "No, not n not not too much focus, not too much focu not n not too s not too similar to a fruit because next year the ten the trend the trend will be different. So we shouldn't be at re really attached"
+AE_ID IS1004c.A.argumentstructs.Rutger.2: "Apple for channel one."
+AE_ID IS1004c.C.argumentstructs.7: "Mm-hmm. Mm-hmm."
+AE_ID IS1004c.D.argumentstructs.23: "to to the trend but"
+AE_ID IS1004c.B.argumentstructs.Rutger.3: "So something that looks half like a fruit and half like an elephant."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.3
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.4
+source=IS1004c.B.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.C.argumentstructs.Rutger.2:
+"That we can discuss afterwards."
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.Rutger.2: "Apple for channel one."
+AE_ID IS1004c.C.argumentstructs.7: "Mm-hmm. Mm-hmm."
+AE_ID IS1004c.D.argumentstructs.23: "to to the trend but"
+AE_ID IS1004c.B.argumentstructs.Rutger.3: "So something that looks half like a fruit and half like an elephant."
+AE_ID IS1004c.D.argumentstructs.Rutger.4: "For instance, yeah. African or as an elephant ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1004c.C.argumentstructs.Rutger.2
+source=IS1004c.B.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.3:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1004c.C.argumentstructs.7: "Mm-hmm. Mm-hmm."
+AE_ID IS1004c.D.argumentstructs.23: "to to the trend but"
+AE_ID IS1004c.B.argumentstructs.Rutger.3: "So something that looks half like a fruit and half like an elephant."
+AE_ID IS1004c.D.argumentstructs.Rutger.4: "For instance, yeah. African or as an elephant ?"
+AE_ID IS1004c.C.argumentstructs.Rutger.2: "That we can discuss afterwards."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.C.argumentstructs.7
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.3
+source=IS1004c.C.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.27:
+"okay, I'm not, I'm not really sure"
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.23: "to to the trend but"
+AE_ID IS1004c.B.argumentstructs.Rutger.3: "So something that looks half like a fruit and half like an elephant."
+AE_ID IS1004c.D.argumentstructs.Rutger.4: "For instance, yeah. African or as an elephant ?"
+AE_ID IS1004c.C.argumentstructs.Rutger.2: "That we can discuss afterwards."
+AE_ID IS1004c.A.argumentstructs.Rutger.3: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1004c.B.argumentstructs.27
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.5:
+"if uh that would really appeal to everyone though, maybe just to fashion gurus, like maybe just like a little bit n a little fruit picture somewhere in the corner, but I don't know about uh I dunno how ergonomic a, an orange is."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.3: "So something that looks half like a fruit and half like an elephant."
+AE_ID IS1004c.D.argumentstructs.Rutger.4: "For instance, yeah. African or as an elephant ?"
+AE_ID IS1004c.C.argumentstructs.Rutger.2: "That we can discuss afterwards."
+AE_ID IS1004c.A.argumentstructs.Rutger.3: "Okay."
+AE_ID IS1004c.B.argumentstructs.27: "okay, I'm not, I'm not really sure"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.3
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.5
+source=IS1004c.B.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.5:
+"Well ma maybe we we should further specify what target are we focusing."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.4: "For instance, yeah. African or as an elephant ?"
+AE_ID IS1004c.C.argumentstructs.Rutger.2: "That we can discuss afterwards."
+AE_ID IS1004c.A.argumentstructs.Rutger.3: "Okay."
+AE_ID IS1004c.B.argumentstructs.27: "okay, I'm not, I'm not really sure"
+AE_ID IS1004c.B.argumentstructs.Rutger.5: "if uh that would really appeal to everyone though, maybe just to fashion gurus, like maybe just like a little bit n a little fruit picture somewhere in the corner, but I don't know about uh I dunno how ergonomic a, an orange is."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.D.argumentstructs.Rutger.4
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.28:
+"To fruit ?"
+
+Past dialogue turns:
+AE_ID IS1004c.C.argumentstructs.Rutger.2: "That we can discuss afterwards."
+AE_ID IS1004c.A.argumentstructs.Rutger.3: "Okay."
+AE_ID IS1004c.B.argumentstructs.27: "okay, I'm not, I'm not really sure"
+AE_ID IS1004c.B.argumentstructs.Rutger.5: "if uh that would really appeal to everyone though, maybe just to fashion gurus, like maybe just like a little bit n a little fruit picture somewhere in the corner, but I don't know about uh I dunno how ergonomic a, an orange is."
+AE_ID IS1004c.D.argumentstructs.Rutger.5: "Well ma maybe we we should further specify what target are we focusing."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.27
+---------------------------------
+target=IS1004c.B.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.24:
+"was was able to"
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.Rutger.3: "Okay."
+AE_ID IS1004c.B.argumentstructs.27: "okay, I'm not, I'm not really sure"
+AE_ID IS1004c.B.argumentstructs.Rutger.5: "if uh that would really appeal to everyone though, maybe just to fashion gurus, like maybe just like a little bit n a little fruit picture somewhere in the corner, but I don't know about uh I dunno how ergonomic a, an orange is."
+AE_ID IS1004c.D.argumentstructs.Rutger.5: "Well ma maybe we we should further specify what target are we focusing."
+AE_ID IS1004c.B.argumentstructs.28: "To fruit ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.27
+---------------------------------
+target=IS1004c.D.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.7:
+"to buy a a n a cooler remote control."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.27: "okay, I'm not, I'm not really sure"
+AE_ID IS1004c.B.argumentstructs.Rutger.5: "if uh that would really appeal to everyone though, maybe just to fashion gurus, like maybe just like a little bit n a little fruit picture somewhere in the corner, but I don't know about uh I dunno how ergonomic a, an orange is."
+AE_ID IS1004c.D.argumentstructs.Rutger.5: "Well ma maybe we we should further specify what target are we focusing."
+AE_ID IS1004c.B.argumentstructs.28: "To fruit ?"
+AE_ID IS1004c.D.argumentstructs.24: "was was able to"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID IS1004c.B.argumentstructs.Rutger.5
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.7:
+"But is it uh is fruit cool ?"
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.5: "if uh that would really appeal to everyone though, maybe just to fashion gurus, like maybe just like a little bit n a little fruit picture somewhere in the corner, but I don't know about uh I dunno how ergonomic a, an orange is."
+AE_ID IS1004c.D.argumentstructs.Rutger.5: "Well ma maybe we we should further specify what target are we focusing."
+AE_ID IS1004c.B.argumentstructs.28: "To fruit ?"
+AE_ID IS1004c.D.argumentstructs.24: "was was able to"
+AE_ID IS1004c.D.argumentstructs.Rutger.7: "to buy a a n a cooler remote control."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.5
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.7
+source=IS1004c.D.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.25:
+"What ?"
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.5: "Well ma maybe we we should further specify what target are we focusing."
+AE_ID IS1004c.B.argumentstructs.28: "To fruit ?"
+AE_ID IS1004c.D.argumentstructs.24: "was was able to"
+AE_ID IS1004c.D.argumentstructs.Rutger.7: "to buy a a n a cooler remote control."
+AE_ID IS1004c.B.argumentstructs.Rutger.7: "But is it uh is fruit cool ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.28
+---------------------------------
+target=IS1004c.D.argumentstructs.25
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.4:
+"That's a question."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.28: "To fruit ?"
+AE_ID IS1004c.D.argumentstructs.24: "was was able to"
+AE_ID IS1004c.D.argumentstructs.Rutger.7: "to buy a a n a cooler remote control."
+AE_ID IS1004c.B.argumentstructs.Rutger.7: "But is it uh is fruit cool ?"
+AE_ID IS1004c.D.argumentstructs.25: "What ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.7
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.8:
+"What ?"
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.24: "was was able to"
+AE_ID IS1004c.D.argumentstructs.Rutger.7: "to buy a a n a cooler remote control."
+AE_ID IS1004c.B.argumentstructs.Rutger.7: "But is it uh is fruit cool ?"
+AE_ID IS1004c.D.argumentstructs.25: "What ?"
+AE_ID IS1004c.A.argumentstructs.Rutger.4: "That's a question."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.D.argumentstructs.25
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.8
+source=IS1004c.B.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.8:
+"Is fruit cool ?"
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.7: "to buy a a n a cooler remote control."
+AE_ID IS1004c.B.argumentstructs.Rutger.7: "But is it uh is fruit cool ?"
+AE_ID IS1004c.D.argumentstructs.25: "What ?"
+AE_ID IS1004c.A.argumentstructs.Rutger.4: "That's a question."
+AE_ID IS1004c.D.argumentstructs.Rutger.8: "What ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.7
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.8
+source=IS1004c.A.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.26:
+"Is the new trend"
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.7: "But is it uh is fruit cool ?"
+AE_ID IS1004c.D.argumentstructs.25: "What ?"
+AE_ID IS1004c.A.argumentstructs.Rutger.4: "That's a question."
+AE_ID IS1004c.D.argumentstructs.Rutger.8: "What ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.8: "Is fruit cool ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.7
+---------------------------------
+target=IS1004c.D.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.9:
+"of the"
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.25: "What ?"
+AE_ID IS1004c.A.argumentstructs.Rutger.4: "That's a question."
+AE_ID IS1004c.D.argumentstructs.Rutger.8: "What ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.8: "Is fruit cool ?"
+AE_ID IS1004c.D.argumentstructs.26: "Is the new trend"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.D.argumentstructs.26
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.9
+source=IS1004c.B.argumentstructs.Rutger.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.29:
+"just 'cause they have an apple on their"
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.Rutger.4: "That's a question."
+AE_ID IS1004c.D.argumentstructs.Rutger.8: "What ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.8: "Is fruit cool ?"
+AE_ID IS1004c.D.argumentstructs.26: "Is the new trend"
+AE_ID IS1004c.D.argumentstructs.Rutger.9: "of the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.8
+---------------------------------
+target=IS1004c.B.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.10:
+"on their product, doesn't mean fruit is cool."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.8: "What ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.8: "Is fruit cool ?"
+AE_ID IS1004c.D.argumentstructs.26: "Is the new trend"
+AE_ID IS1004c.D.argumentstructs.Rutger.9: "of the"
+AE_ID IS1004c.B.argumentstructs.29: "just 'cause they have an apple on their"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.29
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.10
+source=IS1004c.B.argumentstructs.Rutger.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.10:
+"No I think we we should think about a a shape with it  a device with a shape of some"
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.8: "Is fruit cool ?"
+AE_ID IS1004c.D.argumentstructs.26: "Is the new trend"
+AE_ID IS1004c.D.argumentstructs.Rutger.9: "of the"
+AE_ID IS1004c.B.argumentstructs.29: "just 'cause they have an apple on their"
+AE_ID IS1004c.B.argumentstructs.Rutger.10: "on their product, doesn't mean fruit is cool."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.10
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.10
+source=IS1004c.B.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.11:
+"Okay, but it has to be easy to uh to use though and to hold you know, you don't wanna pear or a watermelon."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.26: "Is the new trend"
+AE_ID IS1004c.D.argumentstructs.Rutger.9: "of the"
+AE_ID IS1004c.B.argumentstructs.29: "just 'cause they have an apple on their"
+AE_ID IS1004c.B.argumentstructs.Rutger.10: "on their product, doesn't mean fruit is cool."
+AE_ID IS1004c.D.argumentstructs.Rutger.10: "No I think we we should think about a a shape with it  a device with a shape of some"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.10
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.11
+source=IS1004c.B.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.27:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.9: "of the"
+AE_ID IS1004c.B.argumentstructs.29: "just 'cause they have an apple on their"
+AE_ID IS1004c.B.argumentstructs.Rutger.10: "on their product, doesn't mean fruit is cool."
+AE_ID IS1004c.D.argumentstructs.Rutger.10: "No I think we we should think about a a shape with it  a device with a shape of some"
+AE_ID IS1004c.B.argumentstructs.Rutger.11: "Okay, but it has to be easy to uh to use though and to hold you know, you don't wanna pear or a watermelon."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.29
+---------------------------------
+target=IS1004c.D.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.11:
+"Don don't you think we can find uh the shape of a fruit which is handy to use ?"
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.29: "just 'cause they have an apple on their"
+AE_ID IS1004c.B.argumentstructs.Rutger.10: "on their product, doesn't mean fruit is cool."
+AE_ID IS1004c.D.argumentstructs.Rutger.10: "No I think we we should think about a a shape with it  a device with a shape of some"
+AE_ID IS1004c.B.argumentstructs.Rutger.11: "Okay, but it has to be easy to uh to use though and to hold you know, you don't wanna pear or a watermelon."
+AE_ID IS1004c.D.argumentstructs.27: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.11
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.11
+source=IS1004c.B.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.12:
+"Well, probably the only thing is a banana that I can think of, a cucumber."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.10: "on their product, doesn't mean fruit is cool."
+AE_ID IS1004c.D.argumentstructs.Rutger.10: "No I think we we should think about a a shape with it  a device with a shape of some"
+AE_ID IS1004c.B.argumentstructs.Rutger.11: "Okay, but it has to be easy to uh to use though and to hold you know, you don't wanna pear or a watermelon."
+AE_ID IS1004c.D.argumentstructs.27: "Yeah."
+AE_ID IS1004c.D.argumentstructs.Rutger.11: "Don don't you think we can find uh the shape of a fruit which is handy to use ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.11
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.12
+source=IS1004c.D.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.C.argumentstructs.8:
+"Banana."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.10: "No I think we we should think about a a shape with it  a device with a shape of some"
+AE_ID IS1004c.B.argumentstructs.Rutger.11: "Okay, but it has to be easy to uh to use though and to hold you know, you don't wanna pear or a watermelon."
+AE_ID IS1004c.D.argumentstructs.27: "Yeah."
+AE_ID IS1004c.D.argumentstructs.Rutger.11: "Don don't you think we can find uh the shape of a fruit which is handy to use ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.12: "Well, probably the only thing is a banana that I can think of, a cucumber."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.12
+---------------------------------
+target=IS1004c.C.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.C.argumentstructs.Rutger.3:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.11: "Okay, but it has to be easy to uh to use though and to hold you know, you don't wanna pear or a watermelon."
+AE_ID IS1004c.D.argumentstructs.27: "Yeah."
+AE_ID IS1004c.D.argumentstructs.Rutger.11: "Don don't you think we can find uh the shape of a fruit which is handy to use ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.12: "Well, probably the only thing is a banana that I can think of, a cucumber."
+AE_ID IS1004c.C.argumentstructs.8: "Banana."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.11
+---------------------------------
+target=IS1004c.C.argumentstructs.Rutger.3
+source=IS1004c.B.argumentstructs.Rutger.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.13:
+"I dunno."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.27: "Yeah."
+AE_ID IS1004c.D.argumentstructs.Rutger.11: "Don don't you think we can find uh the shape of a fruit which is handy to use ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.12: "Well, probably the only thing is a banana that I can think of, a cucumber."
+AE_ID IS1004c.C.argumentstructs.8: "Banana."
+AE_ID IS1004c.C.argumentstructs.Rutger.3: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.12
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.13
+source=IS1004c.B.argumentstructs.Rutger.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.28:
+"Or m"
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.11: "Don don't you think we can find uh the shape of a fruit which is handy to use ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.12: "Well, probably the only thing is a banana that I can think of, a cucumber."
+AE_ID IS1004c.C.argumentstructs.8: "Banana."
+AE_ID IS1004c.C.argumentstructs.Rutger.3: "Mm-hmm."
+AE_ID IS1004c.B.argumentstructs.Rutger.13: "I dunno."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.12
+---------------------------------
+target=IS1004c.D.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.5:
+"Maybe too long."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.12: "Well, probably the only thing is a banana that I can think of, a cucumber."
+AE_ID IS1004c.C.argumentstructs.8: "Banana."
+AE_ID IS1004c.C.argumentstructs.Rutger.3: "Mm-hmm."
+AE_ID IS1004c.B.argumentstructs.Rutger.13: "I dunno."
+AE_ID IS1004c.D.argumentstructs.28: "Or m"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.12
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.5
+source=IS1004c.B.argumentstructs.Rutger.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.14:
+"Maybe. Too green."
+
+Past dialogue turns:
+AE_ID IS1004c.C.argumentstructs.8: "Banana."
+AE_ID IS1004c.C.argumentstructs.Rutger.3: "Mm-hmm."
+AE_ID IS1004c.B.argumentstructs.Rutger.13: "I dunno."
+AE_ID IS1004c.D.argumentstructs.28: "Or m"
+AE_ID IS1004c.A.argumentstructs.Rutger.5: "Maybe too long."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.13
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.14
+source=IS1004c.B.argumentstructs.Rutger.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.12:
+"Maybe."
+
+Past dialogue turns:
+AE_ID IS1004c.C.argumentstructs.Rutger.3: "Mm-hmm."
+AE_ID IS1004c.B.argumentstructs.Rutger.13: "I dunno."
+AE_ID IS1004c.D.argumentstructs.28: "Or m"
+AE_ID IS1004c.A.argumentstructs.Rutger.5: "Maybe too long."
+AE_ID IS1004c.B.argumentstructs.Rutger.14: "Maybe. Too green."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.14
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.12
+source=IS1004c.B.argumentstructs.Rutger.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1004c-Shape of the remote.csv - True Judgement Ratio: 25.00%

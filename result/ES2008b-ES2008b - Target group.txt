@@ -1,0 +1,337 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.A.argumentstructs.Erik.1:
+"Okay, we need to talk about our functions and our target group. We need to decide who our target group is. You um in your analysis of different market um  of the marketing, you identified that different groups wanted different things or had certain preferences, for example that um that older people didn't really care for um voice recognition, but younger people did. Um and so who are we aiming this at ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2008b.A.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.D.argumentstructs.8:
+"Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2008b.A.argumentstructs.Erik.1: "Okay, we need to talk about our functions and our target group. We need to decide who our target group is. You um in your analysis of different market um  of the marketing, you identified that different groups wanted different things or had certain preferences, for example that um that older people didn't really care for um voice recognition, but younger people did. Um and so who are we aiming this at ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2008b.D.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.B.argumentstructs.Erik.1:
+"Well if we're gonna say that function um fashion  we put the fashion in in electronics then you  automatically, I think, a sort of younger group that  that's  who's gonna be attracted to this."
+
+Past dialogue turns:
+AE_ID ES2008b.A.argumentstructs.Erik.1: "Okay, we need to talk about our functions and our target group. We need to decide who our target group is. You um in your analysis of different market um  of the marketing, you identified that different groups wanted different things or had certain preferences, for example that um that older people didn't really care for um voice recognition, but younger people did. Um and so who are we aiming this at ?"
+AE_ID ES2008b.D.argumentstructs.8: "Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2008b.B.argumentstructs.Erik.1
+source=ES2008b.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.D.argumentstructs.Erik.1:
+"Yes, I do think, who's gonna have the money to buy that also, that one ?"
+
+Past dialogue turns:
+AE_ID ES2008b.A.argumentstructs.Erik.1: "Okay, we need to talk about our functions and our target group. We need to decide who our target group is. You um in your analysis of different market um  of the marketing, you identified that different groups wanted different things or had certain preferences, for example that um that older people didn't really care for um voice recognition, but younger people did. Um and so who are we aiming this at ?"
+AE_ID ES2008b.D.argumentstructs.8: "Mm-hmm. Mm-hmm."
+AE_ID ES2008b.B.argumentstructs.Erik.1: "Well if we're gonna say that function um fashion  we put the fashion in in electronics then you  automatically, I think, a sort of younger group that  that's  who's gonna be attracted to this."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2008b.D.argumentstructs.Erik.1
+source=ES2008b.B.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.A.argumentstructs.10:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2008b.A.argumentstructs.Erik.1: "Okay, we need to talk about our functions and our target group. We need to decide who our target group is. You um in your analysis of different market um  of the marketing, you identified that different groups wanted different things or had certain preferences, for example that um that older people didn't really care for um voice recognition, but younger people did. Um and so who are we aiming this at ?"
+AE_ID ES2008b.D.argumentstructs.8: "Mm-hmm. Mm-hmm."
+AE_ID ES2008b.B.argumentstructs.Erik.1: "Well if we're gonna say that function um fashion  we put the fashion in in electronics then you  automatically, I think, a sort of younger group that  that's  who's gonna be attracted to this."
+AE_ID ES2008b.D.argumentstructs.Erik.1: "Yes, I do think, who's gonna have the money to buy that also, that one ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.D.argumentstructs.8
+---------------------------------
+target=ES2008b.A.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.A.argumentstructs.Erik.2:
+"It's gonna be twenty five Euro remember, so um it has to be avai marketable to um whomever it is."
+
+Past dialogue turns:
+AE_ID ES2008b.A.argumentstructs.Erik.1: "Okay, we need to talk about our functions and our target group. We need to decide who our target group is. You um in your analysis of different market um  of the marketing, you identified that different groups wanted different things or had certain preferences, for example that um that older people didn't really care for um voice recognition, but younger people did. Um and so who are we aiming this at ?"
+AE_ID ES2008b.D.argumentstructs.8: "Mm-hmm. Mm-hmm."
+AE_ID ES2008b.B.argumentstructs.Erik.1: "Well if we're gonna say that function um fashion  we put the fashion in in electronics then you  automatically, I think, a sort of younger group that  that's  who's gonna be attracted to this."
+AE_ID ES2008b.D.argumentstructs.Erik.1: "Yes, I do think, who's gonna have the money to buy that also, that one ?"
+AE_ID ES2008b.A.argumentstructs.10: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2008b.A.argumentstructs.Erik.2
+source=ES2008b.D.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.B.argumentstructs.12:
+"Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2008b.D.argumentstructs.8: "Mm-hmm. Mm-hmm."
+AE_ID ES2008b.B.argumentstructs.Erik.1: "Well if we're gonna say that function um fashion  we put the fashion in in electronics then you  automatically, I think, a sort of younger group that  that's  who's gonna be attracted to this."
+AE_ID ES2008b.D.argumentstructs.Erik.1: "Yes, I do think, who's gonna have the money to buy that also, that one ?"
+AE_ID ES2008b.A.argumentstructs.10: "Mm-hmm."
+AE_ID ES2008b.A.argumentstructs.Erik.2: "It's gonna be twenty five Euro remember, so um it has to be avai marketable to um whomever it is."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.D.argumentstructs.8
+---------------------------------
+target=ES2008b.B.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.C.argumentstructs.Erik.1:
+"Is it  is it something that's gonna be sold separately from the television or is it something that comes w with a television ? 'Cause that would affect the way that we market it."
+
+Past dialogue turns:
+AE_ID ES2008b.B.argumentstructs.Erik.1: "Well if we're gonna say that function um fashion  we put the fashion in in electronics then you  automatically, I think, a sort of younger group that  that's  who's gonna be attracted to this."
+AE_ID ES2008b.D.argumentstructs.Erik.1: "Yes, I do think, who's gonna have the money to buy that also, that one ?"
+AE_ID ES2008b.A.argumentstructs.10: "Mm-hmm."
+AE_ID ES2008b.A.argumentstructs.Erik.2: "It's gonna be twenty five Euro remember, so um it has to be avai marketable to um whomever it is."
+AE_ID ES2008b.B.argumentstructs.12: "Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2008b.C.argumentstructs.Erik.1
+source=ES2008b.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.A.argumentstructs.Erik.3:
+"Well at least right now what we're doing is um deciding on just the remote itself, so it will probably be sold separately, twenty five Euro by itself."
+
+Past dialogue turns:
+AE_ID ES2008b.D.argumentstructs.Erik.1: "Yes, I do think, who's gonna have the money to buy that also, that one ?"
+AE_ID ES2008b.A.argumentstructs.10: "Mm-hmm."
+AE_ID ES2008b.A.argumentstructs.Erik.2: "It's gonna be twenty five Euro remember, so um it has to be avai marketable to um whomever it is."
+AE_ID ES2008b.B.argumentstructs.12: "Mm-hmm. Mm-hmm."
+AE_ID ES2008b.C.argumentstructs.Erik.1: "Is it  is it something that's gonna be sold separately from the television or is it something that comes w with a television ? 'Cause that would affect the way that we market it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2008b.A.argumentstructs.Erik.3
+source=ES2008b.C.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.C.argumentstructs.15:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2008b.A.argumentstructs.10: "Mm-hmm."
+AE_ID ES2008b.A.argumentstructs.Erik.2: "It's gonna be twenty five Euro remember, so um it has to be avai marketable to um whomever it is."
+AE_ID ES2008b.B.argumentstructs.12: "Mm-hmm. Mm-hmm."
+AE_ID ES2008b.C.argumentstructs.Erik.1: "Is it  is it something that's gonna be sold separately from the television or is it something that comes w with a television ? 'Cause that would affect the way that we market it."
+AE_ID ES2008b.A.argumentstructs.Erik.3: "Well at least right now what we're doing is um deciding on just the remote itself, so it will probably be sold separately, twenty five Euro by itself."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2008b.C.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.C.argumentstructs.Erik.2:
+"Right, okay."
+
+Past dialogue turns:
+AE_ID ES2008b.A.argumentstructs.Erik.2: "It's gonna be twenty five Euro remember, so um it has to be avai marketable to um whomever it is."
+AE_ID ES2008b.B.argumentstructs.12: "Mm-hmm. Mm-hmm."
+AE_ID ES2008b.C.argumentstructs.Erik.1: "Is it  is it something that's gonna be sold separately from the television or is it something that comes w with a television ? 'Cause that would affect the way that we market it."
+AE_ID ES2008b.A.argumentstructs.Erik.3: "Well at least right now what we're doing is um deciding on just the remote itself, so it will probably be sold separately, twenty five Euro by itself."
+AE_ID ES2008b.C.argumentstructs.15: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2008b.C.argumentstructs.Erik.2
+source=ES2008b.A.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.D.argumentstructs.Erik.2:
+"The only break-down that I was given in terms of age was the voice activation and basically there's a big jump, after thirty five people don't really care if it has voice, so it's like basically fifteen to thirty five that think that that's a good idea. I dunno I'm gonna be given any other numbers broken down in terms of age later, but if that's sort of the only quality that we have that is divided into age then we would wanna stick between the fifteen and thirty five range."
+
+Past dialogue turns:
+AE_ID ES2008b.B.argumentstructs.12: "Mm-hmm. Mm-hmm."
+AE_ID ES2008b.C.argumentstructs.Erik.1: "Is it  is it something that's gonna be sold separately from the television or is it something that comes w with a television ? 'Cause that would affect the way that we market it."
+AE_ID ES2008b.A.argumentstructs.Erik.3: "Well at least right now what we're doing is um deciding on just the remote itself, so it will probably be sold separately, twenty five Euro by itself."
+AE_ID ES2008b.C.argumentstructs.15: "Right."
+AE_ID ES2008b.C.argumentstructs.Erik.2: "Right, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2008b.D.argumentstructs.Erik.2
+source=ES2008b.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.B.argumentstructs.Erik.2:
+"Yeah, that's probably uh a population w quite a little bit of disposable income for use on technology anyway, so that might be a fairly good target group for us."
+
+Past dialogue turns:
+AE_ID ES2008b.C.argumentstructs.Erik.1: "Is it  is it something that's gonna be sold separately from the television or is it something that comes w with a television ? 'Cause that would affect the way that we market it."
+AE_ID ES2008b.A.argumentstructs.Erik.3: "Well at least right now what we're doing is um deciding on just the remote itself, so it will probably be sold separately, twenty five Euro by itself."
+AE_ID ES2008b.C.argumentstructs.15: "Right."
+AE_ID ES2008b.C.argumentstructs.Erik.2: "Right, okay."
+AE_ID ES2008b.D.argumentstructs.Erik.2: "The only break-down that I was given in terms of age was the voice activation and basically there's a big jump, after thirty five people don't really care if it has voice, so it's like basically fifteen to thirty five that think that that's a good idea. I dunno I'm gonna be given any other numbers broken down in terms of age later, but if that's sort of the only quality that we have that is divided into age then we would wanna stick between the fifteen and thirty five range."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2008b.B.argumentstructs.Erik.2
+source=ES2008b.D.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008b.C.argumentstructs.Erik.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2008b.A.argumentstructs.Erik.3: "Well at least right now what we're doing is um deciding on just the remote itself, so it will probably be sold separately, twenty five Euro by itself."
+AE_ID ES2008b.C.argumentstructs.15: "Right."
+AE_ID ES2008b.C.argumentstructs.Erik.2: "Right, okay."
+AE_ID ES2008b.D.argumentstructs.Erik.2: "The only break-down that I was given in terms of age was the voice activation and basically there's a big jump, after thirty five people don't really care if it has voice, so it's like basically fifteen to thirty five that think that that's a good idea. I dunno I'm gonna be given any other numbers broken down in terms of age later, but if that's sort of the only quality that we have that is divided into age then we would wanna stick between the fifteen and thirty five range."
+AE_ID ES2008b.B.argumentstructs.Erik.2: "Yeah, that's probably uh a population w quite a little bit of disposable income for use on technology anyway, so that might be a fairly good target group for us."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008b.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2008b.C.argumentstructs.Erik.3
+source=ES2008b.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2008b-ES2008b - Target group.csv - True Judgement Ratio: 42.86%

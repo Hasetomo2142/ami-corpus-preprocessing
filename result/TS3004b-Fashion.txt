@@ -1,0 +1,287 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.D.argumentstructs.Daan.3:
+"And I I found a motto. And we put the fashion in electronics. And that's uh the motto we are uh referenced to uh for our uh our style. We we have to make a  a new product. We have to be um  Yeah."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3004b.D.argumentstructs.Daan.3
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.D.argumentstructs.Daan.4:
+"One of a kind, I think."
+
+Past dialogue turns:
+AE_ID TS3004b.D.argumentstructs.Daan.3: "And I I found a motto. And we put the fashion in electronics. And that's uh the motto we are uh referenced to uh for our uh our style. We we have to make a  a new product. We have to be um  Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.D.argumentstructs.Daan.3
+---------------------------------
+target=TS3004b.D.argumentstructs.Daan.4
+source=TS3004b.D.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.A.argumentstructs.Daan.1:
+"So it has to look uh uh uh unique, but"
+
+Past dialogue turns:
+AE_ID TS3004b.D.argumentstructs.Daan.3: "And I I found a motto. And we put the fashion in electronics. And that's uh the motto we are uh referenced to uh for our uh our style. We we have to make a  a new product. We have to be um  Yeah."
+AE_ID TS3004b.D.argumentstructs.Daan.4: "One of a kind, I think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.D.argumentstructs.Daan.4
+---------------------------------
+target=TS3004b.A.argumentstructs.Daan.1
+source=TS3004b.D.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.D.argumentstructs.Daan.5:
+"The company is about our uh th th their own fashion, their own style."
+
+Past dialogue turns:
+AE_ID TS3004b.D.argumentstructs.Daan.3: "And I I found a motto. And we put the fashion in electronics. And that's uh the motto we are uh referenced to uh for our uh our style. We we have to make a  a new product. We have to be um  Yeah."
+AE_ID TS3004b.D.argumentstructs.Daan.4: "One of a kind, I think."
+AE_ID TS3004b.A.argumentstructs.Daan.1: "So it has to look uh uh uh unique, but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.D.argumentstructs.Daan.3
+---------------------------------
+target=TS3004b.D.argumentstructs.Daan.5
+source=TS3004b.D.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.A.argumentstructs.10:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3004b.D.argumentstructs.Daan.3: "And I I found a motto. And we put the fashion in electronics. And that's uh the motto we are uh referenced to uh for our uh our style. We we have to make a  a new product. We have to be um  Yeah."
+AE_ID TS3004b.D.argumentstructs.Daan.4: "One of a kind, I think."
+AE_ID TS3004b.A.argumentstructs.Daan.1: "So it has to look uh uh uh unique, but"
+AE_ID TS3004b.D.argumentstructs.Daan.5: "The company is about our uh th th their own fashion, their own style."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3004b.A.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.A.argumentstructs.Daan.2:
+"But old people are not looking for that."
+
+Past dialogue turns:
+AE_ID TS3004b.D.argumentstructs.Daan.3: "And I I found a motto. And we put the fashion in electronics. And that's uh the motto we are uh referenced to uh for our uh our style. We we have to make a  a new product. We have to be um  Yeah."
+AE_ID TS3004b.D.argumentstructs.Daan.4: "One of a kind, I think."
+AE_ID TS3004b.A.argumentstructs.Daan.1: "So it has to look uh uh uh unique, but"
+AE_ID TS3004b.D.argumentstructs.Daan.5: "The company is about our uh th th their own fashion, their own style."
+AE_ID TS3004b.A.argumentstructs.10: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3004b.A.argumentstructs.Daan.2
+source=TS3004b.D.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.A.argumentstructs.11:
+"Not really. Okay. Yeah. Yeah. Okay. Thanks."
+
+Past dialogue turns:
+AE_ID TS3004b.D.argumentstructs.Daan.4: "One of a kind, I think."
+AE_ID TS3004b.A.argumentstructs.Daan.1: "So it has to look uh uh uh unique, but"
+AE_ID TS3004b.D.argumentstructs.Daan.5: "The company is about our uh th th their own fashion, their own style."
+AE_ID TS3004b.A.argumentstructs.10: "Yeah."
+AE_ID TS3004b.A.argumentstructs.Daan.2: "But old people are not looking for that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.A.argumentstructs.10
+---------------------------------
+target=TS3004b.A.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.C.argumentstructs.Daan.1:
+"Yeah. I think the main thing is the usability, that's where we can uh make it a special product. Yeah."
+
+Past dialogue turns:
+AE_ID TS3004b.A.argumentstructs.Daan.1: "So it has to look uh uh uh unique, but"
+AE_ID TS3004b.D.argumentstructs.Daan.5: "The company is about our uh th th their own fashion, their own style."
+AE_ID TS3004b.A.argumentstructs.10: "Yeah."
+AE_ID TS3004b.A.argumentstructs.Daan.2: "But old people are not looking for that."
+AE_ID TS3004b.A.argumentstructs.11: "Not really. Okay. Yeah. Yeah. Okay. Thanks."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3004b.C.argumentstructs.Daan.1
+source=TS3004b.A.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.B.argumentstructs.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3004b.D.argumentstructs.Daan.5: "The company is about our uh th th their own fashion, their own style."
+AE_ID TS3004b.A.argumentstructs.10: "Yeah."
+AE_ID TS3004b.A.argumentstructs.Daan.2: "But old people are not looking for that."
+AE_ID TS3004b.A.argumentstructs.11: "Not really. Okay. Yeah. Yeah. Okay. Thanks."
+AE_ID TS3004b.C.argumentstructs.Daan.1: "Yeah. I think the main thing is the usability, that's where we can uh make it a special product. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.A.argumentstructs.10
+---------------------------------
+target=TS3004b.B.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.B.argumentstructs.Daan.2:
+"But uh we also have to stand out, 'cause there are already, like you said, so many controls out that support lot of stuff. But we have to make sure that we're better usability, and stand out by just looks of it. So make it just a different colour or different shape, so"
+
+Past dialogue turns:
+AE_ID TS3004b.A.argumentstructs.10: "Yeah."
+AE_ID TS3004b.A.argumentstructs.Daan.2: "But old people are not looking for that."
+AE_ID TS3004b.A.argumentstructs.11: "Not really. Okay. Yeah. Yeah. Okay. Thanks."
+AE_ID TS3004b.C.argumentstructs.Daan.1: "Yeah. I think the main thing is the usability, that's where we can uh make it a special product. Yeah."
+AE_ID TS3004b.B.argumentstructs.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.A.argumentstructs.Daan.2
+---------------------------------
+target=TS3004b.B.argumentstructs.Daan.2
+source=TS3004b.A.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.D.argumentstructs.8:
+"Sorry I thought about it, yes. Okay, this was uh my presentation."
+
+Past dialogue turns:
+AE_ID TS3004b.A.argumentstructs.Daan.2: "But old people are not looking for that."
+AE_ID TS3004b.A.argumentstructs.11: "Not really. Okay. Yeah. Yeah. Okay. Thanks."
+AE_ID TS3004b.C.argumentstructs.Daan.1: "Yeah. I think the main thing is the usability, that's where we can uh make it a special product. Yeah."
+AE_ID TS3004b.B.argumentstructs.8: "Yeah."
+AE_ID TS3004b.B.argumentstructs.Daan.2: "But uh we also have to stand out, 'cause there are already, like you said, so many controls out that support lot of stuff. But we have to make sure that we're better usability, and stand out by just looks of it. So make it just a different colour or different shape, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.B.argumentstructs.Daan.2
+---------------------------------
+target=TS3004b.D.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.C.argumentstructs.9:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3004b.A.argumentstructs.11: "Not really. Okay. Yeah. Yeah. Okay. Thanks."
+AE_ID TS3004b.C.argumentstructs.Daan.1: "Yeah. I think the main thing is the usability, that's where we can uh make it a special product. Yeah."
+AE_ID TS3004b.B.argumentstructs.8: "Yeah."
+AE_ID TS3004b.B.argumentstructs.Daan.2: "But uh we also have to stand out, 'cause there are already, like you said, so many controls out that support lot of stuff. But we have to make sure that we're better usability, and stand out by just looks of it. So make it just a different colour or different shape, so"
+AE_ID TS3004b.D.argumentstructs.8: "Sorry I thought about it, yes. Okay, this was uh my presentation."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.A.argumentstructs.11
+---------------------------------
+target=TS3004b.C.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3004b-Fashion.csv - True Judgement Ratio: 41.67%

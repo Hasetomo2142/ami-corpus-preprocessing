@@ -1,0 +1,737 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.17:
+"we can do one thing,"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2005c.B.argumentstructs.17
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.3:
+"we can just have a remote control and casings of different different shapes, different fruit shapes in such a way that a any casing can be could be fit into this mobile general piece. So whatever people want, like if somebody want it in banana shape, we will put that casing onto that mobile phone, okay, it will look l"
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.17: "we can do one thing,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.17
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.3
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.49:
+"Mm-hmm. Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.17: "we can do one thing,"
+AE_ID ES2005c.B.argumentstructs.Erik.3: "we can just have a remote control and casings of different different shapes, different fruit shapes in such a way that a any casing can be could be fit into this mobile general piece. So whatever people want, like if somebody want it in banana shape, we will put that casing onto that mobile phone, okay, it will look l"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2005c.D.argumentstructs.49
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.17:
+"So a selection of casings."
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.17: "we can do one thing,"
+AE_ID ES2005c.B.argumentstructs.Erik.3: "we can just have a remote control and casings of different different shapes, different fruit shapes in such a way that a any casing can be could be fit into this mobile general piece. So whatever people want, like if somebody want it in banana shape, we will put that casing onto that mobile phone, okay, it will look l"
+AE_ID ES2005c.D.argumentstructs.49: "Mm-hmm. Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.3
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.17
+source=ES2005c.B.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.18:
+"Uh yeah. In that w"
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.17: "we can do one thing,"
+AE_ID ES2005c.B.argumentstructs.Erik.3: "we can just have a remote control and casings of different different shapes, different fruit shapes in such a way that a any casing can be could be fit into this mobile general piece. So whatever people want, like if somebody want it in banana shape, we will put that casing onto that mobile phone, okay, it will look l"
+AE_ID ES2005c.D.argumentstructs.49: "Mm-hmm. Mm-hmm. Mm-hmm."
+AE_ID ES2005c.C.argumentstructs.Erik.17: "So a selection of casings."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.17
+---------------------------------
+target=ES2005c.B.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.22:
+"Yeah, 'cause you said about disposable, didn't you ?"
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.17: "we can do one thing,"
+AE_ID ES2005c.B.argumentstructs.Erik.3: "we can just have a remote control and casings of different different shapes, different fruit shapes in such a way that a any casing can be could be fit into this mobile general piece. So whatever people want, like if somebody want it in banana shape, we will put that casing onto that mobile phone, okay, it will look l"
+AE_ID ES2005c.D.argumentstructs.49: "Mm-hmm. Mm-hmm. Mm-hmm."
+AE_ID ES2005c.C.argumentstructs.Erik.17: "So a selection of casings."
+AE_ID ES2005c.B.argumentstructs.18: "Uh yeah. In that w"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.18
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.22
+source=ES2005c.B.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.18:
+"It kind of fi it fits with f fits with marketing um"
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.Erik.3: "we can just have a remote control and casings of different different shapes, different fruit shapes in such a way that a any casing can be could be fit into this mobile general piece. So whatever people want, like if somebody want it in banana shape, we will put that casing onto that mobile phone, okay, it will look l"
+AE_ID ES2005c.D.argumentstructs.49: "Mm-hmm. Mm-hmm. Mm-hmm."
+AE_ID ES2005c.C.argumentstructs.Erik.17: "So a selection of casings."
+AE_ID ES2005c.B.argumentstructs.18: "Uh yeah. In that w"
+AE_ID ES2005c.D.argumentstructs.Erik.22: "Yeah, 'cause you said about disposable, didn't you ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.17
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.18
+source=ES2005c.D.argumentstructs.Erik.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.4:
+"S s sorry ?"
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.49: "Mm-hmm. Mm-hmm. Mm-hmm."
+AE_ID ES2005c.C.argumentstructs.Erik.17: "So a selection of casings."
+AE_ID ES2005c.B.argumentstructs.18: "Uh yeah. In that w"
+AE_ID ES2005c.D.argumentstructs.Erik.22: "Yeah, 'cause you said about disposable, didn't you ?"
+AE_ID ES2005c.C.argumentstructs.Erik.18: "It kind of fi it fits with f fits with marketing um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.22
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.4
+source=ES2005c.D.argumentstructs.Erik.22
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.23:
+"You said about disposable earli people want disposable things so we could do that, like have a choice."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.17: "So a selection of casings."
+AE_ID ES2005c.B.argumentstructs.18: "Uh yeah. In that w"
+AE_ID ES2005c.D.argumentstructs.Erik.22: "Yeah, 'cause you said about disposable, didn't you ?"
+AE_ID ES2005c.C.argumentstructs.Erik.18: "It kind of fi it fits with f fits with marketing um"
+AE_ID ES2005c.B.argumentstructs.Erik.4: "S s sorry ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.22
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.23
+source=ES2005c.B.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.5:
+"Uh like if this is a like if this is a mobile phone uh we will design casing in such a way like half of, we need not to have a full cover, we will just have a half of cover, okay ? If somebody wants it i in banana shape, we will fit banana shape casing onto that, so it will give a banana shape look. If somebody wanted in apple shape we will design that, we will put  we will put apple shape casing on that. It will give apple shape look. So in that way you can have any, that means whatever you want, without  uh yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.18: "Uh yeah. In that w"
+AE_ID ES2005c.D.argumentstructs.Erik.22: "Yeah, 'cause you said about disposable, didn't you ?"
+AE_ID ES2005c.C.argumentstructs.Erik.18: "It kind of fi it fits with f fits with marketing um"
+AE_ID ES2005c.B.argumentstructs.Erik.4: "S s sorry ?"
+AE_ID ES2005c.D.argumentstructs.Erik.23: "You said about disposable earli people want disposable things so we could do that, like have a choice."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.23
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.5
+source=ES2005c.D.argumentstructs.Erik.23
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.24:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.22: "Yeah, 'cause you said about disposable, didn't you ?"
+AE_ID ES2005c.C.argumentstructs.Erik.18: "It kind of fi it fits with f fits with marketing um"
+AE_ID ES2005c.B.argumentstructs.Erik.4: "S s sorry ?"
+AE_ID ES2005c.D.argumentstructs.Erik.23: "You said about disposable earli people want disposable things so we could do that, like have a choice."
+AE_ID ES2005c.B.argumentstructs.Erik.5: "Uh like if this is a like if this is a mobile phone uh we will design casing in such a way like half of, we need not to have a full cover, we will just have a half of cover, okay ? If somebody wants it i in banana shape, we will fit banana shape casing onto that, so it will give a banana shape look. If somebody wanted in apple shape we will design that, we will put  we will put apple shape casing on that. It will give apple shape look. So in that way you can have any, that means whatever you want, without  uh yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.23
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.24
+source=ES2005c.B.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.19:
+"Like like mobiles, yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.18: "It kind of fi it fits with f fits with marketing um"
+AE_ID ES2005c.B.argumentstructs.Erik.4: "S s sorry ?"
+AE_ID ES2005c.D.argumentstructs.Erik.23: "You said about disposable earli people want disposable things so we could do that, like have a choice."
+AE_ID ES2005c.B.argumentstructs.Erik.5: "Uh like if this is a like if this is a mobile phone uh we will design casing in such a way like half of, we need not to have a full cover, we will just have a half of cover, okay ? If somebody wants it i in banana shape, we will fit banana shape casing onto that, so it will give a banana shape look. If somebody wanted in apple shape we will design that, we will put  we will put apple shape casing on that. It will give apple shape look. So in that way you can have any, that means whatever you want, without  uh yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.24: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.19
+source=ES2005c.B.argumentstructs.Erik.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.25:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.Erik.4: "S s sorry ?"
+AE_ID ES2005c.D.argumentstructs.Erik.23: "You said about disposable earli people want disposable things so we could do that, like have a choice."
+AE_ID ES2005c.B.argumentstructs.Erik.5: "Uh like if this is a like if this is a mobile phone uh we will design casing in such a way like half of, we need not to have a full cover, we will just have a half of cover, okay ? If somebody wants it i in banana shape, we will fit banana shape casing onto that, so it will give a banana shape look. If somebody wanted in apple shape we will design that, we will put  we will put apple shape casing on that. It will give apple shape look. So in that way you can have any, that means whatever you want, without  uh yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.24: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.19: "Like like mobiles, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.24
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.25
+source=ES2005c.C.argumentstructs.Erik.19
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.50:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.23: "You said about disposable earli people want disposable things so we could do that, like have a choice."
+AE_ID ES2005c.B.argumentstructs.Erik.5: "Uh like if this is a like if this is a mobile phone uh we will design casing in such a way like half of, we need not to have a full cover, we will just have a half of cover, okay ? If somebody wants it i in banana shape, we will fit banana shape casing onto that, so it will give a banana shape look. If somebody wanted in apple shape we will design that, we will put  we will put apple shape casing on that. It will give apple shape look. So in that way you can have any, that means whatever you want, without  uh yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.24: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.19: "Like like mobiles, yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.25: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.23
+---------------------------------
+target=ES2005c.D.argumentstructs.50
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.26:
+"Okay. We still need the buttons in the same places thought, don't we ?"
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.Erik.5: "Uh like if this is a like if this is a mobile phone uh we will design casing in such a way like half of, we need not to have a full cover, we will just have a half of cover, okay ? If somebody wants it i in banana shape, we will fit banana shape casing onto that, so it will give a banana shape look. If somebody wanted in apple shape we will design that, we will put  we will put apple shape casing on that. It will give apple shape look. So in that way you can have any, that means whatever you want, without  uh yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.24: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.19: "Like like mobiles, yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.25: "Yeah."
+AE_ID ES2005c.D.argumentstructs.50: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.25
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.26
+source=ES2005c.B.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.B.argumentstructs.Erik.6:
+"Yeah, button will be on the upper side, buttons will be the on the upper side. Yeah, buttons will be on the upper side, lower side we will just put the casing, so half of that will be look the  Yeah, not not the upper side. So from lower you can, it means while you are holding of  from this side you c you can have banana look or apple look, whatever. So in that way we need not to d have different different shape mobiles everything, we will just design casings fruit shape. And"
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.24: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.19: "Like like mobiles, yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.25: "Yeah."
+AE_ID ES2005c.D.argumentstructs.50: "Okay."
+AE_ID ES2005c.D.argumentstructs.Erik.26: "Okay. We still need the buttons in the same places thought, don't we ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.26
+---------------------------------
+target=ES2005c.B.argumentstructs.Erik.6
+source=ES2005c.D.argumentstructs.Erik.26
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.20:
+"You can standardise those, I mean."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.19: "Like like mobiles, yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.25: "Yeah."
+AE_ID ES2005c.D.argumentstructs.50: "Okay."
+AE_ID ES2005c.D.argumentstructs.Erik.26: "Okay. We still need the buttons in the same places thought, don't we ?"
+AE_ID ES2005c.B.argumentstructs.Erik.6: "Yeah, button will be on the upper side, buttons will be the on the upper side. Yeah, buttons will be on the upper side, lower side we will just put the casing, so half of that will be look the  Yeah, not not the upper side. So from lower you can, it means while you are holding of  from this side you c you can have banana look or apple look, whatever. So in that way we need not to d have different different shape mobiles everything, we will just design casings fruit shape. And"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.6
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.20
+source=ES2005c.B.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.27:
+"Oh, that's the other side. Oh, okay."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.25: "Yeah."
+AE_ID ES2005c.D.argumentstructs.50: "Okay."
+AE_ID ES2005c.D.argumentstructs.Erik.26: "Okay. We still need the buttons in the same places thought, don't we ?"
+AE_ID ES2005c.B.argumentstructs.Erik.6: "Yeah, button will be on the upper side, buttons will be the on the upper side. Yeah, buttons will be on the upper side, lower side we will just put the casing, so half of that will be look the  Yeah, not not the upper side. So from lower you can, it means while you are holding of  from this side you c you can have banana look or apple look, whatever. So in that way we need not to d have different different shape mobiles everything, we will just design casings fruit shape. And"
+AE_ID ES2005c.C.argumentstructs.Erik.20: "You can standardise those, I mean."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.26
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.27
+source=ES2005c.B.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.28:
+"Oh, half a fruit. Oh, okay, okay."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.50: "Okay."
+AE_ID ES2005c.D.argumentstructs.Erik.26: "Okay. We still need the buttons in the same places thought, don't we ?"
+AE_ID ES2005c.B.argumentstructs.Erik.6: "Yeah, button will be on the upper side, buttons will be the on the upper side. Yeah, buttons will be on the upper side, lower side we will just put the casing, so half of that will be look the  Yeah, not not the upper side. So from lower you can, it means while you are holding of  from this side you c you can have banana look or apple look, whatever. So in that way we need not to d have different different shape mobiles everything, we will just design casings fruit shape. And"
+AE_ID ES2005c.C.argumentstructs.Erik.20: "You can standardise those, I mean."
+AE_ID ES2005c.D.argumentstructs.Erik.27: "Oh, that's the other side. Oh, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.27
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.28
+source=ES2005c.B.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.51:
+"Okay, okay. Okay. Mm mm."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.26: "Okay. We still need the buttons in the same places thought, don't we ?"
+AE_ID ES2005c.B.argumentstructs.Erik.6: "Yeah, button will be on the upper side, buttons will be the on the upper side. Yeah, buttons will be on the upper side, lower side we will just put the casing, so half of that will be look the  Yeah, not not the upper side. So from lower you can, it means while you are holding of  from this side you c you can have banana look or apple look, whatever. So in that way we need not to d have different different shape mobiles everything, we will just design casings fruit shape. And"
+AE_ID ES2005c.C.argumentstructs.Erik.20: "You can standardise those, I mean."
+AE_ID ES2005c.D.argumentstructs.Erik.27: "Oh, that's the other side. Oh, okay."
+AE_ID ES2005c.D.argumentstructs.Erik.28: "Oh, half a fruit. Oh, okay, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.28
+---------------------------------
+target=ES2005c.D.argumentstructs.51
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.15:
+"Yeah yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.B.argumentstructs.Erik.6: "Yeah, button will be on the upper side, buttons will be the on the upper side. Yeah, buttons will be on the upper side, lower side we will just put the casing, so half of that will be look the  Yeah, not not the upper side. So from lower you can, it means while you are holding of  from this side you c you can have banana look or apple look, whatever. So in that way we need not to d have different different shape mobiles everything, we will just design casings fruit shape. And"
+AE_ID ES2005c.C.argumentstructs.Erik.20: "You can standardise those, I mean."
+AE_ID ES2005c.D.argumentstructs.Erik.27: "Oh, that's the other side. Oh, okay."
+AE_ID ES2005c.D.argumentstructs.Erik.28: "Oh, half a fruit. Oh, okay, okay."
+AE_ID ES2005c.D.argumentstructs.51: "Okay, okay. Okay. Mm mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.B.argumentstructs.Erik.6
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.15
+source=ES2005c.D.argumentstructs.Erik.28
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.21:
+"I think tho I think if you're gonna have a facia then you'd want to have it so that it does go over the buttons, 'cause when  if you think about it if they're wanting it, 'cause they want to look at it, if they're using it, and what they want to look at is facing away from them."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.20: "You can standardise those, I mean."
+AE_ID ES2005c.D.argumentstructs.Erik.27: "Oh, that's the other side. Oh, okay."
+AE_ID ES2005c.D.argumentstructs.Erik.28: "Oh, half a fruit. Oh, okay, okay."
+AE_ID ES2005c.D.argumentstructs.51: "Okay, okay. Okay. Mm mm."
+AE_ID ES2005c.A.argumentstructs.Erik.15: "Yeah yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.20
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.21
+source=ES2005c.B.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.47:
+"It doesn't really"
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.27: "Oh, that's the other side. Oh, okay."
+AE_ID ES2005c.D.argumentstructs.Erik.28: "Oh, half a fruit. Oh, okay, okay."
+AE_ID ES2005c.D.argumentstructs.51: "Okay, okay. Okay. Mm mm."
+AE_ID ES2005c.A.argumentstructs.Erik.15: "Yeah yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.21: "I think tho I think if you're gonna have a facia then you'd want to have it so that it does go over the buttons, 'cause when  if you think about it if they're wanting it, 'cause they want to look at it, if they're using it, and what they want to look at is facing away from them."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.21
+---------------------------------
+target=ES2005c.C.argumentstructs.47
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.22:
+"You know 'cause that'd be in the palm of their hand and they wouldn't be able to see it, unless you have sort of  you got the buttons options on one side, and you get the facia on the other side with a microphone so that you can place it face down."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.28: "Oh, half a fruit. Oh, okay, okay."
+AE_ID ES2005c.D.argumentstructs.51: "Okay, okay. Okay. Mm mm."
+AE_ID ES2005c.A.argumentstructs.Erik.15: "Yeah yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.21: "I think tho I think if you're gonna have a facia then you'd want to have it so that it does go over the buttons, 'cause when  if you think about it if they're wanting it, 'cause they want to look at it, if they're using it, and what they want to look at is facing away from them."
+AE_ID ES2005c.C.argumentstructs.47: "It doesn't really"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.21
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.22
+source=ES2005c.C.argumentstructs.Erik.21
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.29:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.51: "Okay, okay. Okay. Mm mm."
+AE_ID ES2005c.A.argumentstructs.Erik.15: "Yeah yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.21: "I think tho I think if you're gonna have a facia then you'd want to have it so that it does go over the buttons, 'cause when  if you think about it if they're wanting it, 'cause they want to look at it, if they're using it, and what they want to look at is facing away from them."
+AE_ID ES2005c.C.argumentstructs.47: "It doesn't really"
+AE_ID ES2005c.C.argumentstructs.Erik.22: "You know 'cause that'd be in the palm of their hand and they wouldn't be able to see it, unless you have sort of  you got the buttons options on one side, and you get the facia on the other side with a microphone so that you can place it face down."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.15
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.29
+source=ES2005c.C.argumentstructs.Erik.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.23:
+"And you've got the facia, and you can just talk at the"
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.15: "Yeah yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.21: "I think tho I think if you're gonna have a facia then you'd want to have it so that it does go over the buttons, 'cause when  if you think about it if they're wanting it, 'cause they want to look at it, if they're using it, and what they want to look at is facing away from them."
+AE_ID ES2005c.C.argumentstructs.47: "It doesn't really"
+AE_ID ES2005c.C.argumentstructs.Erik.22: "You know 'cause that'd be in the palm of their hand and they wouldn't be able to see it, unless you have sort of  you got the buttons options on one side, and you get the facia on the other side with a microphone so that you can place it face down."
+AE_ID ES2005c.D.argumentstructs.Erik.29: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.21
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.23
+source=ES2005c.C.argumentstructs.Erik.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.52:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.21: "I think tho I think if you're gonna have a facia then you'd want to have it so that it does go over the buttons, 'cause when  if you think about it if they're wanting it, 'cause they want to look at it, if they're using it, and what they want to look at is facing away from them."
+AE_ID ES2005c.C.argumentstructs.47: "It doesn't really"
+AE_ID ES2005c.C.argumentstructs.Erik.22: "You know 'cause that'd be in the palm of their hand and they wouldn't be able to see it, unless you have sort of  you got the buttons options on one side, and you get the facia on the other side with a microphone so that you can place it face down."
+AE_ID ES2005c.D.argumentstructs.Erik.29: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.23: "And you've got the facia, and you can just talk at the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.21
+---------------------------------
+target=ES2005c.D.argumentstructs.52
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.24:
+"Maybe."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.47: "It doesn't really"
+AE_ID ES2005c.C.argumentstructs.Erik.22: "You know 'cause that'd be in the palm of their hand and they wouldn't be able to see it, unless you have sort of  you got the buttons options on one side, and you get the facia on the other side with a microphone so that you can place it face down."
+AE_ID ES2005c.D.argumentstructs.Erik.29: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.23: "And you've got the facia, and you can just talk at the"
+AE_ID ES2005c.D.argumentstructs.52: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.22
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.24
+source=ES2005c.C.argumentstructs.Erik.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.16:
+"Okay, um so"
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.22: "You know 'cause that'd be in the palm of their hand and they wouldn't be able to see it, unless you have sort of  you got the buttons options on one side, and you get the facia on the other side with a microphone so that you can place it face down."
+AE_ID ES2005c.D.argumentstructs.Erik.29: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.23: "And you've got the facia, and you can just talk at the"
+AE_ID ES2005c.D.argumentstructs.52: "Mm-hmm."
+AE_ID ES2005c.C.argumentstructs.Erik.24: "Maybe."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.22
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.16
+source=ES2005c.C.argumentstructs.Erik.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.25:
+"So you've narrowed it down to half a dozen options."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.29: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.23: "And you've got the facia, and you can just talk at the"
+AE_ID ES2005c.D.argumentstructs.52: "Mm-hmm."
+AE_ID ES2005c.C.argumentstructs.Erik.24: "Maybe."
+AE_ID ES2005c.A.argumentstructs.Erik.16: "Okay, um so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.29
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.25
+source=ES2005c.A.argumentstructs.Erik.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2005c-ES2005c - Remote casings.csv - True Judgement Ratio: 30.00%

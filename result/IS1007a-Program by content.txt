@@ -1,0 +1,987 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.Daan.2:
+"I want uh to list all the programme tonight. Y you know, instead of  uh remote control it's doing the  some searching for you, so you don't have to look for the channel you want. Just say maybe I just want to press  I wanna have a button for all the movies tonight. Or a button for all the magazines, all the information  documentary tonight. And then you list a few, and I will choose from the list. So instead of pressing the channel number, I am choosing the programmes directly. Yeah, that's one way of uh making it useful."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1007a.B.argumentstructs.Daan.2
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.C.argumentstructs.8:
+"Yeah, yeah. I"
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.Daan.2: "I want uh to list all the programme tonight. Y you know, instead of  uh remote control it's doing the  some searching for you, so you don't have to look for the channel you want. Just say maybe I just want to press  I wanna have a button for all the movies tonight. Or a button for all the magazines, all the information  documentary tonight. And then you list a few, and I will choose from the list. So instead of pressing the channel number, I am choosing the programmes directly. Yeah, that's one way of uh making it useful."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.2
+---------------------------------
+target=IS1007a.C.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.A.argumentstructs.Daan.1:
+"I I think if we include a lot of technology on the remote control it will be very costly."
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.Daan.2: "I want uh to list all the programme tonight. Y you know, instead of  uh remote control it's doing the  some searching for you, so you don't have to look for the channel you want. Just say maybe I just want to press  I wanna have a button for all the movies tonight. Or a button for all the magazines, all the information  documentary tonight. And then you list a few, and I will choose from the list. So instead of pressing the channel number, I am choosing the programmes directly. Yeah, that's one way of uh making it useful."
+AE_ID IS1007a.C.argumentstructs.8: "Yeah, yeah. I"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.2
+---------------------------------
+target=IS1007a.A.argumentstructs.Daan.1
+source=IS1007a.B.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.Daan.3:
+"No, because  no, it's not very  a lot. Th this information exists. For example you can get um"
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.Daan.2: "I want uh to list all the programme tonight. Y you know, instead of  uh remote control it's doing the  some searching for you, so you don't have to look for the channel you want. Just say maybe I just want to press  I wanna have a button for all the movies tonight. Or a button for all the magazines, all the information  documentary tonight. And then you list a few, and I will choose from the list. So instead of pressing the channel number, I am choosing the programmes directly. Yeah, that's one way of uh making it useful."
+AE_ID IS1007a.C.argumentstructs.8: "Yeah, yeah. I"
+AE_ID IS1007a.A.argumentstructs.Daan.1: "I I think if we include a lot of technology on the remote control it will be very costly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.2
+---------------------------------
+target=IS1007a.B.argumentstructs.Daan.3
+source=IS1007a.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.A.argumentstructs.6:
+"S"
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.Daan.2: "I want uh to list all the programme tonight. Y you know, instead of  uh remote control it's doing the  some searching for you, so you don't have to look for the channel you want. Just say maybe I just want to press  I wanna have a button for all the movies tonight. Or a button for all the magazines, all the information  documentary tonight. And then you list a few, and I will choose from the list. So instead of pressing the channel number, I am choosing the programmes directly. Yeah, that's one way of uh making it useful."
+AE_ID IS1007a.C.argumentstructs.8: "Yeah, yeah. I"
+AE_ID IS1007a.A.argumentstructs.Daan.1: "I I think if we include a lot of technology on the remote control it will be very costly."
+AE_ID IS1007a.B.argumentstructs.Daan.3: "No, because  no, it's not very  a lot. Th this information exists. For example you can get um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.2
+---------------------------------
+target=IS1007a.A.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.A.argumentstructs.Daan.2:
+"Like s uh you you you say we can use speech."
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.Daan.2: "I want uh to list all the programme tonight. Y you know, instead of  uh remote control it's doing the  some searching for you, so you don't have to look for the channel you want. Just say maybe I just want to press  I wanna have a button for all the movies tonight. Or a button for all the magazines, all the information  documentary tonight. And then you list a few, and I will choose from the list. So instead of pressing the channel number, I am choosing the programmes directly. Yeah, that's one way of uh making it useful."
+AE_ID IS1007a.C.argumentstructs.8: "Yeah, yeah. I"
+AE_ID IS1007a.A.argumentstructs.Daan.1: "I I think if we include a lot of technology on the remote control it will be very costly."
+AE_ID IS1007a.B.argumentstructs.Daan.3: "No, because  no, it's not very  a lot. Th this information exists. For example you can get um"
+AE_ID IS1007a.A.argumentstructs.6: "S"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.2
+---------------------------------
+target=IS1007a.A.argumentstructs.Daan.2
+source=IS1007a.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.Daan.4:
+"You can use uh  well for example  anything.  The  the idea of using speech to reduce the button, but uh and it's more natural. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007a.C.argumentstructs.8: "Yeah, yeah. I"
+AE_ID IS1007a.A.argumentstructs.Daan.1: "I I think if we include a lot of technology on the remote control it will be very costly."
+AE_ID IS1007a.B.argumentstructs.Daan.3: "No, because  no, it's not very  a lot. Th this information exists. For example you can get um"
+AE_ID IS1007a.A.argumentstructs.6: "S"
+AE_ID IS1007a.A.argumentstructs.Daan.2: "Like s uh you you you say we can use speech."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.A.argumentstructs.Daan.2
+---------------------------------
+target=IS1007a.B.argumentstructs.Daan.4
+source=IS1007a.A.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.C.argumentstructs.Daan.1:
+"I think if you want t to choose uh from a list of programme or or something like that you you may have to to use uh w uh I dunno"
+
+Past dialogue turns:
+AE_ID IS1007a.A.argumentstructs.Daan.1: "I I think if we include a lot of technology on the remote control it will be very costly."
+AE_ID IS1007a.B.argumentstructs.Daan.3: "No, because  no, it's not very  a lot. Th this information exists. For example you can get um"
+AE_ID IS1007a.A.argumentstructs.6: "S"
+AE_ID IS1007a.A.argumentstructs.Daan.2: "Like s uh you you you say we can use speech."
+AE_ID IS1007a.B.argumentstructs.Daan.4: "You can use uh  well for example  anything.  The  the idea of using speech to reduce the button, but uh and it's more natural. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1007a.C.argumentstructs.Daan.1
+source=IS1007a.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.D.argumentstructs.4:
+"okay."
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.Daan.3: "No, because  no, it's not very  a lot. Th this information exists. For example you can get um"
+AE_ID IS1007a.A.argumentstructs.6: "S"
+AE_ID IS1007a.A.argumentstructs.Daan.2: "Like s uh you you you say we can use speech."
+AE_ID IS1007a.B.argumentstructs.Daan.4: "You can use uh  well for example  anything.  The  the idea of using speech to reduce the button, but uh and it's more natural. Yeah."
+AE_ID IS1007a.C.argumentstructs.Daan.1: "I think if you want t to choose uh from a list of programme or or something like that you you may have to to use uh w uh I dunno"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1007a.D.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.11:
+"Yeah. Yeah. Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007a.A.argumentstructs.6: "S"
+AE_ID IS1007a.A.argumentstructs.Daan.2: "Like s uh you you you say we can use speech."
+AE_ID IS1007a.B.argumentstructs.Daan.4: "You can use uh  well for example  anything.  The  the idea of using speech to reduce the button, but uh and it's more natural. Yeah."
+AE_ID IS1007a.C.argumentstructs.Daan.1: "I think if you want t to choose uh from a list of programme or or something like that you you may have to to use uh w uh I dunno"
+AE_ID IS1007a.D.argumentstructs.4: "okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1007a.B.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.D.argumentstructs.Daan.1:
+"I mean the main uh function of remote control is to have something in the hand and we should be very careful about the size of the remote control. If we are going to add a speech interface, I'm not sure with  trendy slim size of the remote control it would be able to put a speech recog if you want to put a speech recognition system f interface for that I think the T_V_ itself could have it."
+
+Past dialogue turns:
+AE_ID IS1007a.A.argumentstructs.Daan.2: "Like s uh you you you say we can use speech."
+AE_ID IS1007a.B.argumentstructs.Daan.4: "You can use uh  well for example  anything.  The  the idea of using speech to reduce the button, but uh and it's more natural. Yeah."
+AE_ID IS1007a.C.argumentstructs.Daan.1: "I think if you want t to choose uh from a list of programme or or something like that you you may have to to use uh w uh I dunno"
+AE_ID IS1007a.D.argumentstructs.4: "okay."
+AE_ID IS1007a.B.argumentstructs.11: "Yeah. Yeah. Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.A.argumentstructs.Daan.2
+---------------------------------
+target=IS1007a.D.argumentstructs.Daan.1
+source=IS1007a.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.A.argumentstructs.7:
+"In the hand. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.Daan.4: "You can use uh  well for example  anything.  The  the idea of using speech to reduce the button, but uh and it's more natural. Yeah."
+AE_ID IS1007a.C.argumentstructs.Daan.1: "I think if you want t to choose uh from a list of programme or or something like that you you may have to to use uh w uh I dunno"
+AE_ID IS1007a.D.argumentstructs.4: "okay."
+AE_ID IS1007a.B.argumentstructs.11: "Yeah. Yeah. Yeah. Yeah."
+AE_ID IS1007a.D.argumentstructs.Daan.1: "I mean the main uh function of remote control is to have something in the hand and we should be very careful about the size of the remote control. If we are going to add a speech interface, I'm not sure with  trendy slim size of the remote control it would be able to put a speech recog if you want to put a speech recognition system f interface for that I think the T_V_ itself could have it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1007a.A.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.Daan.5:
+"Yes, possible."
+
+Past dialogue turns:
+AE_ID IS1007a.C.argumentstructs.Daan.1: "I think if you want t to choose uh from a list of programme or or something like that you you may have to to use uh w uh I dunno"
+AE_ID IS1007a.D.argumentstructs.4: "okay."
+AE_ID IS1007a.B.argumentstructs.11: "Yeah. Yeah. Yeah. Yeah."
+AE_ID IS1007a.D.argumentstructs.Daan.1: "I mean the main uh function of remote control is to have something in the hand and we should be very careful about the size of the remote control. If we are going to add a speech interface, I'm not sure with  trendy slim size of the remote control it would be able to put a speech recog if you want to put a speech recognition system f interface for that I think the T_V_ itself could have it."
+AE_ID IS1007a.A.argumentstructs.7: "In the hand. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1007a.B.argumentstructs.Daan.5
+source=IS1007a.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.D.argumentstructs.Daan.2:
+"And I could talk to the T_V_  television itself. I need not have an"
+
+Past dialogue turns:
+AE_ID IS1007a.D.argumentstructs.4: "okay."
+AE_ID IS1007a.B.argumentstructs.11: "Yeah. Yeah. Yeah. Yeah."
+AE_ID IS1007a.D.argumentstructs.Daan.1: "I mean the main uh function of remote control is to have something in the hand and we should be very careful about the size of the remote control. If we are going to add a speech interface, I'm not sure with  trendy slim size of the remote control it would be able to put a speech recog if you want to put a speech recognition system f interface for that I think the T_V_ itself could have it."
+AE_ID IS1007a.A.argumentstructs.7: "In the hand. Yeah."
+AE_ID IS1007a.B.argumentstructs.Daan.5: "Yes, possible."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1007a.D.argumentstructs.Daan.2
+source=IS1007a.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.A.argumentstructs.Daan.3:
+"Except if if you are far from the T_V_."
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.11: "Yeah. Yeah. Yeah. Yeah."
+AE_ID IS1007a.D.argumentstructs.Daan.1: "I mean the main uh function of remote control is to have something in the hand and we should be very careful about the size of the remote control. If we are going to add a speech interface, I'm not sure with  trendy slim size of the remote control it would be able to put a speech recog if you want to put a speech recognition system f interface for that I think the T_V_ itself could have it."
+AE_ID IS1007a.A.argumentstructs.7: "In the hand. Yeah."
+AE_ID IS1007a.B.argumentstructs.Daan.5: "Yes, possible."
+AE_ID IS1007a.D.argumentstructs.Daan.2: "And I could talk to the T_V_  television itself. I need not have an"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.D.argumentstructs.Daan.2
+---------------------------------
+target=IS1007a.A.argumentstructs.Daan.3
+source=IS1007a.D.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.12:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007a.D.argumentstructs.Daan.1: "I mean the main uh function of remote control is to have something in the hand and we should be very careful about the size of the remote control. If we are going to add a speech interface, I'm not sure with  trendy slim size of the remote control it would be able to put a speech recog if you want to put a speech recognition system f interface for that I think the T_V_ itself could have it."
+AE_ID IS1007a.A.argumentstructs.7: "In the hand. Yeah."
+AE_ID IS1007a.B.argumentstructs.Daan.5: "Yes, possible."
+AE_ID IS1007a.D.argumentstructs.Daan.2: "And I could talk to the T_V_  television itself. I need not have an"
+AE_ID IS1007a.A.argumentstructs.Daan.3: "Except if if you are far from the T_V_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.A.argumentstructs.7
+---------------------------------
+target=IS1007a.B.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.D.argumentstructs.Daan.3:
+"I mean we have some  or something, different technology but"
+
+Past dialogue turns:
+AE_ID IS1007a.A.argumentstructs.7: "In the hand. Yeah."
+AE_ID IS1007a.B.argumentstructs.Daan.5: "Yes, possible."
+AE_ID IS1007a.D.argumentstructs.Daan.2: "And I could talk to the T_V_  television itself. I need not have an"
+AE_ID IS1007a.A.argumentstructs.Daan.3: "Except if if you are far from the T_V_."
+AE_ID IS1007a.B.argumentstructs.12: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.D.argumentstructs.Daan.2
+---------------------------------
+target=IS1007a.D.argumentstructs.Daan.3
+source=IS1007a.D.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.Daan.6:
+"Yeah, yeah. But th the main idea I wanted to s I wanted to say is that um  there should be a function, instead of choosing the ch T_V_ channel, there's a option you can choose, either T_V_ channels or or pr or the or the contain or the contents of the programme. So it's more powerful."
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.Daan.5: "Yes, possible."
+AE_ID IS1007a.D.argumentstructs.Daan.2: "And I could talk to the T_V_  television itself. I need not have an"
+AE_ID IS1007a.A.argumentstructs.Daan.3: "Except if if you are far from the T_V_."
+AE_ID IS1007a.B.argumentstructs.12: "Yeah."
+AE_ID IS1007a.D.argumentstructs.Daan.3: "I mean we have some  or something, different technology but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1007a.B.argumentstructs.Daan.6
+source=IS1007a.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.C.argumentstructs.9:
+"On the content."
+
+Past dialogue turns:
+AE_ID IS1007a.D.argumentstructs.Daan.2: "And I could talk to the T_V_  television itself. I need not have an"
+AE_ID IS1007a.A.argumentstructs.Daan.3: "Except if if you are far from the T_V_."
+AE_ID IS1007a.B.argumentstructs.12: "Yeah."
+AE_ID IS1007a.D.argumentstructs.Daan.3: "I mean we have some  or something, different technology but"
+AE_ID IS1007a.B.argumentstructs.Daan.6: "Yeah, yeah. But th the main idea I wanted to s I wanted to say is that um  there should be a function, instead of choosing the ch T_V_ channel, there's a option you can choose, either T_V_ channels or or pr or the or the contain or the contents of the programme. So it's more powerful."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.6
+---------------------------------
+target=IS1007a.C.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.D.argumentstructs.5:
+"Mm-hmm, yeah."
+
+Past dialogue turns:
+AE_ID IS1007a.A.argumentstructs.Daan.3: "Except if if you are far from the T_V_."
+AE_ID IS1007a.B.argumentstructs.12: "Yeah."
+AE_ID IS1007a.D.argumentstructs.Daan.3: "I mean we have some  or something, different technology but"
+AE_ID IS1007a.B.argumentstructs.Daan.6: "Yeah, yeah. But th the main idea I wanted to s I wanted to say is that um  there should be a function, instead of choosing the ch T_V_ channel, there's a option you can choose, either T_V_ channels or or pr or the or the contain or the contents of the programme. So it's more powerful."
+AE_ID IS1007a.C.argumentstructs.9: "On the content."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.12
+---------------------------------
+target=IS1007a.D.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.C.argumentstructs.Daan.2:
+"Yeah, yeah it's it's a good idea it's a good idea"
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.12: "Yeah."
+AE_ID IS1007a.D.argumentstructs.Daan.3: "I mean we have some  or something, different technology but"
+AE_ID IS1007a.B.argumentstructs.Daan.6: "Yeah, yeah. But th the main idea I wanted to s I wanted to say is that um  there should be a function, instead of choosing the ch T_V_ channel, there's a option you can choose, either T_V_ channels or or pr or the or the contain or the contents of the programme. So it's more powerful."
+AE_ID IS1007a.C.argumentstructs.9: "On the content."
+AE_ID IS1007a.D.argumentstructs.5: "Mm-hmm, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.6
+---------------------------------
+target=IS1007a.C.argumentstructs.Daan.2
+source=IS1007a.B.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.A.argumentstructs.8:
+"Mm-hmm. Mm."
+
+Past dialogue turns:
+AE_ID IS1007a.D.argumentstructs.Daan.3: "I mean we have some  or something, different technology but"
+AE_ID IS1007a.B.argumentstructs.Daan.6: "Yeah, yeah. But th the main idea I wanted to s I wanted to say is that um  there should be a function, instead of choosing the ch T_V_ channel, there's a option you can choose, either T_V_ channels or or pr or the or the contain or the contents of the programme. So it's more powerful."
+AE_ID IS1007a.C.argumentstructs.9: "On the content."
+AE_ID IS1007a.D.argumentstructs.5: "Mm-hmm, yeah."
+AE_ID IS1007a.C.argumentstructs.Daan.2: "Yeah, yeah it's it's a good idea it's a good idea"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.D.argumentstructs.Daan.5
+---------------------------------
+target=IS1007a.A.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.C.argumentstructs.Daan.3:
+"but I I think that technically it would be um a little bit uh uh more tricky to to achieve this than just to"
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.Daan.6: "Yeah, yeah. But th the main idea I wanted to s I wanted to say is that um  there should be a function, instead of choosing the ch T_V_ channel, there's a option you can choose, either T_V_ channels or or pr or the or the contain or the contents of the programme. So it's more powerful."
+AE_ID IS1007a.C.argumentstructs.9: "On the content."
+AE_ID IS1007a.D.argumentstructs.5: "Mm-hmm, yeah."
+AE_ID IS1007a.C.argumentstructs.Daan.2: "Yeah, yeah it's it's a good idea it's a good idea"
+AE_ID IS1007a.A.argumentstructs.8: "Mm-hmm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.6
+---------------------------------
+target=IS1007a.C.argumentstructs.Daan.3
+source=IS1007a.B.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.13:
+"Yeah. No."
+
+Past dialogue turns:
+AE_ID IS1007a.C.argumentstructs.9: "On the content."
+AE_ID IS1007a.D.argumentstructs.5: "Mm-hmm, yeah."
+AE_ID IS1007a.C.argumentstructs.Daan.2: "Yeah, yeah it's it's a good idea it's a good idea"
+AE_ID IS1007a.A.argumentstructs.8: "Mm-hmm. Mm."
+AE_ID IS1007a.C.argumentstructs.Daan.3: "but I I think that technically it would be um a little bit uh uh more tricky to to achieve this than just to"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.D.argumentstructs.5
+---------------------------------
+target=IS1007a.B.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.Daan.7:
+"No, because you see now all the T_V_ programmes are available on the webs. They they are  they are  they are available in X_M_L_ format or whatever the format. We don't care. We just say that this are some content. We just want to retrieve the content and then classi sort them by the types of programmes. Some of the websites they already provide this service, so we can just use the service available. Download it uh to the  to this remote control. And then there's  there are only six buttons for six categories, or sev seven. The most there are only seven buttons. So I just choose the category one and you reuse the same button, for example to to choose among the the sorted list the programme you want, so  you don't have to choose among hundred channels, if you have hundred channels, you just have six buttons, seven buttons."
+
+Past dialogue turns:
+AE_ID IS1007a.D.argumentstructs.5: "Mm-hmm, yeah."
+AE_ID IS1007a.C.argumentstructs.Daan.2: "Yeah, yeah it's it's a good idea it's a good idea"
+AE_ID IS1007a.A.argumentstructs.8: "Mm-hmm. Mm."
+AE_ID IS1007a.C.argumentstructs.Daan.3: "but I I think that technically it would be um a little bit uh uh more tricky to to achieve this than just to"
+AE_ID IS1007a.B.argumentstructs.13: "Yeah. No."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1007a.B.argumentstructs.Daan.7
+source=IS1007a.C.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.C.argumentstructs.10:
+"Yeah yeah."
+
+Past dialogue turns:
+AE_ID IS1007a.C.argumentstructs.Daan.2: "Yeah, yeah it's it's a good idea it's a good idea"
+AE_ID IS1007a.A.argumentstructs.8: "Mm-hmm. Mm."
+AE_ID IS1007a.C.argumentstructs.Daan.3: "but I I think that technically it would be um a little bit uh uh more tricky to to achieve this than just to"
+AE_ID IS1007a.B.argumentstructs.13: "Yeah. No."
+AE_ID IS1007a.B.argumentstructs.Daan.7: "No, because you see now all the T_V_ programmes are available on the webs. They they are  they are  they are available in X_M_L_ format or whatever the format. We don't care. We just say that this are some content. We just want to retrieve the content and then classi sort them by the types of programmes. Some of the websites they already provide this service, so we can just use the service available. Download it uh to the  to this remote control. And then there's  there are only six buttons for six categories, or sev seven. The most there are only seven buttons. So I just choose the category one and you reuse the same button, for example to to choose among the the sorted list the programme you want, so  you don't have to choose among hundred channels, if you have hundred channels, you just have six buttons, seven buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.C.argumentstructs.Daan.2
+---------------------------------
+target=IS1007a.C.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.A.argumentstructs.Daan.4:
+"Yeah we should also optimise the the number of buttons."
+
+Past dialogue turns:
+AE_ID IS1007a.A.argumentstructs.8: "Mm-hmm. Mm."
+AE_ID IS1007a.C.argumentstructs.Daan.3: "but I I think that technically it would be um a little bit uh uh more tricky to to achieve this than just to"
+AE_ID IS1007a.B.argumentstructs.13: "Yeah. No."
+AE_ID IS1007a.B.argumentstructs.Daan.7: "No, because you see now all the T_V_ programmes are available on the webs. They they are  they are  they are available in X_M_L_ format or whatever the format. We don't care. We just say that this are some content. We just want to retrieve the content and then classi sort them by the types of programmes. Some of the websites they already provide this service, so we can just use the service available. Download it uh to the  to this remote control. And then there's  there are only six buttons for six categories, or sev seven. The most there are only seven buttons. So I just choose the category one and you reuse the same button, for example to to choose among the the sorted list the programme you want, so  you don't have to choose among hundred channels, if you have hundred channels, you just have six buttons, seven buttons."
+AE_ID IS1007a.C.argumentstructs.10: "Yeah yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.7
+---------------------------------
+target=IS1007a.A.argumentstructs.Daan.4
+source=IS1007a.B.argumentstructs.Daan.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.C.argumentstructs.Daan.4:
+"Well I I I I think that j just by using navigation buttons and the user interface on the screen we are able to uh navigate uh through the"
+
+Past dialogue turns:
+AE_ID IS1007a.C.argumentstructs.Daan.3: "but I I think that technically it would be um a little bit uh uh more tricky to to achieve this than just to"
+AE_ID IS1007a.B.argumentstructs.13: "Yeah. No."
+AE_ID IS1007a.B.argumentstructs.Daan.7: "No, because you see now all the T_V_ programmes are available on the webs. They they are  they are  they are available in X_M_L_ format or whatever the format. We don't care. We just say that this are some content. We just want to retrieve the content and then classi sort them by the types of programmes. Some of the websites they already provide this service, so we can just use the service available. Download it uh to the  to this remote control. And then there's  there are only six buttons for six categories, or sev seven. The most there are only seven buttons. So I just choose the category one and you reuse the same button, for example to to choose among the the sorted list the programme you want, so  you don't have to choose among hundred channels, if you have hundred channels, you just have six buttons, seven buttons."
+AE_ID IS1007a.C.argumentstructs.10: "Yeah yeah."
+AE_ID IS1007a.A.argumentstructs.Daan.4: "Yeah we should also optimise the the number of buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1007a.C.argumentstructs.Daan.4
+source=IS1007a.A.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.14:
+"Yeah, yeah."
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.13: "Yeah. No."
+AE_ID IS1007a.B.argumentstructs.Daan.7: "No, because you see now all the T_V_ programmes are available on the webs. They they are  they are  they are available in X_M_L_ format or whatever the format. We don't care. We just say that this are some content. We just want to retrieve the content and then classi sort them by the types of programmes. Some of the websites they already provide this service, so we can just use the service available. Download it uh to the  to this remote control. And then there's  there are only six buttons for six categories, or sev seven. The most there are only seven buttons. So I just choose the category one and you reuse the same button, for example to to choose among the the sorted list the programme you want, so  you don't have to choose among hundred channels, if you have hundred channels, you just have six buttons, seven buttons."
+AE_ID IS1007a.C.argumentstructs.10: "Yeah yeah."
+AE_ID IS1007a.A.argumentstructs.Daan.4: "Yeah we should also optimise the the number of buttons."
+AE_ID IS1007a.C.argumentstructs.Daan.4: "Well I I I I think that j just by using navigation buttons and the user interface on the screen we are able to uh navigate uh through the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.C.argumentstructs.10
+---------------------------------
+target=IS1007a.B.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.A.argumentstructs.Daan.5:
+"This is  good idea."
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.Daan.7: "No, because you see now all the T_V_ programmes are available on the webs. They they are  they are  they are available in X_M_L_ format or whatever the format. We don't care. We just say that this are some content. We just want to retrieve the content and then classi sort them by the types of programmes. Some of the websites they already provide this service, so we can just use the service available. Download it uh to the  to this remote control. And then there's  there are only six buttons for six categories, or sev seven. The most there are only seven buttons. So I just choose the category one and you reuse the same button, for example to to choose among the the sorted list the programme you want, so  you don't have to choose among hundred channels, if you have hundred channels, you just have six buttons, seven buttons."
+AE_ID IS1007a.C.argumentstructs.10: "Yeah yeah."
+AE_ID IS1007a.A.argumentstructs.Daan.4: "Yeah we should also optimise the the number of buttons."
+AE_ID IS1007a.C.argumentstructs.Daan.4: "Well I I I I think that j just by using navigation buttons and the user interface on the screen we are able to uh navigate uh through the"
+AE_ID IS1007a.B.argumentstructs.14: "Yeah, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.7
+---------------------------------
+target=IS1007a.A.argumentstructs.Daan.5
+source=IS1007a.C.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.Daan.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007a.C.argumentstructs.10: "Yeah yeah."
+AE_ID IS1007a.A.argumentstructs.Daan.4: "Yeah we should also optimise the the number of buttons."
+AE_ID IS1007a.C.argumentstructs.Daan.4: "Well I I I I think that j just by using navigation buttons and the user interface on the screen we are able to uh navigate uh through the"
+AE_ID IS1007a.B.argumentstructs.14: "Yeah, yeah."
+AE_ID IS1007a.A.argumentstructs.Daan.5: "This is  good idea."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.C.argumentstructs.10
+---------------------------------
+target=IS1007a.B.argumentstructs.Daan.8
+source=IS1007a.A.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.C.argumentstructs.Daan.5:
+"Well channel programme or contents or  in an easy way, so"
+
+Past dialogue turns:
+AE_ID IS1007a.A.argumentstructs.Daan.4: "Yeah we should also optimise the the number of buttons."
+AE_ID IS1007a.C.argumentstructs.Daan.4: "Well I I I I think that j just by using navigation buttons and the user interface on the screen we are able to uh navigate uh through the"
+AE_ID IS1007a.B.argumentstructs.14: "Yeah, yeah."
+AE_ID IS1007a.A.argumentstructs.Daan.5: "This is  good idea."
+AE_ID IS1007a.B.argumentstructs.Daan.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.C.argumentstructs.Daan.4
+---------------------------------
+target=IS1007a.C.argumentstructs.Daan.5
+source=IS1007a.B.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.15:
+". Yeah."
+
+Past dialogue turns:
+AE_ID IS1007a.C.argumentstructs.Daan.4: "Well I I I I think that j just by using navigation buttons and the user interface on the screen we are able to uh navigate uh through the"
+AE_ID IS1007a.B.argumentstructs.14: "Yeah, yeah."
+AE_ID IS1007a.A.argumentstructs.Daan.5: "This is  good idea."
+AE_ID IS1007a.B.argumentstructs.Daan.8: "Yeah."
+AE_ID IS1007a.C.argumentstructs.Daan.5: "Well channel programme or contents or  in an easy way, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.14
+---------------------------------
+target=IS1007a.B.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.Daan.9:
+"Yeah, so you don't have to display here, just display on the T_V_ screen, right ? Good idea."
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.14: "Yeah, yeah."
+AE_ID IS1007a.A.argumentstructs.Daan.5: "This is  good idea."
+AE_ID IS1007a.B.argumentstructs.Daan.8: "Yeah."
+AE_ID IS1007a.C.argumentstructs.Daan.5: "Well channel programme or contents or  in an easy way, so"
+AE_ID IS1007a.B.argumentstructs.15: ". Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.A.argumentstructs.Daan.5
+---------------------------------
+target=IS1007a.B.argumentstructs.Daan.9
+source=IS1007a.C.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.C.argumentstructs.Daan.6:
+"Yeah in the dis display on the T_V_ screen and just uh with the with your remote control would just navigate through the f"
+
+Past dialogue turns:
+AE_ID IS1007a.A.argumentstructs.Daan.5: "This is  good idea."
+AE_ID IS1007a.B.argumentstructs.Daan.8: "Yeah."
+AE_ID IS1007a.C.argumentstructs.Daan.5: "Well channel programme or contents or  in an easy way, so"
+AE_ID IS1007a.B.argumentstructs.15: ". Yeah."
+AE_ID IS1007a.B.argumentstructs.Daan.9: "Yeah, so you don't have to display here, just display on the T_V_ screen, right ? Good idea."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.9
+---------------------------------
+target=IS1007a.C.argumentstructs.Daan.6
+source=IS1007a.C.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.16:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.Daan.8: "Yeah."
+AE_ID IS1007a.C.argumentstructs.Daan.5: "Well channel programme or contents or  in an easy way, so"
+AE_ID IS1007a.B.argumentstructs.15: ". Yeah."
+AE_ID IS1007a.B.argumentstructs.Daan.9: "Yeah, so you don't have to display here, just display on the T_V_ screen, right ? Good idea."
+AE_ID IS1007a.C.argumentstructs.Daan.6: "Yeah in the dis display on the T_V_ screen and just uh with the with your remote control would just navigate through the f"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.15
+---------------------------------
+target=IS1007a.B.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.Daan.10:
+"I think I think that will be revol revolutionary. Because all the T_V_ uh the the remote control have all numbers, lots of buttons and then you dunno what to choose in the end. Yeah.  Alright."
+
+Past dialogue turns:
+AE_ID IS1007a.C.argumentstructs.Daan.5: "Well channel programme or contents or  in an easy way, so"
+AE_ID IS1007a.B.argumentstructs.15: ". Yeah."
+AE_ID IS1007a.B.argumentstructs.Daan.9: "Yeah, so you don't have to display here, just display on the T_V_ screen, right ? Good idea."
+AE_ID IS1007a.C.argumentstructs.Daan.6: "Yeah in the dis display on the T_V_ screen and just uh with the with your remote control would just navigate through the f"
+AE_ID IS1007a.B.argumentstructs.16: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.9
+---------------------------------
+target=IS1007a.B.argumentstructs.Daan.10
+source=IS1007a.C.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.C.argumentstructs.11:
+"Yeah, yeah. So"
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.15: ". Yeah."
+AE_ID IS1007a.B.argumentstructs.Daan.9: "Yeah, so you don't have to display here, just display on the T_V_ screen, right ? Good idea."
+AE_ID IS1007a.C.argumentstructs.Daan.6: "Yeah in the dis display on the T_V_ screen and just uh with the with your remote control would just navigate through the f"
+AE_ID IS1007a.B.argumentstructs.16: "Okay."
+AE_ID IS1007a.B.argumentstructs.Daan.10: "I think I think that will be revol revolutionary. Because all the T_V_ uh the the remote control have all numbers, lots of buttons and then you dunno what to choose in the end. Yeah.  Alright."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.Daan.9
+---------------------------------
+target=IS1007a.C.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.C.argumentstructs.Daan.7:
+"I think for for the technical points we have to to to check how to gather the data from programme or contents and all this stuff"
+
+Past dialogue turns:
+AE_ID IS1007a.B.argumentstructs.Daan.9: "Yeah, so you don't have to display here, just display on the T_V_ screen, right ? Good idea."
+AE_ID IS1007a.C.argumentstructs.Daan.6: "Yeah in the dis display on the T_V_ screen and just uh with the with your remote control would just navigate through the f"
+AE_ID IS1007a.B.argumentstructs.16: "Okay."
+AE_ID IS1007a.B.argumentstructs.Daan.10: "I think I think that will be revol revolutionary. Because all the T_V_ uh the the remote control have all numbers, lots of buttons and then you dunno what to choose in the end. Yeah.  Alright."
+AE_ID IS1007a.C.argumentstructs.11: "Yeah, yeah. So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.C.argumentstructs.Daan.6
+---------------------------------
+target=IS1007a.C.argumentstructs.Daan.7
+source=IS1007a.C.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007a.B.argumentstructs.17:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1007a.C.argumentstructs.Daan.6: "Yeah in the dis display on the T_V_ screen and just uh with the with your remote control would just navigate through the f"
+AE_ID IS1007a.B.argumentstructs.16: "Okay."
+AE_ID IS1007a.B.argumentstructs.Daan.10: "I think I think that will be revol revolutionary. Because all the T_V_ uh the the remote control have all numbers, lots of buttons and then you dunno what to choose in the end. Yeah.  Alright."
+AE_ID IS1007a.C.argumentstructs.11: "Yeah, yeah. So"
+AE_ID IS1007a.C.argumentstructs.Daan.7: "I think for for the technical points we have to to to check how to gather the data from programme or contents and all this stuff"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007a.B.argumentstructs.16
+---------------------------------
+target=IS1007a.B.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1007a-Program by content.csv - True Judgement Ratio: 30.00%

@@ -1,0 +1,487 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.1:
+"Yeah. And uh, this is another one where you can uh  the the the part that's a V_ standing for the volume. So there's a up arrow and a down arrow. But you the see that in the V_, the V_ appears to be the down arrow on the top  on the top up arrow   if you  up arrow there's a V_ like as as if it's turning down so it's confusing interface, so I wanna avoid this kind of thing in the design."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.9:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.1: "Yeah. And uh, this is another one where you can uh  the the the part that's a V_ standing for the volume. So there's a up arrow and a down arrow. But you the see that in the V_, the V_ appears to be the down arrow on the top  on the top up arrow   if you  up arrow there's a V_ like as as if it's turning down so it's confusing interface, so I wanna avoid this kind of thing in the design."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1007c.A.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.2:
+"And here are  is uh here is a s short summary that I summary that I compiled after the findings I found. Big buttons are convenient, voice recognition helps, push buttons, scroll buttons, spinning wheels can be used as navigation tools. And uh user customisable is important and finally simplicity simplicity is the key. Yeah. So  we have many concepts there but we have to choose later on which ones are important to be used. And basically uh"
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.1: "Yeah. And uh, this is another one where you can uh  the the the part that's a V_ standing for the volume. So there's a up arrow and a down arrow. But you the see that in the V_, the V_ appears to be the down arrow on the top  on the top up arrow   if you  up arrow there's a V_ like as as if it's turning down so it's confusing interface, so I wanna avoid this kind of thing in the design."
+AE_ID IS1007c.A.argumentstructs.9: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.2
+source=IS1007c.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.14:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.1: "Yeah. And uh, this is another one where you can uh  the the the part that's a V_ standing for the volume. So there's a up arrow and a down arrow. But you the see that in the V_, the V_ appears to be the down arrow on the top  on the top up arrow   if you  up arrow there's a V_ like as as if it's turning down so it's confusing interface, so I wanna avoid this kind of thing in the design."
+AE_ID IS1007c.A.argumentstructs.9: "Mm-hmm."
+AE_ID IS1007c.B.argumentstructs.Daan.2: "And here are  is uh here is a s short summary that I summary that I compiled after the findings I found. Big buttons are convenient, voice recognition helps, push buttons, scroll buttons, spinning wheels can be used as navigation tools. And uh user customisable is important and finally simplicity simplicity is the key. Yeah. So  we have many concepts there but we have to choose later on which ones are important to be used. And basically uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1007c.C.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.1:
+"Well I  I think you it's it's it's fine you have uh reviewed all all the possibilities but uh uh well uh i if we consider that uh the user interface is displayed on the T_V_ screen I don't think we nee uh we need much buttons in the remote since we we just have to navigate and to have a okay or enter key or things like that, because uh adding wheels or scrolls uh makes the thing more complicated and more expensive also, so."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.1: "Yeah. And uh, this is another one where you can uh  the the the part that's a V_ standing for the volume. So there's a up arrow and a down arrow. But you the see that in the V_, the V_ appears to be the down arrow on the top  on the top up arrow   if you  up arrow there's a V_ like as as if it's turning down so it's confusing interface, so I wanna avoid this kind of thing in the design."
+AE_ID IS1007c.A.argumentstructs.9: "Mm-hmm."
+AE_ID IS1007c.B.argumentstructs.Daan.2: "And here are  is uh here is a s short summary that I summary that I compiled after the findings I found. Big buttons are convenient, voice recognition helps, push buttons, scroll buttons, spinning wheels can be used as navigation tools. And uh user customisable is important and finally simplicity simplicity is the key. Yeah. So  we have many concepts there but we have to choose later on which ones are important to be used. And basically uh"
+AE_ID IS1007c.C.argumentstructs.14: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.2
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.1
+source=IS1007c.B.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.18:
+"Yeah. Mm-hmm. Yeah. Mm. Mm. Okay."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.1: "Yeah. And uh, this is another one where you can uh  the the the part that's a V_ standing for the volume. So there's a up arrow and a down arrow. But you the see that in the V_, the V_ appears to be the down arrow on the top  on the top up arrow   if you  up arrow there's a V_ like as as if it's turning down so it's confusing interface, so I wanna avoid this kind of thing in the design."
+AE_ID IS1007c.A.argumentstructs.9: "Mm-hmm."
+AE_ID IS1007c.B.argumentstructs.Daan.2: "And here are  is uh here is a s short summary that I summary that I compiled after the findings I found. Big buttons are convenient, voice recognition helps, push buttons, scroll buttons, spinning wheels can be used as navigation tools. And uh user customisable is important and finally simplicity simplicity is the key. Yeah. So  we have many concepts there but we have to choose later on which ones are important to be used. And basically uh"
+AE_ID IS1007c.C.argumentstructs.14: "Yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.1: "Well I  I think you it's it's it's fine you have uh reviewed all all the possibilities but uh uh well uh i if we consider that uh the user interface is displayed on the T_V_ screen I don't think we nee uh we need much buttons in the remote since we we just have to navigate and to have a okay or enter key or things like that, because uh adding wheels or scrolls uh makes the thing more complicated and more expensive also, so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.A.argumentstructs.9
+---------------------------------
+target=IS1007c.B.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.Daan.1:
+"Or maybe we can include the user manual in the in the remote control  and we should have just a button like help and you say uh and you ik you press the button help and maybe you see the the user m might in the in the T_V_."
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.9: "Mm-hmm."
+AE_ID IS1007c.B.argumentstructs.Daan.2: "And here are  is uh here is a s short summary that I summary that I compiled after the findings I found. Big buttons are convenient, voice recognition helps, push buttons, scroll buttons, spinning wheels can be used as navigation tools. And uh user customisable is important and finally simplicity simplicity is the key. Yeah. So  we have many concepts there but we have to choose later on which ones are important to be used. And basically uh"
+AE_ID IS1007c.C.argumentstructs.14: "Yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.1: "Well I  I think you it's it's it's fine you have uh reviewed all all the possibilities but uh uh well uh i if we consider that uh the user interface is displayed on the T_V_ screen I don't think we nee uh we need much buttons in the remote since we we just have to navigate and to have a okay or enter key or things like that, because uh adding wheels or scrolls uh makes the thing more complicated and more expensive also, so."
+AE_ID IS1007c.B.argumentstructs.18: "Yeah. Mm-hmm. Yeah. Mm. Mm. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.2
+---------------------------------
+target=IS1007c.A.argumentstructs.Daan.1
+source=IS1007c.B.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.2:
+"Yeah. That's a good idea. To have a help button."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.2: "And here are  is uh here is a s short summary that I summary that I compiled after the findings I found. Big buttons are convenient, voice recognition helps, push buttons, scroll buttons, spinning wheels can be used as navigation tools. And uh user customisable is important and finally simplicity simplicity is the key. Yeah. So  we have many concepts there but we have to choose later on which ones are important to be used. And basically uh"
+AE_ID IS1007c.C.argumentstructs.14: "Yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.1: "Well I  I think you it's it's it's fine you have uh reviewed all all the possibilities but uh uh well uh i if we consider that uh the user interface is displayed on the T_V_ screen I don't think we nee uh we need much buttons in the remote since we we just have to navigate and to have a okay or enter key or things like that, because uh adding wheels or scrolls uh makes the thing more complicated and more expensive also, so."
+AE_ID IS1007c.B.argumentstructs.18: "Yeah. Mm-hmm. Yeah. Mm. Mm. Okay."
+AE_ID IS1007c.A.argumentstructs.Daan.1: "Or maybe we can include the user manual in the in the remote control  and we should have just a button like help and you say uh and you ik you press the button help and maybe you see the the user m might in the in the T_V_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.2
+source=IS1007c.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.3:
+"A help button. So you are display on the screen. So  on the T_V_ screen"
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.14: "Yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.1: "Well I  I think you it's it's it's fine you have uh reviewed all all the possibilities but uh uh well uh i if we consider that uh the user interface is displayed on the T_V_ screen I don't think we nee uh we need much buttons in the remote since we we just have to navigate and to have a okay or enter key or things like that, because uh adding wheels or scrolls uh makes the thing more complicated and more expensive also, so."
+AE_ID IS1007c.B.argumentstructs.18: "Yeah. Mm-hmm. Yeah. Mm. Mm. Okay."
+AE_ID IS1007c.A.argumentstructs.Daan.1: "Or maybe we can include the user manual in the in the remote control  and we should have just a button like help and you say uh and you ik you press the button help and maybe you see the the user m might in the in the T_V_."
+AE_ID IS1007c.C.argumentstructs.Daan.2: "Yeah. That's a good idea. To have a help button."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.3
+source=IS1007c.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.15:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.Daan.1: "Well I  I think you it's it's it's fine you have uh reviewed all all the possibilities but uh uh well uh i if we consider that uh the user interface is displayed on the T_V_ screen I don't think we nee uh we need much buttons in the remote since we we just have to navigate and to have a okay or enter key or things like that, because uh adding wheels or scrolls uh makes the thing more complicated and more expensive also, so."
+AE_ID IS1007c.B.argumentstructs.18: "Yeah. Mm-hmm. Yeah. Mm. Mm. Okay."
+AE_ID IS1007c.A.argumentstructs.Daan.1: "Or maybe we can include the user manual in the in the remote control  and we should have just a button like help and you say uh and you ik you press the button help and maybe you see the the user m might in the in the T_V_."
+AE_ID IS1007c.C.argumentstructs.Daan.2: "Yeah. That's a good idea. To have a help button."
+AE_ID IS1007c.B.argumentstructs.Daan.3: "A help button. So you are display on the screen. So  on the T_V_ screen"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.18
+---------------------------------
+target=IS1007c.C.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.10:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.18: "Yeah. Mm-hmm. Yeah. Mm. Mm. Okay."
+AE_ID IS1007c.A.argumentstructs.Daan.1: "Or maybe we can include the user manual in the in the remote control  and we should have just a button like help and you say uh and you ik you press the button help and maybe you see the the user m might in the in the T_V_."
+AE_ID IS1007c.C.argumentstructs.Daan.2: "Yeah. That's a good idea. To have a help button."
+AE_ID IS1007c.B.argumentstructs.Daan.3: "A help button. So you are display on the screen. So  on the T_V_ screen"
+AE_ID IS1007c.C.argumentstructs.15: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.15
+---------------------------------
+target=IS1007c.A.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.3:
+"On the T_V_ screen. On the T_V_ screen the uh how to use your remote."
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.Daan.1: "Or maybe we can include the user manual in the in the remote control  and we should have just a button like help and you say uh and you ik you press the button help and maybe you see the the user m might in the in the T_V_."
+AE_ID IS1007c.C.argumentstructs.Daan.2: "Yeah. That's a good idea. To have a help button."
+AE_ID IS1007c.B.argumentstructs.Daan.3: "A help button. So you are display on the screen. So  on the T_V_ screen"
+AE_ID IS1007c.C.argumentstructs.15: "Yeah."
+AE_ID IS1007c.A.argumentstructs.10: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.3
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.3
+source=IS1007c.B.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.Daan.2:
+"On T_V_ T_V_ screen. So just you push the button and we will"
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.Daan.2: "Yeah. That's a good idea. To have a help button."
+AE_ID IS1007c.B.argumentstructs.Daan.3: "A help button. So you are display on the screen. So  on the T_V_ screen"
+AE_ID IS1007c.C.argumentstructs.15: "Yeah."
+AE_ID IS1007c.A.argumentstructs.10: "Yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.3: "On the T_V_ screen. On the T_V_ screen the uh how to use your remote."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.3
+---------------------------------
+target=IS1007c.A.argumentstructs.Daan.2
+source=IS1007c.C.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.19:
+". Okay."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.3: "A help button. So you are display on the screen. So  on the T_V_ screen"
+AE_ID IS1007c.C.argumentstructs.15: "Yeah."
+AE_ID IS1007c.A.argumentstructs.10: "Yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.3: "On the T_V_ screen. On the T_V_ screen the uh how to use your remote."
+AE_ID IS1007c.A.argumentstructs.Daan.2: "On T_V_ T_V_ screen. So just you push the button and we will"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.15
+---------------------------------
+target=IS1007c.B.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.4:
+"Okay. Okay. So that eliminates all the complicated documentation, okay. So wi"
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.15: "Yeah."
+AE_ID IS1007c.A.argumentstructs.10: "Yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.3: "On the T_V_ screen. On the T_V_ screen the uh how to use your remote."
+AE_ID IS1007c.A.argumentstructs.Daan.2: "On T_V_ T_V_ screen. So just you push the button and we will"
+AE_ID IS1007c.B.argumentstructs.19: ". Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.19
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.4
+source=IS1007c.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.12:
+"Oh."
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.10: "Yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.3: "On the T_V_ screen. On the T_V_ screen the uh how to use your remote."
+AE_ID IS1007c.A.argumentstructs.Daan.2: "On T_V_ T_V_ screen. So just you push the button and we will"
+AE_ID IS1007c.B.argumentstructs.19: ". Okay."
+AE_ID IS1007c.B.argumentstructs.Daan.4: "Okay. Okay. So that eliminates all the complicated documentation, okay. So wi"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.19
+---------------------------------
+target=IS1007c.D.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.Daan.1:
+"But people are often enough looking at the help, once they see the help button they say oh this is a complicated stuff.  It's a psychology.  Okay. And let us see what the market demands. We could just go to my presentation."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.Daan.3: "On the T_V_ screen. On the T_V_ screen the uh how to use your remote."
+AE_ID IS1007c.A.argumentstructs.Daan.2: "On T_V_ T_V_ screen. So just you push the button and we will"
+AE_ID IS1007c.B.argumentstructs.19: ". Okay."
+AE_ID IS1007c.B.argumentstructs.Daan.4: "Okay. Okay. So that eliminates all the complicated documentation, okay. So wi"
+AE_ID IS1007c.D.argumentstructs.12: "Oh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1007c.D.argumentstructs.Daan.1
+source=IS1007c.B.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.11:
+"In the case where they need help, in the case where they need help. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.Daan.2: "On T_V_ T_V_ screen. So just you push the button and we will"
+AE_ID IS1007c.B.argumentstructs.19: ". Okay."
+AE_ID IS1007c.B.argumentstructs.Daan.4: "Okay. Okay. So that eliminates all the complicated documentation, okay. So wi"
+AE_ID IS1007c.D.argumentstructs.12: "Oh."
+AE_ID IS1007c.D.argumentstructs.Daan.1: "But people are often enough looking at the help, once they see the help button they say oh this is a complicated stuff.  It's a psychology.  Okay. And let us see what the market demands. We could just go to my presentation."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1007c.A.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.16:
+"In a marketing point of view."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.19: ". Okay."
+AE_ID IS1007c.B.argumentstructs.Daan.4: "Okay. Okay. So that eliminates all the complicated documentation, okay. So wi"
+AE_ID IS1007c.D.argumentstructs.12: "Oh."
+AE_ID IS1007c.D.argumentstructs.Daan.1: "But people are often enough looking at the help, once they see the help button they say oh this is a complicated stuff.  It's a psychology.  Okay. And let us see what the market demands. We could just go to my presentation."
+AE_ID IS1007c.A.argumentstructs.11: "In the case where they need help, in the case where they need help. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1007c.C.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.20:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.4: "Okay. Okay. So that eliminates all the complicated documentation, okay. So wi"
+AE_ID IS1007c.D.argumentstructs.12: "Oh."
+AE_ID IS1007c.D.argumentstructs.Daan.1: "But people are often enough looking at the help, once they see the help button they say oh this is a complicated stuff.  It's a psychology.  Okay. And let us see what the market demands. We could just go to my presentation."
+AE_ID IS1007c.A.argumentstructs.11: "In the case where they need help, in the case where they need help. Yeah."
+AE_ID IS1007c.C.argumentstructs.16: "In a marketing point of view."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.A.argumentstructs.11
+---------------------------------
+target=IS1007c.B.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1007c-Buttons & Help.csv - True Judgement Ratio: 40.00%

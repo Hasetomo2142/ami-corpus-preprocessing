@@ -1,0 +1,537 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.27:
+"Um. So you know, as we said, we got the outer casing, which we have to decide, you know, what's it gonna be, um the board we have to use basically uh the same set-up, processor, um we'll probably use the more advanced processor than they had, amplifier and transmitter are all standard. Um so for the casing, uh this an e-mail I got from our manufacturing team uh, you know, we have a bunch of options from wood, titanium, rubber, plastic, whatnot, um latex, double-curved, curved."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2005c.A.argumentstructs.27
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.4:
+"So lots of choices, what do we think ?"
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.27: "Um. So you know, as we said, we got the outer casing, which we have to decide, you know, what's it gonna be, um the board we have to use basically uh the same set-up, processor, um we'll probably use the more advanced processor than they had, amplifier and transmitter are all standard. Um so for the casing, uh this an e-mail I got from our manufacturing team uh, you know, we have a bunch of options from wood, titanium, rubber, plastic, whatnot, um latex, double-curved, curved."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.27
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.43:
+"'Kay. Well."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.27: "Um. So you know, as we said, we got the outer casing, which we have to decide, you know, what's it gonna be, um the board we have to use basically uh the same set-up, processor, um we'll probably use the more advanced processor than they had, amplifier and transmitter are all standard. Um so for the casing, uh this an e-mail I got from our manufacturing team uh, you know, we have a bunch of options from wood, titanium, rubber, plastic, whatnot, um latex, double-curved, curved."
+AE_ID ES2005c.A.argumentstructs.Erik.4: "So lots of choices, what do we think ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2005c.C.argumentstructs.43
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.5:
+"Uh or sponge, I guess, isn't on there, right. Organic sponge."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.27: "Um. So you know, as we said, we got the outer casing, which we have to decide, you know, what's it gonna be, um the board we have to use basically uh the same set-up, processor, um we'll probably use the more advanced processor than they had, amplifier and transmitter are all standard. Um so for the casing, uh this an e-mail I got from our manufacturing team uh, you know, we have a bunch of options from wood, titanium, rubber, plastic, whatnot, um latex, double-curved, curved."
+AE_ID ES2005c.A.argumentstructs.Erik.4: "So lots of choices, what do we think ?"
+AE_ID ES2005c.C.argumentstructs.43: "'Kay. Well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.27
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.5
+source=ES2005c.A.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.11:
+"Mm. I'm not sure about the sponge."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.27: "Um. So you know, as we said, we got the outer casing, which we have to decide, you know, what's it gonna be, um the board we have to use basically uh the same set-up, processor, um we'll probably use the more advanced processor than they had, amplifier and transmitter are all standard. Um so for the casing, uh this an e-mail I got from our manufacturing team uh, you know, we have a bunch of options from wood, titanium, rubber, plastic, whatnot, um latex, double-curved, curved."
+AE_ID ES2005c.A.argumentstructs.Erik.4: "So lots of choices, what do we think ?"
+AE_ID ES2005c.C.argumentstructs.43: "'Kay. Well."
+AE_ID ES2005c.A.argumentstructs.Erik.5: "Uh or sponge, I guess, isn't on there, right. Organic sponge."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.5
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.11
+source=ES2005c.A.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.8:
+"Well, I mean like la latex has a kinda spongy feeling to it, doesn't it."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.27: "Um. So you know, as we said, we got the outer casing, which we have to decide, you know, what's it gonna be, um the board we have to use basically uh the same set-up, processor, um we'll probably use the more advanced processor than they had, amplifier and transmitter are all standard. Um so for the casing, uh this an e-mail I got from our manufacturing team uh, you know, we have a bunch of options from wood, titanium, rubber, plastic, whatnot, um latex, double-curved, curved."
+AE_ID ES2005c.A.argumentstructs.Erik.4: "So lots of choices, what do we think ?"
+AE_ID ES2005c.C.argumentstructs.43: "'Kay. Well."
+AE_ID ES2005c.A.argumentstructs.Erik.5: "Uh or sponge, I guess, isn't on there, right. Organic sponge."
+AE_ID ES2005c.D.argumentstructs.Erik.11: "Mm. I'm not sure about the sponge."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.27
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.8
+source=ES2005c.A.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.6:
+"Uh yeah, it's very elasticy for sure."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.4: "So lots of choices, what do we think ?"
+AE_ID ES2005c.C.argumentstructs.43: "'Kay. Well."
+AE_ID ES2005c.A.argumentstructs.Erik.5: "Uh or sponge, I guess, isn't on there, right. Organic sponge."
+AE_ID ES2005c.D.argumentstructs.Erik.11: "Mm. I'm not sure about the sponge."
+AE_ID ES2005c.C.argumentstructs.Erik.8: "Well, I mean like la latex has a kinda spongy feeling to it, doesn't it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.8
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.6
+source=ES2005c.C.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.44:
+"Yeah. And that would k also give it kinda durability and"
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.43: "'Kay. Well."
+AE_ID ES2005c.A.argumentstructs.Erik.5: "Uh or sponge, I guess, isn't on there, right. Organic sponge."
+AE_ID ES2005c.D.argumentstructs.Erik.11: "Mm. I'm not sure about the sponge."
+AE_ID ES2005c.C.argumentstructs.Erik.8: "Well, I mean like la latex has a kinda spongy feeling to it, doesn't it."
+AE_ID ES2005c.A.argumentstructs.Erik.6: "Uh yeah, it's very elasticy for sure."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.8
+---------------------------------
+target=ES2005c.C.argumentstructs.44
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.12:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.5: "Uh or sponge, I guess, isn't on there, right. Organic sponge."
+AE_ID ES2005c.D.argumentstructs.Erik.11: "Mm. I'm not sure about the sponge."
+AE_ID ES2005c.C.argumentstructs.Erik.8: "Well, I mean like la latex has a kinda spongy feeling to it, doesn't it."
+AE_ID ES2005c.A.argumentstructs.Erik.6: "Uh yeah, it's very elasticy for sure."
+AE_ID ES2005c.C.argumentstructs.44: "Yeah. And that would k also give it kinda durability and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.11
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.12
+source=ES2005c.C.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.46:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.11: "Mm. I'm not sure about the sponge."
+AE_ID ES2005c.C.argumentstructs.Erik.8: "Well, I mean like la latex has a kinda spongy feeling to it, doesn't it."
+AE_ID ES2005c.A.argumentstructs.Erik.6: "Uh yeah, it's very elasticy for sure."
+AE_ID ES2005c.C.argumentstructs.44: "Yeah. And that would k also give it kinda durability and"
+AE_ID ES2005c.D.argumentstructs.Erik.12: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.12
+---------------------------------
+target=ES2005c.D.argumentstructs.46
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.9:
+"and ther that's also f sorta relatively cheap to cast. Um  so maybe s uh a sort of uh plastic  initial plastic with a a latex kinda sheath ?"
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.8: "Well, I mean like la latex has a kinda spongy feeling to it, doesn't it."
+AE_ID ES2005c.A.argumentstructs.Erik.6: "Uh yeah, it's very elasticy for sure."
+AE_ID ES2005c.C.argumentstructs.44: "Yeah. And that would k also give it kinda durability and"
+AE_ID ES2005c.D.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2005c.D.argumentstructs.46: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.8
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.9
+source=ES2005c.A.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.28:
+"Okay so, here are a a plastic,"
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.6: "Uh yeah, it's very elasticy for sure."
+AE_ID ES2005c.C.argumentstructs.44: "Yeah. And that would k also give it kinda durability and"
+AE_ID ES2005c.D.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2005c.D.argumentstructs.46: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.9: "and ther that's also f sorta relatively cheap to cast. Um  so maybe s uh a sort of uh plastic  initial plastic with a a latex kinda sheath ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.9
+---------------------------------
+target=ES2005c.A.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.7:
+"uh latex"
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.44: "Yeah. And that would k also give it kinda durability and"
+AE_ID ES2005c.D.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2005c.D.argumentstructs.46: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.9: "and ther that's also f sorta relatively cheap to cast. Um  so maybe s uh a sort of uh plastic  initial plastic with a a latex kinda sheath ?"
+AE_ID ES2005c.A.argumentstructs.28: "Okay so, here are a a plastic,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.9
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.7
+source=ES2005c.C.argumentstructs.Erik.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.13:
+"I like the rubber, the stress balls, I think, you know, that could be a bit of a gimmick like it's good to hold and"
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2005c.D.argumentstructs.46: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.9: "and ther that's also f sorta relatively cheap to cast. Um  so maybe s uh a sort of uh plastic  initial plastic with a a latex kinda sheath ?"
+AE_ID ES2005c.A.argumentstructs.28: "Okay so, here are a a plastic,"
+AE_ID ES2005c.A.argumentstructs.Erik.7: "uh latex"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.12
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.13
+source=ES2005c.A.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.10:
+"Oh right, okay."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.46: "Yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.9: "and ther that's also f sorta relatively cheap to cast. Um  so maybe s uh a sort of uh plastic  initial plastic with a a latex kinda sheath ?"
+AE_ID ES2005c.A.argumentstructs.28: "Okay so, here are a a plastic,"
+AE_ID ES2005c.A.argumentstructs.Erik.7: "uh latex"
+AE_ID ES2005c.D.argumentstructs.Erik.13: "I like the rubber, the stress balls, I think, you know, that could be a bit of a gimmick like it's good to hold and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.9
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.10
+source=ES2005c.D.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.8:
+"Oh right."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.9: "and ther that's also f sorta relatively cheap to cast. Um  so maybe s uh a sort of uh plastic  initial plastic with a a latex kinda sheath ?"
+AE_ID ES2005c.A.argumentstructs.28: "Okay so, here are a a plastic,"
+AE_ID ES2005c.A.argumentstructs.Erik.7: "uh latex"
+AE_ID ES2005c.D.argumentstructs.Erik.13: "I like the rubber, the stress balls, I think, you know, that could be a bit of a gimmick like it's good to hold and"
+AE_ID ES2005c.C.argumentstructs.Erik.10: "Oh right, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.10
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.8
+source=ES2005c.D.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.11:
+"I don't know what that stuff is."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.28: "Okay so, here are a a plastic,"
+AE_ID ES2005c.A.argumentstructs.Erik.7: "uh latex"
+AE_ID ES2005c.D.argumentstructs.Erik.13: "I like the rubber, the stress balls, I think, you know, that could be a bit of a gimmick like it's good to hold and"
+AE_ID ES2005c.C.argumentstructs.Erik.10: "Oh right, okay."
+AE_ID ES2005c.A.argumentstructs.Erik.8: "Oh right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.8
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.11
+source=ES2005c.D.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.9:
+"So something with give to it.  Okay."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.7: "uh latex"
+AE_ID ES2005c.D.argumentstructs.Erik.13: "I like the rubber, the stress balls, I think, you know, that could be a bit of a gimmick like it's good to hold and"
+AE_ID ES2005c.C.argumentstructs.Erik.10: "Oh right, okay."
+AE_ID ES2005c.A.argumentstructs.Erik.8: "Oh right."
+AE_ID ES2005c.C.argumentstructs.Erik.11: "I don't know what that stuff is."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.9
+source=ES2005c.D.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.12:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.13: "I like the rubber, the stress balls, I think, you know, that could be a bit of a gimmick like it's good to hold and"
+AE_ID ES2005c.C.argumentstructs.Erik.10: "Oh right, okay."
+AE_ID ES2005c.A.argumentstructs.Erik.8: "Oh right."
+AE_ID ES2005c.C.argumentstructs.Erik.11: "I don't know what that stuff is."
+AE_ID ES2005c.A.argumentstructs.Erik.9: "So something with give to it.  Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.13
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.12
+source=ES2005c.A.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.14:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.10: "Oh right, okay."
+AE_ID ES2005c.A.argumentstructs.Erik.8: "Oh right."
+AE_ID ES2005c.C.argumentstructs.Erik.11: "I don't know what that stuff is."
+AE_ID ES2005c.A.argumentstructs.Erik.9: "So something with give to it.  Okay."
+AE_ID ES2005c.C.argumentstructs.Erik.12: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.12
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.14
+source=ES2005c.A.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.15:
+"And that might be quite durable and easy to chuck around."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.8: "Oh right."
+AE_ID ES2005c.C.argumentstructs.Erik.11: "I don't know what that stuff is."
+AE_ID ES2005c.A.argumentstructs.Erik.9: "So something with give to it.  Okay."
+AE_ID ES2005c.C.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.14: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.9
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.15
+source=ES2005c.A.argumentstructs.Erik.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.29:
+"And"
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.11: "I don't know what that stuff is."
+AE_ID ES2005c.A.argumentstructs.Erik.9: "So something with give to it.  Okay."
+AE_ID ES2005c.C.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.14: "Yeah."
+AE_ID ES2005c.D.argumentstructs.Erik.15: "And that might be quite durable and easy to chuck around."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.15
+---------------------------------
+target=ES2005c.A.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2005c-ES2005c - Remote casing.csv - True Judgement Ratio: 18.18%

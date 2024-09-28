@@ -1,0 +1,537 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.20:
+"I mean one of the things running through my mind right now, I realise we're being efficient to wrap up the meeting and have lots of decisions made, um but we are leaning quite a bit to the side of being low-tech, rubber buttons plastic frame, it's almost like we're reproducing the same old remote control that's out there. Should we think about how we are actually getting this high-tech user friendly uh um theme  like what is it that we're u we're using to to achieve those goals ? Like"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.20
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.37:
+"Mm-hmm. Mm 'kay."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.20: "I mean one of the things running through my mind right now, I realise we're being efficient to wrap up the meeting and have lots of decisions made, um but we are leaning quite a bit to the side of being low-tech, rubber buttons plastic frame, it's almost like we're reproducing the same old remote control that's out there. Should we think about how we are actually getting this high-tech user friendly uh um theme  like what is it that we're u we're using to to achieve those goals ? Like"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.20
+---------------------------------
+target=ES2002c.B.argumentstructs.37
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.23:
+"Could have things like backlighting the buttons and stuff like that."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.20: "I mean one of the things running through my mind right now, I realise we're being efficient to wrap up the meeting and have lots of decisions made, um but we are leaning quite a bit to the side of being low-tech, rubber buttons plastic frame, it's almost like we're reproducing the same old remote control that's out there. Should we think about how we are actually getting this high-tech user friendly uh um theme  like what is it that we're u we're using to to achieve those goals ? Like"
+AE_ID ES2002c.B.argumentstructs.37: "Mm-hmm. Mm 'kay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.20
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.23
+source=ES2002c.D.argumentstructs.Erik.20
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.21:
+"Okay so so backlighting, that would be good."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.20: "I mean one of the things running through my mind right now, I realise we're being efficient to wrap up the meeting and have lots of decisions made, um but we are leaning quite a bit to the side of being low-tech, rubber buttons plastic frame, it's almost like we're reproducing the same old remote control that's out there. Should we think about how we are actually getting this high-tech user friendly uh um theme  like what is it that we're u we're using to to achieve those goals ? Like"
+AE_ID ES2002c.B.argumentstructs.37: "Mm-hmm. Mm 'kay."
+AE_ID ES2002c.B.argumentstructs.Erik.23: "Could have things like backlighting the buttons and stuff like that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.20
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.21
+source=ES2002c.B.argumentstructs.Erik.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.14:
+"Or even a clear case. Um you know a a glowing a a glowing yellow type case where the yellow is showable, but in the dark it sort of, it's alive. Um in in a slight subtle way."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.20: "I mean one of the things running through my mind right now, I realise we're being efficient to wrap up the meeting and have lots of decisions made, um but we are leaning quite a bit to the side of being low-tech, rubber buttons plastic frame, it's almost like we're reproducing the same old remote control that's out there. Should we think about how we are actually getting this high-tech user friendly uh um theme  like what is it that we're u we're using to to achieve those goals ? Like"
+AE_ID ES2002c.B.argumentstructs.37: "Mm-hmm. Mm 'kay."
+AE_ID ES2002c.B.argumentstructs.Erik.23: "Could have things like backlighting the buttons and stuff like that."
+AE_ID ES2002c.D.argumentstructs.Erik.21: "Okay so so backlighting, that would be good."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.21
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.14
+source=ES2002c.B.argumentstructs.Erik.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.22:
+"Yeah clear, that'd be"
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.20: "I mean one of the things running through my mind right now, I realise we're being efficient to wrap up the meeting and have lots of decisions made, um but we are leaning quite a bit to the side of being low-tech, rubber buttons plastic frame, it's almost like we're reproducing the same old remote control that's out there. Should we think about how we are actually getting this high-tech user friendly uh um theme  like what is it that we're u we're using to to achieve those goals ? Like"
+AE_ID ES2002c.B.argumentstructs.37: "Mm-hmm. Mm 'kay."
+AE_ID ES2002c.B.argumentstructs.Erik.23: "Could have things like backlighting the buttons and stuff like that."
+AE_ID ES2002c.D.argumentstructs.Erik.21: "Okay so so backlighting, that would be good."
+AE_ID ES2002c.A.argumentstructs.Erik.14: "Or even a clear case. Um you know a a glowing a a glowing yellow type case where the yellow is showable, but in the dark it sort of, it's alive. Um in in a slight subtle way."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.21
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.22
+source=ES2002c.A.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.24:
+"Aye that would be a good idea."
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.37: "Mm-hmm. Mm 'kay."
+AE_ID ES2002c.B.argumentstructs.Erik.23: "Could have things like backlighting the buttons and stuff like that."
+AE_ID ES2002c.D.argumentstructs.Erik.21: "Okay so so backlighting, that would be good."
+AE_ID ES2002c.A.argumentstructs.Erik.14: "Or even a clear case. Um you know a a glowing a a glowing yellow type case where the yellow is showable, but in the dark it sort of, it's alive. Um in in a slight subtle way."
+AE_ID ES2002c.D.argumentstructs.Erik.22: "Yeah clear, that'd be"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.21
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.24
+source=ES2002c.A.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.23:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.Erik.23: "Could have things like backlighting the buttons and stuff like that."
+AE_ID ES2002c.D.argumentstructs.Erik.21: "Okay so so backlighting, that would be good."
+AE_ID ES2002c.A.argumentstructs.Erik.14: "Or even a clear case. Um you know a a glowing a a glowing yellow type case where the yellow is showable, but in the dark it sort of, it's alive. Um in in a slight subtle way."
+AE_ID ES2002c.D.argumentstructs.Erik.22: "Yeah clear, that'd be"
+AE_ID ES2002c.B.argumentstructs.Erik.24: "Aye that would be a good idea."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.21
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.23
+source=ES2002c.B.argumentstructs.Erik.24
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.35:
+"Yeah sure."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.21: "Okay so so backlighting, that would be good."
+AE_ID ES2002c.A.argumentstructs.Erik.14: "Or even a clear case. Um you know a a glowing a a glowing yellow type case where the yellow is showable, but in the dark it sort of, it's alive. Um in in a slight subtle way."
+AE_ID ES2002c.D.argumentstructs.Erik.22: "Yeah clear, that'd be"
+AE_ID ES2002c.B.argumentstructs.Erik.24: "Aye that would be a good idea."
+AE_ID ES2002c.D.argumentstructs.Erik.23: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.22
+---------------------------------
+target=ES2002c.D.argumentstructs.35
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.25:
+"S so like cur slightly transparent case, so it's yellow, like tinted yellow, but you can maybe see through it. Is that what you mean ?"
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.Erik.14: "Or even a clear case. Um you know a a glowing a a glowing yellow type case where the yellow is showable, but in the dark it sort of, it's alive. Um in in a slight subtle way."
+AE_ID ES2002c.D.argumentstructs.Erik.22: "Yeah clear, that'd be"
+AE_ID ES2002c.B.argumentstructs.Erik.24: "Aye that would be a good idea."
+AE_ID ES2002c.D.argumentstructs.Erik.23: "Okay."
+AE_ID ES2002c.D.argumentstructs.35: "Yeah sure."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.A.argumentstructs.Erik.14
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.25
+source=ES2002c.A.argumentstructs.Erik.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.24:
+"Yeah that'd be really good."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.22: "Yeah clear, that'd be"
+AE_ID ES2002c.B.argumentstructs.Erik.24: "Aye that would be a good idea."
+AE_ID ES2002c.D.argumentstructs.Erik.23: "Okay."
+AE_ID ES2002c.D.argumentstructs.35: "Yeah sure."
+AE_ID ES2002c.B.argumentstructs.Erik.25: "S so like cur slightly transparent case, so it's yellow, like tinted yellow, but you can maybe see through it. Is that what you mean ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.24
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.24
+source=ES2002c.B.argumentstructs.Erik.25
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.15:
+"Yeah yeah."
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.Erik.24: "Aye that would be a good idea."
+AE_ID ES2002c.D.argumentstructs.Erik.23: "Okay."
+AE_ID ES2002c.D.argumentstructs.35: "Yeah sure."
+AE_ID ES2002c.B.argumentstructs.Erik.25: "S so like cur slightly transparent case, so it's yellow, like tinted yellow, but you can maybe see through it. Is that what you mean ?"
+AE_ID ES2002c.D.argumentstructs.Erik.24: "Yeah that'd be really good."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.24
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.15
+source=ES2002c.B.argumentstructs.Erik.25
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.36:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.23: "Okay."
+AE_ID ES2002c.D.argumentstructs.35: "Yeah sure."
+AE_ID ES2002c.B.argumentstructs.Erik.25: "S so like cur slightly transparent case, so it's yellow, like tinted yellow, but you can maybe see through it. Is that what you mean ?"
+AE_ID ES2002c.D.argumentstructs.Erik.24: "Yeah that'd be really good."
+AE_ID ES2002c.A.argumentstructs.Erik.15: "Yeah yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.35
+---------------------------------
+target=ES2002c.D.argumentstructs.36
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.20:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.35: "Yeah sure."
+AE_ID ES2002c.B.argumentstructs.Erik.25: "S so like cur slightly transparent case, so it's yellow, like tinted yellow, but you can maybe see through it. Is that what you mean ?"
+AE_ID ES2002c.D.argumentstructs.Erik.24: "Yeah that'd be really good."
+AE_ID ES2002c.A.argumentstructs.Erik.15: "Yeah yeah."
+AE_ID ES2002c.D.argumentstructs.36: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.36
+---------------------------------
+target=ES2002c.A.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.16:
+"Or or there might be a light running through it like a mouse. You know you have cordless mice and they don't eat that much power right. So the power  the battery in that sense, maybe you have one or two stratig strategically placed lights that sort of"
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.Erik.25: "S so like cur slightly transparent case, so it's yellow, like tinted yellow, but you can maybe see through it. Is that what you mean ?"
+AE_ID ES2002c.D.argumentstructs.Erik.24: "Yeah that'd be really good."
+AE_ID ES2002c.A.argumentstructs.Erik.15: "Yeah yeah."
+AE_ID ES2002c.D.argumentstructs.36: "Yeah."
+AE_ID ES2002c.A.argumentstructs.20: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.25
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.16
+source=ES2002c.B.argumentstructs.Erik.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.25:
+"Sure."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.24: "Yeah that'd be really good."
+AE_ID ES2002c.A.argumentstructs.Erik.15: "Yeah yeah."
+AE_ID ES2002c.D.argumentstructs.36: "Yeah."
+AE_ID ES2002c.A.argumentstructs.20: "Yeah."
+AE_ID ES2002c.A.argumentstructs.Erik.16: "Or or there might be a light running through it like a mouse. You know you have cordless mice and they don't eat that much power right. So the power  the battery in that sense, maybe you have one or two stratig strategically placed lights that sort of"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.24
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.25
+source=ES2002c.A.argumentstructs.Erik.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.37:
+"Yeah, yeah. Yeah. Sure."
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.Erik.15: "Yeah yeah."
+AE_ID ES2002c.D.argumentstructs.36: "Yeah."
+AE_ID ES2002c.A.argumentstructs.20: "Yeah."
+AE_ID ES2002c.A.argumentstructs.Erik.16: "Or or there might be a light running through it like a mouse. You know you have cordless mice and they don't eat that much power right. So the power  the battery in that sense, maybe you have one or two stratig strategically placed lights that sort of"
+AE_ID ES2002c.D.argumentstructs.Erik.25: "Sure."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.36
+---------------------------------
+target=ES2002c.D.argumentstructs.37
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.26:
+"Yeah they they emanate a light through it."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.36: "Yeah."
+AE_ID ES2002c.A.argumentstructs.20: "Yeah."
+AE_ID ES2002c.A.argumentstructs.Erik.16: "Or or there might be a light running through it like a mouse. You know you have cordless mice and they don't eat that much power right. So the power  the battery in that sense, maybe you have one or two stratig strategically placed lights that sort of"
+AE_ID ES2002c.D.argumentstructs.Erik.25: "Sure."
+AE_ID ES2002c.D.argumentstructs.37: "Yeah, yeah. Yeah. Sure."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.A.argumentstructs.Erik.16
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.26
+source=ES2002c.A.argumentstructs.Erik.16
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.17:
+"Yeah but because the case is transparent so it gives it a little bit of a glow, doesn't make it freaky."
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.20: "Yeah."
+AE_ID ES2002c.A.argumentstructs.Erik.16: "Or or there might be a light running through it like a mouse. You know you have cordless mice and they don't eat that much power right. So the power  the battery in that sense, maybe you have one or two stratig strategically placed lights that sort of"
+AE_ID ES2002c.D.argumentstructs.Erik.25: "Sure."
+AE_ID ES2002c.D.argumentstructs.37: "Yeah, yeah. Yeah. Sure."
+AE_ID ES2002c.D.argumentstructs.Erik.26: "Yeah they they emanate a light through it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.A.argumentstructs.Erik.26
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.17
+source=ES2002c.A.argumentstructs.Erik.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.26:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.Erik.16: "Or or there might be a light running through it like a mouse. You know you have cordless mice and they don't eat that much power right. So the power  the battery in that sense, maybe you have one or two stratig strategically placed lights that sort of"
+AE_ID ES2002c.D.argumentstructs.Erik.25: "Sure."
+AE_ID ES2002c.D.argumentstructs.37: "Yeah, yeah. Yeah. Sure."
+AE_ID ES2002c.D.argumentstructs.Erik.26: "Yeah they they emanate a light through it."
+AE_ID ES2002c.A.argumentstructs.Erik.17: "Yeah but because the case is transparent so it gives it a little bit of a glow, doesn't make it freaky."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.37
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.26
+source=ES2002c.A.argumentstructs.Erik.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.38:
+"Lights."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.25: "Sure."
+AE_ID ES2002c.D.argumentstructs.37: "Yeah, yeah. Yeah. Sure."
+AE_ID ES2002c.D.argumentstructs.Erik.26: "Yeah they they emanate a light through it."
+AE_ID ES2002c.A.argumentstructs.Erik.17: "Yeah but because the case is transparent so it gives it a little bit of a glow, doesn't make it freaky."
+AE_ID ES2002c.B.argumentstructs.Erik.26: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.26
+---------------------------------
+target=ES2002c.B.argumentstructs.38
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.27:
+"'Kay."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.37: "Yeah, yeah. Yeah. Sure."
+AE_ID ES2002c.D.argumentstructs.Erik.26: "Yeah they they emanate a light through it."
+AE_ID ES2002c.A.argumentstructs.Erik.17: "Yeah but because the case is transparent so it gives it a little bit of a glow, doesn't make it freaky."
+AE_ID ES2002c.B.argumentstructs.Erik.26: "Okay."
+AE_ID ES2002c.B.argumentstructs.38: "Lights."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.26
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.27
+source=ES2002c.A.argumentstructs.Erik.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2002c-ES2002c - Technology.csv - True Judgement Ratio: 18.18%

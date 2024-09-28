@@ -1,0 +1,487 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.Daan.13:
+"point is the L_C_D_ screen. Um I don't know if that will rise the cost too much, because"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3003b.A.argumentstructs.Daan.13
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.C.argumentstructs.Daan.9:
+"Y i um I think we'll have to choose between the docking station or the screen, 'cause"
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.13: "point is the L_C_D_ screen. Um I don't know if that will rise the cost too much, because"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.13
+---------------------------------
+target=TS3003b.C.argumentstructs.Daan.9
+source=TS3003b.A.argumentstructs.Daan.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.Daan.14:
+"Yeah. It will be too much as well."
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.13: "point is the L_C_D_ screen. Um I don't know if that will rise the cost too much, because"
+AE_ID TS3003b.C.argumentstructs.Daan.9: "Y i um I think we'll have to choose between the docking station or the screen, 'cause"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.C.argumentstructs.Daan.9
+---------------------------------
+target=TS3003b.A.argumentstructs.Daan.14
+source=TS3003b.C.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.C.argumentstructs.10:
+"it's uh"
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.13: "point is the L_C_D_ screen. Um I don't know if that will rise the cost too much, because"
+AE_ID TS3003b.C.argumentstructs.Daan.9: "Y i um I think we'll have to choose between the docking station or the screen, 'cause"
+AE_ID TS3003b.A.argumentstructs.Daan.14: "Yeah. It will be too much as well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.C.argumentstructs.Daan.9
+---------------------------------
+target=TS3003b.C.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.B.argumentstructs.8:
+"Mm. Okay. Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.13: "point is the L_C_D_ screen. Um I don't know if that will rise the cost too much, because"
+AE_ID TS3003b.C.argumentstructs.Daan.9: "Y i um I think we'll have to choose between the docking station or the screen, 'cause"
+AE_ID TS3003b.A.argumentstructs.Daan.14: "Yeah. It will be too much as well."
+AE_ID TS3003b.C.argumentstructs.10: "it's uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.14
+---------------------------------
+target=TS3003b.B.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.Daan.16:
+"I think since a lot of people indicated that a new remote control is hard to learn, and we're focusing on elderly people here which tend to have a hard time understanding new devices, it might be a good idea to have just a little screen on it, which would explain a button if you press it. Which would tell you what it does."
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.13: "point is the L_C_D_ screen. Um I don't know if that will rise the cost too much, because"
+AE_ID TS3003b.C.argumentstructs.Daan.9: "Y i um I think we'll have to choose between the docking station or the screen, 'cause"
+AE_ID TS3003b.A.argumentstructs.Daan.14: "Yeah. It will be too much as well."
+AE_ID TS3003b.C.argumentstructs.10: "it's uh"
+AE_ID TS3003b.B.argumentstructs.8: "Mm. Okay. Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.C.argumentstructs.Daan.9
+---------------------------------
+target=TS3003b.D.argumentstructs.Daan.16
+source=TS3003b.C.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.26:
+"Yeah. Based."
+
+Past dialogue turns:
+AE_ID TS3003b.C.argumentstructs.Daan.9: "Y i um I think we'll have to choose between the docking station or the screen, 'cause"
+AE_ID TS3003b.A.argumentstructs.Daan.14: "Yeah. It will be too much as well."
+AE_ID TS3003b.C.argumentstructs.10: "it's uh"
+AE_ID TS3003b.B.argumentstructs.8: "Mm. Okay. Yeah. Yeah."
+AE_ID TS3003b.D.argumentstructs.Daan.16: "I think since a lot of people indicated that a new remote control is hard to learn, and we're focusing on elderly people here which tend to have a hard time understanding new devices, it might be a good idea to have just a little screen on it, which would explain a button if you press it. Which would tell you what it does."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.C.argumentstructs.Daan.9
+---------------------------------
+target=TS3003b.A.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.Daan.17:
+"And it wouldn't have to be touchscreen or a very expensive screen, but"
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.14: "Yeah. It will be too much as well."
+AE_ID TS3003b.C.argumentstructs.10: "it's uh"
+AE_ID TS3003b.B.argumentstructs.8: "Mm. Okay. Yeah. Yeah."
+AE_ID TS3003b.D.argumentstructs.Daan.16: "I think since a lot of people indicated that a new remote control is hard to learn, and we're focusing on elderly people here which tend to have a hard time understanding new devices, it might be a good idea to have just a little screen on it, which would explain a button if you press it. Which would tell you what it does."
+AE_ID TS3003b.A.argumentstructs.26: "Yeah. Based."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.D.argumentstructs.Daan.16
+---------------------------------
+target=TS3003b.D.argumentstructs.Daan.17
+source=TS3003b.D.argumentstructs.Daan.16
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.Daan.15:
+"Just the L_C_D_. Oh just the normal screen."
+
+Past dialogue turns:
+AE_ID TS3003b.C.argumentstructs.10: "it's uh"
+AE_ID TS3003b.B.argumentstructs.8: "Mm. Okay. Yeah. Yeah."
+AE_ID TS3003b.D.argumentstructs.Daan.16: "I think since a lot of people indicated that a new remote control is hard to learn, and we're focusing on elderly people here which tend to have a hard time understanding new devices, it might be a good idea to have just a little screen on it, which would explain a button if you press it. Which would tell you what it does."
+AE_ID TS3003b.A.argumentstructs.26: "Yeah. Based."
+AE_ID TS3003b.D.argumentstructs.Daan.17: "And it wouldn't have to be touchscreen or a very expensive screen, but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.D.argumentstructs.Daan.16
+---------------------------------
+target=TS3003b.A.argumentstructs.Daan.15
+source=TS3003b.D.argumentstructs.Daan.16
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.Daan.18:
+"Just a small screen with two"
+
+Past dialogue turns:
+AE_ID TS3003b.B.argumentstructs.8: "Mm. Okay. Yeah. Yeah."
+AE_ID TS3003b.D.argumentstructs.Daan.16: "I think since a lot of people indicated that a new remote control is hard to learn, and we're focusing on elderly people here which tend to have a hard time understanding new devices, it might be a good idea to have just a little screen on it, which would explain a button if you press it. Which would tell you what it does."
+AE_ID TS3003b.A.argumentstructs.26: "Yeah. Based."
+AE_ID TS3003b.D.argumentstructs.Daan.17: "And it wouldn't have to be touchscreen or a very expensive screen, but"
+AE_ID TS3003b.A.argumentstructs.Daan.15: "Just the L_C_D_. Oh just the normal screen."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.D.argumentstructs.Daan.16
+---------------------------------
+target=TS3003b.D.argumentstructs.Daan.18
+source=TS3003b.A.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.Daan.16:
+"That's a good idea. So  Some extra info. Feedback"
+
+Past dialogue turns:
+AE_ID TS3003b.D.argumentstructs.Daan.16: "I think since a lot of people indicated that a new remote control is hard to learn, and we're focusing on elderly people here which tend to have a hard time understanding new devices, it might be a good idea to have just a little screen on it, which would explain a button if you press it. Which would tell you what it does."
+AE_ID TS3003b.A.argumentstructs.26: "Yeah. Based."
+AE_ID TS3003b.D.argumentstructs.Daan.17: "And it wouldn't have to be touchscreen or a very expensive screen, but"
+AE_ID TS3003b.A.argumentstructs.Daan.15: "Just the L_C_D_. Oh just the normal screen."
+AE_ID TS3003b.D.argumentstructs.Daan.18: "Just a small screen with two"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.D.argumentstructs.Daan.16
+---------------------------------
+target=TS3003b.A.argumentstructs.Daan.16
+source=TS3003b.D.argumentstructs.Daan.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.28:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.26: "Yeah. Based."
+AE_ID TS3003b.D.argumentstructs.Daan.17: "And it wouldn't have to be touchscreen or a very expensive screen, but"
+AE_ID TS3003b.A.argumentstructs.Daan.15: "Just the L_C_D_. Oh just the normal screen."
+AE_ID TS3003b.D.argumentstructs.Daan.18: "Just a small screen with two"
+AE_ID TS3003b.A.argumentstructs.Daan.16: "That's a good idea. So  Some extra info. Feedback"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.26
+---------------------------------
+target=TS3003b.D.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.27:
+"."
+
+Past dialogue turns:
+AE_ID TS3003b.D.argumentstructs.Daan.17: "And it wouldn't have to be touchscreen or a very expensive screen, but"
+AE_ID TS3003b.A.argumentstructs.Daan.15: "Just the L_C_D_. Oh just the normal screen."
+AE_ID TS3003b.D.argumentstructs.Daan.18: "Just a small screen with two"
+AE_ID TS3003b.A.argumentstructs.Daan.16: "That's a good idea. So  Some extra info. Feedback"
+AE_ID TS3003b.D.argumentstructs.28: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.D.argumentstructs.Daan.18
+---------------------------------
+target=TS3003b.A.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.Daan.17:
+"Yeah. I think that's a good idea as well."
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.15: "Just the L_C_D_. Oh just the normal screen."
+AE_ID TS3003b.D.argumentstructs.Daan.18: "Just a small screen with two"
+AE_ID TS3003b.A.argumentstructs.Daan.16: "That's a good idea. So  Some extra info. Feedback"
+AE_ID TS3003b.D.argumentstructs.28: "Yeah."
+AE_ID TS3003b.A.argumentstructs.27: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.16
+---------------------------------
+target=TS3003b.A.argumentstructs.Daan.17
+source=TS3003b.D.argumentstructs.Daan.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.Daan.19:
+"But I dunno if that would"
+
+Past dialogue turns:
+AE_ID TS3003b.D.argumentstructs.Daan.18: "Just a small screen with two"
+AE_ID TS3003b.A.argumentstructs.Daan.16: "That's a good idea. So  Some extra info. Feedback"
+AE_ID TS3003b.D.argumentstructs.28: "Yeah."
+AE_ID TS3003b.A.argumentstructs.27: "."
+AE_ID TS3003b.A.argumentstructs.Daan.17: "Yeah. I think that's a good idea as well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.17
+---------------------------------
+target=TS3003b.D.argumentstructs.Daan.19
+source=TS3003b.A.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.28:
+"As the small screen."
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.16: "That's a good idea. So  Some extra info. Feedback"
+AE_ID TS3003b.D.argumentstructs.28: "Yeah."
+AE_ID TS3003b.A.argumentstructs.27: "."
+AE_ID TS3003b.A.argumentstructs.Daan.17: "Yeah. I think that's a good idea as well."
+AE_ID TS3003b.D.argumentstructs.Daan.19: "But I dunno if that would"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.17
+---------------------------------
+target=TS3003b.A.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.Daan.20:
+"that would fit into the costs."
+
+Past dialogue turns:
+AE_ID TS3003b.D.argumentstructs.28: "Yeah."
+AE_ID TS3003b.A.argumentstructs.27: "."
+AE_ID TS3003b.A.argumentstructs.Daan.17: "Yeah. I think that's a good idea as well."
+AE_ID TS3003b.D.argumentstructs.Daan.19: "But I dunno if that would"
+AE_ID TS3003b.A.argumentstructs.28: "As the small screen."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.D.argumentstructs.Daan.19
+---------------------------------
+target=TS3003b.D.argumentstructs.Daan.20
+source=TS3003b.D.argumentstructs.Daan.19
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.Daan.18:
+"Extra button info."
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.27: "."
+AE_ID TS3003b.A.argumentstructs.Daan.17: "Yeah. I think that's a good idea as well."
+AE_ID TS3003b.D.argumentstructs.Daan.19: "But I dunno if that would"
+AE_ID TS3003b.A.argumentstructs.28: "As the small screen."
+AE_ID TS3003b.D.argumentstructs.Daan.20: "that would fit into the costs."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.17
+---------------------------------
+target=TS3003b.A.argumentstructs.Daan.18
+source=TS3003b.A.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.Daan.19:
+"I think that should be possible as well. Um  let's see what did we say. Mm. More. Should be fancy to, fancy design, easy to learn. Few buttons, we talked about that. Docking station, L_C_D_. Um general functions"
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.17: "Yeah. I think that's a good idea as well."
+AE_ID TS3003b.D.argumentstructs.Daan.19: "But I dunno if that would"
+AE_ID TS3003b.A.argumentstructs.28: "As the small screen."
+AE_ID TS3003b.D.argumentstructs.Daan.20: "that would fit into the costs."
+AE_ID TS3003b.A.argumentstructs.Daan.18: "Extra button info."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.17
+---------------------------------
+target=TS3003b.A.argumentstructs.Daan.19
+source=TS3003b.A.argumentstructs.Daan.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.29:
+"Yeah. 'Kay."
+
+Past dialogue turns:
+AE_ID TS3003b.D.argumentstructs.Daan.19: "But I dunno if that would"
+AE_ID TS3003b.A.argumentstructs.28: "As the small screen."
+AE_ID TS3003b.D.argumentstructs.Daan.20: "that would fit into the costs."
+AE_ID TS3003b.A.argumentstructs.Daan.18: "Extra button info."
+AE_ID TS3003b.A.argumentstructs.Daan.19: "I think that should be possible as well. Um  let's see what did we say. Mm. More. Should be fancy to, fancy design, easy to learn. Few buttons, we talked about that. Docking station, L_C_D_. Um general functions"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.28
+---------------------------------
+target=TS3003b.A.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3003b-LCD.csv - True Judgement Ratio: 35.00%

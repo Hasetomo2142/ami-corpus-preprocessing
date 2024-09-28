@@ -1,0 +1,712 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.1:
+"Alright  so  so we are going to go through three of your individual presentations. But first I would like quickly to uh to decide of  to give a name to the project. So, I just put d quickly Remo, but if you have any o other names that we co could decide for just to to keep something fun for our project we we should  we could discuss quickly. Any ideas ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.C.argumentstructs.Rutger.1:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.1: "Alright  so  so we are going to go through three of your individual presentations. But first I would like quickly to uh to decide of  to give a name to the project. So, I just put d quickly Remo, but if you have any o other names that we co could decide for just to to keep something fun for our project we we should  we could discuss quickly. Any ideas ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004b.C.argumentstructs.Rutger.1
+source=IS1004b.A.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.1:
+"Uh the Powerstick."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.1: "Alright  so  so we are going to go through three of your individual presentations. But first I would like quickly to uh to decide of  to give a name to the project. So, I just put d quickly Remo, but if you have any o other names that we co could decide for just to to keep something fun for our project we we should  we could discuss quickly. Any ideas ?"
+AE_ID IS1004b.C.argumentstructs.Rutger.1: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.1
+source=IS1004b.A.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.2:
+"Powerstick, yeah."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.1: "Alright  so  so we are going to go through three of your individual presentations. But first I would like quickly to uh to decide of  to give a name to the project. So, I just put d quickly Remo, but if you have any o other names that we co could decide for just to to keep something fun for our project we we should  we could discuss quickly. Any ideas ?"
+AE_ID IS1004b.C.argumentstructs.Rutger.1: "Mm-hmm."
+AE_ID IS1004b.B.argumentstructs.Rutger.1: "Uh the Powerstick."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.2
+source=IS1004b.B.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.17:
+"What else ?"
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.1: "Alright  so  so we are going to go through three of your individual presentations. But first I would like quickly to uh to decide of  to give a name to the project. So, I just put d quickly Remo, but if you have any o other names that we co could decide for just to to keep something fun for our project we we should  we could discuss quickly. Any ideas ?"
+AE_ID IS1004b.C.argumentstructs.Rutger.1: "Mm-hmm."
+AE_ID IS1004b.B.argumentstructs.Rutger.1: "Uh the Powerstick."
+AE_ID IS1004b.A.argumentstructs.Rutger.2: "Powerstick, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004b.A.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.3:
+"What else ?"
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.1: "Alright  so  so we are going to go through three of your individual presentations. But first I would like quickly to uh to decide of  to give a name to the project. So, I just put d quickly Remo, but if you have any o other names that we co could decide for just to to keep something fun for our project we we should  we could discuss quickly. Any ideas ?"
+AE_ID IS1004b.C.argumentstructs.Rutger.1: "Mm-hmm."
+AE_ID IS1004b.B.argumentstructs.Rutger.1: "Uh the Powerstick."
+AE_ID IS1004b.A.argumentstructs.Rutger.2: "Powerstick, yeah."
+AE_ID IS1004b.A.argumentstructs.17: "What else ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.17
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.3
+source=IS1004b.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.2:
+"Maybe a Spanish name would work well. Especially if we're selling into the U_S_ market becasue there's a lot of Spanish speakers there."
+
+Past dialogue turns:
+AE_ID IS1004b.C.argumentstructs.Rutger.1: "Mm-hmm."
+AE_ID IS1004b.B.argumentstructs.Rutger.1: "Uh the Powerstick."
+AE_ID IS1004b.A.argumentstructs.Rutger.2: "Powerstick, yeah."
+AE_ID IS1004b.A.argumentstructs.17: "What else ?"
+AE_ID IS1004b.A.argumentstructs.Rutger.3: "What else ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.17
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.2
+source=IS1004b.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.18:
+"Mm I was thinking of the"
+
+Past dialogue turns:
+AE_ID IS1004b.B.argumentstructs.Rutger.1: "Uh the Powerstick."
+AE_ID IS1004b.A.argumentstructs.Rutger.2: "Powerstick, yeah."
+AE_ID IS1004b.A.argumentstructs.17: "What else ?"
+AE_ID IS1004b.A.argumentstructs.Rutger.3: "What else ?"
+AE_ID IS1004b.B.argumentstructs.Rutger.2: "Maybe a Spanish name would work well. Especially if we're selling into the U_S_ market becasue there's a lot of Spanish speakers there."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.1
+---------------------------------
+target=IS1004b.D.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.4:
+"Maybe something that sounds cool in English but sounds funny in Spanish."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.2: "Powerstick, yeah."
+AE_ID IS1004b.A.argumentstructs.17: "What else ?"
+AE_ID IS1004b.A.argumentstructs.Rutger.3: "What else ?"
+AE_ID IS1004b.B.argumentstructs.Rutger.2: "Maybe a Spanish name would work well. Especially if we're selling into the U_S_ market becasue there's a lot of Spanish speakers there."
+AE_ID IS1004b.D.argumentstructs.18: "Mm I was thinking of the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.2
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.4
+source=IS1004b.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.3:
+"Mando."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.17: "What else ?"
+AE_ID IS1004b.A.argumentstructs.Rutger.3: "What else ?"
+AE_ID IS1004b.B.argumentstructs.Rutger.2: "Maybe a Spanish name would work well. Especially if we're selling into the U_S_ market becasue there's a lot of Spanish speakers there."
+AE_ID IS1004b.D.argumentstructs.18: "Mm I was thinking of the"
+AE_ID IS1004b.B.argumentstructs.Rutger.4: "Maybe something that sounds cool in English but sounds funny in Spanish."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.2
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.3
+source=IS1004b.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.5:
+"Mando. What is that ?"
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.3: "What else ?"
+AE_ID IS1004b.B.argumentstructs.Rutger.2: "Maybe a Spanish name would work well. Especially if we're selling into the U_S_ market becasue there's a lot of Spanish speakers there."
+AE_ID IS1004b.D.argumentstructs.18: "Mm I was thinking of the"
+AE_ID IS1004b.B.argumentstructs.Rutger.4: "Maybe something that sounds cool in English but sounds funny in Spanish."
+AE_ID IS1004b.D.argumentstructs.Rutger.3: "Mando."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.D.argumentstructs.Rutger.3
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.5
+source=IS1004b.D.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.4:
+"Mango ? Mango ? Mando. M_A_ ?"
+
+Past dialogue turns:
+AE_ID IS1004b.B.argumentstructs.Rutger.2: "Maybe a Spanish name would work well. Especially if we're selling into the U_S_ market becasue there's a lot of Spanish speakers there."
+AE_ID IS1004b.D.argumentstructs.18: "Mm I was thinking of the"
+AE_ID IS1004b.B.argumentstructs.Rutger.4: "Maybe something that sounds cool in English but sounds funny in Spanish."
+AE_ID IS1004b.D.argumentstructs.Rutger.3: "Mando."
+AE_ID IS1004b.B.argumentstructs.Rutger.5: "Mando. What is that ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.D.argumentstructs.Rutger.3
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.4
+source=IS1004b.D.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.4:
+"Mando."
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.18: "Mm I was thinking of the"
+AE_ID IS1004b.B.argumentstructs.Rutger.4: "Maybe something that sounds cool in English but sounds funny in Spanish."
+AE_ID IS1004b.D.argumentstructs.Rutger.3: "Mando."
+AE_ID IS1004b.B.argumentstructs.Rutger.5: "Mando. What is that ?"
+AE_ID IS1004b.A.argumentstructs.Rutger.4: "Mango ? Mango ? Mando. M_A_ ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.D.argumentstructs.Rutger.3
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.4
+source=IS1004b.D.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.5:
+"M_A_ ?"
+
+Past dialogue turns:
+AE_ID IS1004b.B.argumentstructs.Rutger.4: "Maybe something that sounds cool in English but sounds funny in Spanish."
+AE_ID IS1004b.D.argumentstructs.Rutger.3: "Mando."
+AE_ID IS1004b.B.argumentstructs.Rutger.5: "Mando. What is that ?"
+AE_ID IS1004b.A.argumentstructs.Rutger.4: "Mango ? Mango ? Mando. M_A_ ?"
+AE_ID IS1004b.D.argumentstructs.Rutger.4: "Mando."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.4
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.5
+source=IS1004b.D.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.5:
+"A_N_ yeah D_O."
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.Rutger.3: "Mando."
+AE_ID IS1004b.B.argumentstructs.Rutger.5: "Mando. What is that ?"
+AE_ID IS1004b.A.argumentstructs.Rutger.4: "Mango ? Mango ? Mando. M_A_ ?"
+AE_ID IS1004b.D.argumentstructs.Rutger.4: "Mando."
+AE_ID IS1004b.A.argumentstructs.Rutger.5: "M_A_ ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.4
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.5
+source=IS1004b.A.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.6:
+"M_ D_O_. Mm, okay."
+
+Past dialogue turns:
+AE_ID IS1004b.B.argumentstructs.Rutger.5: "Mando. What is that ?"
+AE_ID IS1004b.A.argumentstructs.Rutger.4: "Mango ? Mango ? Mando. M_A_ ?"
+AE_ID IS1004b.D.argumentstructs.Rutger.4: "Mando."
+AE_ID IS1004b.A.argumentstructs.Rutger.5: "M_A_ ?"
+AE_ID IS1004b.D.argumentstructs.Rutger.5: "A_N_ yeah D_O."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.5
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.6
+source=IS1004b.D.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.6:
+"It doesn't it doesn't sound cool for me, but maybe for a Spanish  for I  for"
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.4: "Mango ? Mango ? Mando. M_A_ ?"
+AE_ID IS1004b.D.argumentstructs.Rutger.4: "Mando."
+AE_ID IS1004b.A.argumentstructs.Rutger.5: "M_A_ ?"
+AE_ID IS1004b.D.argumentstructs.Rutger.5: "A_N_ yeah D_O."
+AE_ID IS1004b.A.argumentstructs.Rutger.6: "M_ D_O_. Mm, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID IS1004b.D.argumentstructs.Rutger.5
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.6
+source=IS1004b.D.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.7:
+"What does it mean ?"
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.Rutger.4: "Mando."
+AE_ID IS1004b.A.argumentstructs.Rutger.5: "M_A_ ?"
+AE_ID IS1004b.D.argumentstructs.Rutger.5: "A_N_ yeah D_O."
+AE_ID IS1004b.A.argumentstructs.Rutger.6: "M_ D_O_. Mm, okay."
+AE_ID IS1004b.D.argumentstructs.Rutger.6: "It doesn't it doesn't sound cool for me, but maybe for a Spanish  for I  for"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.6
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.7
+source=IS1004b.D.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.18:
+"Oh."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.5: "M_A_ ?"
+AE_ID IS1004b.D.argumentstructs.Rutger.5: "A_N_ yeah D_O."
+AE_ID IS1004b.A.argumentstructs.Rutger.6: "M_ D_O_. Mm, okay."
+AE_ID IS1004b.D.argumentstructs.Rutger.6: "It doesn't it doesn't sound cool for me, but maybe for a Spanish  for I  for"
+AE_ID IS1004b.A.argumentstructs.Rutger.7: "What does it mean ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.7
+---------------------------------
+target=IS1004b.A.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.6:
+"What does it mean in Spanish ?"
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.Rutger.5: "A_N_ yeah D_O."
+AE_ID IS1004b.A.argumentstructs.Rutger.6: "M_ D_O_. Mm, okay."
+AE_ID IS1004b.D.argumentstructs.Rutger.6: "It doesn't it doesn't sound cool for me, but maybe for a Spanish  for I  for"
+AE_ID IS1004b.A.argumentstructs.Rutger.7: "What does it mean ?"
+AE_ID IS1004b.A.argumentstructs.18: "Oh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.7
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.6
+source=IS1004b.A.argumentstructs.Rutger.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.7:
+"Control."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.6: "M_ D_O_. Mm, okay."
+AE_ID IS1004b.D.argumentstructs.Rutger.6: "It doesn't it doesn't sound cool for me, but maybe for a Spanish  for I  for"
+AE_ID IS1004b.A.argumentstructs.Rutger.7: "What does it mean ?"
+AE_ID IS1004b.A.argumentstructs.18: "Oh."
+AE_ID IS1004b.B.argumentstructs.Rutger.6: "What does it mean in Spanish ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.6
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.7
+source=IS1004b.B.argumentstructs.Rutger.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.7:
+"Control. Okay. 'Cause it also  like in English it sounds like you know the man's tool you know because you know men like to have control of the remote so it might"
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.Rutger.6: "It doesn't it doesn't sound cool for me, but maybe for a Spanish  for I  for"
+AE_ID IS1004b.A.argumentstructs.Rutger.7: "What does it mean ?"
+AE_ID IS1004b.A.argumentstructs.18: "Oh."
+AE_ID IS1004b.B.argumentstructs.Rutger.6: "What does it mean in Spanish ?"
+AE_ID IS1004b.D.argumentstructs.Rutger.7: "Control."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.D.argumentstructs.Rutger.7
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.7
+source=IS1004b.D.argumentstructs.Rutger.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.8:
+"Hmm. Nice."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.7: "What does it mean ?"
+AE_ID IS1004b.A.argumentstructs.18: "Oh."
+AE_ID IS1004b.B.argumentstructs.Rutger.6: "What does it mean in Spanish ?"
+AE_ID IS1004b.D.argumentstructs.Rutger.7: "Control."
+AE_ID IS1004b.B.argumentstructs.Rutger.7: "Control. Okay. 'Cause it also  like in English it sounds like you know the man's tool you know because you know men like to have control of the remote so it might"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.7
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.8
+source=IS1004b.D.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.19:
+"mm, yeah. Mando sounds"
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.18: "Oh."
+AE_ID IS1004b.B.argumentstructs.Rutger.6: "What does it mean in Spanish ?"
+AE_ID IS1004b.D.argumentstructs.Rutger.7: "Control."
+AE_ID IS1004b.B.argumentstructs.Rutger.7: "Control. Okay. 'Cause it also  like in English it sounds like you know the man's tool you know because you know men like to have control of the remote so it might"
+AE_ID IS1004b.A.argumentstructs.Rutger.8: "Hmm. Nice."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.7
+---------------------------------
+target=IS1004b.D.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.9:
+"Latino."
+
+Past dialogue turns:
+AE_ID IS1004b.B.argumentstructs.Rutger.6: "What does it mean in Spanish ?"
+AE_ID IS1004b.D.argumentstructs.Rutger.7: "Control."
+AE_ID IS1004b.B.argumentstructs.Rutger.7: "Control. Okay. 'Cause it also  like in English it sounds like you know the man's tool you know because you know men like to have control of the remote so it might"
+AE_ID IS1004b.A.argumentstructs.Rutger.8: "Hmm. Nice."
+AE_ID IS1004b.D.argumentstructs.19: "mm, yeah. Mando sounds"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.6
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.9
+source=IS1004b.D.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.8:
+"The Mando."
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.Rutger.7: "Control."
+AE_ID IS1004b.B.argumentstructs.Rutger.7: "Control. Okay. 'Cause it also  like in English it sounds like you know the man's tool you know because you know men like to have control of the remote so it might"
+AE_ID IS1004b.A.argumentstructs.Rutger.8: "Hmm. Nice."
+AE_ID IS1004b.D.argumentstructs.19: "mm, yeah. Mando sounds"
+AE_ID IS1004b.D.argumentstructs.Rutger.9: "Latino."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.D.argumentstructs.Rutger.9
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.8
+source=IS1004b.D.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.19:
+"So, let's go for Mando ?"
+
+Past dialogue turns:
+AE_ID IS1004b.B.argumentstructs.Rutger.7: "Control. Okay. 'Cause it also  like in English it sounds like you know the man's tool you know because you know men like to have control of the remote so it might"
+AE_ID IS1004b.A.argumentstructs.Rutger.8: "Hmm. Nice."
+AE_ID IS1004b.D.argumentstructs.19: "mm, yeah. Mando sounds"
+AE_ID IS1004b.D.argumentstructs.Rutger.9: "Latino."
+AE_ID IS1004b.B.argumentstructs.Rutger.8: "The Mando."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.D.argumentstructs.19
+---------------------------------
+target=IS1004b.A.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.9:
+"Yeah ? No objection ?"
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.8: "Hmm. Nice."
+AE_ID IS1004b.D.argumentstructs.19: "mm, yeah. Mando sounds"
+AE_ID IS1004b.D.argumentstructs.Rutger.9: "Latino."
+AE_ID IS1004b.B.argumentstructs.Rutger.8: "The Mando."
+AE_ID IS1004b.A.argumentstructs.19: "So, let's go for Mando ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.19
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.9
+source=IS1004b.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.C.argumentstructs.Rutger.2:
+"Yeah, yeah."
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.19: "mm, yeah. Mando sounds"
+AE_ID IS1004b.D.argumentstructs.Rutger.9: "Latino."
+AE_ID IS1004b.B.argumentstructs.Rutger.8: "The Mando."
+AE_ID IS1004b.A.argumentstructs.19: "So, let's go for Mando ?"
+AE_ID IS1004b.A.argumentstructs.Rutger.9: "Yeah ? No objection ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.19
+---------------------------------
+target=IS1004b.C.argumentstructs.Rutger.2
+source=IS1004b.A.argumentstructs.Rutger.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1004b-Name of the project.csv - True Judgement Ratio: 34.48%

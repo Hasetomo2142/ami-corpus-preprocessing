@@ -1,0 +1,287 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.22:
+"Do we have to initially um, you know looking at the findings here, focus on"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2004b.D.argumentstructs.22
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.Erik.8:
+"a younger age group initially and then broaden out the market later. Do we really have to go for everyone right away ?"
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.22: "Do we have to initially um, you know looking at the findings here, focus on"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.D.argumentstructs.22
+---------------------------------
+target=ES2004b.D.argumentstructs.Erik.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.32:
+"Mm. Ge uh"
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.22: "Do we have to initially um, you know looking at the findings here, focus on"
+AE_ID ES2004b.D.argumentstructs.Erik.8: "a younger age group initially and then broaden out the market later. Do we really have to go for everyone right away ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.D.argumentstructs.22
+---------------------------------
+target=ES2004b.C.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.A.argumentstructs.Erik.6:
+"We could focus on the biggest market."
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.22: "Do we have to initially um, you know looking at the findings here, focus on"
+AE_ID ES2004b.D.argumentstructs.Erik.8: "a younger age group initially and then broaden out the market later. Do we really have to go for everyone right away ?"
+AE_ID ES2004b.C.argumentstructs.32: "Mm. Ge uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.D.argumentstructs.Erik.8
+---------------------------------
+target=ES2004b.A.argumentstructs.Erik.6
+source=ES2004b.D.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.23:
+"Um. Mm."
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.22: "Do we have to initially um, you know looking at the findings here, focus on"
+AE_ID ES2004b.D.argumentstructs.Erik.8: "a younger age group initially and then broaden out the market later. Do we really have to go for everyone right away ?"
+AE_ID ES2004b.C.argumentstructs.32: "Mm. Ge uh"
+AE_ID ES2004b.A.argumentstructs.Erik.6: "We could focus on the biggest market."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.D.argumentstructs.22
+---------------------------------
+target=ES2004b.D.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.A.argumentstructs.Erik.7:
+"If say people between age group of twenty to thirty five are the biggest market ?"
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.22: "Do we have to initially um, you know looking at the findings here, focus on"
+AE_ID ES2004b.D.argumentstructs.Erik.8: "a younger age group initially and then broaden out the market later. Do we really have to go for everyone right away ?"
+AE_ID ES2004b.C.argumentstructs.32: "Mm. Ge uh"
+AE_ID ES2004b.A.argumentstructs.Erik.6: "We could focus on the biggest market."
+AE_ID ES2004b.D.argumentstructs.23: "Um. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.A.argumentstructs.Erik.6
+---------------------------------
+target=ES2004b.A.argumentstructs.Erik.7
+source=ES2004b.A.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.Erik.9:
+"And when we've been throwing up our ideas we're automatically talking about business people, young people, trendy people."
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.Erik.8: "a younger age group initially and then broaden out the market later. Do we really have to go for everyone right away ?"
+AE_ID ES2004b.C.argumentstructs.32: "Mm. Ge uh"
+AE_ID ES2004b.A.argumentstructs.Erik.6: "We could focus on the biggest market."
+AE_ID ES2004b.D.argumentstructs.23: "Um. Mm."
+AE_ID ES2004b.A.argumentstructs.Erik.7: "If say people between age group of twenty to thirty five are the biggest market ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2004b.D.argumentstructs.Erik.9
+source=ES2004b.D.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.B.argumentstructs.37:
+"associate that with the older generations. Now with the baby boomers, the older generations are actually larger, they have a greater population than us young people, but I don't think we're focusing on that, I think we are focusing on a sort of mid-range um,"
+
+Past dialogue turns:
+AE_ID ES2004b.C.argumentstructs.32: "Mm. Ge uh"
+AE_ID ES2004b.A.argumentstructs.Erik.6: "We could focus on the biggest market."
+AE_ID ES2004b.D.argumentstructs.23: "Um. Mm."
+AE_ID ES2004b.A.argumentstructs.Erik.7: "If say people between age group of twenty to thirty five are the biggest market ?"
+AE_ID ES2004b.D.argumentstructs.Erik.9: "And when we've been throwing up our ideas we're automatically talking about business people, young people, trendy people."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2004b.B.argumentstructs.37
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.Erik.11:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2004b.A.argumentstructs.Erik.6: "We could focus on the biggest market."
+AE_ID ES2004b.D.argumentstructs.23: "Um. Mm."
+AE_ID ES2004b.A.argumentstructs.Erik.7: "If say people between age group of twenty to thirty five are the biggest market ?"
+AE_ID ES2004b.D.argumentstructs.Erik.9: "And when we've been throwing up our ideas we're automatically talking about business people, young people, trendy people."
+AE_ID ES2004b.B.argumentstructs.37: "associate that with the older generations. Now with the baby boomers, the older generations are actually larger, they have a greater population than us young people, but I don't think we're focusing on that, I think we are focusing on a sort of mid-range um,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2004b.C.argumentstructs.Erik.11
+source=ES2004b.B.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.A.argumentstructs.17:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.23: "Um. Mm."
+AE_ID ES2004b.A.argumentstructs.Erik.7: "If say people between age group of twenty to thirty five are the biggest market ?"
+AE_ID ES2004b.D.argumentstructs.Erik.9: "And when we've been throwing up our ideas we're automatically talking about business people, young people, trendy people."
+AE_ID ES2004b.B.argumentstructs.37: "associate that with the older generations. Now with the baby boomers, the older generations are actually larger, they have a greater population than us young people, but I don't think we're focusing on that, I think we are focusing on a sort of mid-range um,"
+AE_ID ES2004b.C.argumentstructs.Erik.11: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.D.argumentstructs.23
+---------------------------------
+target=ES2004b.A.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.24:
+". Mm."
+
+Past dialogue turns:
+AE_ID ES2004b.A.argumentstructs.Erik.7: "If say people between age group of twenty to thirty five are the biggest market ?"
+AE_ID ES2004b.D.argumentstructs.Erik.9: "And when we've been throwing up our ideas we're automatically talking about business people, young people, trendy people."
+AE_ID ES2004b.B.argumentstructs.37: "associate that with the older generations. Now with the baby boomers, the older generations are actually larger, they have a greater population than us young people, but I don't think we're focusing on that, I think we are focusing on a sort of mid-range um,"
+AE_ID ES2004b.C.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2004b.A.argumentstructs.17: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.A.argumentstructs.17
+---------------------------------
+target=ES2004b.D.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.B.argumentstructs.Erik.10:
+"business kind of class type people."
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.Erik.9: "And when we've been throwing up our ideas we're automatically talking about business people, young people, trendy people."
+AE_ID ES2004b.B.argumentstructs.37: "associate that with the older generations. Now with the baby boomers, the older generations are actually larger, they have a greater population than us young people, but I don't think we're focusing on that, I think we are focusing on a sort of mid-range um,"
+AE_ID ES2004b.C.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2004b.A.argumentstructs.17: "Mm-hmm."
+AE_ID ES2004b.D.argumentstructs.24: ". Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.D.argumentstructs.Erik.9
+---------------------------------
+target=ES2004b.B.argumentstructs.Erik.10
+source=ES2004b.D.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2004b-ES2004b - Target audience.csv - True Judgement Ratio: 25.00%

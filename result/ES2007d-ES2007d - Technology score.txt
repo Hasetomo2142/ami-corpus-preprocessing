@@ -1,0 +1,512 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.22:
+"A one a one. So I'll just write criteria criteria one we get one."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007d.D.argumentstructs.22
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.7:
+"Second criteria, new technology. Have we implemented new technology ? As in the new high-tech"
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.22: "A one a one. So I'll just write criteria criteria one we get one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.7
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.Erik.7:
+"Well, the kinetic thing, yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.22: "A one a one. So I'll just write criteria criteria one we get one."
+AE_ID ES2007d.D.argumentstructs.Erik.7: "Second criteria, new technology. Have we implemented new technology ? As in the new high-tech"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.7
+---------------------------------
+target=ES2007d.B.argumentstructs.Erik.7
+source=ES2007d.D.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.22: "A one a one. So I'll just write criteria criteria one we get one."
+AE_ID ES2007d.D.argumentstructs.Erik.7: "Second criteria, new technology. Have we implemented new technology ? As in the new high-tech"
+AE_ID ES2007d.B.argumentstructs.Erik.7: "Well, the kinetic thing, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.5
+source=ES2007d.B.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.Erik.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.22: "A one a one. So I'll just write criteria criteria one we get one."
+AE_ID ES2007d.D.argumentstructs.Erik.7: "Second criteria, new technology. Have we implemented new technology ? As in the new high-tech"
+AE_ID ES2007d.B.argumentstructs.Erik.7: "Well, the kinetic thing, yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.5
+---------------------------------
+target=ES2007d.A.argumentstructs.Erik.8
+source=ES2007d.B.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.6:
+"That was our main technological innovation w every everything else was fairly simple, but the fact that we used the kinetic energy was new."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.22: "A one a one. So I'll just write criteria criteria one we get one."
+AE_ID ES2007d.D.argumentstructs.Erik.7: "Second criteria, new technology. Have we implemented new technology ? As in the new high-tech"
+AE_ID ES2007d.B.argumentstructs.Erik.7: "Well, the kinetic thing, yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.6
+source=ES2007d.B.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.23:
+"."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.7: "Second criteria, new technology. Have we implemented new technology ? As in the new high-tech"
+AE_ID ES2007d.B.argumentstructs.Erik.7: "Well, the kinetic thing, yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.6: "That was our main technological innovation w every everything else was fairly simple, but the fact that we used the kinetic energy was new."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.7
+---------------------------------
+target=ES2007d.D.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.13:
+"."
+
+Past dialogue turns:
+AE_ID ES2007d.B.argumentstructs.Erik.7: "Well, the kinetic thing, yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.6: "That was our main technological innovation w every everything else was fairly simple, but the fact that we used the kinetic energy was new."
+AE_ID ES2007d.D.argumentstructs.23: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2007d.A.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.8:
+"So we'll give it a"
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.6: "That was our main technological innovation w every everything else was fairly simple, but the fact that we used the kinetic energy was new."
+AE_ID ES2007d.D.argumentstructs.23: "."
+AE_ID ES2007d.A.argumentstructs.13: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.8
+source=ES2007d.C.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.13:
+"Well so the um"
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.6: "That was our main technological innovation w every everything else was fairly simple, but the fact that we used the kinetic energy was new."
+AE_ID ES2007d.D.argumentstructs.23: "."
+AE_ID ES2007d.A.argumentstructs.13: "."
+AE_ID ES2007d.D.argumentstructs.Erik.8: "So we'll give it a"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2007d.B.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.7:
+"It's ergonomic, but that's not  that's that's a design that's a des that's a design thing, yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.6: "That was our main technological innovation w every everything else was fairly simple, but the fact that we used the kinetic energy was new."
+AE_ID ES2007d.D.argumentstructs.23: "."
+AE_ID ES2007d.A.argumentstructs.13: "."
+AE_ID ES2007d.D.argumentstructs.Erik.8: "So we'll give it a"
+AE_ID ES2007d.B.argumentstructs.13: "Well so the um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.7
+source=ES2007d.D.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.Erik.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.23: "."
+AE_ID ES2007d.A.argumentstructs.13: "."
+AE_ID ES2007d.D.argumentstructs.Erik.8: "So we'll give it a"
+AE_ID ES2007d.B.argumentstructs.13: "Well so the um"
+AE_ID ES2007d.C.argumentstructs.Erik.7: "It's ergonomic, but that's not  that's that's a design that's a des that's a design thing, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2007d.B.argumentstructs.Erik.8
+source=ES2007d.C.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.A.argumentstructs.Erik.9:
+"Yeah, but that's not a technological thing, that's another thing, i that's another marketing thing. So on the technical side of it it"
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.13: "."
+AE_ID ES2007d.D.argumentstructs.Erik.8: "So we'll give it a"
+AE_ID ES2007d.B.argumentstructs.13: "Well so the um"
+AE_ID ES2007d.C.argumentstructs.Erik.7: "It's ergonomic, but that's not  that's that's a design that's a des that's a design thing, yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2007d.A.argumentstructs.Erik.9
+source=ES2007d.C.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.Erik.9:
+"Yeah. Yeah. True."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.8: "So we'll give it a"
+AE_ID ES2007d.B.argumentstructs.13: "Well so the um"
+AE_ID ES2007d.C.argumentstructs.Erik.7: "It's ergonomic, but that's not  that's that's a design that's a des that's a design thing, yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.9: "Yeah, but that's not a technological thing, that's another thing, i that's another marketing thing. So on the technical side of it it"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.B.argumentstructs.Erik.8
+---------------------------------
+target=ES2007d.B.argumentstructs.Erik.9
+source=ES2007d.A.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.9:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.B.argumentstructs.13: "Well so the um"
+AE_ID ES2007d.C.argumentstructs.Erik.7: "It's ergonomic, but that's not  that's that's a design that's a des that's a design thing, yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.9: "Yeah, but that's not a technological thing, that's another thing, i that's another marketing thing. So on the technical side of it it"
+AE_ID ES2007d.B.argumentstructs.Erik.9: "Yeah. Yeah. True."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.B.argumentstructs.Erik.9
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.9
+source=ES2007d.A.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.10:
+"I'd say it's about a a twoish ? Two. Three."
+
+Past dialogue turns:
+AE_ID ES2007d.C.argumentstructs.Erik.7: "It's ergonomic, but that's not  that's that's a design that's a des that's a design thing, yeah."
+AE_ID ES2007d.B.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.9: "Yeah, but that's not a technological thing, that's another thing, i that's another marketing thing. So on the technical side of it it"
+AE_ID ES2007d.B.argumentstructs.Erik.9: "Yeah. Yeah. True."
+AE_ID ES2007d.D.argumentstructs.Erik.9: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.A.argumentstructs.Erik.9
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.10
+source=ES2007d.D.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.8:
+"It's about in the mid in the middle somewhere, maybe, yeah, I dunno."
+
+Past dialogue turns:
+AE_ID ES2007d.B.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2007d.A.argumentstructs.Erik.9: "Yeah, but that's not a technological thing, that's another thing, i that's another marketing thing. So on the technical side of it it"
+AE_ID ES2007d.B.argumentstructs.Erik.9: "Yeah. Yeah. True."
+AE_ID ES2007d.D.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2007d.D.argumentstructs.Erik.10: "I'd say it's about a a twoish ? Two. Three."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.8
+source=ES2007d.D.argumentstructs.Erik.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.Erik.10:
+"Two."
+
+Past dialogue turns:
+AE_ID ES2007d.A.argumentstructs.Erik.9: "Yeah, but that's not a technological thing, that's another thing, i that's another marketing thing. So on the technical side of it it"
+AE_ID ES2007d.B.argumentstructs.Erik.9: "Yeah. Yeah. True."
+AE_ID ES2007d.D.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2007d.D.argumentstructs.Erik.10: "I'd say it's about a a twoish ? Two. Three."
+AE_ID ES2007d.C.argumentstructs.Erik.8: "It's about in the mid in the middle somewhere, maybe, yeah, I dunno."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2007d.B.argumentstructs.Erik.10
+source=ES2007d.D.argumentstructs.Erik.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.B.argumentstructs.Erik.11:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.B.argumentstructs.Erik.9: "Yeah. Yeah. True."
+AE_ID ES2007d.D.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2007d.D.argumentstructs.Erik.10: "I'd say it's about a a twoish ? Two. Three."
+AE_ID ES2007d.C.argumentstructs.Erik.8: "It's about in the mid in the middle somewhere, maybe, yeah, I dunno."
+AE_ID ES2007d.B.argumentstructs.Erik.10: "Two."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.B.argumentstructs.Erik.9
+---------------------------------
+target=ES2007d.B.argumentstructs.Erik.11
+source=ES2007d.B.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.C.argumentstructs.Erik.9:
+"Maybe three, yeah."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2007d.D.argumentstructs.Erik.10: "I'd say it's about a a twoish ? Two. Three."
+AE_ID ES2007d.C.argumentstructs.Erik.8: "It's about in the mid in the middle somewhere, maybe, yeah, I dunno."
+AE_ID ES2007d.B.argumentstructs.Erik.10: "Two."
+AE_ID ES2007d.B.argumentstructs.Erik.11: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2007d.C.argumentstructs.Erik.9
+source=ES2007d.D.argumentstructs.Erik.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007d.D.argumentstructs.Erik.11:
+"three."
+
+Past dialogue turns:
+AE_ID ES2007d.D.argumentstructs.Erik.10: "I'd say it's about a a twoish ? Two. Three."
+AE_ID ES2007d.C.argumentstructs.Erik.8: "It's about in the mid in the middle somewhere, maybe, yeah, I dunno."
+AE_ID ES2007d.B.argumentstructs.Erik.10: "Two."
+AE_ID ES2007d.B.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2007d.C.argumentstructs.Erik.9: "Maybe three, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007d.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2007d.D.argumentstructs.Erik.11
+source=ES2007d.C.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2007d-ES2007d - Technology score.csv - True Judgement Ratio: 52.38%

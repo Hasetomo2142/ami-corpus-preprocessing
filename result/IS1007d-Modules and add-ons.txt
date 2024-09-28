@@ -1,0 +1,1037 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.8:
+"what about the integration of speech recognition ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.8
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.20:
+"The speech recogniser is a add-on module."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.8: "what about the integration of speech recognition ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.8
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.20
+source=IS1007d.A.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.30:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.8: "what about the integration of speech recognition ?"
+AE_ID IS1007d.B.argumentstructs.Daan.20: "The speech recogniser is a add-on module."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.20
+---------------------------------
+target=IS1007d.C.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.21:
+"Right ?"
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.8: "what about the integration of speech recognition ?"
+AE_ID IS1007d.B.argumentstructs.Daan.20: "The speech recogniser is a add-on module."
+AE_ID IS1007d.C.argumentstructs.30: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.20
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.21
+source=IS1007d.B.argumentstructs.Daan.20
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.29:
+"That's going to be an optional. If somebody wants to buy it they can have it, otherwise no."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.8: "what about the integration of speech recognition ?"
+AE_ID IS1007d.B.argumentstructs.Daan.20: "The speech recogniser is a add-on module."
+AE_ID IS1007d.C.argumentstructs.30: "Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.21: "Right ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.20
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.29
+source=IS1007d.A.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.9:
+"Ah so it's optional with the  okay."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.8: "what about the integration of speech recognition ?"
+AE_ID IS1007d.B.argumentstructs.Daan.20: "The speech recogniser is a add-on module."
+AE_ID IS1007d.C.argumentstructs.30: "Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.21: "Right ?"
+AE_ID IS1007d.D.argumentstructs.Daan.29: "That's going to be an optional. If somebody wants to buy it they can have it, otherwise no."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.29
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.9
+source=IS1007d.D.argumentstructs.Daan.29
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.30:
+"It's an optional."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.20: "The speech recogniser is a add-on module."
+AE_ID IS1007d.C.argumentstructs.30: "Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.21: "Right ?"
+AE_ID IS1007d.D.argumentstructs.Daan.29: "That's going to be an optional. If somebody wants to buy it they can have it, otherwise no."
+AE_ID IS1007d.A.argumentstructs.Daan.9: "Ah so it's optional with the  okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.29
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.30
+source=IS1007d.D.argumentstructs.Daan.29
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.21:
+"It's optional yeah, since well according to this study uh people more  likes more to have a spongy uh  remote control than"
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.30: "Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.21: "Right ?"
+AE_ID IS1007d.D.argumentstructs.Daan.29: "That's going to be an optional. If somebody wants to buy it they can have it, otherwise no."
+AE_ID IS1007d.A.argumentstructs.Daan.9: "Ah so it's optional with the  okay."
+AE_ID IS1007d.D.argumentstructs.Daan.30: "It's an optional."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.29
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.21
+source=IS1007d.D.argumentstructs.Daan.29
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.22:
+"I think i"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.21: "Right ?"
+AE_ID IS1007d.D.argumentstructs.Daan.29: "That's going to be an optional. If somebody wants to buy it they can have it, otherwise no."
+AE_ID IS1007d.A.argumentstructs.Daan.9: "Ah so it's optional with the  okay."
+AE_ID IS1007d.D.argumentstructs.Daan.30: "It's an optional."
+AE_ID IS1007d.C.argumentstructs.Daan.21: "It's optional yeah, since well according to this study uh people more  likes more to have a spongy uh  remote control than"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.30
+---------------------------------
+target=IS1007d.A.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.43:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.29: "That's going to be an optional. If somebody wants to buy it they can have it, otherwise no."
+AE_ID IS1007d.A.argumentstructs.Daan.9: "Ah so it's optional with the  okay."
+AE_ID IS1007d.D.argumentstructs.Daan.30: "It's an optional."
+AE_ID IS1007d.C.argumentstructs.Daan.21: "It's optional yeah, since well according to this study uh people more  likes more to have a spongy uh  remote control than"
+AE_ID IS1007d.A.argumentstructs.22: "I think i"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.29
+---------------------------------
+target=IS1007d.D.argumentstructs.43
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.10:
+"I think it will be better if we have all these modules in the same remote control, because maybe parents will lose these uh"
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.9: "Ah so it's optional with the  okay."
+AE_ID IS1007d.D.argumentstructs.Daan.30: "It's an optional."
+AE_ID IS1007d.C.argumentstructs.Daan.21: "It's optional yeah, since well according to this study uh people more  likes more to have a spongy uh  remote control than"
+AE_ID IS1007d.A.argumentstructs.22: "I think i"
+AE_ID IS1007d.D.argumentstructs.43: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.9
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.10
+source=IS1007d.B.argumentstructs.Daan.20
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.31:
+"Yeah, but I mean if you have an add-ons, the kids may just uh hide the parental module and so that their parents can't use it."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.30: "It's an optional."
+AE_ID IS1007d.C.argumentstructs.Daan.21: "It's optional yeah, since well according to this study uh people more  likes more to have a spongy uh  remote control than"
+AE_ID IS1007d.A.argumentstructs.22: "I think i"
+AE_ID IS1007d.D.argumentstructs.43: "Yeah."
+AE_ID IS1007d.A.argumentstructs.Daan.10: "I think it will be better if we have all these modules in the same remote control, because maybe parents will lose these uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.30
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.31
+source=IS1007d.A.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.11:
+"Yeah. Or ma yeah. Or maybe parents they can for forget where they put it or, so mayb better if you have all this in the same"
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.21: "It's optional yeah, since well according to this study uh people more  likes more to have a spongy uh  remote control than"
+AE_ID IS1007d.A.argumentstructs.22: "I think i"
+AE_ID IS1007d.D.argumentstructs.43: "Yeah."
+AE_ID IS1007d.A.argumentstructs.Daan.10: "I think it will be better if we have all these modules in the same remote control, because maybe parents will lose these uh"
+AE_ID IS1007d.D.argumentstructs.Daan.31: "Yeah, but I mean if you have an add-ons, the kids may just uh hide the parental module and so that their parents can't use it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.10
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.11
+source=IS1007d.A.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.32:
+"In the same set, yeah, and and individual buttons to make them work."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.22: "I think i"
+AE_ID IS1007d.D.argumentstructs.43: "Yeah."
+AE_ID IS1007d.A.argumentstructs.Daan.10: "I think it will be better if we have all these modules in the same remote control, because maybe parents will lose these uh"
+AE_ID IS1007d.D.argumentstructs.Daan.31: "Yeah, but I mean if you have an add-ons, the kids may just uh hide the parental module and so that their parents can't use it."
+AE_ID IS1007d.A.argumentstructs.Daan.11: "Yeah. Or ma yeah. Or maybe parents they can for forget where they put it or, so mayb better if you have all this in the same"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.10
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.32
+source=IS1007d.A.argumentstructs.Daan.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.37:
+"Oh."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.43: "Yeah."
+AE_ID IS1007d.A.argumentstructs.Daan.10: "I think it will be better if we have all these modules in the same remote control, because maybe parents will lose these uh"
+AE_ID IS1007d.D.argumentstructs.Daan.31: "Yeah, but I mean if you have an add-ons, the kids may just uh hide the parental module and so that their parents can't use it."
+AE_ID IS1007d.A.argumentstructs.Daan.11: "Yeah. Or ma yeah. Or maybe parents they can for forget where they put it or, so mayb better if you have all this in the same"
+AE_ID IS1007d.D.argumentstructs.Daan.32: "In the same set, yeah, and and individual buttons to make them work."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.43
+---------------------------------
+target=IS1007d.B.argumentstructs.37
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.22:
+"The problem is if i we are bla if a customer wants a certain component, and doesn't want the parental control because it's a couple who do not have children   when you sell the product in the market you could meet any kind of people, and not all people will need all the functionalities we propose to them. So we might lose the customer because of this. I don't know, what do you think uh ?"
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.10: "I think it will be better if we have all these modules in the same remote control, because maybe parents will lose these uh"
+AE_ID IS1007d.D.argumentstructs.Daan.31: "Yeah, but I mean if you have an add-ons, the kids may just uh hide the parental module and so that their parents can't use it."
+AE_ID IS1007d.A.argumentstructs.Daan.11: "Yeah. Or ma yeah. Or maybe parents they can for forget where they put it or, so mayb better if you have all this in the same"
+AE_ID IS1007d.D.argumentstructs.Daan.32: "In the same set, yeah, and and individual buttons to make them work."
+AE_ID IS1007d.B.argumentstructs.37: "Oh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.10
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.22
+source=IS1007d.A.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.23:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.31: "Yeah, but I mean if you have an add-ons, the kids may just uh hide the parental module and so that their parents can't use it."
+AE_ID IS1007d.A.argumentstructs.Daan.11: "Yeah. Or ma yeah. Or maybe parents they can for forget where they put it or, so mayb better if you have all this in the same"
+AE_ID IS1007d.D.argumentstructs.Daan.32: "In the same set, yeah, and and individual buttons to make them work."
+AE_ID IS1007d.B.argumentstructs.37: "Oh."
+AE_ID IS1007d.B.argumentstructs.Daan.22: "The problem is if i we are bla if a customer wants a certain component, and doesn't want the parental control because it's a couple who do not have children   when you sell the product in the market you could meet any kind of people, and not all people will need all the functionalities we propose to them. So we might lose the customer because of this. I don't know, what do you think uh ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.31
+---------------------------------
+target=IS1007d.A.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.12:
+"So you mean that even if these modules will be will be functional  uh will be optional."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.11: "Yeah. Or ma yeah. Or maybe parents they can for forget where they put it or, so mayb better if you have all this in the same"
+AE_ID IS1007d.D.argumentstructs.Daan.32: "In the same set, yeah, and and individual buttons to make them work."
+AE_ID IS1007d.B.argumentstructs.37: "Oh."
+AE_ID IS1007d.B.argumentstructs.Daan.22: "The problem is if i we are bla if a customer wants a certain component, and doesn't want the parental control because it's a couple who do not have children   when you sell the product in the market you could meet any kind of people, and not all people will need all the functionalities we propose to them. So we might lose the customer because of this. I don't know, what do you think uh ?"
+AE_ID IS1007d.A.argumentstructs.23: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.37
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.12
+source=IS1007d.B.argumentstructs.Daan.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.23:
+"Yes exa what do you think, I don't know. You are Marketing Manag."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.32: "In the same set, yeah, and and individual buttons to make them work."
+AE_ID IS1007d.B.argumentstructs.37: "Oh."
+AE_ID IS1007d.B.argumentstructs.Daan.22: "The problem is if i we are bla if a customer wants a certain component, and doesn't want the parental control because it's a couple who do not have children   when you sell the product in the market you could meet any kind of people, and not all people will need all the functionalities we propose to them. So we might lose the customer because of this. I don't know, what do you think uh ?"
+AE_ID IS1007d.A.argumentstructs.23: "Yeah."
+AE_ID IS1007d.A.argumentstructs.Daan.12: "So you mean that even if these modules will be will be functional  uh will be optional."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.22
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.23
+source=IS1007d.A.argumentstructs.Daan.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.33:
+"I mean how to how to how to make a marketing survey that uh how many married couple  or how many couples have a T_V_ or to the number or singles who have a television. So based on that I think"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.37: "Oh."
+AE_ID IS1007d.B.argumentstructs.Daan.22: "The problem is if i we are bla if a customer wants a certain component, and doesn't want the parental control because it's a couple who do not have children   when you sell the product in the market you could meet any kind of people, and not all people will need all the functionalities we propose to them. So we might lose the customer because of this. I don't know, what do you think uh ?"
+AE_ID IS1007d.A.argumentstructs.23: "Yeah."
+AE_ID IS1007d.A.argumentstructs.Daan.12: "So you mean that even if these modules will be will be functional  uh will be optional."
+AE_ID IS1007d.B.argumentstructs.Daan.23: "Yes exa what do you think, I don't know. You are Marketing Manag."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.22
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.33
+source=IS1007d.B.argumentstructs.Daan.22
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.24:
+"Uh"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.22: "The problem is if i we are bla if a customer wants a certain component, and doesn't want the parental control because it's a couple who do not have children   when you sell the product in the market you could meet any kind of people, and not all people will need all the functionalities we propose to them. So we might lose the customer because of this. I don't know, what do you think uh ?"
+AE_ID IS1007d.A.argumentstructs.23: "Yeah."
+AE_ID IS1007d.A.argumentstructs.Daan.12: "So you mean that even if these modules will be will be functional  uh will be optional."
+AE_ID IS1007d.B.argumentstructs.Daan.23: "Yes exa what do you think, I don't know. You are Marketing Manag."
+AE_ID IS1007d.D.argumentstructs.Daan.33: "I mean how to how to how to make a marketing survey that uh how many married couple  or how many couples have a T_V_ or to the number or singles who have a television. So based on that I think"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.22
+---------------------------------
+target=IS1007d.A.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.38:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.23: "Yeah."
+AE_ID IS1007d.A.argumentstructs.Daan.12: "So you mean that even if these modules will be will be functional  uh will be optional."
+AE_ID IS1007d.B.argumentstructs.Daan.23: "Yes exa what do you think, I don't know. You are Marketing Manag."
+AE_ID IS1007d.D.argumentstructs.Daan.33: "I mean how to how to how to make a marketing survey that uh how many married couple  or how many couples have a T_V_ or to the number or singles who have a television. So based on that I think"
+AE_ID IS1007d.A.argumentstructs.24: "Uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.23
+---------------------------------
+target=IS1007d.B.argumentstructs.38
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.31:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.12: "So you mean that even if these modules will be will be functional  uh will be optional."
+AE_ID IS1007d.B.argumentstructs.Daan.23: "Yes exa what do you think, I don't know. You are Marketing Manag."
+AE_ID IS1007d.D.argumentstructs.Daan.33: "I mean how to how to how to make a marketing survey that uh how many married couple  or how many couples have a T_V_ or to the number or singles who have a television. So based on that I think"
+AE_ID IS1007d.A.argumentstructs.24: "Uh"
+AE_ID IS1007d.B.argumentstructs.38: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.38
+---------------------------------
+target=IS1007d.C.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.24:
+"Yeah.  But the the question is n does those modularity increase the production cost or decrease the production cost ?"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.23: "Yes exa what do you think, I don't know. You are Marketing Manag."
+AE_ID IS1007d.D.argumentstructs.Daan.33: "I mean how to how to how to make a marketing survey that uh how many married couple  or how many couples have a T_V_ or to the number or singles who have a television. So based on that I think"
+AE_ID IS1007d.A.argumentstructs.24: "Uh"
+AE_ID IS1007d.B.argumentstructs.38: "Yeah."
+AE_ID IS1007d.C.argumentstructs.31: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.23
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.24
+source=IS1007d.A.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.22:
+"Well it's about the same because if"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.33: "I mean how to how to how to make a marketing survey that uh how many married couple  or how many couples have a T_V_ or to the number or singles who have a television. So based on that I think"
+AE_ID IS1007d.A.argumentstructs.24: "Uh"
+AE_ID IS1007d.B.argumentstructs.38: "Yeah."
+AE_ID IS1007d.C.argumentstructs.31: "Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.24: "Yeah.  But the the question is n does those modularity increase the production cost or decrease the production cost ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.33
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.22
+source=IS1007d.B.argumentstructs.Daan.24
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.13:
+"I think it inc increase."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.24: "Uh"
+AE_ID IS1007d.B.argumentstructs.38: "Yeah."
+AE_ID IS1007d.C.argumentstructs.31: "Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.24: "Yeah.  But the the question is n does those modularity increase the production cost or decrease the production cost ?"
+AE_ID IS1007d.C.argumentstructs.Daan.22: "Well it's about the same because if"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.24
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.13
+source=IS1007d.B.argumentstructs.Daan.24
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.32:
+"if you had uh something li"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.38: "Yeah."
+AE_ID IS1007d.C.argumentstructs.31: "Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.24: "Yeah.  But the the question is n does those modularity increase the production cost or decrease the production cost ?"
+AE_ID IS1007d.C.argumentstructs.Daan.22: "Well it's about the same because if"
+AE_ID IS1007d.A.argumentstructs.Daan.13: "I think it inc increase."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.38
+---------------------------------
+target=IS1007d.C.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.14:
+"I think it i increases."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.31: "Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.24: "Yeah.  But the the question is n does those modularity increase the production cost or decrease the production cost ?"
+AE_ID IS1007d.C.argumentstructs.Daan.22: "Well it's about the same because if"
+AE_ID IS1007d.A.argumentstructs.Daan.13: "I think it inc increase."
+AE_ID IS1007d.C.argumentstructs.32: "if you had uh something li"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.13
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.14
+source=IS1007d.A.argumentstructs.Daan.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.23:
+"Oh no, because if you if you add uh something  well yeah maybe because it's three different pieces uh to to to build but"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.24: "Yeah.  But the the question is n does those modularity increase the production cost or decrease the production cost ?"
+AE_ID IS1007d.C.argumentstructs.Daan.22: "Well it's about the same because if"
+AE_ID IS1007d.A.argumentstructs.Daan.13: "I think it inc increase."
+AE_ID IS1007d.C.argumentstructs.32: "if you had uh something li"
+AE_ID IS1007d.A.argumentstructs.Daan.14: "I think it i increases."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.24
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.23
+source=IS1007d.A.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.25:
+"Hmm."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.22: "Well it's about the same because if"
+AE_ID IS1007d.A.argumentstructs.Daan.13: "I think it inc increase."
+AE_ID IS1007d.C.argumentstructs.32: "if you had uh something li"
+AE_ID IS1007d.A.argumentstructs.Daan.14: "I think it i increases."
+AE_ID IS1007d.C.argumentstructs.Daan.23: "Oh no, because if you if you add uh something  well yeah maybe because it's three different pieces uh to to to build but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.22
+---------------------------------
+target=IS1007d.A.argumentstructs.25
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.34:
+"But you can make it on a single P_C_ with three different options."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.13: "I think it inc increase."
+AE_ID IS1007d.C.argumentstructs.32: "if you had uh something li"
+AE_ID IS1007d.A.argumentstructs.Daan.14: "I think it i increases."
+AE_ID IS1007d.C.argumentstructs.Daan.23: "Oh no, because if you if you add uh something  well yeah maybe because it's three different pieces uh to to to build but"
+AE_ID IS1007d.A.argumentstructs.25: "Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.23
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.34
+source=IS1007d.B.argumentstructs.Daan.24
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.24:
+"Yeah yeah yeah it's I think it's cheaper if you if you already built the all the  functionalities um on the same module, but uh"
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.32: "if you had uh something li"
+AE_ID IS1007d.A.argumentstructs.Daan.14: "I think it i increases."
+AE_ID IS1007d.C.argumentstructs.Daan.23: "Oh no, because if you if you add uh something  well yeah maybe because it's three different pieces uh to to to build but"
+AE_ID IS1007d.A.argumentstructs.25: "Hmm."
+AE_ID IS1007d.D.argumentstructs.Daan.34: "But you can make it on a single P_C_ with three different options."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.23
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.24
+source=IS1007d.D.argumentstructs.Daan.34
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.39:
+"Mm. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.14: "I think it i increases."
+AE_ID IS1007d.C.argumentstructs.Daan.23: "Oh no, because if you if you add uh something  well yeah maybe because it's three different pieces uh to to to build but"
+AE_ID IS1007d.A.argumentstructs.25: "Hmm."
+AE_ID IS1007d.D.argumentstructs.Daan.34: "But you can make it on a single P_C_ with three different options."
+AE_ID IS1007d.C.argumentstructs.Daan.24: "Yeah yeah yeah it's I think it's cheaper if you if you already built the all the  functionalities um on the same module, but uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.24
+---------------------------------
+target=IS1007d.B.argumentstructs.39
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.35:
+"On the same P_C_B_ yeah yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.23: "Oh no, because if you if you add uh something  well yeah maybe because it's three different pieces uh to to to build but"
+AE_ID IS1007d.A.argumentstructs.25: "Hmm."
+AE_ID IS1007d.D.argumentstructs.Daan.34: "But you can make it on a single P_C_ with three different options."
+AE_ID IS1007d.C.argumentstructs.Daan.24: "Yeah yeah yeah it's I think it's cheaper if you if you already built the all the  functionalities um on the same module, but uh"
+AE_ID IS1007d.B.argumentstructs.39: "Mm. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.34
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.35
+source=IS1007d.D.argumentstructs.Daan.34
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.25:
+"Well well the other aspect is that if  in the  when they have the ar existing product you you gonna maintain the the  you're gonna keep the same customer, because the same customer will come back to buy other add-ons."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.25: "Hmm."
+AE_ID IS1007d.D.argumentstructs.Daan.34: "But you can make it on a single P_C_ with three different options."
+AE_ID IS1007d.C.argumentstructs.Daan.24: "Yeah yeah yeah it's I think it's cheaper if you if you already built the all the  functionalities um on the same module, but uh"
+AE_ID IS1007d.B.argumentstructs.39: "Mm. Yeah."
+AE_ID IS1007d.D.argumentstructs.Daan.35: "On the same P_C_B_ yeah yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.24
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.25
+source=IS1007d.D.argumentstructs.Daan.34
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.36:
+"Yeah that's right. I mean you could just provide with an optional."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.34: "But you can make it on a single P_C_ with three different options."
+AE_ID IS1007d.C.argumentstructs.Daan.24: "Yeah yeah yeah it's I think it's cheaper if you if you already built the all the  functionalities um on the same module, but uh"
+AE_ID IS1007d.B.argumentstructs.39: "Mm. Yeah."
+AE_ID IS1007d.D.argumentstructs.Daan.35: "On the same P_C_B_ yeah yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.25: "Well well the other aspect is that if  in the  when they have the ar existing product you you gonna maintain the the  you're gonna keep the same customer, because the same customer will come back to buy other add-ons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.35
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.36
+source=IS1007d.B.argumentstructs.Daan.25
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.40:
+"So so"
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.24: "Yeah yeah yeah it's I think it's cheaper if you if you already built the all the  functionalities um on the same module, but uh"
+AE_ID IS1007d.B.argumentstructs.39: "Mm. Yeah."
+AE_ID IS1007d.D.argumentstructs.Daan.35: "On the same P_C_B_ yeah yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.25: "Well well the other aspect is that if  in the  when they have the ar existing product you you gonna maintain the the  you're gonna keep the same customer, because the same customer will come back to buy other add-ons."
+AE_ID IS1007d.D.argumentstructs.Daan.36: "Yeah that's right. I mean you could just provide with an optional."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.39
+---------------------------------
+target=IS1007d.B.argumentstructs.40
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.26:
+"Yeah i i so if don't don't buy now they can buy i in the future. So in in that way you're actually keeping the cus the same customer, attracting them to come back in again and again.  We're not trying to follow the Microsoft and we don't want to the m"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.39: "Mm. Yeah."
+AE_ID IS1007d.D.argumentstructs.Daan.35: "On the same P_C_B_ yeah yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.25: "Well well the other aspect is that if  in the  when they have the ar existing product you you gonna maintain the the  you're gonna keep the same customer, because the same customer will come back to buy other add-ons."
+AE_ID IS1007d.D.argumentstructs.Daan.36: "Yeah that's right. I mean you could just provide with an optional."
+AE_ID IS1007d.B.argumentstructs.40: "So so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.25
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.26
+source=IS1007d.B.argumentstructs.Daan.25
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.37:
+"So it's something like a Microsoft product  update. Updates and we sell it. We make updates and sell it."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.35: "On the same P_C_B_ yeah yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.25: "Well well the other aspect is that if  in the  when they have the ar existing product you you gonna maintain the the  you're gonna keep the same customer, because the same customer will come back to buy other add-ons."
+AE_ID IS1007d.D.argumentstructs.Daan.36: "Yeah that's right. I mean you could just provide with an optional."
+AE_ID IS1007d.B.argumentstructs.40: "So so"
+AE_ID IS1007d.B.argumentstructs.Daan.26: "Yeah i i so if don't don't buy now they can buy i in the future. So in in that way you're actually keeping the cus the same customer, attracting them to come back in again and again.  We're not trying to follow the Microsoft and we don't want to the m"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.25
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.37
+source=IS1007d.B.argumentstructs.Daan.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.15:
+"And and we we we we we we don't want that."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.25: "Well well the other aspect is that if  in the  when they have the ar existing product you you gonna maintain the the  you're gonna keep the same customer, because the same customer will come back to buy other add-ons."
+AE_ID IS1007d.D.argumentstructs.Daan.36: "Yeah that's right. I mean you could just provide with an optional."
+AE_ID IS1007d.B.argumentstructs.40: "So so"
+AE_ID IS1007d.B.argumentstructs.Daan.26: "Yeah i i so if don't don't buy now they can buy i in the future. So in in that way you're actually keeping the cus the same customer, attracting them to come back in again and again.  We're not trying to follow the Microsoft and we don't want to the m"
+AE_ID IS1007d.D.argumentstructs.Daan.37: "So it's something like a Microsoft product  update. Updates and we sell it. We make updates and sell it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.26
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.15
+source=IS1007d.D.argumentstructs.Daan.37
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.27:
+"Yeah well if the buyers can be up the th would be  can be upgraded, it would be a good thing right ?  Yeah, it depends on the v production."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.36: "Yeah that's right. I mean you could just provide with an optional."
+AE_ID IS1007d.B.argumentstructs.40: "So so"
+AE_ID IS1007d.B.argumentstructs.Daan.26: "Yeah i i so if don't don't buy now they can buy i in the future. So in in that way you're actually keeping the cus the same customer, attracting them to come back in again and again.  We're not trying to follow the Microsoft and we don't want to the m"
+AE_ID IS1007d.D.argumentstructs.Daan.37: "So it's something like a Microsoft product  update. Updates and we sell it. We make updates and sell it."
+AE_ID IS1007d.A.argumentstructs.Daan.15: "And and we we we we we we don't want that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.26
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.27
+source=IS1007d.D.argumentstructs.Daan.37
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.33:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.40: "So so"
+AE_ID IS1007d.B.argumentstructs.Daan.26: "Yeah i i so if don't don't buy now they can buy i in the future. So in in that way you're actually keeping the cus the same customer, attracting them to come back in again and again.  We're not trying to follow the Microsoft and we don't want to the m"
+AE_ID IS1007d.D.argumentstructs.Daan.37: "So it's something like a Microsoft product  update. Updates and we sell it. We make updates and sell it."
+AE_ID IS1007d.A.argumentstructs.Daan.15: "And and we we we we we we don't want that."
+AE_ID IS1007d.B.argumentstructs.Daan.27: "Yeah well if the buyers can be up the th would be  can be upgraded, it would be a good thing right ?  Yeah, it depends on the v production."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.27
+---------------------------------
+target=IS1007d.C.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1007d-Modules and add-ons.csv - True Judgement Ratio: 30.95%

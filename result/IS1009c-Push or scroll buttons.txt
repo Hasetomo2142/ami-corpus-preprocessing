@@ -1,0 +1,187 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.Daan.3:
+"Any particular comments by anybody ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1009c.A.argumentstructs.Daan.3
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.D.argumentstructs.Daan.1:
+"Uh yeah, on the scroll and the push-button, um ca you can achieve scrolling by repeatedly pushing a button ?"
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.3: "Any particular comments by anybody ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1009c.D.argumentstructs.Daan.1
+source=IS1009c.A.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.C.argumentstructs.Daan.2:
+"No, no, no, th the the the scrolling wheels are different, like you can go for a sw switches like buttons or scrolls, uh  which which we used to do before ten ten years before, I think"
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.3: "Any particular comments by anybody ?"
+AE_ID IS1009c.D.argumentstructs.Daan.1: "Uh yeah, on the scroll and the push-button, um ca you can achieve scrolling by repeatedly pushing a button ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1009c.C.argumentstructs.Daan.2
+source=IS1009c.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.C.argumentstructs.Daan.3:
+". Now, nobody uses that because you need you need a a k sophisticated chip and all. So I think it's better we go for uh um ordinary buttons. Yeah uh yeah, push-buttons. Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.3: "Any particular comments by anybody ?"
+AE_ID IS1009c.D.argumentstructs.Daan.1: "Uh yeah, on the scroll and the push-button, um ca you can achieve scrolling by repeatedly pushing a button ?"
+AE_ID IS1009c.C.argumentstructs.Daan.2: "No, no, no, th the the the scrolling wheels are different, like you can go for a sw switches like buttons or scrolls, uh  which which we used to do before ten ten years before, I think"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1009c.C.argumentstructs.Daan.3
+source=IS1009c.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.D.argumentstructs.8:
+"Um."
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.3: "Any particular comments by anybody ?"
+AE_ID IS1009c.D.argumentstructs.Daan.1: "Uh yeah, on the scroll and the push-button, um ca you can achieve scrolling by repeatedly pushing a button ?"
+AE_ID IS1009c.C.argumentstructs.Daan.2: "No, no, no, th the the the scrolling wheels are different, like you can go for a sw switches like buttons or scrolls, uh  which which we used to do before ten ten years before, I think"
+AE_ID IS1009c.C.argumentstructs.Daan.3: ". Now, nobody uses that because you need you need a a k sophisticated chip and all. So I think it's better we go for uh um ordinary buttons. Yeah uh yeah, push-buttons. Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.3
+---------------------------------
+target=IS1009c.D.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.D.argumentstructs.Daan.2:
+"We'll just go for push buttons for  in the interest of cost. Okay."
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.3: "Any particular comments by anybody ?"
+AE_ID IS1009c.D.argumentstructs.Daan.1: "Uh yeah, on the scroll and the push-button, um ca you can achieve scrolling by repeatedly pushing a button ?"
+AE_ID IS1009c.C.argumentstructs.Daan.2: "No, no, no, th the the the scrolling wheels are different, like you can go for a sw switches like buttons or scrolls, uh  which which we used to do before ten ten years before, I think"
+AE_ID IS1009c.C.argumentstructs.Daan.3: ". Now, nobody uses that because you need you need a a k sophisticated chip and all. So I think it's better we go for uh um ordinary buttons. Yeah uh yeah, push-buttons. Yeah. Yeah."
+AE_ID IS1009c.D.argumentstructs.8: "Um."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1009c.D.argumentstructs.Daan.2
+source=IS1009c.C.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.12:
+"Push-buttons."
+
+Past dialogue turns:
+AE_ID IS1009c.D.argumentstructs.Daan.1: "Uh yeah, on the scroll and the push-button, um ca you can achieve scrolling by repeatedly pushing a button ?"
+AE_ID IS1009c.C.argumentstructs.Daan.2: "No, no, no, th the the the scrolling wheels are different, like you can go for a sw switches like buttons or scrolls, uh  which which we used to do before ten ten years before, I think"
+AE_ID IS1009c.C.argumentstructs.Daan.3: ". Now, nobody uses that because you need you need a a k sophisticated chip and all. So I think it's better we go for uh um ordinary buttons. Yeah uh yeah, push-buttons. Yeah. Yeah."
+AE_ID IS1009c.D.argumentstructs.8: "Um."
+AE_ID IS1009c.D.argumentstructs.Daan.2: "We'll just go for push buttons for  in the interest of cost. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1009c.B.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.11:
+"We don't have a lot of time left and we will still have to make a decision, and the marketing expert has to present her her thing."
+
+Past dialogue turns:
+AE_ID IS1009c.C.argumentstructs.Daan.2: "No, no, no, th the the the scrolling wheels are different, like you can go for a sw switches like buttons or scrolls, uh  which which we used to do before ten ten years before, I think"
+AE_ID IS1009c.C.argumentstructs.Daan.3: ". Now, nobody uses that because you need you need a a k sophisticated chip and all. So I think it's better we go for uh um ordinary buttons. Yeah uh yeah, push-buttons. Yeah. Yeah."
+AE_ID IS1009c.D.argumentstructs.8: "Um."
+AE_ID IS1009c.D.argumentstructs.Daan.2: "We'll just go for push buttons for  in the interest of cost. Okay."
+AE_ID IS1009c.B.argumentstructs.12: "Push-buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.D.argumentstructs.Daan.2
+---------------------------------
+target=IS1009c.A.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1009c-Push or scroll buttons.csv - True Judgement Ratio: 50.00%

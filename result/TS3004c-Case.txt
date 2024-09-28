@@ -1,0 +1,912 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.1:
+"Yeah, we have to put our Real Reaction logo as well on the on the  remote control. So the colours also. So we have ha to ma make it in black, black, yellow."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.18:
+"Okay. Yeah. Yeah, mm n"
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.1: "Yeah, we have to put our Real Reaction logo as well on the on the  remote control. So the colours also. So we have ha to ma make it in black, black, yellow."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3004c.C.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.12:
+"Black yellow control."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.1: "Yeah, we have to put our Real Reaction logo as well on the on the  remote control. So the colours also. So we have ha to ma make it in black, black, yellow."
+AE_ID TS3004c.C.argumentstructs.18: "Okay. Yeah. Yeah, mm n"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3004c.B.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.2:
+"Maybe the sides in yellow and the the the top in black."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.1: "Yeah, we have to put our Real Reaction logo as well on the on the  remote control. So the colours also. So we have ha to ma make it in black, black, yellow."
+AE_ID TS3004c.C.argumentstructs.18: "Okay. Yeah. Yeah, mm n"
+AE_ID TS3004c.B.argumentstructs.12: "Black yellow control."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.2
+source=TS3004c.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.1:
+"Not that weird, because we definitely want to make it kind of flashy, to attract a young public."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.1: "Yeah, we have to put our Real Reaction logo as well on the on the  remote control. So the colours also. So we have ha to ma make it in black, black, yellow."
+AE_ID TS3004c.C.argumentstructs.18: "Okay. Yeah. Yeah, mm n"
+AE_ID TS3004c.B.argumentstructs.12: "Black yellow control."
+AE_ID TS3004c.A.argumentstructs.Daan.2: "Maybe the sides in yellow and the the the top in black."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.1
+source=TS3004c.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.Daan.1:
+"Yeah, but uh  I don't think the the colours black and yellow go well together. But"
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.1: "Yeah, we have to put our Real Reaction logo as well on the on the  remote control. So the colours also. So we have ha to ma make it in black, black, yellow."
+AE_ID TS3004c.C.argumentstructs.18: "Okay. Yeah. Yeah, mm n"
+AE_ID TS3004c.B.argumentstructs.12: "Black yellow control."
+AE_ID TS3004c.A.argumentstructs.Daan.2: "Maybe the sides in yellow and the the the top in black."
+AE_ID TS3004c.C.argumentstructs.Daan.1: "Not that weird, because we definitely want to make it kind of flashy, to attract a young public."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3004c.B.argumentstructs.Daan.1
+source=TS3004c.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.2:
+"No, okay. That's a that's a sen"
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.18: "Okay. Yeah. Yeah, mm n"
+AE_ID TS3004c.B.argumentstructs.12: "Black yellow control."
+AE_ID TS3004c.A.argumentstructs.Daan.2: "Maybe the sides in yellow and the the the top in black."
+AE_ID TS3004c.C.argumentstructs.Daan.1: "Not that weird, because we definitely want to make it kind of flashy, to attract a young public."
+AE_ID TS3004c.B.argumentstructs.Daan.1: "Yeah, but uh  I don't think the the colours black and yellow go well together. But"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.1
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.2
+source=TS3004c.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.3:
+"We make i Maybe you can put yellow on the side and black on the on the front."
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.12: "Black yellow control."
+AE_ID TS3004c.A.argumentstructs.Daan.2: "Maybe the sides in yellow and the the the top in black."
+AE_ID TS3004c.C.argumentstructs.Daan.1: "Not that weird, because we definitely want to make it kind of flashy, to attract a young public."
+AE_ID TS3004c.B.argumentstructs.Daan.1: "Yeah, but uh  I don't think the the colours black and yellow go well together. But"
+AE_ID TS3004c.C.argumentstructs.Daan.2: "No, okay. That's a that's a sen"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.2
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.3
+source=TS3004c.A.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.3:
+"That's just a matter of tastes, but"
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.2: "Maybe the sides in yellow and the the the top in black."
+AE_ID TS3004c.C.argumentstructs.Daan.1: "Not that weird, because we definitely want to make it kind of flashy, to attract a young public."
+AE_ID TS3004c.B.argumentstructs.Daan.1: "Yeah, but uh  I don't think the the colours black and yellow go well together. But"
+AE_ID TS3004c.C.argumentstructs.Daan.2: "No, okay. That's a that's a sen"
+AE_ID TS3004c.A.argumentstructs.Daan.3: "We make i Maybe you can put yellow on the side and black on the on the front."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.1
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.3
+source=TS3004c.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.13:
+"Yeah, okay."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.1: "Not that weird, because we definitely want to make it kind of flashy, to attract a young public."
+AE_ID TS3004c.B.argumentstructs.Daan.1: "Yeah, but uh  I don't think the the colours black and yellow go well together. But"
+AE_ID TS3004c.C.argumentstructs.Daan.2: "No, okay. That's a that's a sen"
+AE_ID TS3004c.A.argumentstructs.Daan.3: "We make i Maybe you can put yellow on the side and black on the on the front."
+AE_ID TS3004c.C.argumentstructs.Daan.3: "That's just a matter of tastes, but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.1
+---------------------------------
+target=TS3004c.B.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.4:
+"We have to use uh kind of flashy colours, I think."
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.Daan.1: "Yeah, but uh  I don't think the the colours black and yellow go well together. But"
+AE_ID TS3004c.C.argumentstructs.Daan.2: "No, okay. That's a that's a sen"
+AE_ID TS3004c.A.argumentstructs.Daan.3: "We make i Maybe you can put yellow on the side and black on the on the front."
+AE_ID TS3004c.C.argumentstructs.Daan.3: "That's just a matter of tastes, but"
+AE_ID TS3004c.B.argumentstructs.13: "Yeah, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.1
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.4
+source=TS3004c.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.Daan.2:
+"Uh can't we use um different uh fron uh fronts, with all with the the logo on it ? Can we do that ? So"
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.2: "No, okay. That's a that's a sen"
+AE_ID TS3004c.A.argumentstructs.Daan.3: "We make i Maybe you can put yellow on the side and black on the on the front."
+AE_ID TS3004c.C.argumentstructs.Daan.3: "That's just a matter of tastes, but"
+AE_ID TS3004c.B.argumentstructs.13: "Yeah, okay."
+AE_ID TS3004c.C.argumentstructs.Daan.4: "We have to use uh kind of flashy colours, I think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.3
+---------------------------------
+target=TS3004c.B.argumentstructs.Daan.2
+source=TS3004c.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.19:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.3: "We make i Maybe you can put yellow on the side and black on the on the front."
+AE_ID TS3004c.C.argumentstructs.Daan.3: "That's just a matter of tastes, but"
+AE_ID TS3004c.B.argumentstructs.13: "Yeah, okay."
+AE_ID TS3004c.C.argumentstructs.Daan.4: "We have to use uh kind of flashy colours, I think."
+AE_ID TS3004c.B.argumentstructs.Daan.2: "Uh can't we use um different uh fron uh fronts, with all with the the logo on it ? Can we do that ? So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.13
+---------------------------------
+target=TS3004c.C.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.4:
+"Yeah, it's cool. Yep. And still trans"
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.3: "That's just a matter of tastes, but"
+AE_ID TS3004c.B.argumentstructs.13: "Yeah, okay."
+AE_ID TS3004c.C.argumentstructs.Daan.4: "We have to use uh kind of flashy colours, I think."
+AE_ID TS3004c.B.argumentstructs.Daan.2: "Uh can't we use um different uh fron uh fronts, with all with the the logo on it ? Can we do that ? So"
+AE_ID TS3004c.C.argumentstructs.19: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.19
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.4
+source=TS3004c.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.5:
+"Like fronts in in red and yellow and blue and"
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.13: "Yeah, okay."
+AE_ID TS3004c.C.argumentstructs.Daan.4: "We have to use uh kind of flashy colours, I think."
+AE_ID TS3004c.B.argumentstructs.Daan.2: "Uh can't we use um different uh fron uh fronts, with all with the the logo on it ? Can we do that ? So"
+AE_ID TS3004c.C.argumentstructs.19: "Yeah."
+AE_ID TS3004c.A.argumentstructs.Daan.4: "Yeah, it's cool. Yep. And still trans"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.4
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.5
+source=TS3004c.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.14:
+"Yes. So"
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.4: "We have to use uh kind of flashy colours, I think."
+AE_ID TS3004c.B.argumentstructs.Daan.2: "Uh can't we use um different uh fron uh fronts, with all with the the logo on it ? Can we do that ? So"
+AE_ID TS3004c.C.argumentstructs.19: "Yeah."
+AE_ID TS3004c.A.argumentstructs.Daan.4: "Yeah, it's cool. Yep. And still trans"
+AE_ID TS3004c.C.argumentstructs.Daan.5: "Like fronts in in red and yellow and blue and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.2
+---------------------------------
+target=TS3004c.B.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.5:
+"Still still transparent."
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.Daan.2: "Uh can't we use um different uh fron uh fronts, with all with the the logo on it ? Can we do that ? So"
+AE_ID TS3004c.C.argumentstructs.19: "Yeah."
+AE_ID TS3004c.A.argumentstructs.Daan.4: "Yeah, it's cool. Yep. And still trans"
+AE_ID TS3004c.C.argumentstructs.Daan.5: "Like fronts in in red and yellow and blue and"
+AE_ID TS3004c.B.argumentstructs.14: "Yes. So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.4
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.5
+source=TS3004c.A.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.Daan.3:
+"Yeah. But with all with logo on it."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.19: "Yeah."
+AE_ID TS3004c.A.argumentstructs.Daan.4: "Yeah, it's cool. Yep. And still trans"
+AE_ID TS3004c.C.argumentstructs.Daan.5: "Like fronts in in red and yellow and blue and"
+AE_ID TS3004c.B.argumentstructs.14: "Yes. So"
+AE_ID TS3004c.A.argumentstructs.Daan.5: "Still still transparent."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.4
+---------------------------------
+target=TS3004c.B.argumentstructs.Daan.3
+source=TS3004c.A.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.14:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.4: "Yeah, it's cool. Yep. And still trans"
+AE_ID TS3004c.C.argumentstructs.Daan.5: "Like fronts in in red and yellow and blue and"
+AE_ID TS3004c.B.argumentstructs.14: "Yes. So"
+AE_ID TS3004c.A.argumentstructs.Daan.5: "Still still transparent."
+AE_ID TS3004c.B.argumentstructs.Daan.3: "Yeah. But with all with logo on it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.4
+---------------------------------
+target=TS3004c.A.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.6:
+"Yeah, we make it som Maybe we have to make it from soft material. Uh I'm not sure."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.5: "Like fronts in in red and yellow and blue and"
+AE_ID TS3004c.B.argumentstructs.14: "Yes. So"
+AE_ID TS3004c.A.argumentstructs.Daan.5: "Still still transparent."
+AE_ID TS3004c.B.argumentstructs.Daan.3: "Yeah. But with all with logo on it."
+AE_ID TS3004c.A.argumentstructs.14: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.14
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.6
+source=TS3004c.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.20:
+"Yeah, I dunno."
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.14: "Yes. So"
+AE_ID TS3004c.A.argumentstructs.Daan.5: "Still still transparent."
+AE_ID TS3004c.B.argumentstructs.Daan.3: "Yeah. But with all with logo on it."
+AE_ID TS3004c.A.argumentstructs.14: "Okay."
+AE_ID TS3004c.A.argumentstructs.Daan.6: "Yeah, we make it som Maybe we have to make it from soft material. Uh I'm not sure."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.6
+---------------------------------
+target=TS3004c.C.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.15:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.5: "Still still transparent."
+AE_ID TS3004c.B.argumentstructs.Daan.3: "Yeah. But with all with logo on it."
+AE_ID TS3004c.A.argumentstructs.14: "Okay."
+AE_ID TS3004c.A.argumentstructs.Daan.6: "Yeah, we make it som Maybe we have to make it from soft material. Uh I'm not sure."
+AE_ID TS3004c.C.argumentstructs.20: "Yeah, I dunno."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.3
+---------------------------------
+target=TS3004c.B.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.6:
+"Maybe. But anyways uh it should be transparent. We decided that, huh ? S"
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.Daan.3: "Yeah. But with all with logo on it."
+AE_ID TS3004c.A.argumentstructs.14: "Okay."
+AE_ID TS3004c.A.argumentstructs.Daan.6: "Yeah, we make it som Maybe we have to make it from soft material. Uh I'm not sure."
+AE_ID TS3004c.C.argumentstructs.20: "Yeah, I dunno."
+AE_ID TS3004c.B.argumentstructs.15: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.3
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.6
+source=TS3004c.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.Daan.4:
+"Well one of the options. You can  Just like a mobile phone, you can make um different fronts on it. So you can just replace them I think."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.14: "Okay."
+AE_ID TS3004c.A.argumentstructs.Daan.6: "Yeah, we make it som Maybe we have to make it from soft material. Uh I'm not sure."
+AE_ID TS3004c.C.argumentstructs.20: "Yeah, I dunno."
+AE_ID TS3004c.B.argumentstructs.15: "Yeah."
+AE_ID TS3004c.C.argumentstructs.Daan.6: "Maybe. But anyways uh it should be transparent. We decided that, huh ? S"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.6
+---------------------------------
+target=TS3004c.B.argumentstructs.Daan.4
+source=TS3004c.C.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.7:
+"Okay. Yeah, we could do that."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.6: "Yeah, we make it som Maybe we have to make it from soft material. Uh I'm not sure."
+AE_ID TS3004c.C.argumentstructs.20: "Yeah, I dunno."
+AE_ID TS3004c.B.argumentstructs.15: "Yeah."
+AE_ID TS3004c.C.argumentstructs.Daan.6: "Maybe. But anyways uh it should be transparent. We decided that, huh ? S"
+AE_ID TS3004c.B.argumentstructs.Daan.4: "Well one of the options. You can  Just like a mobile phone, you can make um different fronts on it. So you can just replace them I think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.6
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.7
+source=TS3004c.B.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.16:
+"That was the idea, or just uh release one."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.20: "Yeah, I dunno."
+AE_ID TS3004c.B.argumentstructs.15: "Yeah."
+AE_ID TS3004c.C.argumentstructs.Daan.6: "Maybe. But anyways uh it should be transparent. We decided that, huh ? S"
+AE_ID TS3004c.B.argumentstructs.Daan.4: "Well one of the options. You can  Just like a mobile phone, you can make um different fronts on it. So you can just replace them I think."
+AE_ID TS3004c.C.argumentstructs.Daan.7: "Okay. Yeah, we could do that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.4
+---------------------------------
+target=TS3004c.B.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.7:
+"Yeah. Just give five with them, just in a box.  Five different"
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.15: "Yeah."
+AE_ID TS3004c.C.argumentstructs.Daan.6: "Maybe. But anyways uh it should be transparent. We decided that, huh ? S"
+AE_ID TS3004c.B.argumentstructs.Daan.4: "Well one of the options. You can  Just like a mobile phone, you can make um different fronts on it. So you can just replace them I think."
+AE_ID TS3004c.C.argumentstructs.Daan.7: "Okay. Yeah, we could do that."
+AE_ID TS3004c.B.argumentstructs.16: "That was the idea, or just uh release one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.15
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.7
+source=TS3004c.B.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.Daan.5:
+"Yeah, uh  Or just uh sell different ones."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.6: "Maybe. But anyways uh it should be transparent. We decided that, huh ? S"
+AE_ID TS3004c.B.argumentstructs.Daan.4: "Well one of the options. You can  Just like a mobile phone, you can make um different fronts on it. So you can just replace them I think."
+AE_ID TS3004c.C.argumentstructs.Daan.7: "Okay. Yeah, we could do that."
+AE_ID TS3004c.B.argumentstructs.16: "That was the idea, or just uh release one."
+AE_ID TS3004c.A.argumentstructs.Daan.7: "Yeah. Just give five with them, just in a box.  Five different"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.4
+---------------------------------
+target=TS3004c.B.argumentstructs.Daan.5
+source=TS3004c.B.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.8:
+"Yeah, but y you could you could make 'em uh uh like blue and transparent. So you can still th look through it."
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.Daan.4: "Well one of the options. You can  Just like a mobile phone, you can make um different fronts on it. So you can just replace them I think."
+AE_ID TS3004c.C.argumentstructs.Daan.7: "Okay. Yeah, we could do that."
+AE_ID TS3004c.B.argumentstructs.16: "That was the idea, or just uh release one."
+AE_ID TS3004c.A.argumentstructs.Daan.7: "Yeah. Just give five with them, just in a box.  Five different"
+AE_ID TS3004c.B.argumentstructs.Daan.5: "Yeah, uh  Or just uh sell different ones."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.4
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.8
+source=TS3004c.C.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.15:
+"Yeah. Cool."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.7: "Okay. Yeah, we could do that."
+AE_ID TS3004c.B.argumentstructs.16: "That was the idea, or just uh release one."
+AE_ID TS3004c.A.argumentstructs.Daan.7: "Yeah. Just give five with them, just in a box.  Five different"
+AE_ID TS3004c.B.argumentstructs.Daan.5: "Yeah, uh  Or just uh sell different ones."
+AE_ID TS3004c.C.argumentstructs.Daan.8: "Yeah, but y you could you could make 'em uh uh like blue and transparent. So you can still th look through it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.7
+---------------------------------
+target=TS3004c.A.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.9:
+"Um the buttons. Normal rubber I think. Like normal ordinary buttons. Soft."
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.16: "That was the idea, or just uh release one."
+AE_ID TS3004c.A.argumentstructs.Daan.7: "Yeah. Just give five with them, just in a box.  Five different"
+AE_ID TS3004c.B.argumentstructs.Daan.5: "Yeah, uh  Or just uh sell different ones."
+AE_ID TS3004c.C.argumentstructs.Daan.8: "Yeah, but y you could you could make 'em uh uh like blue and transparent. So you can still th look through it."
+AE_ID TS3004c.A.argumentstructs.15: "Yeah. Cool."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.5
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.9
+source=TS3004c.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.A.argumentstructs.Daan.8:
+"Yeah. It it could be like a Nokia, like  plastic. That's better prob Yeah."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.7: "Yeah. Just give five with them, just in a box.  Five different"
+AE_ID TS3004c.B.argumentstructs.Daan.5: "Yeah, uh  Or just uh sell different ones."
+AE_ID TS3004c.C.argumentstructs.Daan.8: "Yeah, but y you could you could make 'em uh uh like blue and transparent. So you can still th look through it."
+AE_ID TS3004c.A.argumentstructs.15: "Yeah. Cool."
+AE_ID TS3004c.C.argumentstructs.Daan.9: "Um the buttons. Normal rubber I think. Like normal ordinary buttons. Soft."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.8
+---------------------------------
+target=TS3004c.A.argumentstructs.Daan.8
+source=TS3004c.C.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.17:
+"Yeah, just uh"
+
+Past dialogue turns:
+AE_ID TS3004c.B.argumentstructs.Daan.5: "Yeah, uh  Or just uh sell different ones."
+AE_ID TS3004c.C.argumentstructs.Daan.8: "Yeah, but y you could you could make 'em uh uh like blue and transparent. So you can still th look through it."
+AE_ID TS3004c.A.argumentstructs.15: "Yeah. Cool."
+AE_ID TS3004c.C.argumentstructs.Daan.9: "Um the buttons. Normal rubber I think. Like normal ordinary buttons. Soft."
+AE_ID TS3004c.A.argumentstructs.Daan.8: "Yeah. It it could be like a Nokia, like  plastic. That's better prob Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.Daan.5
+---------------------------------
+target=TS3004c.B.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.D.argumentstructs.1:
+"Uh uh"
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.8: "Yeah, but y you could you could make 'em uh uh like blue and transparent. So you can still th look through it."
+AE_ID TS3004c.A.argumentstructs.15: "Yeah. Cool."
+AE_ID TS3004c.C.argumentstructs.Daan.9: "Um the buttons. Normal rubber I think. Like normal ordinary buttons. Soft."
+AE_ID TS3004c.A.argumentstructs.Daan.8: "Yeah. It it could be like a Nokia, like  plastic. That's better prob Yeah."
+AE_ID TS3004c.B.argumentstructs.17: "Yeah, just uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.B.argumentstructs.17
+---------------------------------
+target=TS3004c.D.argumentstructs.1
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.Daan.10:
+"With the hard hard buttons."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.15: "Yeah. Cool."
+AE_ID TS3004c.C.argumentstructs.Daan.9: "Um the buttons. Normal rubber I think. Like normal ordinary buttons. Soft."
+AE_ID TS3004c.A.argumentstructs.Daan.8: "Yeah. It it could be like a Nokia, like  plastic. That's better prob Yeah."
+AE_ID TS3004c.B.argumentstructs.17: "Yeah, just uh"
+AE_ID TS3004c.D.argumentstructs.1: "Uh uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.9
+---------------------------------
+target=TS3004c.C.argumentstructs.Daan.10
+source=TS3004c.A.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.B.argumentstructs.Daan.7:
+"I think uh rubber really has an odd look."
+
+Past dialogue turns:
+AE_ID TS3004c.C.argumentstructs.Daan.9: "Um the buttons. Normal rubber I think. Like normal ordinary buttons. Soft."
+AE_ID TS3004c.A.argumentstructs.Daan.8: "Yeah. It it could be like a Nokia, like  plastic. That's better prob Yeah."
+AE_ID TS3004c.B.argumentstructs.17: "Yeah, just uh"
+AE_ID TS3004c.D.argumentstructs.1: "Uh uh"
+AE_ID TS3004c.C.argumentstructs.Daan.10: "With the hard hard buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.C.argumentstructs.Daan.9
+---------------------------------
+target=TS3004c.B.argumentstructs.Daan.7
+source=TS3004c.C.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004c.C.argumentstructs.21:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3004c.A.argumentstructs.Daan.8: "Yeah. It it could be like a Nokia, like  plastic. That's better prob Yeah."
+AE_ID TS3004c.B.argumentstructs.17: "Yeah, just uh"
+AE_ID TS3004c.D.argumentstructs.1: "Uh uh"
+AE_ID TS3004c.C.argumentstructs.Daan.10: "With the hard hard buttons."
+AE_ID TS3004c.B.argumentstructs.Daan.7: "I think uh rubber really has an odd look."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004c.A.argumentstructs.Daan.8
+---------------------------------
+target=TS3004c.C.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3004c-Case.csv - True Judgement Ratio: 27.03%

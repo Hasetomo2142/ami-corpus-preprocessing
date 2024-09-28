@@ -1,0 +1,1037 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.1:
+"Okay, so what kind of material do we want to be made out of ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.21:
+"Pieces everywhere."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.1: "Okay, so what kind of material do we want to be made out of ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2010c.B.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.1:
+"Well, we have lots of options. I don't think wood is a viable option."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.1: "Okay, so what kind of material do we want to be made out of ?"
+AE_ID ES2010c.B.argumentstructs.21: "Pieces everywhere."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.1
+source=ES2010c.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.1:
+"Yeah wood."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.1: "Okay, so what kind of material do we want to be made out of ?"
+AE_ID ES2010c.B.argumentstructs.21: "Pieces everywhere."
+AE_ID ES2010c.B.argumentstructs.Erik.1: "Well, we have lots of options. I don't think wood is a viable option."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.1
+source=ES2010c.B.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.23:
+"Well, titanium s I was saying that titanium, if we're being restricted then"
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.1: "Okay, so what kind of material do we want to be made out of ?"
+AE_ID ES2010c.B.argumentstructs.21: "Pieces everywhere."
+AE_ID ES2010c.B.argumentstructs.Erik.1: "Well, we have lots of options. I don't think wood is a viable option."
+AE_ID ES2010c.D.argumentstructs.Erik.1: "Yeah wood."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2010c.C.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.29:
+"Oh sorry, go ahead."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.1: "Okay, so what kind of material do we want to be made out of ?"
+AE_ID ES2010c.B.argumentstructs.21: "Pieces everywhere."
+AE_ID ES2010c.B.argumentstructs.Erik.1: "Well, we have lots of options. I don't think wood is a viable option."
+AE_ID ES2010c.D.argumentstructs.Erik.1: "Yeah wood."
+AE_ID ES2010c.C.argumentstructs.23: "Well, titanium s I was saying that titanium, if we're being restricted then"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2010c.A.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.1:
+"I would probably  lean away from that."
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.21: "Pieces everywhere."
+AE_ID ES2010c.B.argumentstructs.Erik.1: "Well, we have lots of options. I don't think wood is a viable option."
+AE_ID ES2010c.D.argumentstructs.Erik.1: "Yeah wood."
+AE_ID ES2010c.C.argumentstructs.23: "Well, titanium s I was saying that titanium, if we're being restricted then"
+AE_ID ES2010c.A.argumentstructs.29: "Oh sorry, go ahead."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.1
+source=ES2010c.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.2:
+"Yeah, 'cause if it's gonna cost us more to produce a chip, titanium will be more expensive."
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.1: "Well, we have lots of options. I don't think wood is a viable option."
+AE_ID ES2010c.D.argumentstructs.Erik.1: "Yeah wood."
+AE_ID ES2010c.C.argumentstructs.23: "Well, titanium s I was saying that titanium, if we're being restricted then"
+AE_ID ES2010c.A.argumentstructs.29: "Oh sorry, go ahead."
+AE_ID ES2010c.C.argumentstructs.Erik.1: "I would probably  lean away from that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.23
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.2
+source=ES2010c.C.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.2:
+"Right. What would you recommend ?"
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.1: "Yeah wood."
+AE_ID ES2010c.C.argumentstructs.23: "Well, titanium s I was saying that titanium, if we're being restricted then"
+AE_ID ES2010c.A.argumentstructs.29: "Oh sorry, go ahead."
+AE_ID ES2010c.C.argumentstructs.Erik.1: "I would probably  lean away from that."
+AE_ID ES2010c.D.argumentstructs.Erik.2: "Yeah, 'cause if it's gonna cost us more to produce a chip, titanium will be more expensive."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.2
+source=ES2010c.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.2:
+"However, well, we only wanna sell it for twenty five Euro right ? 'Cause I was thinking if we wanted to get the high in market then you could produce a few in titanium, make them a rarity so to speak."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.23: "Well, titanium s I was saying that titanium, if we're being restricted then"
+AE_ID ES2010c.A.argumentstructs.29: "Oh sorry, go ahead."
+AE_ID ES2010c.C.argumentstructs.Erik.1: "I would probably  lean away from that."
+AE_ID ES2010c.D.argumentstructs.Erik.2: "Yeah, 'cause if it's gonna cost us more to produce a chip, titanium will be more expensive."
+AE_ID ES2010c.A.argumentstructs.Erik.2: "Right. What would you recommend ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.2
+source=ES2010c.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.29: "Oh sorry, go ahead."
+AE_ID ES2010c.C.argumentstructs.Erik.1: "I would probably  lean away from that."
+AE_ID ES2010c.D.argumentstructs.Erik.2: "Yeah, 'cause if it's gonna cost us more to produce a chip, titanium will be more expensive."
+AE_ID ES2010c.A.argumentstructs.Erik.2: "Right. What would you recommend ?"
+AE_ID ES2010c.B.argumentstructs.Erik.2: "However, well, we only wanna sell it for twenty five Euro right ? 'Cause I was thinking if we wanted to get the high in market then you could produce a few in titanium, make them a rarity so to speak."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.3
+source=ES2010c.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.2:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.1: "I would probably  lean away from that."
+AE_ID ES2010c.D.argumentstructs.Erik.2: "Yeah, 'cause if it's gonna cost us more to produce a chip, titanium will be more expensive."
+AE_ID ES2010c.A.argumentstructs.Erik.2: "Right. What would you recommend ?"
+AE_ID ES2010c.B.argumentstructs.Erik.2: "However, well, we only wanna sell it for twenty five Euro right ? 'Cause I was thinking if we wanted to get the high in market then you could produce a few in titanium, make them a rarity so to speak."
+AE_ID ES2010c.D.argumentstructs.Erik.3: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.2
+source=ES2010c.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.24:
+"Yeah, exactly."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.2: "Yeah, 'cause if it's gonna cost us more to produce a chip, titanium will be more expensive."
+AE_ID ES2010c.A.argumentstructs.Erik.2: "Right. What would you recommend ?"
+AE_ID ES2010c.B.argumentstructs.Erik.2: "However, well, we only wanna sell it for twenty five Euro right ? 'Cause I was thinking if we wanted to get the high in market then you could produce a few in titanium, make them a rarity so to speak."
+AE_ID ES2010c.D.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.2: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2010c.C.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.3:
+"The selling point, yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.2: "Right. What would you recommend ?"
+AE_ID ES2010c.B.argumentstructs.Erik.2: "However, well, we only wanna sell it for twenty five Euro right ? 'Cause I was thinking if we wanted to get the high in market then you could produce a few in titanium, make them a rarity so to speak."
+AE_ID ES2010c.D.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2010c.C.argumentstructs.24: "Yeah, exactly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.3
+source=ES2010c.B.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.4:
+"We could do that, because all our research shows that people are definitely willing to spend more if"
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.2: "However, well, we only wanna sell it for twenty five Euro right ? 'Cause I was thinking if we wanted to get the high in market then you could produce a few in titanium, make them a rarity so to speak."
+AE_ID ES2010c.D.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2010c.C.argumentstructs.24: "Yeah, exactly."
+AE_ID ES2010c.C.argumentstructs.Erik.3: "The selling point, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.4
+source=ES2010c.B.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.4:
+"Are we restricted by this ?"
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2010c.C.argumentstructs.24: "Yeah, exactly."
+AE_ID ES2010c.C.argumentstructs.Erik.3: "The selling point, yeah."
+AE_ID ES2010c.D.argumentstructs.Erik.4: "We could do that, because all our research shows that people are definitely willing to spend more if"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.4
+source=ES2010c.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2010c.C.argumentstructs.24: "Yeah, exactly."
+AE_ID ES2010c.C.argumentstructs.Erik.3: "The selling point, yeah."
+AE_ID ES2010c.D.argumentstructs.Erik.4: "We could do that, because all our research shows that people are definitely willing to spend more if"
+AE_ID ES2010c.C.argumentstructs.Erik.4: "Are we restricted by this ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.3
+source=ES2010c.C.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.22:
+"Well the original"
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.24: "Yeah, exactly."
+AE_ID ES2010c.C.argumentstructs.Erik.3: "The selling point, yeah."
+AE_ID ES2010c.D.argumentstructs.Erik.4: "We could do that, because all our research shows that people are definitely willing to spend more if"
+AE_ID ES2010c.C.argumentstructs.Erik.4: "Are we restricted by this ?"
+AE_ID ES2010c.B.argumentstructs.Erik.3: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.24
+---------------------------------
+target=ES2010c.B.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.25:
+"Twenty five Euros"
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.3: "The selling point, yeah."
+AE_ID ES2010c.D.argumentstructs.Erik.4: "We could do that, because all our research shows that people are definitely willing to spend more if"
+AE_ID ES2010c.C.argumentstructs.Erik.4: "Are we restricted by this ?"
+AE_ID ES2010c.B.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2010c.B.argumentstructs.22: "Well the original"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2010c.C.argumentstructs.25
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.4:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.4: "We could do that, because all our research shows that people are definitely willing to spend more if"
+AE_ID ES2010c.C.argumentstructs.Erik.4: "Are we restricted by this ?"
+AE_ID ES2010c.B.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2010c.B.argumentstructs.22: "Well the original"
+AE_ID ES2010c.C.argumentstructs.25: "Twenty five Euros"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.4
+source=ES2010c.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.30:
+"produce a whole array of"
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.4: "Are we restricted by this ?"
+AE_ID ES2010c.B.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2010c.B.argumentstructs.22: "Well the original"
+AE_ID ES2010c.C.argumentstructs.25: "Twenty five Euros"
+AE_ID ES2010c.B.argumentstructs.Erik.4: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.22
+---------------------------------
+target=ES2010c.A.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.3:
+"remotes. If this was a successful remote, we might then produce a higher end version of it, I think."
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2010c.B.argumentstructs.22: "Well the original"
+AE_ID ES2010c.C.argumentstructs.25: "Twenty five Euros"
+AE_ID ES2010c.B.argumentstructs.Erik.4: "Okay."
+AE_ID ES2010c.A.argumentstructs.30: "produce a whole array of"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.22
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.3
+source=ES2010c.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.5:
+"Yeah. Good plan."
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.22: "Well the original"
+AE_ID ES2010c.C.argumentstructs.25: "Twenty five Euros"
+AE_ID ES2010c.B.argumentstructs.Erik.4: "Okay."
+AE_ID ES2010c.A.argumentstructs.30: "produce a whole array of"
+AE_ID ES2010c.A.argumentstructs.Erik.3: "remotes. If this was a successful remote, we might then produce a higher end version of it, I think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.5
+source=ES2010c.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.5:
+"Good plan."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.25: "Twenty five Euros"
+AE_ID ES2010c.B.argumentstructs.Erik.4: "Okay."
+AE_ID ES2010c.A.argumentstructs.30: "produce a whole array of"
+AE_ID ES2010c.A.argumentstructs.Erik.3: "remotes. If this was a successful remote, we might then produce a higher end version of it, I think."
+AE_ID ES2010c.B.argumentstructs.Erik.5: "Yeah. Good plan."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.5
+source=ES2010c.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.4:
+"Okay, so we wanna go for plastic, or what would you recommend for materials ?"
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.4: "Okay."
+AE_ID ES2010c.A.argumentstructs.30: "produce a whole array of"
+AE_ID ES2010c.A.argumentstructs.Erik.3: "remotes. If this was a successful remote, we might then produce a higher end version of it, I think."
+AE_ID ES2010c.B.argumentstructs.Erik.5: "Yeah. Good plan."
+AE_ID ES2010c.D.argumentstructs.Erik.5: "Good plan."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.4
+source=ES2010c.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.6:
+"Honestly I'd recommend like um  uh since we're going with batteries instead of solar power, I'd recommend maybe a uh soft like latex, because we could produce, you know how cellphones have those overlays that you can change the colour. We could do uh one that fits in with the trends of the year so, because this year is all fruit, God only knows why, um we could do f a cherry cover for this year and then i if next year is stripes or solids, you know"
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.30: "produce a whole array of"
+AE_ID ES2010c.A.argumentstructs.Erik.3: "remotes. If this was a successful remote, we might then produce a higher end version of it, I think."
+AE_ID ES2010c.B.argumentstructs.Erik.5: "Yeah. Good plan."
+AE_ID ES2010c.D.argumentstructs.Erik.5: "Good plan."
+AE_ID ES2010c.A.argumentstructs.Erik.4: "Okay, so we wanna go for plastic, or what would you recommend for materials ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.6
+source=ES2010c.A.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.27:
+"Oh."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.3: "remotes. If this was a successful remote, we might then produce a higher end version of it, I think."
+AE_ID ES2010c.B.argumentstructs.Erik.5: "Yeah. Good plan."
+AE_ID ES2010c.D.argumentstructs.Erik.5: "Good plan."
+AE_ID ES2010c.A.argumentstructs.Erik.4: "Okay, so we wanna go for plastic, or what would you recommend for materials ?"
+AE_ID ES2010c.B.argumentstructs.Erik.6: "Honestly I'd recommend like um  uh since we're going with batteries instead of solar power, I'd recommend maybe a uh soft like latex, because we could produce, you know how cellphones have those overlays that you can change the colour. We could do uh one that fits in with the trends of the year so, because this year is all fruit, God only knows why, um we could do f a cherry cover for this year and then i if next year is stripes or solids, you know"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2010c.D.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.31:
+"Mm-hmm. Mm."
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.5: "Yeah. Good plan."
+AE_ID ES2010c.D.argumentstructs.Erik.5: "Good plan."
+AE_ID ES2010c.A.argumentstructs.Erik.4: "Okay, so we wanna go for plastic, or what would you recommend for materials ?"
+AE_ID ES2010c.B.argumentstructs.Erik.6: "Honestly I'd recommend like um  uh since we're going with batteries instead of solar power, I'd recommend maybe a uh soft like latex, because we could produce, you know how cellphones have those overlays that you can change the colour. We could do uh one that fits in with the trends of the year so, because this year is all fruit, God only knows why, um we could do f a cherry cover for this year and then i if next year is stripes or solids, you know"
+AE_ID ES2010c.D.argumentstructs.27: "Oh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2010c.A.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.6:
+"Yeah, who knows."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.5: "Good plan."
+AE_ID ES2010c.A.argumentstructs.Erik.4: "Okay, so we wanna go for plastic, or what would you recommend for materials ?"
+AE_ID ES2010c.B.argumentstructs.Erik.6: "Honestly I'd recommend like um  uh since we're going with batteries instead of solar power, I'd recommend maybe a uh soft like latex, because we could produce, you know how cellphones have those overlays that you can change the colour. We could do uh one that fits in with the trends of the year so, because this year is all fruit, God only knows why, um we could do f a cherry cover for this year and then i if next year is stripes or solids, you know"
+AE_ID ES2010c.D.argumentstructs.27: "Oh."
+AE_ID ES2010c.A.argumentstructs.31: "Mm-hmm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.6
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.6
+source=ES2010c.B.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.5:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.4: "Okay, so we wanna go for plastic, or what would you recommend for materials ?"
+AE_ID ES2010c.B.argumentstructs.Erik.6: "Honestly I'd recommend like um  uh since we're going with batteries instead of solar power, I'd recommend maybe a uh soft like latex, because we could produce, you know how cellphones have those overlays that you can change the colour. We could do uh one that fits in with the trends of the year so, because this year is all fruit, God only knows why, um we could do f a cherry cover for this year and then i if next year is stripes or solids, you know"
+AE_ID ES2010c.D.argumentstructs.27: "Oh."
+AE_ID ES2010c.A.argumentstructs.31: "Mm-hmm. Mm."
+AE_ID ES2010c.D.argumentstructs.Erik.6: "Yeah, who knows."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.5
+source=ES2010c.B.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.5:
+"So you're talking about like when it leaves our salesroom then it's all gonna be cherry-coloured or is it gonna be the kinda thing where people come back and swap it ?"
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.6: "Honestly I'd recommend like um  uh since we're going with batteries instead of solar power, I'd recommend maybe a uh soft like latex, because we could produce, you know how cellphones have those overlays that you can change the colour. We could do uh one that fits in with the trends of the year so, because this year is all fruit, God only knows why, um we could do f a cherry cover for this year and then i if next year is stripes or solids, you know"
+AE_ID ES2010c.D.argumentstructs.27: "Oh."
+AE_ID ES2010c.A.argumentstructs.31: "Mm-hmm. Mm."
+AE_ID ES2010c.D.argumentstructs.Erik.6: "Yeah, who knows."
+AE_ID ES2010c.A.argumentstructs.Erik.5: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.6
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.5
+source=ES2010c.B.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.7:
+"O or we could like take off this."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.27: "Oh."
+AE_ID ES2010c.A.argumentstructs.31: "Mm-hmm. Mm."
+AE_ID ES2010c.D.argumentstructs.Erik.6: "Yeah, who knows."
+AE_ID ES2010c.A.argumentstructs.Erik.5: "Okay."
+AE_ID ES2010c.C.argumentstructs.Erik.5: "So you're talking about like when it leaves our salesroom then it's all gonna be cherry-coloured or is it gonna be the kinda thing where people come back and swap it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.6
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.7
+source=ES2010c.C.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.32:
+"They could buy cases, maybe, if they wanted. I think it's good to sell a basic thing and then sell"
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.31: "Mm-hmm. Mm."
+AE_ID ES2010c.D.argumentstructs.Erik.6: "Yeah, who knows."
+AE_ID ES2010c.A.argumentstructs.Erik.5: "Okay."
+AE_ID ES2010c.C.argumentstructs.Erik.5: "So you're talking about like when it leaves our salesroom then it's all gonna be cherry-coloured or is it gonna be the kinda thing where people come back and swap it ?"
+AE_ID ES2010c.D.argumentstructs.Erik.7: "O or we could like take off this."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.Erik.5
+---------------------------------
+target=ES2010c.A.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.7:
+"They could come back. And buy the extra case. So we could do like a b a hard base plastic, and then we could  give two latex covers to start."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.6: "Yeah, who knows."
+AE_ID ES2010c.A.argumentstructs.Erik.5: "Okay."
+AE_ID ES2010c.C.argumentstructs.Erik.5: "So you're talking about like when it leaves our salesroom then it's all gonna be cherry-coloured or is it gonna be the kinda thing where people come back and swap it ?"
+AE_ID ES2010c.D.argumentstructs.Erik.7: "O or we could like take off this."
+AE_ID ES2010c.A.argumentstructs.32: "They could buy cases, maybe, if they wanted. I think it's good to sell a basic thing and then sell"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.32
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.7
+source=ES2010c.C.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.6:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.5: "Okay."
+AE_ID ES2010c.C.argumentstructs.Erik.5: "So you're talking about like when it leaves our salesroom then it's all gonna be cherry-coloured or is it gonna be the kinda thing where people come back and swap it ?"
+AE_ID ES2010c.D.argumentstructs.Erik.7: "O or we could like take off this."
+AE_ID ES2010c.A.argumentstructs.32: "They could buy cases, maybe, if they wanted. I think it's good to sell a basic thing and then sell"
+AE_ID ES2010c.B.argumentstructs.Erik.7: "They could come back. And buy the extra case. So we could do like a b a hard base plastic, and then we could  give two latex covers to start."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.5
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.6
+source=ES2010c.B.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.7:
+"options."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.5: "So you're talking about like when it leaves our salesroom then it's all gonna be cherry-coloured or is it gonna be the kinda thing where people come back and swap it ?"
+AE_ID ES2010c.D.argumentstructs.Erik.7: "O or we could like take off this."
+AE_ID ES2010c.A.argumentstructs.32: "They could buy cases, maybe, if they wanted. I think it's good to sell a basic thing and then sell"
+AE_ID ES2010c.B.argumentstructs.Erik.7: "They could come back. And buy the extra case. So we could do like a b a hard base plastic, and then we could  give two latex covers to start."
+AE_ID ES2010c.C.argumentstructs.Erik.6: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.7
+source=ES2010c.C.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.7: "O or we could like take off this."
+AE_ID ES2010c.A.argumentstructs.32: "They could buy cases, maybe, if they wanted. I think it's good to sell a basic thing and then sell"
+AE_ID ES2010c.B.argumentstructs.Erik.7: "They could come back. And buy the extra case. So we could do like a b a hard base plastic, and then we could  give two latex covers to start."
+AE_ID ES2010c.C.argumentstructs.Erik.6: "Okay."
+AE_ID ES2010c.A.argumentstructs.Erik.7: "options."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.7
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.8
+source=ES2010c.B.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.7:
+"The  what the top face, right ?"
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.32: "They could buy cases, maybe, if they wanted. I think it's good to sell a basic thing and then sell"
+AE_ID ES2010c.B.argumentstructs.Erik.7: "They could come back. And buy the extra case. So we could do like a b a hard base plastic, and then we could  give two latex covers to start."
+AE_ID ES2010c.C.argumentstructs.Erik.6: "Okay."
+AE_ID ES2010c.A.argumentstructs.Erik.7: "options."
+AE_ID ES2010c.D.argumentstructs.Erik.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.7
+source=ES2010c.B.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.9:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.7: "They could come back. And buy the extra case. So we could do like a b a hard base plastic, and then we could  give two latex covers to start."
+AE_ID ES2010c.C.argumentstructs.Erik.6: "Okay."
+AE_ID ES2010c.A.argumentstructs.Erik.7: "options."
+AE_ID ES2010c.D.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.7: "The  what the top face, right ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.8
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.9
+source=ES2010c.C.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.8:
+"Okay. Okay."
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.6: "Okay."
+AE_ID ES2010c.A.argumentstructs.Erik.7: "options."
+AE_ID ES2010c.D.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.7: "The  what the top face, right ?"
+AE_ID ES2010c.D.argumentstructs.Erik.9: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.8
+source=ES2010c.C.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.10:
+"Yeah, because the soft latex definitely is squishy. That's in. Well I mean squishier than like, yeah, just a hard plastic."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.7: "options."
+AE_ID ES2010c.D.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.7: "The  what the top face, right ?"
+AE_ID ES2010c.D.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2010c.A.argumentstructs.Erik.8: "Okay. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.9
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.10
+source=ES2010c.B.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.9:
+"Right. Right."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.7: "The  what the top face, right ?"
+AE_ID ES2010c.D.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2010c.A.argumentstructs.Erik.8: "Okay. Okay."
+AE_ID ES2010c.D.argumentstructs.Erik.10: "Yeah, because the soft latex definitely is squishy. That's in. Well I mean squishier than like, yeah, just a hard plastic."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.9
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.9
+source=ES2010c.D.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2010c-ES2010c - Remote material.csv - True Judgement Ratio: 23.81%

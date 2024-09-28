@@ -1,0 +1,812 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.Erik.1:
+"I think one of the very interesting things that came up in um  uh Ka Kate Cat Cat's uh presentation was um  uh this this issue of uh uh like voice recognition being more popular with uh younger people. So if we need to have a target group um then uh  I think as far as the m motto of our company is concerned, if we want to have something sleek and uh you know, good looking uh we are better off targeting a younger audience then um you know, people who are comparatively elderly."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2006b.A.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.16:
+"."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.1: "I think one of the very interesting things that came up in um  uh Ka Kate Cat Cat's uh presentation was um  uh this this issue of uh uh like voice recognition being more popular with uh younger people. So if we need to have a target group um then uh  I think as far as the m motto of our company is concerned, if we want to have something sleek and uh you know, good looking uh we are better off targeting a younger audience then um you know, people who are comparatively elderly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2006b.B.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.14:
+"Um. Right."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.1: "I think one of the very interesting things that came up in um  uh Ka Kate Cat Cat's uh presentation was um  uh this this issue of uh uh like voice recognition being more popular with uh younger people. So if we need to have a target group um then uh  I think as far as the m motto of our company is concerned, if we want to have something sleek and uh you know, good looking uh we are better off targeting a younger audience then um you know, people who are comparatively elderly."
+AE_ID ES2006b.B.argumentstructs.16: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2006b.A.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.17:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.1: "I think one of the very interesting things that came up in um  uh Ka Kate Cat Cat's uh presentation was um  uh this this issue of uh uh like voice recognition being more popular with uh younger people. So if we need to have a target group um then uh  I think as far as the m motto of our company is concerned, if we want to have something sleek and uh you know, good looking uh we are better off targeting a younger audience then um you know, people who are comparatively elderly."
+AE_ID ES2006b.B.argumentstructs.16: "."
+AE_ID ES2006b.A.argumentstructs.14: "Um. Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.14
+---------------------------------
+target=ES2006b.C.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.Erik.1:
+"Yeah, I mean that's the thing is that it didn't say in the survey, you know, whether, you know, these are the people that will pay more for a more stylish remote control, but I'm assuming, you know, yes."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.1: "I think one of the very interesting things that came up in um  uh Ka Kate Cat Cat's uh presentation was um  uh this this issue of uh uh like voice recognition being more popular with uh younger people. So if we need to have a target group um then uh  I think as far as the m motto of our company is concerned, if we want to have something sleek and uh you know, good looking uh we are better off targeting a younger audience then um you know, people who are comparatively elderly."
+AE_ID ES2006b.B.argumentstructs.16: "."
+AE_ID ES2006b.A.argumentstructs.14: "Um. Right."
+AE_ID ES2006b.C.argumentstructs.17: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2006b.B.argumentstructs.Erik.1
+source=ES2006b.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.Erik.2:
+"Right. Bu but but the survey did say that f things like voice recognition are more popular with them, so if you want to put in something stylish, then uh th it'll certainly be more popular with this i ye with the younger people as compared to older people, yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.1: "I think one of the very interesting things that came up in um  uh Ka Kate Cat Cat's uh presentation was um  uh this this issue of uh uh like voice recognition being more popular with uh younger people. So if we need to have a target group um then uh  I think as far as the m motto of our company is concerned, if we want to have something sleek and uh you know, good looking uh we are better off targeting a younger audience then um you know, people who are comparatively elderly."
+AE_ID ES2006b.B.argumentstructs.16: "."
+AE_ID ES2006b.A.argumentstructs.14: "Um. Right."
+AE_ID ES2006b.C.argumentstructs.17: "Mm-hmm."
+AE_ID ES2006b.B.argumentstructs.Erik.1: "Yeah, I mean that's the thing is that it didn't say in the survey, you know, whether, you know, these are the people that will pay more for a more stylish remote control, but I'm assuming, you know, yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2006b.A.argumentstructs.Erik.2
+source=ES2006b.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.Erik.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.16: "."
+AE_ID ES2006b.A.argumentstructs.14: "Um. Right."
+AE_ID ES2006b.C.argumentstructs.17: "Mm-hmm."
+AE_ID ES2006b.B.argumentstructs.Erik.1: "Yeah, I mean that's the thing is that it didn't say in the survey, you know, whether, you know, these are the people that will pay more for a more stylish remote control, but I'm assuming, you know, yes."
+AE_ID ES2006b.A.argumentstructs.Erik.2: "Right. Bu but but the survey did say that f things like voice recognition are more popular with them, so if you want to put in something stylish, then uh th it'll certainly be more popular with this i ye with the younger people as compared to older people, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2006b.C.argumentstructs.Erik.1
+source=ES2006b.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.D.argumentstructs.9:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.14: "Um. Right."
+AE_ID ES2006b.C.argumentstructs.17: "Mm-hmm."
+AE_ID ES2006b.B.argumentstructs.Erik.1: "Yeah, I mean that's the thing is that it didn't say in the survey, you know, whether, you know, these are the people that will pay more for a more stylish remote control, but I'm assuming, you know, yes."
+AE_ID ES2006b.A.argumentstructs.Erik.2: "Right. Bu but but the survey did say that f things like voice recognition are more popular with them, so if you want to put in something stylish, then uh th it'll certainly be more popular with this i ye with the younger people as compared to older people, yeah."
+AE_ID ES2006b.C.argumentstructs.Erik.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.17
+---------------------------------
+target=ES2006b.D.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.18:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.17: "Mm-hmm."
+AE_ID ES2006b.B.argumentstructs.Erik.1: "Yeah, I mean that's the thing is that it didn't say in the survey, you know, whether, you know, these are the people that will pay more for a more stylish remote control, but I'm assuming, you know, yes."
+AE_ID ES2006b.A.argumentstructs.Erik.2: "Right. Bu but but the survey did say that f things like voice recognition are more popular with them, so if you want to put in something stylish, then uh th it'll certainly be more popular with this i ye with the younger people as compared to older people, yeah."
+AE_ID ES2006b.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2006b.D.argumentstructs.9: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.17
+---------------------------------
+target=ES2006b.C.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.Erik.2:
+"Yeah. Then again I guess the th where it was most popular was the fifteen to twenty five bracket and the  I don't know how often they're buying televisions."
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.Erik.1: "Yeah, I mean that's the thing is that it didn't say in the survey, you know, whether, you know, these are the people that will pay more for a more stylish remote control, but I'm assuming, you know, yes."
+AE_ID ES2006b.A.argumentstructs.Erik.2: "Right. Bu but but the survey did say that f things like voice recognition are more popular with them, so if you want to put in something stylish, then uh th it'll certainly be more popular with this i ye with the younger people as compared to older people, yeah."
+AE_ID ES2006b.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2006b.D.argumentstructs.9: "Mm-hmm."
+AE_ID ES2006b.C.argumentstructs.18: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2006b.C.argumentstructs.Erik.2
+source=ES2006b.A.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.15:
+"Right, and"
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.2: "Right. Bu but but the survey did say that f things like voice recognition are more popular with them, so if you want to put in something stylish, then uh th it'll certainly be more popular with this i ye with the younger people as compared to older people, yeah."
+AE_ID ES2006b.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2006b.D.argumentstructs.9: "Mm-hmm."
+AE_ID ES2006b.C.argumentstructs.18: "Mm-hmm."
+AE_ID ES2006b.C.argumentstructs.Erik.2: "Yeah. Then again I guess the th where it was most popular was the fifteen to twenty five bracket and the  I don't know how often they're buying televisions."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2006b.A.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.Erik.3:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2006b.D.argumentstructs.9: "Mm-hmm."
+AE_ID ES2006b.C.argumentstructs.18: "Mm-hmm."
+AE_ID ES2006b.C.argumentstructs.Erik.2: "Yeah. Then again I guess the th where it was most popular was the fifteen to twenty five bracket and the  I don't know how often they're buying televisions."
+AE_ID ES2006b.A.argumentstructs.15: "Right, and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.15
+---------------------------------
+target=ES2006b.A.argumentstructs.Erik.3
+source=ES2006b.C.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.Erik.2:
+"Well, that's when you go to uni, isn't it ? So, you know"
+
+Past dialogue turns:
+AE_ID ES2006b.D.argumentstructs.9: "Mm-hmm."
+AE_ID ES2006b.C.argumentstructs.18: "Mm-hmm."
+AE_ID ES2006b.C.argumentstructs.Erik.2: "Yeah. Then again I guess the th where it was most popular was the fifteen to twenty five bracket and the  I don't know how often they're buying televisions."
+AE_ID ES2006b.A.argumentstructs.15: "Right, and"
+AE_ID ES2006b.A.argumentstructs.Erik.3: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2006b.B.argumentstructs.Erik.2
+source=ES2006b.C.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.16:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.18: "Mm-hmm."
+AE_ID ES2006b.C.argumentstructs.Erik.2: "Yeah. Then again I guess the th where it was most popular was the fifteen to twenty five bracket and the  I don't know how often they're buying televisions."
+AE_ID ES2006b.A.argumentstructs.15: "Right, and"
+AE_ID ES2006b.A.argumentstructs.Erik.3: "Right."
+AE_ID ES2006b.B.argumentstructs.Erik.2: "Well, that's when you go to uni, isn't it ? So, you know"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.18
+---------------------------------
+target=ES2006b.A.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.Erik.3:
+"Yeah, but you don't have much money, generally. I would've thought it's it's more that twenty five to thirty five, when people are really moving out and they've got their first job and they want their nice toys and"
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.Erik.2: "Yeah. Then again I guess the th where it was most popular was the fifteen to twenty five bracket and the  I don't know how often they're buying televisions."
+AE_ID ES2006b.A.argumentstructs.15: "Right, and"
+AE_ID ES2006b.A.argumentstructs.Erik.3: "Right."
+AE_ID ES2006b.B.argumentstructs.Erik.2: "Well, that's when you go to uni, isn't it ? So, you know"
+AE_ID ES2006b.A.argumentstructs.16: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2006b.C.argumentstructs.Erik.3
+source=ES2006b.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.D.argumentstructs.Erik.1:
+"Yeah. Yeah, you share a television or something that  yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.15: "Right, and"
+AE_ID ES2006b.A.argumentstructs.Erik.3: "Right."
+AE_ID ES2006b.B.argumentstructs.Erik.2: "Well, that's when you go to uni, isn't it ? So, you know"
+AE_ID ES2006b.A.argumentstructs.16: "Mm."
+AE_ID ES2006b.C.argumentstructs.Erik.3: "Yeah, but you don't have much money, generally. I would've thought it's it's more that twenty five to thirty five, when people are really moving out and they've got their first job and they want their nice toys and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2006b.D.argumentstructs.Erik.1
+source=ES2006b.C.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.Erik.4:
+"Right. But uh still, if if you can go back to that slide and uh, how popular was it ? Oh, oh, okay.  That's alright, if you can just look it up on your computer, wh uh um people between twenty five to thirty five, uh how popular was  so it was sti still still quite popular amongst them. So even they are seventy six percent, is that high amount ?"
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.3: "Right."
+AE_ID ES2006b.B.argumentstructs.Erik.2: "Well, that's when you go to uni, isn't it ? So, you know"
+AE_ID ES2006b.A.argumentstructs.16: "Mm."
+AE_ID ES2006b.C.argumentstructs.Erik.3: "Yeah, but you don't have much money, generally. I would've thought it's it's more that twenty five to thirty five, when people are really moving out and they've got their first job and they want their nice toys and"
+AE_ID ES2006b.D.argumentstructs.Erik.1: "Yeah. Yeah, you share a television or something that  yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2006b.A.argumentstructs.Erik.4
+source=ES2006b.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.Erik.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.Erik.2: "Well, that's when you go to uni, isn't it ? So, you know"
+AE_ID ES2006b.A.argumentstructs.16: "Mm."
+AE_ID ES2006b.C.argumentstructs.Erik.3: "Yeah, but you don't have much money, generally. I would've thought it's it's more that twenty five to thirty five, when people are really moving out and they've got their first job and they want their nice toys and"
+AE_ID ES2006b.D.argumentstructs.Erik.1: "Yeah. Yeah, you share a television or something that  yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.4: "Right. But uh still, if if you can go back to that slide and uh, how popular was it ? Oh, oh, okay.  That's alright, if you can just look it up on your computer, wh uh um people between twenty five to thirty five, uh how popular was  so it was sti still still quite popular amongst them. So even they are seventy six percent, is that high amount ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2006b.B.argumentstructs.Erik.3
+source=ES2006b.A.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.19:
+"Yeah. Mm-hmm. Yeah. Yeah, they've got no commitments and"
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.16: "Mm."
+AE_ID ES2006b.C.argumentstructs.Erik.3: "Yeah, but you don't have much money, generally. I would've thought it's it's more that twenty five to thirty five, when people are really moving out and they've got their first job and they want their nice toys and"
+AE_ID ES2006b.D.argumentstructs.Erik.1: "Yeah. Yeah, you share a television or something that  yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.4: "Right. But uh still, if if you can go back to that slide and uh, how popular was it ? Oh, oh, okay.  That's alright, if you can just look it up on your computer, wh uh um people between twenty five to thirty five, uh how popular was  so it was sti still still quite popular amongst them. So even they are seventy six percent, is that high amount ?"
+AE_ID ES2006b.B.argumentstructs.Erik.3: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.3
+---------------------------------
+target=ES2006b.C.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.17:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.Erik.3: "Yeah, but you don't have much money, generally. I would've thought it's it's more that twenty five to thirty five, when people are really moving out and they've got their first job and they want their nice toys and"
+AE_ID ES2006b.D.argumentstructs.Erik.1: "Yeah. Yeah, you share a television or something that  yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.4: "Right. But uh still, if if you can go back to that slide and uh, how popular was it ? Oh, oh, okay.  That's alright, if you can just look it up on your computer, wh uh um people between twenty five to thirty five, uh how popular was  so it was sti still still quite popular amongst them. So even they are seventy six percent, is that high amount ?"
+AE_ID ES2006b.B.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2006b.C.argumentstructs.19: "Yeah. Mm-hmm. Yeah. Yeah, they've got no commitments and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.3
+---------------------------------
+target=ES2006b.B.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.Erik.5:
+"Seventy six point three percent."
+
+Past dialogue turns:
+AE_ID ES2006b.D.argumentstructs.Erik.1: "Yeah. Yeah, you share a television or something that  yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.4: "Right. But uh still, if if you can go back to that slide and uh, how popular was it ? Oh, oh, okay.  That's alright, if you can just look it up on your computer, wh uh um people between twenty five to thirty five, uh how popular was  so it was sti still still quite popular amongst them. So even they are seventy six percent, is that high amount ?"
+AE_ID ES2006b.B.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2006b.C.argumentstructs.19: "Yeah. Mm-hmm. Yeah. Yeah, they've got no commitments and"
+AE_ID ES2006b.B.argumentstructs.17: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2006b.B.argumentstructs.Erik.5
+source=ES2006b.B.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.D.argumentstructs.Erik.2:
+"It was seventy something, yeah, yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.4: "Right. But uh still, if if you can go back to that slide and uh, how popular was it ? Oh, oh, okay.  That's alright, if you can just look it up on your computer, wh uh um people between twenty five to thirty five, uh how popular was  so it was sti still still quite popular amongst them. So even they are seventy six percent, is that high amount ?"
+AE_ID ES2006b.B.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2006b.C.argumentstructs.19: "Yeah. Mm-hmm. Yeah. Yeah, they've got no commitments and"
+AE_ID ES2006b.B.argumentstructs.17: "Yeah."
+AE_ID ES2006b.B.argumentstructs.Erik.5: "Seventy six point three percent."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2006b.D.argumentstructs.Erik.2
+source=ES2006b.A.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.Erik.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2006b.C.argumentstructs.19: "Yeah. Mm-hmm. Yeah. Yeah, they've got no commitments and"
+AE_ID ES2006b.B.argumentstructs.17: "Yeah."
+AE_ID ES2006b.B.argumentstructs.Erik.5: "Seventy six point three percent."
+AE_ID ES2006b.D.argumentstructs.Erik.2: "It was seventy something, yeah, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.3
+---------------------------------
+target=ES2006b.B.argumentstructs.Erik.6
+source=ES2006b.D.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.18:
+"I mean, you know, if you're at university, you're paying your rent, but you don't have a mortgage, you don't have a life insurance policy, you don't"
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.19: "Yeah. Mm-hmm. Yeah. Yeah, they've got no commitments and"
+AE_ID ES2006b.B.argumentstructs.17: "Yeah."
+AE_ID ES2006b.B.argumentstructs.Erik.5: "Seventy six point three percent."
+AE_ID ES2006b.D.argumentstructs.Erik.2: "It was seventy something, yeah, yeah."
+AE_ID ES2006b.B.argumentstructs.Erik.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.19
+---------------------------------
+target=ES2006b.B.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.Erik.5:
+"Alright."
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.17: "Yeah."
+AE_ID ES2006b.B.argumentstructs.Erik.5: "Seventy six point three percent."
+AE_ID ES2006b.D.argumentstructs.Erik.2: "It was seventy something, yeah, yeah."
+AE_ID ES2006b.B.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2006b.B.argumentstructs.18: "I mean, you know, if you're at university, you're paying your rent, but you don't have a mortgage, you don't have a life insurance policy, you don't"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.17
+---------------------------------
+target=ES2006b.A.argumentstructs.Erik.5
+source=ES2006b.B.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.Erik.4:
+"usually not a car and all of those things."
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.Erik.5: "Seventy six point three percent."
+AE_ID ES2006b.D.argumentstructs.Erik.2: "It was seventy something, yeah, yeah."
+AE_ID ES2006b.B.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2006b.B.argumentstructs.18: "I mean, you know, if you're at university, you're paying your rent, but you don't have a mortgage, you don't have a life insurance policy, you don't"
+AE_ID ES2006b.A.argumentstructs.Erik.5: "Alright."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2006b.C.argumentstructs.Erik.4
+source=ES2006b.B.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.Erik.7:
+"normally have a car, yeah, so. You're still learning to drive actually, so that just costs more than a car,  but yeah. Um so I mean like it is an age group to target, really, I think."
+
+Past dialogue turns:
+AE_ID ES2006b.D.argumentstructs.Erik.2: "It was seventy something, yeah, yeah."
+AE_ID ES2006b.B.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2006b.B.argumentstructs.18: "I mean, you know, if you're at university, you're paying your rent, but you don't have a mortgage, you don't have a life insurance policy, you don't"
+AE_ID ES2006b.A.argumentstructs.Erik.5: "Alright."
+AE_ID ES2006b.C.argumentstructs.Erik.4: "usually not a car and all of those things."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2006b.B.argumentstructs.Erik.7
+source=ES2006b.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.20:
+"Kids. Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2006b.B.argumentstructs.18: "I mean, you know, if you're at university, you're paying your rent, but you don't have a mortgage, you don't have a life insurance policy, you don't"
+AE_ID ES2006b.A.argumentstructs.Erik.5: "Alright."
+AE_ID ES2006b.C.argumentstructs.Erik.4: "usually not a car and all of those things."
+AE_ID ES2006b.B.argumentstructs.Erik.7: "normally have a car, yeah, so. You're still learning to drive actually, so that just costs more than a car,  but yeah. Um so I mean like it is an age group to target, really, I think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2006b.C.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.17:
+"Yeah. So you're more likely to b Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.18: "I mean, you know, if you're at university, you're paying your rent, but you don't have a mortgage, you don't have a life insurance policy, you don't"
+AE_ID ES2006b.A.argumentstructs.Erik.5: "Alright."
+AE_ID ES2006b.C.argumentstructs.Erik.4: "usually not a car and all of those things."
+AE_ID ES2006b.B.argumentstructs.Erik.7: "normally have a car, yeah, so. You're still learning to drive actually, so that just costs more than a car,  but yeah. Um so I mean like it is an age group to target, really, I think."
+AE_ID ES2006b.C.argumentstructs.20: "Kids. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2006b.A.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.Erik.5:
+"Yeah, and if we're if we're talking twenty five Euros as a price, that's not unaffordable, even for young people."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.5: "Alright."
+AE_ID ES2006b.C.argumentstructs.Erik.4: "usually not a car and all of those things."
+AE_ID ES2006b.B.argumentstructs.Erik.7: "normally have a car, yeah, so. You're still learning to drive actually, so that just costs more than a car,  but yeah. Um so I mean like it is an age group to target, really, I think."
+AE_ID ES2006b.C.argumentstructs.20: "Kids. Yeah."
+AE_ID ES2006b.A.argumentstructs.17: "Yeah. So you're more likely to b Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2006b.C.argumentstructs.Erik.5
+source=ES2006b.B.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.Erik.8:
+"No, I mean that's what, that's like fifteen Pounds ? You know, I think"
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.Erik.4: "usually not a car and all of those things."
+AE_ID ES2006b.B.argumentstructs.Erik.7: "normally have a car, yeah, so. You're still learning to drive actually, so that just costs more than a car,  but yeah. Um so I mean like it is an age group to target, really, I think."
+AE_ID ES2006b.C.argumentstructs.20: "Kids. Yeah."
+AE_ID ES2006b.A.argumentstructs.17: "Yeah. So you're more likely to b Yeah."
+AE_ID ES2006b.C.argumentstructs.Erik.5: "Yeah, and if we're if we're talking twenty five Euros as a price, that's not unaffordable, even for young people."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.5
+---------------------------------
+target=ES2006b.B.argumentstructs.Erik.8
+source=ES2006b.C.argumentstructs.Erik.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.Erik.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.Erik.7: "normally have a car, yeah, so. You're still learning to drive actually, so that just costs more than a car,  but yeah. Um so I mean like it is an age group to target, really, I think."
+AE_ID ES2006b.C.argumentstructs.20: "Kids. Yeah."
+AE_ID ES2006b.A.argumentstructs.17: "Yeah. So you're more likely to b Yeah."
+AE_ID ES2006b.C.argumentstructs.Erik.5: "Yeah, and if we're if we're talking twenty five Euros as a price, that's not unaffordable, even for young people."
+AE_ID ES2006b.B.argumentstructs.Erik.8: "No, I mean that's what, that's like fifteen Pounds ? You know, I think"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2006b.C.argumentstructs.Erik.6
+source=ES2006b.B.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.D.argumentstructs.Erik.3:
+"Yeah this this is not  unaffordable, but the problem is whether people need it, whether they do have a T_V_  to use its full"
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.20: "Kids. Yeah."
+AE_ID ES2006b.A.argumentstructs.17: "Yeah. So you're more likely to b Yeah."
+AE_ID ES2006b.C.argumentstructs.Erik.5: "Yeah, and if we're if we're talking twenty five Euros as a price, that's not unaffordable, even for young people."
+AE_ID ES2006b.B.argumentstructs.Erik.8: "No, I mean that's what, that's like fifteen Pounds ? You know, I think"
+AE_ID ES2006b.C.argumentstructs.Erik.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.5
+---------------------------------
+target=ES2006b.D.argumentstructs.Erik.3
+source=ES2006b.B.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2006b-ES2006b - Target audience.csv - True Judgement Ratio: 21.21%

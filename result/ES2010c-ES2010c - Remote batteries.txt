@@ -1,0 +1,387 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.15:
+"Uh and what size batteries, double A_, triple A_ ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.15
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.15:
+"I think triple A_, it'll be lighter."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.15: "Uh and what size batteries, double A_, triple A_ ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.15
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.15
+source=ES2010c.A.argumentstructs.Erik.15
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.16:
+"Two ?"
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.15: "Uh and what size batteries, double A_, triple A_ ?"
+AE_ID ES2010c.D.argumentstructs.Erik.15: "I think triple A_, it'll be lighter."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.15
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.16
+source=ES2010c.D.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.17:
+"Could it run off of two"
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.15: "Uh and what size batteries, double A_, triple A_ ?"
+AE_ID ES2010c.D.argumentstructs.Erik.15: "I think triple A_, it'll be lighter."
+AE_ID ES2010c.A.argumentstructs.Erik.16: "Two ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.16
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.17
+source=ES2010c.A.argumentstructs.Erik.16
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.16:
+"I mean more more come in a package. Yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.15: "Uh and what size batteries, double A_, triple A_ ?"
+AE_ID ES2010c.D.argumentstructs.Erik.15: "I think triple A_, it'll be lighter."
+AE_ID ES2010c.A.argumentstructs.Erik.16: "Two ?"
+AE_ID ES2010c.A.argumentstructs.Erik.17: "Could it run off of two"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.15
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.16
+source=ES2010c.A.argumentstructs.Erik.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.12:
+"Well, that depends on what the energy is needed."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.15: "Uh and what size batteries, double A_, triple A_ ?"
+AE_ID ES2010c.D.argumentstructs.Erik.15: "I think triple A_, it'll be lighter."
+AE_ID ES2010c.A.argumentstructs.Erik.16: "Two ?"
+AE_ID ES2010c.A.argumentstructs.Erik.17: "Could it run off of two"
+AE_ID ES2010c.D.argumentstructs.Erik.16: "I mean more more come in a package. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.15
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.12
+source=ES2010c.A.argumentstructs.Erik.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.13:
+"I think, well, we could d r do two"
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.15: "I think triple A_, it'll be lighter."
+AE_ID ES2010c.A.argumentstructs.Erik.16: "Two ?"
+AE_ID ES2010c.A.argumentstructs.Erik.17: "Could it run off of two"
+AE_ID ES2010c.D.argumentstructs.Erik.16: "I mean more more come in a package. Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.12: "Well, that depends on what the energy is needed."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.16
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.13
+source=ES2010c.A.argumentstructs.Erik.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.14:
+"or we could do one small lithium, 'cause you know the lithium batteries are doing quite well in most other electronic products, right ? So they're more widely available now. And they also have a longer battery life than most batteries. But if you only have to replace it every five years."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.16: "Two ?"
+AE_ID ES2010c.A.argumentstructs.Erik.17: "Could it run off of two"
+AE_ID ES2010c.D.argumentstructs.Erik.16: "I mean more more come in a package. Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.12: "Well, that depends on what the energy is needed."
+AE_ID ES2010c.B.argumentstructs.Erik.13: "I think, well, we could d r do two"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.13
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.14
+source=ES2010c.A.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.18:
+"They're more expensive though, too."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.17: "Could it run off of two"
+AE_ID ES2010c.D.argumentstructs.Erik.16: "I mean more more come in a package. Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.12: "Well, that depends on what the energy is needed."
+AE_ID ES2010c.B.argumentstructs.Erik.13: "I think, well, we could d r do two"
+AE_ID ES2010c.B.argumentstructs.Erik.14: "or we could do one small lithium, 'cause you know the lithium batteries are doing quite well in most other electronic products, right ? So they're more widely available now. And they also have a longer battery life than most batteries. But if you only have to replace it every five years."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.14
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.18
+source=ES2010c.B.argumentstructs.Erik.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.35:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.16: "I mean more more come in a package. Yeah."
+AE_ID ES2010c.C.argumentstructs.Erik.12: "Well, that depends on what the energy is needed."
+AE_ID ES2010c.B.argumentstructs.Erik.13: "I think, well, we could d r do two"
+AE_ID ES2010c.B.argumentstructs.Erik.14: "or we could do one small lithium, 'cause you know the lithium batteries are doing quite well in most other electronic products, right ? So they're more widely available now. And they also have a longer battery life than most batteries. But if you only have to replace it every five years."
+AE_ID ES2010c.A.argumentstructs.Erik.18: "They're more expensive though, too."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.D.argumentstructs.Erik.16
+---------------------------------
+target=ES2010c.A.argumentstructs.35
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.Erik.17:
+"That's a good point"
+
+Past dialogue turns:
+AE_ID ES2010c.C.argumentstructs.Erik.12: "Well, that depends on what the energy is needed."
+AE_ID ES2010c.B.argumentstructs.Erik.13: "I think, well, we could d r do two"
+AE_ID ES2010c.B.argumentstructs.Erik.14: "or we could do one small lithium, 'cause you know the lithium batteries are doing quite well in most other electronic products, right ? So they're more widely available now. And they also have a longer battery life than most batteries. But if you only have to replace it every five years."
+AE_ID ES2010c.A.argumentstructs.Erik.18: "They're more expensive though, too."
+AE_ID ES2010c.A.argumentstructs.35: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.14
+---------------------------------
+target=ES2010c.D.argumentstructs.Erik.17
+source=ES2010c.B.argumentstructs.Erik.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.A.argumentstructs.Erik.19:
+"Thoughts anybody ?"
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.13: "I think, well, we could d r do two"
+AE_ID ES2010c.B.argumentstructs.Erik.14: "or we could do one small lithium, 'cause you know the lithium batteries are doing quite well in most other electronic products, right ? So they're more widely available now. And they also have a longer battery life than most batteries. But if you only have to replace it every five years."
+AE_ID ES2010c.A.argumentstructs.Erik.18: "They're more expensive though, too."
+AE_ID ES2010c.A.argumentstructs.35: "Mm."
+AE_ID ES2010c.D.argumentstructs.Erik.17: "That's a good point"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.14
+---------------------------------
+target=ES2010c.A.argumentstructs.Erik.19
+source=ES2010c.B.argumentstructs.Erik.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.D.argumentstructs.31:
+"."
+
+Past dialogue turns:
+AE_ID ES2010c.B.argumentstructs.Erik.14: "or we could do one small lithium, 'cause you know the lithium batteries are doing quite well in most other electronic products, right ? So they're more widely available now. And they also have a longer battery life than most batteries. But if you only have to replace it every five years."
+AE_ID ES2010c.A.argumentstructs.Erik.18: "They're more expensive though, too."
+AE_ID ES2010c.A.argumentstructs.35: "Mm."
+AE_ID ES2010c.D.argumentstructs.Erik.17: "That's a good point"
+AE_ID ES2010c.A.argumentstructs.Erik.19: "Thoughts anybody ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.B.argumentstructs.Erik.14
+---------------------------------
+target=ES2010c.D.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.13:
+"As long as we sell it with it."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.Erik.18: "They're more expensive though, too."
+AE_ID ES2010c.A.argumentstructs.35: "Mm."
+AE_ID ES2010c.D.argumentstructs.Erik.17: "That's a good point"
+AE_ID ES2010c.A.argumentstructs.Erik.19: "Thoughts anybody ?"
+AE_ID ES2010c.D.argumentstructs.31: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.A.argumentstructs.Erik.18
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.13
+source=ES2010c.A.argumentstructs.Erik.19
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.B.argumentstructs.Erik.15:
+"Well, how about a initial, you get one battery when you buy it, 'cause I'm pretty sure we can get them pretty cheap on bulk. Yeah."
+
+Past dialogue turns:
+AE_ID ES2010c.A.argumentstructs.35: "Mm."
+AE_ID ES2010c.D.argumentstructs.Erik.17: "That's a good point"
+AE_ID ES2010c.A.argumentstructs.Erik.19: "Thoughts anybody ?"
+AE_ID ES2010c.D.argumentstructs.31: "."
+AE_ID ES2010c.C.argumentstructs.Erik.13: "As long as we sell it with it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.Erik.13
+---------------------------------
+target=ES2010c.B.argumentstructs.Erik.15
+source=ES2010c.C.argumentstructs.Erik.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010c.C.argumentstructs.Erik.14:
+"Right, that's what I meant."
+
+Past dialogue turns:
+AE_ID ES2010c.D.argumentstructs.Erik.17: "That's a good point"
+AE_ID ES2010c.A.argumentstructs.Erik.19: "Thoughts anybody ?"
+AE_ID ES2010c.D.argumentstructs.31: "."
+AE_ID ES2010c.C.argumentstructs.Erik.13: "As long as we sell it with it."
+AE_ID ES2010c.B.argumentstructs.Erik.15: "Well, how about a initial, you get one battery when you buy it, 'cause I'm pretty sure we can get them pretty cheap on bulk. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010c.C.argumentstructs.Erik.13
+---------------------------------
+target=ES2010c.C.argumentstructs.Erik.14
+source=ES2010c.B.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2010c-ES2010c - Remote batteries.csv - True Judgement Ratio: 43.75%

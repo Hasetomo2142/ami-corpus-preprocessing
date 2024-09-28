@@ -1,0 +1,712 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.Daan.5:
+"They can add two colours."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3005d.D.argumentstructs.Daan.5
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.Daan.6:
+"But the colours. Um how ma uh the colours like l she told, is that all the colours we add or"
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.Daan.5: "They can add two colours."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3005d.D.argumentstructs.Daan.6
+source=TS3005d.D.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.C.argumentstructs.Daan.4:
+"How d uh uh how many colours ? Special colours, all the colours you want, because you want to make p"
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.Daan.5: "They can add two colours."
+AE_ID TS3005d.D.argumentstructs.Daan.6: "But the colours. Um how ma uh the colours like l she told, is that all the colours we add or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.D.argumentstructs.Daan.6
+---------------------------------
+target=TS3005d.C.argumentstructs.Daan.4
+source=TS3005d.D.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.Daan.5:
+"What do you mean ?"
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.Daan.5: "They can add two colours."
+AE_ID TS3005d.D.argumentstructs.Daan.6: "But the colours. Um how ma uh the colours like l she told, is that all the colours we add or"
+AE_ID TS3005d.C.argumentstructs.Daan.4: "How d uh uh how many colours ? Special colours, all the colours you want, because you want to make p"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.D.argumentstructs.Daan.6
+---------------------------------
+target=TS3005d.B.argumentstructs.Daan.5
+source=TS3005d.C.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.Daan.7:
+"Yeah, but we we we are  we have yellow, red, uh black, titanium."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.Daan.5: "They can add two colours."
+AE_ID TS3005d.D.argumentstructs.Daan.6: "But the colours. Um how ma uh the colours like l she told, is that all the colours we add or"
+AE_ID TS3005d.C.argumentstructs.Daan.4: "How d uh uh how many colours ? Special colours, all the colours you want, because you want to make p"
+AE_ID TS3005d.B.argumentstructs.Daan.5: "What do you mean ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3005d.D.argumentstructs.Daan.7
+source=TS3005d.C.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.C.argumentstructs.Daan.5:
+"Yeah, but uh when you use more than one colour, it's a special colour."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.Daan.5: "They can add two colours."
+AE_ID TS3005d.D.argumentstructs.Daan.6: "But the colours. Um how ma uh the colours like l she told, is that all the colours we add or"
+AE_ID TS3005d.C.argumentstructs.Daan.4: "How d uh uh how many colours ? Special colours, all the colours you want, because you want to make p"
+AE_ID TS3005d.B.argumentstructs.Daan.5: "What do you mean ?"
+AE_ID TS3005d.D.argumentstructs.Daan.7: "Yeah, but we we we are  we have yellow, red, uh black, titanium."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3005d.C.argumentstructs.Daan.5
+source=TS3005d.D.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.15:
+"Ah okay."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.Daan.6: "But the colours. Um how ma uh the colours like l she told, is that all the colours we add or"
+AE_ID TS3005d.C.argumentstructs.Daan.4: "How d uh uh how many colours ? Special colours, all the colours you want, because you want to make p"
+AE_ID TS3005d.B.argumentstructs.Daan.5: "What do you mean ?"
+AE_ID TS3005d.D.argumentstructs.Daan.7: "Yeah, but we we we are  we have yellow, red, uh black, titanium."
+AE_ID TS3005d.C.argumentstructs.Daan.5: "Yeah, but uh when you use more than one colour, it's a special colour."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.C.argumentstructs.Daan.5
+---------------------------------
+target=TS3005d.D.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.Daan.6:
+"Oh. But I think when you use the colour that's not originally the rubber then you use special colour, 'cause you have to add it."
+
+Past dialogue turns:
+AE_ID TS3005d.C.argumentstructs.Daan.4: "How d uh uh how many colours ? Special colours, all the colours you want, because you want to make p"
+AE_ID TS3005d.B.argumentstructs.Daan.5: "What do you mean ?"
+AE_ID TS3005d.D.argumentstructs.Daan.7: "Yeah, but we we we are  we have yellow, red, uh black, titanium."
+AE_ID TS3005d.C.argumentstructs.Daan.5: "Yeah, but uh when you use more than one colour, it's a special colour."
+AE_ID TS3005d.D.argumentstructs.15: "Ah okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.C.argumentstructs.Daan.5
+---------------------------------
+target=TS3005d.B.argumentstructs.Daan.6
+source=TS3005d.C.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.C.argumentstructs.Daan.6:
+"I suppose."
+
+Past dialogue turns:
+AE_ID TS3005d.B.argumentstructs.Daan.5: "What do you mean ?"
+AE_ID TS3005d.D.argumentstructs.Daan.7: "Yeah, but we we we are  we have yellow, red, uh black, titanium."
+AE_ID TS3005d.C.argumentstructs.Daan.5: "Yeah, but uh when you use more than one colour, it's a special colour."
+AE_ID TS3005d.D.argumentstructs.15: "Ah okay."
+AE_ID TS3005d.B.argumentstructs.Daan.6: "Oh. But I think when you use the colour that's not originally the rubber then you use special colour, 'cause you have to add it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.5
+---------------------------------
+target=TS3005d.C.argumentstructs.Daan.6
+source=TS3005d.B.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.C.argumentstructs.9:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.Daan.7: "Yeah, but we we we are  we have yellow, red, uh black, titanium."
+AE_ID TS3005d.C.argumentstructs.Daan.5: "Yeah, but uh when you use more than one colour, it's a special colour."
+AE_ID TS3005d.D.argumentstructs.15: "Ah okay."
+AE_ID TS3005d.B.argumentstructs.Daan.6: "Oh. But I think when you use the colour that's not originally the rubber then you use special colour, 'cause you have to add it."
+AE_ID TS3005d.C.argumentstructs.Daan.6: "I suppose."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.D.argumentstructs.Daan.7
+---------------------------------
+target=TS3005d.C.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.Daan.8:
+"Yeah, but the rubbers alls original black."
+
+Past dialogue turns:
+AE_ID TS3005d.C.argumentstructs.Daan.5: "Yeah, but uh when you use more than one colour, it's a special colour."
+AE_ID TS3005d.D.argumentstructs.15: "Ah okay."
+AE_ID TS3005d.B.argumentstructs.Daan.6: "Oh. But I think when you use the colour that's not originally the rubber then you use special colour, 'cause you have to add it."
+AE_ID TS3005d.C.argumentstructs.Daan.6: "I suppose."
+AE_ID TS3005d.C.argumentstructs.9: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.6
+---------------------------------
+target=TS3005d.D.argumentstructs.Daan.8
+source=TS3005d.B.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.Daan.7:
+"Yeah, so you always lose the special colour. You co you could make it always black, like normal remote."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.15: "Ah okay."
+AE_ID TS3005d.B.argumentstructs.Daan.6: "Oh. But I think when you use the colour that's not originally the rubber then you use special colour, 'cause you have to add it."
+AE_ID TS3005d.C.argumentstructs.Daan.6: "I suppose."
+AE_ID TS3005d.C.argumentstructs.9: "Yeah."
+AE_ID TS3005d.D.argumentstructs.Daan.8: "Yeah, but the rubbers alls original black."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.6
+---------------------------------
+target=TS3005d.B.argumentstructs.Daan.7
+source=TS3005d.D.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.16:
+"Yeah b"
+
+Past dialogue turns:
+AE_ID TS3005d.B.argumentstructs.Daan.6: "Oh. But I think when you use the colour that's not originally the rubber then you use special colour, 'cause you have to add it."
+AE_ID TS3005d.C.argumentstructs.Daan.6: "I suppose."
+AE_ID TS3005d.C.argumentstructs.9: "Yeah."
+AE_ID TS3005d.D.argumentstructs.Daan.8: "Yeah, but the rubbers alls original black."
+AE_ID TS3005d.B.argumentstructs.Daan.7: "Yeah, so you always lose the special colour. You co you could make it always black, like normal remote."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.7
+---------------------------------
+target=TS3005d.D.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.Daan.9:
+"Yeah, but we're gonna make it yellow  uh red, and then you add  you have two special colours on top of the one we have now."
+
+Past dialogue turns:
+AE_ID TS3005d.C.argumentstructs.Daan.6: "I suppose."
+AE_ID TS3005d.C.argumentstructs.9: "Yeah."
+AE_ID TS3005d.D.argumentstructs.Daan.8: "Yeah, but the rubbers alls original black."
+AE_ID TS3005d.B.argumentstructs.Daan.7: "Yeah, so you always lose the special colour. You co you could make it always black, like normal remote."
+AE_ID TS3005d.D.argumentstructs.16: "Yeah b"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.7
+---------------------------------
+target=TS3005d.D.argumentstructs.Daan.9
+source=TS3005d.B.argumentstructs.Daan.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.C.argumentstructs.Daan.7:
+"Nee we we also want to make ano another colour"
+
+Past dialogue turns:
+AE_ID TS3005d.C.argumentstructs.9: "Yeah."
+AE_ID TS3005d.D.argumentstructs.Daan.8: "Yeah, but the rubbers alls original black."
+AE_ID TS3005d.B.argumentstructs.Daan.7: "Yeah, so you always lose the special colour. You co you could make it always black, like normal remote."
+AE_ID TS3005d.D.argumentstructs.16: "Yeah b"
+AE_ID TS3005d.D.argumentstructs.Daan.9: "Yeah, but we're gonna make it yellow  uh red, and then you add  you have two special colours on top of the one we have now."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.D.argumentstructs.Daan.9
+---------------------------------
+target=TS3005d.C.argumentstructs.Daan.7
+source=TS3005d.D.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.Daan.8:
+"Oh right, yeah. Yeah, we should u Yeah. We have to make this like four or five or something. That's what it means."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.Daan.8: "Yeah, but the rubbers alls original black."
+AE_ID TS3005d.B.argumentstructs.Daan.7: "Yeah, so you always lose the special colour. You co you could make it always black, like normal remote."
+AE_ID TS3005d.D.argumentstructs.16: "Yeah b"
+AE_ID TS3005d.D.argumentstructs.Daan.9: "Yeah, but we're gonna make it yellow  uh red, and then you add  you have two special colours on top of the one we have now."
+AE_ID TS3005d.C.argumentstructs.Daan.7: "Nee we we also want to make ano another colour"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.7
+---------------------------------
+target=TS3005d.B.argumentstructs.Daan.8
+source=TS3005d.C.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.C.argumentstructs.10:
+"."
+
+Past dialogue turns:
+AE_ID TS3005d.B.argumentstructs.Daan.7: "Yeah, so you always lose the special colour. You co you could make it always black, like normal remote."
+AE_ID TS3005d.D.argumentstructs.16: "Yeah b"
+AE_ID TS3005d.D.argumentstructs.Daan.9: "Yeah, but we're gonna make it yellow  uh red, and then you add  you have two special colours on top of the one we have now."
+AE_ID TS3005d.C.argumentstructs.Daan.7: "Nee we we also want to make ano another colour"
+AE_ID TS3005d.B.argumentstructs.Daan.8: "Oh right, yeah. Yeah, we should u Yeah. We have to make this like four or five or something. That's what it means."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.7
+---------------------------------
+target=TS3005d.C.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.17:
+"Yeah, but m"
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.16: "Yeah b"
+AE_ID TS3005d.D.argumentstructs.Daan.9: "Yeah, but we're gonna make it yellow  uh red, and then you add  you have two special colours on top of the one we have now."
+AE_ID TS3005d.C.argumentstructs.Daan.7: "Nee we we also want to make ano another colour"
+AE_ID TS3005d.B.argumentstructs.Daan.8: "Oh right, yeah. Yeah, we should u Yeah. We have to make this like four or five or something. That's what it means."
+AE_ID TS3005d.C.argumentstructs.10: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.D.argumentstructs.16
+---------------------------------
+target=TS3005d.D.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.Daan.10:
+"Yeah, because we have more colours than only black."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.Daan.9: "Yeah, but we're gonna make it yellow  uh red, and then you add  you have two special colours on top of the one we have now."
+AE_ID TS3005d.C.argumentstructs.Daan.7: "Nee we we also want to make ano another colour"
+AE_ID TS3005d.B.argumentstructs.Daan.8: "Oh right, yeah. Yeah, we should u Yeah. We have to make this like four or five or something. That's what it means."
+AE_ID TS3005d.C.argumentstructs.10: "."
+AE_ID TS3005d.D.argumentstructs.17: "Yeah, but m"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.D.argumentstructs.Daan.9
+---------------------------------
+target=TS3005d.D.argumentstructs.Daan.10
+source=TS3005d.B.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.A.argumentstructs.Daan.1:
+"Yeah, but isn't it per remote that you pay ?"
+
+Past dialogue turns:
+AE_ID TS3005d.C.argumentstructs.Daan.7: "Nee we we also want to make ano another colour"
+AE_ID TS3005d.B.argumentstructs.Daan.8: "Oh right, yeah. Yeah, we should u Yeah. We have to make this like four or five or something. That's what it means."
+AE_ID TS3005d.C.argumentstructs.10: "."
+AE_ID TS3005d.D.argumentstructs.17: "Yeah, but m"
+AE_ID TS3005d.D.argumentstructs.Daan.10: "Yeah, because we have more colours than only black."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.8
+---------------------------------
+target=TS3005d.A.argumentstructs.Daan.1
+source=TS3005d.C.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.12:
+"Yeah. Oh right, yeah. Is it per remote ? Yeah."
+
+Past dialogue turns:
+AE_ID TS3005d.B.argumentstructs.Daan.8: "Oh right, yeah. Yeah, we should u Yeah. We have to make this like four or five or something. That's what it means."
+AE_ID TS3005d.C.argumentstructs.10: "."
+AE_ID TS3005d.D.argumentstructs.17: "Yeah, but m"
+AE_ID TS3005d.D.argumentstructs.Daan.10: "Yeah, because we have more colours than only black."
+AE_ID TS3005d.A.argumentstructs.Daan.1: "Yeah, but isn't it per remote that you pay ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3005d.B.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.18:
+"then I think I p I don I don't think they me mean they're special"
+
+Past dialogue turns:
+AE_ID TS3005d.C.argumentstructs.10: "."
+AE_ID TS3005d.D.argumentstructs.17: "Yeah, but m"
+AE_ID TS3005d.D.argumentstructs.Daan.10: "Yeah, because we have more colours than only black."
+AE_ID TS3005d.A.argumentstructs.Daan.1: "Yeah, but isn't it per remote that you pay ?"
+AE_ID TS3005d.B.argumentstructs.12: "Yeah. Oh right, yeah. Is it per remote ? Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.D.argumentstructs.17
+---------------------------------
+target=TS3005d.D.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.A.argumentstructs.Daan.2:
+"Half ? I think you pay half per remote. So each remote with a special colour."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.17: "Yeah, but m"
+AE_ID TS3005d.D.argumentstructs.Daan.10: "Yeah, because we have more colours than only black."
+AE_ID TS3005d.A.argumentstructs.Daan.1: "Yeah, but isn't it per remote that you pay ?"
+AE_ID TS3005d.B.argumentstructs.12: "Yeah. Oh right, yeah. Is it per remote ? Yeah."
+AE_ID TS3005d.D.argumentstructs.18: "then I think I p I don I don't think they me mean they're special"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3005d.A.argumentstructs.Daan.2
+source=TS3005d.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.Daan.9:
+"Yeah, that's right, and you  one colour per remote. So then it is one."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.Daan.10: "Yeah, because we have more colours than only black."
+AE_ID TS3005d.A.argumentstructs.Daan.1: "Yeah, but isn't it per remote that you pay ?"
+AE_ID TS3005d.B.argumentstructs.12: "Yeah. Oh right, yeah. Is it per remote ? Yeah."
+AE_ID TS3005d.D.argumentstructs.18: "then I think I p I don I don't think they me mean they're special"
+AE_ID TS3005d.A.argumentstructs.Daan.2: "Half ? I think you pay half per remote. So each remote with a special colour."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3005d.B.argumentstructs.Daan.9
+source=TS3005d.A.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.C.argumentstructs.Daan.8:
+"Yeah, indeed, yeah. You don't need four of those  uh four of those special colours in one in one remote."
+
+Past dialogue turns:
+AE_ID TS3005d.A.argumentstructs.Daan.1: "Yeah, but isn't it per remote that you pay ?"
+AE_ID TS3005d.B.argumentstructs.12: "Yeah. Oh right, yeah. Is it per remote ? Yeah."
+AE_ID TS3005d.D.argumentstructs.18: "then I think I p I don I don't think they me mean they're special"
+AE_ID TS3005d.A.argumentstructs.Daan.2: "Half ? I think you pay half per remote. So each remote with a special colour."
+AE_ID TS3005d.B.argumentstructs.Daan.9: "Yeah, that's right, and you  one colour per remote. So then it is one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.9
+---------------------------------
+target=TS3005d.C.argumentstructs.Daan.8
+source=TS3005d.A.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.Daan.11:
+"Yeah, okay okay, true."
+
+Past dialogue turns:
+AE_ID TS3005d.B.argumentstructs.12: "Yeah. Oh right, yeah. Is it per remote ? Yeah."
+AE_ID TS3005d.D.argumentstructs.18: "then I think I p I don I don't think they me mean they're special"
+AE_ID TS3005d.A.argumentstructs.Daan.2: "Half ? I think you pay half per remote. So each remote with a special colour."
+AE_ID TS3005d.B.argumentstructs.Daan.9: "Yeah, that's right, and you  one colour per remote. So then it is one."
+AE_ID TS3005d.C.argumentstructs.Daan.8: "Yeah, indeed, yeah. You don't need four of those  uh four of those special colours in one in one remote."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.12
+---------------------------------
+target=TS3005d.D.argumentstructs.Daan.11
+source=TS3005d.A.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.Daan.12:
+"True, true."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.18: "then I think I p I don I don't think they me mean they're special"
+AE_ID TS3005d.A.argumentstructs.Daan.2: "Half ? I think you pay half per remote. So each remote with a special colour."
+AE_ID TS3005d.B.argumentstructs.Daan.9: "Yeah, that's right, and you  one colour per remote. So then it is one."
+AE_ID TS3005d.C.argumentstructs.Daan.8: "Yeah, indeed, yeah. You don't need four of those  uh four of those special colours in one in one remote."
+AE_ID TS3005d.D.argumentstructs.Daan.11: "Yeah, okay okay, true."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.D.argumentstructs.Daan.11
+---------------------------------
+target=TS3005d.D.argumentstructs.Daan.12
+source=TS3005d.D.argumentstructs.Daan.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.13:
+"No."
+
+Past dialogue turns:
+AE_ID TS3005d.A.argumentstructs.Daan.2: "Half ? I think you pay half per remote. So each remote with a special colour."
+AE_ID TS3005d.B.argumentstructs.Daan.9: "Yeah, that's right, and you  one colour per remote. So then it is one."
+AE_ID TS3005d.C.argumentstructs.Daan.8: "Yeah, indeed, yeah. You don't need four of those  uh four of those special colours in one in one remote."
+AE_ID TS3005d.D.argumentstructs.Daan.11: "Yeah, okay okay, true."
+AE_ID TS3005d.D.argumentstructs.Daan.12: "True, true."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.9
+---------------------------------
+target=TS3005d.B.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.A.argumentstructs.3:
+"I hope."
+
+Past dialogue turns:
+AE_ID TS3005d.B.argumentstructs.Daan.9: "Yeah, that's right, and you  one colour per remote. So then it is one."
+AE_ID TS3005d.C.argumentstructs.Daan.8: "Yeah, indeed, yeah. You don't need four of those  uh four of those special colours in one in one remote."
+AE_ID TS3005d.D.argumentstructs.Daan.11: "Yeah, okay okay, true."
+AE_ID TS3005d.D.argumentstructs.Daan.12: "True, true."
+AE_ID TS3005d.B.argumentstructs.13: "No."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3005d.A.argumentstructs.3
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3005d-How to treat colour prices.csv - True Judgement Ratio: 34.48%

@@ -1,0 +1,937 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.D.argumentstructs.Rutger.1:
+"So for the first one, we need to decide, did we solved the problem of the users who complained about an ugly remote ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2016d.D.argumentstructs.Rutger.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.B.argumentstructs.27:
+"."
+
+Past dialogue turns:
+AE_ID ES2016d.D.argumentstructs.Rutger.1: "So for the first one, we need to decide, did we solved the problem of the users who complained about an ugly remote ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.D.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016d.B.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.A.argumentstructs.Rutger.1:
+"I think it's definitely different than anything else out there. So if they think that what is out there is ugly, then yes I would say, I would say most definitely. It's bright."
+
+Past dialogue turns:
+AE_ID ES2016d.D.argumentstructs.Rutger.1: "So for the first one, we need to decide, did we solved the problem of the users who complained about an ugly remote ?"
+AE_ID ES2016d.B.argumentstructs.27: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.D.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016d.A.argumentstructs.Rutger.1
+source=ES2016d.D.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.C.argumentstructs.Rutger.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016d.D.argumentstructs.Rutger.1: "So for the first one, we need to decide, did we solved the problem of the users who complained about an ugly remote ?"
+AE_ID ES2016d.B.argumentstructs.27: "."
+AE_ID ES2016d.A.argumentstructs.Rutger.1: "I think it's definitely different than anything else out there. So if they think that what is out there is ugly, then yes I would say, I would say most definitely. It's bright."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016d.C.argumentstructs.Rutger.1
+source=ES2016d.A.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.C.argumentstructs.29:
+"."
+
+Past dialogue turns:
+AE_ID ES2016d.D.argumentstructs.Rutger.1: "So for the first one, we need to decide, did we solved the problem of the users who complained about an ugly remote ?"
+AE_ID ES2016d.B.argumentstructs.27: "."
+AE_ID ES2016d.A.argumentstructs.Rutger.1: "I think it's definitely different than anything else out there. So if they think that what is out there is ugly, then yes I would say, I would say most definitely. It's bright."
+AE_ID ES2016d.C.argumentstructs.Rutger.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016d.C.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.C.argumentstructs.Rutger.2:
+"It's bright. It's"
+
+Past dialogue turns:
+AE_ID ES2016d.D.argumentstructs.Rutger.1: "So for the first one, we need to decide, did we solved the problem of the users who complained about an ugly remote ?"
+AE_ID ES2016d.B.argumentstructs.27: "."
+AE_ID ES2016d.A.argumentstructs.Rutger.1: "I think it's definitely different than anything else out there. So if they think that what is out there is ugly, then yes I would say, I would say most definitely. It's bright."
+AE_ID ES2016d.C.argumentstructs.Rutger.1: "Yeah."
+AE_ID ES2016d.C.argumentstructs.29: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016d.C.argumentstructs.Rutger.2
+source=ES2016d.D.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.A.argumentstructs.Rutger.2:
+"It still has your traditional black."
+
+Past dialogue turns:
+AE_ID ES2016d.B.argumentstructs.27: "."
+AE_ID ES2016d.A.argumentstructs.Rutger.1: "I think it's definitely different than anything else out there. So if they think that what is out there is ugly, then yes I would say, I would say most definitely. It's bright."
+AE_ID ES2016d.C.argumentstructs.Rutger.1: "Yeah."
+AE_ID ES2016d.C.argumentstructs.29: "."
+AE_ID ES2016d.C.argumentstructs.Rutger.2: "It's bright. It's"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016d.A.argumentstructs.Rutger.2
+source=ES2016d.D.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.C.argumentstructs.30:
+"there's no sharp"
+
+Past dialogue turns:
+AE_ID ES2016d.A.argumentstructs.Rutger.1: "I think it's definitely different than anything else out there. So if they think that what is out there is ugly, then yes I would say, I would say most definitely. It's bright."
+AE_ID ES2016d.C.argumentstructs.Rutger.1: "Yeah."
+AE_ID ES2016d.C.argumentstructs.29: "."
+AE_ID ES2016d.C.argumentstructs.Rutger.2: "It's bright. It's"
+AE_ID ES2016d.A.argumentstructs.Rutger.2: "It still has your traditional black."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016d.C.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.C.argumentstructs.Rutger.3:
+"angles to it."
+
+Past dialogue turns:
+AE_ID ES2016d.C.argumentstructs.Rutger.1: "Yeah."
+AE_ID ES2016d.C.argumentstructs.29: "."
+AE_ID ES2016d.C.argumentstructs.Rutger.2: "It's bright. It's"
+AE_ID ES2016d.A.argumentstructs.Rutger.2: "It still has your traditional black."
+AE_ID ES2016d.C.argumentstructs.30: "there's no sharp"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.C.argumentstructs.Rutger.2
+---------------------------------
+target=ES2016d.C.argumentstructs.Rutger.3
+source=ES2016d.D.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.A.argumentstructs.Rutger.3:
+"Yep, not angular."
+
+Past dialogue turns:
+AE_ID ES2016d.C.argumentstructs.29: "."
+AE_ID ES2016d.C.argumentstructs.Rutger.2: "It's bright. It's"
+AE_ID ES2016d.A.argumentstructs.Rutger.2: "It still has your traditional black."
+AE_ID ES2016d.C.argumentstructs.30: "there's no sharp"
+AE_ID ES2016d.C.argumentstructs.Rutger.3: "angles to it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.C.argumentstructs.Rutger.3
+---------------------------------
+target=ES2016d.A.argumentstructs.Rutger.3
+source=ES2016d.C.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.D.argumentstructs.23:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2016d.C.argumentstructs.Rutger.2: "It's bright. It's"
+AE_ID ES2016d.A.argumentstructs.Rutger.2: "It still has your traditional black."
+AE_ID ES2016d.C.argumentstructs.30: "there's no sharp"
+AE_ID ES2016d.C.argumentstructs.Rutger.3: "angles to it."
+AE_ID ES2016d.A.argumentstructs.Rutger.3: "Yep, not angular."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.A.argumentstructs.Rutger.3
+---------------------------------
+target=ES2016d.D.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.B.argumentstructs.Rutger.1:
+"I'd say, when it comes to the ergonomics, the form and stuff, yes that's definitely more beautiful than your average."
+
+Past dialogue turns:
+AE_ID ES2016d.A.argumentstructs.Rutger.2: "It still has your traditional black."
+AE_ID ES2016d.C.argumentstructs.30: "there's no sharp"
+AE_ID ES2016d.C.argumentstructs.Rutger.3: "angles to it."
+AE_ID ES2016d.A.argumentstructs.Rutger.3: "Yep, not angular."
+AE_ID ES2016d.D.argumentstructs.23: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.C.argumentstructs.Rutger.3
+---------------------------------
+target=ES2016d.B.argumentstructs.Rutger.1
+source=ES2016d.D.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.B.argumentstructs.Rutger.2:
+"However the colour, we don't have a say in that."
+
+Past dialogue turns:
+AE_ID ES2016d.C.argumentstructs.30: "there's no sharp"
+AE_ID ES2016d.C.argumentstructs.Rutger.3: "angles to it."
+AE_ID ES2016d.A.argumentstructs.Rutger.3: "Yep, not angular."
+AE_ID ES2016d.D.argumentstructs.23: "Mm."
+AE_ID ES2016d.B.argumentstructs.Rutger.1: "I'd say, when it comes to the ergonomics, the form and stuff, yes that's definitely more beautiful than your average."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016d.B.argumentstructs.Rutger.2
+source=ES2016d.D.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.D.argumentstructs.Rutger.2:
+"Yeah I think the colours detract a little bit."
+
+Past dialogue turns:
+AE_ID ES2016d.C.argumentstructs.Rutger.3: "angles to it."
+AE_ID ES2016d.A.argumentstructs.Rutger.3: "Yep, not angular."
+AE_ID ES2016d.D.argumentstructs.23: "Mm."
+AE_ID ES2016d.B.argumentstructs.Rutger.1: "I'd say, when it comes to the ergonomics, the form and stuff, yes that's definitely more beautiful than your average."
+AE_ID ES2016d.B.argumentstructs.Rutger.2: "However the colour, we don't have a say in that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.2
+---------------------------------
+target=ES2016d.D.argumentstructs.Rutger.2
+source=ES2016d.B.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.C.argumentstructs.Rutger.4:
+"Some people might say it. Yeah."
+
+Past dialogue turns:
+AE_ID ES2016d.A.argumentstructs.Rutger.3: "Yep, not angular."
+AE_ID ES2016d.D.argumentstructs.23: "Mm."
+AE_ID ES2016d.B.argumentstructs.Rutger.1: "I'd say, when it comes to the ergonomics, the form and stuff, yes that's definitely more beautiful than your average."
+AE_ID ES2016d.B.argumentstructs.Rutger.2: "However the colour, we don't have a say in that."
+AE_ID ES2016d.D.argumentstructs.Rutger.2: "Yeah I think the colours detract a little bit."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016d.C.argumentstructs.Rutger.4
+source=ES2016d.B.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.B.argumentstructs.Rutger.3:
+"That has been, that has been dictated pretty much by the company."
+
+Past dialogue turns:
+AE_ID ES2016d.D.argumentstructs.23: "Mm."
+AE_ID ES2016d.B.argumentstructs.Rutger.1: "I'd say, when it comes to the ergonomics, the form and stuff, yes that's definitely more beautiful than your average."
+AE_ID ES2016d.B.argumentstructs.Rutger.2: "However the colour, we don't have a say in that."
+AE_ID ES2016d.D.argumentstructs.Rutger.2: "Yeah I think the colours detract a little bit."
+AE_ID ES2016d.C.argumentstructs.Rutger.4: "Some people might say it. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.2
+---------------------------------
+target=ES2016d.B.argumentstructs.Rutger.3
+source=ES2016d.B.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.A.argumentstructs.31:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2016d.B.argumentstructs.Rutger.1: "I'd say, when it comes to the ergonomics, the form and stuff, yes that's definitely more beautiful than your average."
+AE_ID ES2016d.B.argumentstructs.Rutger.2: "However the colour, we don't have a say in that."
+AE_ID ES2016d.D.argumentstructs.Rutger.2: "Yeah I think the colours detract a little bit."
+AE_ID ES2016d.C.argumentstructs.Rutger.4: "Some people might say it. Yeah."
+AE_ID ES2016d.B.argumentstructs.Rutger.3: "That has been, that has been dictated pretty much by the company."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.2
+---------------------------------
+target=ES2016d.A.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.B.argumentstructs.Rutger.4:
+"So uh to answer that honestly I would rather say like uh, we have not solved the problem completely with the ugly remote because the colour is ugly, definitely. 'S nothing you can say about that. I mean I much prefer something like brushed chrome with that form. But"
+
+Past dialogue turns:
+AE_ID ES2016d.B.argumentstructs.Rutger.2: "However the colour, we don't have a say in that."
+AE_ID ES2016d.D.argumentstructs.Rutger.2: "Yeah I think the colours detract a little bit."
+AE_ID ES2016d.C.argumentstructs.Rutger.4: "Some people might say it. Yeah."
+AE_ID ES2016d.B.argumentstructs.Rutger.3: "That has been, that has been dictated pretty much by the company."
+AE_ID ES2016d.A.argumentstructs.31: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.2
+---------------------------------
+target=ES2016d.B.argumentstructs.Rutger.4
+source=ES2016d.D.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.D.argumentstructs.Rutger.3:
+"That's true."
+
+Past dialogue turns:
+AE_ID ES2016d.D.argumentstructs.Rutger.2: "Yeah I think the colours detract a little bit."
+AE_ID ES2016d.C.argumentstructs.Rutger.4: "Some people might say it. Yeah."
+AE_ID ES2016d.B.argumentstructs.Rutger.3: "That has been, that has been dictated pretty much by the company."
+AE_ID ES2016d.A.argumentstructs.31: "Mm."
+AE_ID ES2016d.B.argumentstructs.Rutger.4: "So uh to answer that honestly I would rather say like uh, we have not solved the problem completely with the ugly remote because the colour is ugly, definitely. 'S nothing you can say about that. I mean I much prefer something like brushed chrome with that form. But"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016d.D.argumentstructs.Rutger.3
+source=ES2016d.B.argumentstructs.Rutger.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.A.argumentstructs.Rutger.4:
+"Yep."
+
+Past dialogue turns:
+AE_ID ES2016d.C.argumentstructs.Rutger.4: "Some people might say it. Yeah."
+AE_ID ES2016d.B.argumentstructs.Rutger.3: "That has been, that has been dictated pretty much by the company."
+AE_ID ES2016d.A.argumentstructs.31: "Mm."
+AE_ID ES2016d.B.argumentstructs.Rutger.4: "So uh to answer that honestly I would rather say like uh, we have not solved the problem completely with the ugly remote because the colour is ugly, definitely. 'S nothing you can say about that. I mean I much prefer something like brushed chrome with that form. But"
+AE_ID ES2016d.D.argumentstructs.Rutger.3: "That's true."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016d.A.argumentstructs.Rutger.4
+source=ES2016d.B.argumentstructs.Rutger.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.D.argumentstructs.24:
+"Yeah. Um okay so, do you think, since we"
+
+Past dialogue turns:
+AE_ID ES2016d.B.argumentstructs.Rutger.3: "That has been, that has been dictated pretty much by the company."
+AE_ID ES2016d.A.argumentstructs.31: "Mm."
+AE_ID ES2016d.B.argumentstructs.Rutger.4: "So uh to answer that honestly I would rather say like uh, we have not solved the problem completely with the ugly remote because the colour is ugly, definitely. 'S nothing you can say about that. I mean I much prefer something like brushed chrome with that form. But"
+AE_ID ES2016d.D.argumentstructs.Rutger.3: "That's true."
+AE_ID ES2016d.A.argumentstructs.Rutger.4: "Yep."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016d.D.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.C.argumentstructs.31:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016d.A.argumentstructs.31: "Mm."
+AE_ID ES2016d.B.argumentstructs.Rutger.4: "So uh to answer that honestly I would rather say like uh, we have not solved the problem completely with the ugly remote because the colour is ugly, definitely. 'S nothing you can say about that. I mean I much prefer something like brushed chrome with that form. But"
+AE_ID ES2016d.D.argumentstructs.Rutger.3: "That's true."
+AE_ID ES2016d.A.argumentstructs.Rutger.4: "Yep."
+AE_ID ES2016d.D.argumentstructs.24: "Yeah. Um okay so, do you think, since we"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.D.argumentstructs.24
+---------------------------------
+target=ES2016d.C.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.C.argumentstructs.Rutger.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016d.B.argumentstructs.Rutger.4: "So uh to answer that honestly I would rather say like uh, we have not solved the problem completely with the ugly remote because the colour is ugly, definitely. 'S nothing you can say about that. I mean I much prefer something like brushed chrome with that form. But"
+AE_ID ES2016d.D.argumentstructs.Rutger.3: "That's true."
+AE_ID ES2016d.A.argumentstructs.Rutger.4: "Yep."
+AE_ID ES2016d.D.argumentstructs.24: "Yeah. Um okay so, do you think, since we"
+AE_ID ES2016d.C.argumentstructs.31: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.D.argumentstructs.Rutger.3
+---------------------------------
+target=ES2016d.C.argumentstructs.Rutger.5
+source=ES2016d.B.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.A.argumentstructs.Rutger.5:
+"Yeah something more modern to go  a a modern colour to go with the modern form."
+
+Past dialogue turns:
+AE_ID ES2016d.D.argumentstructs.Rutger.3: "That's true."
+AE_ID ES2016d.A.argumentstructs.Rutger.4: "Yep."
+AE_ID ES2016d.D.argumentstructs.24: "Yeah. Um okay so, do you think, since we"
+AE_ID ES2016d.C.argumentstructs.31: "Yeah."
+AE_ID ES2016d.C.argumentstructs.Rutger.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.D.argumentstructs.24
+---------------------------------
+target=ES2016d.A.argumentstructs.Rutger.5
+source=ES2016d.B.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.B.argumentstructs.Rutger.5:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2016d.A.argumentstructs.Rutger.4: "Yep."
+AE_ID ES2016d.D.argumentstructs.24: "Yeah. Um okay so, do you think, since we"
+AE_ID ES2016d.C.argumentstructs.31: "Yeah."
+AE_ID ES2016d.C.argumentstructs.Rutger.5: "Yeah."
+AE_ID ES2016d.A.argumentstructs.Rutger.5: "Yeah something more modern to go  a a modern colour to go with the modern form."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.A.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016d.B.argumentstructs.Rutger.5
+source=ES2016d.A.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.B.argumentstructs.28:
+"Right. It's different. You don't want your uh"
+
+Past dialogue turns:
+AE_ID ES2016d.D.argumentstructs.24: "Yeah. Um okay so, do you think, since we"
+AE_ID ES2016d.C.argumentstructs.31: "Yeah."
+AE_ID ES2016d.C.argumentstructs.Rutger.5: "Yeah."
+AE_ID ES2016d.A.argumentstructs.Rutger.5: "Yeah something more modern to go  a a modern colour to go with the modern form."
+AE_ID ES2016d.B.argumentstructs.Rutger.5: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.5
+---------------------------------
+target=ES2016d.B.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.B.argumentstructs.Rutger.6:
+"three feet huge L_C_D_ dis display in your living room that's hanging from the wall to be controlled with something like that."
+
+Past dialogue turns:
+AE_ID ES2016d.C.argumentstructs.31: "Yeah."
+AE_ID ES2016d.C.argumentstructs.Rutger.5: "Yeah."
+AE_ID ES2016d.A.argumentstructs.Rutger.5: "Yeah something more modern to go  a a modern colour to go with the modern form."
+AE_ID ES2016d.B.argumentstructs.Rutger.5: "Right."
+AE_ID ES2016d.B.argumentstructs.28: "Right. It's different. You don't want your uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.5
+---------------------------------
+target=ES2016d.B.argumentstructs.Rutger.6
+source=ES2016d.B.argumentstructs.Rutger.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.D.argumentstructs.Rutger.4:
+"This was a a sign criteria, do you think maybe we should put it somewhere in the middle then ? Does that sound good ?"
+
+Past dialogue turns:
+AE_ID ES2016d.C.argumentstructs.Rutger.5: "Yeah."
+AE_ID ES2016d.A.argumentstructs.Rutger.5: "Yeah something more modern to go  a a modern colour to go with the modern form."
+AE_ID ES2016d.B.argumentstructs.Rutger.5: "Right."
+AE_ID ES2016d.B.argumentstructs.28: "Right. It's different. You don't want your uh"
+AE_ID ES2016d.B.argumentstructs.Rutger.6: "three feet huge L_C_D_ dis display in your living room that's hanging from the wall to be controlled with something like that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.A.argumentstructs.Rutger.5
+---------------------------------
+target=ES2016d.D.argumentstructs.Rutger.4
+source=ES2016d.B.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.B.argumentstructs.Rutger.7:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016d.A.argumentstructs.Rutger.5: "Yeah something more modern to go  a a modern colour to go with the modern form."
+AE_ID ES2016d.B.argumentstructs.Rutger.5: "Right."
+AE_ID ES2016d.B.argumentstructs.28: "Right. It's different. You don't want your uh"
+AE_ID ES2016d.B.argumentstructs.Rutger.6: "three feet huge L_C_D_ dis display in your living room that's hanging from the wall to be controlled with something like that."
+AE_ID ES2016d.D.argumentstructs.Rutger.4: "This was a a sign criteria, do you think maybe we should put it somewhere in the middle then ? Does that sound good ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.A.argumentstructs.Rutger.5
+---------------------------------
+target=ES2016d.B.argumentstructs.Rutger.7
+source=ES2016d.D.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.A.argumentstructs.Rutger.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016d.B.argumentstructs.Rutger.5: "Right."
+AE_ID ES2016d.B.argumentstructs.28: "Right. It's different. You don't want your uh"
+AE_ID ES2016d.B.argumentstructs.Rutger.6: "three feet huge L_C_D_ dis display in your living room that's hanging from the wall to be controlled with something like that."
+AE_ID ES2016d.D.argumentstructs.Rutger.4: "This was a a sign criteria, do you think maybe we should put it somewhere in the middle then ? Does that sound good ?"
+AE_ID ES2016d.B.argumentstructs.Rutger.7: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.7
+---------------------------------
+target=ES2016d.A.argumentstructs.Rutger.6
+source=ES2016d.D.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.C.argumentstructs.Rutger.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016d.B.argumentstructs.28: "Right. It's different. You don't want your uh"
+AE_ID ES2016d.B.argumentstructs.Rutger.6: "three feet huge L_C_D_ dis display in your living room that's hanging from the wall to be controlled with something like that."
+AE_ID ES2016d.D.argumentstructs.Rutger.4: "This was a a sign criteria, do you think maybe we should put it somewhere in the middle then ? Does that sound good ?"
+AE_ID ES2016d.B.argumentstructs.Rutger.7: "Yeah."
+AE_ID ES2016d.A.argumentstructs.Rutger.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.7
+---------------------------------
+target=ES2016d.C.argumentstructs.Rutger.6
+source=ES2016d.D.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.D.argumentstructs.Rutger.5:
+"What do you think ? Three ? Four ?"
+
+Past dialogue turns:
+AE_ID ES2016d.B.argumentstructs.Rutger.6: "three feet huge L_C_D_ dis display in your living room that's hanging from the wall to be controlled with something like that."
+AE_ID ES2016d.D.argumentstructs.Rutger.4: "This was a a sign criteria, do you think maybe we should put it somewhere in the middle then ? Does that sound good ?"
+AE_ID ES2016d.B.argumentstructs.Rutger.7: "Yeah."
+AE_ID ES2016d.A.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2016d.C.argumentstructs.Rutger.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.B.argumentstructs.Rutger.6
+---------------------------------
+target=ES2016d.D.argumentstructs.Rutger.5
+source=ES2016d.D.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.A.argumentstructs.32:
+"I would say"
+
+Past dialogue turns:
+AE_ID ES2016d.D.argumentstructs.Rutger.4: "This was a a sign criteria, do you think maybe we should put it somewhere in the middle then ? Does that sound good ?"
+AE_ID ES2016d.B.argumentstructs.Rutger.7: "Yeah."
+AE_ID ES2016d.A.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2016d.C.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2016d.D.argumentstructs.Rutger.5: "What do you think ? Three ? Four ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.D.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016d.A.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.D.argumentstructs.Rutger.6:
+"Five ?"
+
+Past dialogue turns:
+AE_ID ES2016d.B.argumentstructs.Rutger.7: "Yeah."
+AE_ID ES2016d.A.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2016d.C.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2016d.D.argumentstructs.Rutger.5: "What do you think ? Three ? Four ?"
+AE_ID ES2016d.A.argumentstructs.32: "I would say"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.D.argumentstructs.Rutger.5
+---------------------------------
+target=ES2016d.D.argumentstructs.Rutger.6
+source=ES2016d.D.argumentstructs.Rutger.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.A.argumentstructs.Rutger.7:
+"four."
+
+Past dialogue turns:
+AE_ID ES2016d.A.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2016d.C.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2016d.D.argumentstructs.Rutger.5: "What do you think ? Three ? Four ?"
+AE_ID ES2016d.A.argumentstructs.32: "I would say"
+AE_ID ES2016d.D.argumentstructs.Rutger.6: "Five ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.D.argumentstructs.Rutger.5
+---------------------------------
+target=ES2016d.A.argumentstructs.Rutger.7
+source=ES2016d.D.argumentstructs.Rutger.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.D.argumentstructs.Rutger.7:
+"Four is fair. Okay."
+
+Past dialogue turns:
+AE_ID ES2016d.C.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2016d.D.argumentstructs.Rutger.5: "What do you think ? Three ? Four ?"
+AE_ID ES2016d.A.argumentstructs.32: "I would say"
+AE_ID ES2016d.D.argumentstructs.Rutger.6: "Five ?"
+AE_ID ES2016d.A.argumentstructs.Rutger.7: "four."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.D.argumentstructs.Rutger.5
+---------------------------------
+target=ES2016d.D.argumentstructs.Rutger.7
+source=ES2016d.D.argumentstructs.Rutger.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.B.argumentstructs.Rutger.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016d.D.argumentstructs.Rutger.5: "What do you think ? Three ? Four ?"
+AE_ID ES2016d.A.argumentstructs.32: "I would say"
+AE_ID ES2016d.D.argumentstructs.Rutger.6: "Five ?"
+AE_ID ES2016d.A.argumentstructs.Rutger.7: "four."
+AE_ID ES2016d.D.argumentstructs.Rutger.7: "Four is fair. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.D.argumentstructs.Rutger.7
+---------------------------------
+target=ES2016d.B.argumentstructs.Rutger.8
+source=ES2016d.D.argumentstructs.Rutger.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016d.A.argumentstructs.Rutger.10:
+"Very non-committal, four."
+
+Past dialogue turns:
+AE_ID ES2016d.A.argumentstructs.32: "I would say"
+AE_ID ES2016d.D.argumentstructs.Rutger.6: "Five ?"
+AE_ID ES2016d.A.argumentstructs.Rutger.7: "four."
+AE_ID ES2016d.D.argumentstructs.Rutger.7: "Four is fair. Okay."
+AE_ID ES2016d.B.argumentstructs.Rutger.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016d.A.argumentstructs.Rutger.7
+---------------------------------
+target=ES2016d.A.argumentstructs.Rutger.10
+source=ES2016d.D.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2016d-Is the prototype ugly?.csv - True Judgement Ratio: 34.21%

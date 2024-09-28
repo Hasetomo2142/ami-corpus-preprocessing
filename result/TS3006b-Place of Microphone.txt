@@ -1,0 +1,887 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.Daan.1:
+"And for the speech uh recognition part, if we want to incorporate that, we need a microphone."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3006b.A.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.1:
+"Yeah so it should be  I mean if you have it in your hand here, should be on top somewhere, maybe. I mean i"
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.Daan.1: "And for the speech uh recognition part, if we want to incorporate that, we need a microphone."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.1
+source=TS3006b.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.13:
+"Yeah. This would be uh"
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.Daan.1: "And for the speech uh recognition part, if we want to incorporate that, we need a microphone."
+AE_ID TS3006b.D.argumentstructs.Daan.1: "Yeah so it should be  I mean if you have it in your hand here, should be on top somewhere, maybe. I mean i"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3006b.A.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.C.argumentstructs.Daan.1:
+"Why did we wanna put the display in the bottom ?"
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.Daan.1: "And for the speech uh recognition part, if we want to incorporate that, we need a microphone."
+AE_ID TS3006b.D.argumentstructs.Daan.1: "Yeah so it should be  I mean if you have it in your hand here, should be on top somewhere, maybe. I mean i"
+AE_ID TS3006b.A.argumentstructs.13: "Yeah. This would be uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3006b.C.argumentstructs.Daan.1
+source=TS3006b.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.Daan.2:
+"No that's not s sure so  uh we need a display."
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.Daan.1: "And for the speech uh recognition part, if we want to incorporate that, we need a microphone."
+AE_ID TS3006b.D.argumentstructs.Daan.1: "Yeah so it should be  I mean if you have it in your hand here, should be on top somewhere, maybe. I mean i"
+AE_ID TS3006b.A.argumentstructs.13: "Yeah. This would be uh"
+AE_ID TS3006b.C.argumentstructs.Daan.1: "Why did we wanna put the display in the bottom ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3006b.A.argumentstructs.Daan.2
+source=TS3006b.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.2:
+"That's not sure but it's"
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.Daan.1: "And for the speech uh recognition part, if we want to incorporate that, we need a microphone."
+AE_ID TS3006b.D.argumentstructs.Daan.1: "Yeah so it should be  I mean if you have it in your hand here, should be on top somewhere, maybe. I mean i"
+AE_ID TS3006b.A.argumentstructs.13: "Yeah. This would be uh"
+AE_ID TS3006b.C.argumentstructs.Daan.1: "Why did we wanna put the display in the bottom ?"
+AE_ID TS3006b.A.argumentstructs.Daan.2: "No that's not s sure so  uh we need a display."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.2
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.2
+source=TS3006b.A.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.C.argumentstructs.8:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.1: "Yeah so it should be  I mean if you have it in your hand here, should be on top somewhere, maybe. I mean i"
+AE_ID TS3006b.A.argumentstructs.13: "Yeah. This would be uh"
+AE_ID TS3006b.C.argumentstructs.Daan.1: "Why did we wanna put the display in the bottom ?"
+AE_ID TS3006b.A.argumentstructs.Daan.2: "No that's not s sure so  uh we need a display."
+AE_ID TS3006b.D.argumentstructs.Daan.2: "That's not sure but it's"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3006b.C.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.B.argumentstructs.4:
+"Yeah may maybe because you're"
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.13: "Yeah. This would be uh"
+AE_ID TS3006b.C.argumentstructs.Daan.1: "Why did we wanna put the display in the bottom ?"
+AE_ID TS3006b.A.argumentstructs.Daan.2: "No that's not s sure so  uh we need a display."
+AE_ID TS3006b.D.argumentstructs.Daan.2: "That's not sure but it's"
+AE_ID TS3006b.C.argumentstructs.8: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.13
+---------------------------------
+target=TS3006b.B.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.C.argumentstructs.Daan.2:
+"Because yeah if you use the functions your hand will block the display."
+
+Past dialogue turns:
+AE_ID TS3006b.C.argumentstructs.Daan.1: "Why did we wanna put the display in the bottom ?"
+AE_ID TS3006b.A.argumentstructs.Daan.2: "No that's not s sure so  uh we need a display."
+AE_ID TS3006b.D.argumentstructs.Daan.2: "That's not sure but it's"
+AE_ID TS3006b.C.argumentstructs.8: "Okay."
+AE_ID TS3006b.B.argumentstructs.4: "Yeah may maybe because you're"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3006b.C.argumentstructs.Daan.2
+source=TS3006b.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.B.argumentstructs.Daan.1:
+"Yeah okay but  only for the basic functi if you're going to use the advanced option, you're going to press the the menu button and then  yeah."
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.Daan.2: "No that's not s sure so  uh we need a display."
+AE_ID TS3006b.D.argumentstructs.Daan.2: "That's not sure but it's"
+AE_ID TS3006b.C.argumentstructs.8: "Okay."
+AE_ID TS3006b.B.argumentstructs.4: "Yeah may maybe because you're"
+AE_ID TS3006b.C.argumentstructs.Daan.2: "Because yeah if you use the functions your hand will block the display."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3006b.B.argumentstructs.Daan.1
+source=TS3006b.C.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.3:
+"Yeah I mean a screen on top looks more lo logical to me. Also because people use m mobile phones and they also have the screen on top. So you you just have to reach a little bit for the power button. I mean if you grab it. But most most of the times if a if if a T_V_'s on standby people just press a channel to put it on. So we put this on top, and then make the corporate logo"
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.2: "That's not sure but it's"
+AE_ID TS3006b.C.argumentstructs.8: "Okay."
+AE_ID TS3006b.B.argumentstructs.4: "Yeah may maybe because you're"
+AE_ID TS3006b.C.argumentstructs.Daan.2: "Because yeah if you use the functions your hand will block the display."
+AE_ID TS3006b.B.argumentstructs.Daan.1: "Yeah okay but  only for the basic functi if you're going to use the advanced option, you're going to press the the menu button and then  yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.3
+source=TS3006b.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.C.argumentstructs.Daan.3:
+"Normal for logical t"
+
+Past dialogue turns:
+AE_ID TS3006b.C.argumentstructs.8: "Okay."
+AE_ID TS3006b.B.argumentstructs.4: "Yeah may maybe because you're"
+AE_ID TS3006b.C.argumentstructs.Daan.2: "Because yeah if you use the functions your hand will block the display."
+AE_ID TS3006b.B.argumentstructs.Daan.1: "Yeah okay but  only for the basic functi if you're going to use the advanced option, you're going to press the the menu button and then  yeah."
+AE_ID TS3006b.D.argumentstructs.Daan.3: "Yeah I mean a screen on top looks more lo logical to me. Also because people use m mobile phones and they also have the screen on top. So you you just have to reach a little bit for the power button. I mean if you grab it. But most most of the times if a if if a T_V_'s on standby people just press a channel to put it on. So we put this on top, and then make the corporate logo"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3006b.C.argumentstructs.Daan.3
+source=TS3006b.D.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.B.argumentstructs.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3006b.B.argumentstructs.4: "Yeah may maybe because you're"
+AE_ID TS3006b.C.argumentstructs.Daan.2: "Because yeah if you use the functions your hand will block the display."
+AE_ID TS3006b.B.argumentstructs.Daan.1: "Yeah okay but  only for the basic functi if you're going to use the advanced option, you're going to press the the menu button and then  yeah."
+AE_ID TS3006b.D.argumentstructs.Daan.3: "Yeah I mean a screen on top looks more lo logical to me. Also because people use m mobile phones and they also have the screen on top. So you you just have to reach a little bit for the power button. I mean if you grab it. But most most of the times if a if if a T_V_'s on standby people just press a channel to put it on. So we put this on top, and then make the corporate logo"
+AE_ID TS3006b.C.argumentstructs.Daan.3: "Normal for logical t"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.B.argumentstructs.4
+---------------------------------
+target=TS3006b.B.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.14:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3006b.C.argumentstructs.Daan.2: "Because yeah if you use the functions your hand will block the display."
+AE_ID TS3006b.B.argumentstructs.Daan.1: "Yeah okay but  only for the basic functi if you're going to use the advanced option, you're going to press the the menu button and then  yeah."
+AE_ID TS3006b.D.argumentstructs.Daan.3: "Yeah I mean a screen on top looks more lo logical to me. Also because people use m mobile phones and they also have the screen on top. So you you just have to reach a little bit for the power button. I mean if you grab it. But most most of the times if a if if a T_V_'s on standby people just press a channel to put it on. So we put this on top, and then make the corporate logo"
+AE_ID TS3006b.C.argumentstructs.Daan.3: "Normal for logical t"
+AE_ID TS3006b.B.argumentstructs.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.B.argumentstructs.5
+---------------------------------
+target=TS3006b.A.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.Daan.3:
+"Yeah they're used to it."
+
+Past dialogue turns:
+AE_ID TS3006b.B.argumentstructs.Daan.1: "Yeah okay but  only for the basic functi if you're going to use the advanced option, you're going to press the the menu button and then  yeah."
+AE_ID TS3006b.D.argumentstructs.Daan.3: "Yeah I mean a screen on top looks more lo logical to me. Also because people use m mobile phones and they also have the screen on top. So you you just have to reach a little bit for the power button. I mean if you grab it. But most most of the times if a if if a T_V_'s on standby people just press a channel to put it on. So we put this on top, and then make the corporate logo"
+AE_ID TS3006b.C.argumentstructs.Daan.3: "Normal for logical t"
+AE_ID TS3006b.B.argumentstructs.5: "Yeah."
+AE_ID TS3006b.A.argumentstructs.14: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.3
+---------------------------------
+target=TS3006b.A.argumentstructs.Daan.3
+source=TS3006b.D.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.B.argumentstructs.Daan.2:
+"Okay the  yeah. That's possible."
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.3: "Yeah I mean a screen on top looks more lo logical to me. Also because people use m mobile phones and they also have the screen on top. So you you just have to reach a little bit for the power button. I mean if you grab it. But most most of the times if a if if a T_V_'s on standby people just press a channel to put it on. So we put this on top, and then make the corporate logo"
+AE_ID TS3006b.C.argumentstructs.Daan.3: "Normal for logical t"
+AE_ID TS3006b.B.argumentstructs.5: "Yeah."
+AE_ID TS3006b.A.argumentstructs.14: "Yeah."
+AE_ID TS3006b.A.argumentstructs.Daan.3: "Yeah they're used to it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.3
+---------------------------------
+target=TS3006b.B.argumentstructs.Daan.2
+source=TS3006b.D.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.C.argumentstructs.9:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3006b.C.argumentstructs.Daan.3: "Normal for logical t"
+AE_ID TS3006b.B.argumentstructs.5: "Yeah."
+AE_ID TS3006b.A.argumentstructs.14: "Yeah."
+AE_ID TS3006b.A.argumentstructs.Daan.3: "Yeah they're used to it."
+AE_ID TS3006b.B.argumentstructs.Daan.2: "Okay the  yeah. That's possible."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.B.argumentstructs.5
+---------------------------------
+target=TS3006b.C.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.C.argumentstructs.Daan.4:
+"On once it's on it's on. You don't need the power button."
+
+Past dialogue turns:
+AE_ID TS3006b.B.argumentstructs.5: "Yeah."
+AE_ID TS3006b.A.argumentstructs.14: "Yeah."
+AE_ID TS3006b.A.argumentstructs.Daan.3: "Yeah they're used to it."
+AE_ID TS3006b.B.argumentstructs.Daan.2: "Okay the  yeah. That's possible."
+AE_ID TS3006b.C.argumentstructs.9: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.C.argumentstructs.9
+---------------------------------
+target=TS3006b.C.argumentstructs.Daan.4
+source=TS3006b.D.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.B.argumentstructs.6:
+"Yeah, okay."
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.14: "Yeah."
+AE_ID TS3006b.A.argumentstructs.Daan.3: "Yeah they're used to it."
+AE_ID TS3006b.B.argumentstructs.Daan.2: "Okay the  yeah. That's possible."
+AE_ID TS3006b.C.argumentstructs.9: "Yeah."
+AE_ID TS3006b.C.argumentstructs.Daan.4: "On once it's on it's on. You don't need the power button."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.14
+---------------------------------
+target=TS3006b.B.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.B.argumentstructs.Daan.3:
+"Okay we put it on top."
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.Daan.3: "Yeah they're used to it."
+AE_ID TS3006b.B.argumentstructs.Daan.2: "Okay the  yeah. That's possible."
+AE_ID TS3006b.C.argumentstructs.9: "Yeah."
+AE_ID TS3006b.C.argumentstructs.Daan.4: "On once it's on it's on. You don't need the power button."
+AE_ID TS3006b.B.argumentstructs.6: "Yeah, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.B.argumentstructs.Daan.2
+---------------------------------
+target=TS3006b.B.argumentstructs.Daan.3
+source=TS3006b.D.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.B.argumentstructs.7:
+"Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID TS3006b.B.argumentstructs.Daan.2: "Okay the  yeah. That's possible."
+AE_ID TS3006b.C.argumentstructs.9: "Yeah."
+AE_ID TS3006b.C.argumentstructs.Daan.4: "On once it's on it's on. You don't need the power button."
+AE_ID TS3006b.B.argumentstructs.6: "Yeah, okay."
+AE_ID TS3006b.B.argumentstructs.Daan.3: "Okay we put it on top."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.B.argumentstructs.6
+---------------------------------
+target=TS3006b.B.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.4:
+"like over here. R_R_."
+
+Past dialogue turns:
+AE_ID TS3006b.C.argumentstructs.9: "Yeah."
+AE_ID TS3006b.C.argumentstructs.Daan.4: "On once it's on it's on. You don't need the power button."
+AE_ID TS3006b.B.argumentstructs.6: "Yeah, okay."
+AE_ID TS3006b.B.argumentstructs.Daan.3: "Okay we put it on top."
+AE_ID TS3006b.B.argumentstructs.7: "Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.C.argumentstructs.Daan.4
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.4
+source=TS3006b.B.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.5:
+"And j and the microphone, I mean it can be very small. If you look at your mobile phones  are some stripes,  little little holes."
+
+Past dialogue turns:
+AE_ID TS3006b.C.argumentstructs.Daan.4: "On once it's on it's on. You don't need the power button."
+AE_ID TS3006b.B.argumentstructs.6: "Yeah, okay."
+AE_ID TS3006b.B.argumentstructs.Daan.3: "Okay we put it on top."
+AE_ID TS3006b.B.argumentstructs.7: "Yeah. Yeah."
+AE_ID TS3006b.D.argumentstructs.Daan.4: "like over here. R_R_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.B.argumentstructs.Daan.3
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.5
+source=TS3006b.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.C.argumentstructs.10:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3006b.B.argumentstructs.6: "Yeah, okay."
+AE_ID TS3006b.B.argumentstructs.Daan.3: "Okay we put it on top."
+AE_ID TS3006b.B.argumentstructs.7: "Yeah. Yeah."
+AE_ID TS3006b.D.argumentstructs.Daan.4: "like over here. R_R_."
+AE_ID TS3006b.D.argumentstructs.Daan.5: "And j and the microphone, I mean it can be very small. If you look at your mobile phones  are some stripes,  little little holes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.B.argumentstructs.7
+---------------------------------
+target=TS3006b.C.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.15:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID TS3006b.B.argumentstructs.Daan.3: "Okay we put it on top."
+AE_ID TS3006b.B.argumentstructs.7: "Yeah. Yeah."
+AE_ID TS3006b.D.argumentstructs.Daan.4: "like over here. R_R_."
+AE_ID TS3006b.D.argumentstructs.Daan.5: "And j and the microphone, I mean it can be very small. If you look at your mobile phones  are some stripes,  little little holes."
+AE_ID TS3006b.C.argumentstructs.10: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.B.argumentstructs.7
+---------------------------------
+target=TS3006b.A.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.C.argumentstructs.Daan.5:
+"Maybe on the top or even on the side."
+
+Past dialogue turns:
+AE_ID TS3006b.B.argumentstructs.7: "Yeah. Yeah."
+AE_ID TS3006b.D.argumentstructs.Daan.4: "like over here. R_R_."
+AE_ID TS3006b.D.argumentstructs.Daan.5: "And j and the microphone, I mean it can be very small. If you look at your mobile phones  are some stripes,  little little holes."
+AE_ID TS3006b.C.argumentstructs.10: "Yeah."
+AE_ID TS3006b.A.argumentstructs.15: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3006b.C.argumentstructs.Daan.5
+source=TS3006b.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.6:
+"Yeah maybe on the side. I mean if the if the microphone is good."
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.4: "like over here. R_R_."
+AE_ID TS3006b.D.argumentstructs.Daan.5: "And j and the microphone, I mean it can be very small. If you look at your mobile phones  are some stripes,  little little holes."
+AE_ID TS3006b.C.argumentstructs.10: "Yeah."
+AE_ID TS3006b.A.argumentstructs.15: "Mm-hmm."
+AE_ID TS3006b.C.argumentstructs.Daan.5: "Maybe on the top or even on the side."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.C.argumentstructs.Daan.5
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.6
+source=TS3006b.C.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.Daan.4:
+"Yeah but then it's possible that you cover it with your hand so"
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.5: "And j and the microphone, I mean it can be very small. If you look at your mobile phones  are some stripes,  little little holes."
+AE_ID TS3006b.C.argumentstructs.10: "Yeah."
+AE_ID TS3006b.A.argumentstructs.15: "Mm-hmm."
+AE_ID TS3006b.C.argumentstructs.Daan.5: "Maybe on the top or even on the side."
+AE_ID TS3006b.D.argumentstructs.Daan.6: "Yeah maybe on the side. I mean if the if the microphone is good."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3006b.A.argumentstructs.Daan.4
+source=TS3006b.D.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.C.argumentstructs.Daan.6:
+"True."
+
+Past dialogue turns:
+AE_ID TS3006b.C.argumentstructs.10: "Yeah."
+AE_ID TS3006b.A.argumentstructs.15: "Mm-hmm."
+AE_ID TS3006b.C.argumentstructs.Daan.5: "Maybe on the top or even on the side."
+AE_ID TS3006b.D.argumentstructs.Daan.6: "Yeah maybe on the side. I mean if the if the microphone is good."
+AE_ID TS3006b.A.argumentstructs.Daan.4: "Yeah but then it's possible that you cover it with your hand so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.6
+---------------------------------
+target=TS3006b.C.argumentstructs.Daan.6
+source=TS3006b.A.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.Daan.7:
+"Yeah okay. So on the on the top is better."
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.15: "Mm-hmm."
+AE_ID TS3006b.C.argumentstructs.Daan.5: "Maybe on the top or even on the side."
+AE_ID TS3006b.D.argumentstructs.Daan.6: "Yeah maybe on the side. I mean if the if the microphone is good."
+AE_ID TS3006b.A.argumentstructs.Daan.4: "Yeah but then it's possible that you cover it with your hand so"
+AE_ID TS3006b.C.argumentstructs.Daan.6: "True."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.C.argumentstructs.Daan.5
+---------------------------------
+target=TS3006b.D.argumentstructs.Daan.7
+source=TS3006b.C.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.Daan.5:
+"I think that top is the best option."
+
+Past dialogue turns:
+AE_ID TS3006b.C.argumentstructs.Daan.5: "Maybe on the top or even on the side."
+AE_ID TS3006b.D.argumentstructs.Daan.6: "Yeah maybe on the side. I mean if the if the microphone is good."
+AE_ID TS3006b.A.argumentstructs.Daan.4: "Yeah but then it's possible that you cover it with your hand so"
+AE_ID TS3006b.C.argumentstructs.Daan.6: "True."
+AE_ID TS3006b.D.argumentstructs.Daan.7: "Yeah okay. So on the on the top is better."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.7
+---------------------------------
+target=TS3006b.A.argumentstructs.Daan.5
+source=TS3006b.C.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.C.argumentstructs.Daan.7:
+"But if you uh if you hold the ma the remote like this, if you put it on the top on the side  I dunno. Should be able to work. Never mind."
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.6: "Yeah maybe on the side. I mean if the if the microphone is good."
+AE_ID TS3006b.A.argumentstructs.Daan.4: "Yeah but then it's possible that you cover it with your hand so"
+AE_ID TS3006b.C.argumentstructs.Daan.6: "True."
+AE_ID TS3006b.D.argumentstructs.Daan.7: "Yeah okay. So on the on the top is better."
+AE_ID TS3006b.A.argumentstructs.Daan.5: "I think that top is the best option."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.7
+---------------------------------
+target=TS3006b.C.argumentstructs.Daan.7
+source=TS3006b.A.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.Daan.6:
+"Yeah okay."
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.Daan.4: "Yeah but then it's possible that you cover it with your hand so"
+AE_ID TS3006b.C.argumentstructs.Daan.6: "True."
+AE_ID TS3006b.D.argumentstructs.Daan.7: "Yeah okay. So on the on the top is better."
+AE_ID TS3006b.A.argumentstructs.Daan.5: "I think that top is the best option."
+AE_ID TS3006b.C.argumentstructs.Daan.7: "But if you uh if you hold the ma the remote like this, if you put it on the top on the side  I dunno. Should be able to work. Never mind."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.D.argumentstructs.Daan.7
+---------------------------------
+target=TS3006b.A.argumentstructs.Daan.6
+source=TS3006b.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.A.argumentstructs.Daan.7:
+"Depends on the sensitivity of the microphone, but I think that's okay."
+
+Past dialogue turns:
+AE_ID TS3006b.C.argumentstructs.Daan.6: "True."
+AE_ID TS3006b.D.argumentstructs.Daan.7: "Yeah okay. So on the on the top is better."
+AE_ID TS3006b.A.argumentstructs.Daan.5: "I think that top is the best option."
+AE_ID TS3006b.C.argumentstructs.Daan.7: "But if you uh if you hold the ma the remote like this, if you put it on the top on the side  I dunno. Should be able to work. Never mind."
+AE_ID TS3006b.A.argumentstructs.Daan.6: "Yeah okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.5
+---------------------------------
+target=TS3006b.A.argumentstructs.Daan.7
+source=TS3006b.A.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.D.argumentstructs.16:
+"."
+
+Past dialogue turns:
+AE_ID TS3006b.D.argumentstructs.Daan.7: "Yeah okay. So on the on the top is better."
+AE_ID TS3006b.A.argumentstructs.Daan.5: "I think that top is the best option."
+AE_ID TS3006b.C.argumentstructs.Daan.7: "But if you uh if you hold the ma the remote like this, if you put it on the top on the side  I dunno. Should be able to work. Never mind."
+AE_ID TS3006b.A.argumentstructs.Daan.6: "Yeah okay."
+AE_ID TS3006b.A.argumentstructs.Daan.7: "Depends on the sensitivity of the microphone, but I think that's okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.5
+---------------------------------
+target=TS3006b.D.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006b.C.argumentstructs.11:
+"Can we leave this up to you ?"
+
+Past dialogue turns:
+AE_ID TS3006b.A.argumentstructs.Daan.5: "I think that top is the best option."
+AE_ID TS3006b.C.argumentstructs.Daan.7: "But if you uh if you hold the ma the remote like this, if you put it on the top on the side  I dunno. Should be able to work. Never mind."
+AE_ID TS3006b.A.argumentstructs.Daan.6: "Yeah okay."
+AE_ID TS3006b.A.argumentstructs.Daan.7: "Depends on the sensitivity of the microphone, but I think that's okay."
+AE_ID TS3006b.D.argumentstructs.16: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006b.A.argumentstructs.Daan.5
+---------------------------------
+target=TS3006b.C.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3006b-Place of Microphone.csv - True Judgement Ratio: 33.33%

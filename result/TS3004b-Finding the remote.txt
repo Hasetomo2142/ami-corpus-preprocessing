@@ -1,0 +1,112 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.D.argumentstructs.Daan.1:
+"Yeah, the ten percent on the top, yeah. That that's a good one. Um uh page two. Remote controls are often lost somewhere in the room. That's exactly what we said about um maybe a home station for uh for it uh to uh recharge the batteries or something."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3004b.D.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.C.argumentstructs.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3004b.D.argumentstructs.Daan.1: "Yeah, the ten percent on the top, yeah. That that's a good one. Um uh page two. Remote controls are often lost somewhere in the room. That's exactly what we said about um maybe a home station for uh for it uh to uh recharge the batteries or something."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3004b.C.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.D.argumentstructs.Daan.2:
+"Uh I thought mo maybe we could make a clap system, so when you  clap your hands it will beep or something. Uh you must find it uh quickly."
+
+Past dialogue turns:
+AE_ID TS3004b.D.argumentstructs.Daan.1: "Yeah, the ten percent on the top, yeah. That that's a good one. Um uh page two. Remote controls are often lost somewhere in the room. That's exactly what we said about um maybe a home station for uh for it uh to uh recharge the batteries or something."
+AE_ID TS3004b.C.argumentstructs.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3004b.D.argumentstructs.Daan.2
+source=TS3004b.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.B.argumentstructs.7:
+"Uh."
+
+Past dialogue turns:
+AE_ID TS3004b.D.argumentstructs.Daan.1: "Yeah, the ten percent on the top, yeah. That that's a good one. Um uh page two. Remote controls are often lost somewhere in the room. That's exactly what we said about um maybe a home station for uh for it uh to uh recharge the batteries or something."
+AE_ID TS3004b.C.argumentstructs.8: "Yeah."
+AE_ID TS3004b.D.argumentstructs.Daan.2: "Uh I thought mo maybe we could make a clap system, so when you  clap your hands it will beep or something. Uh you must find it uh quickly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.D.argumentstructs.Daan.2
+---------------------------------
+target=TS3004b.B.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004b.B.argumentstructs.Daan.1:
+"Maybe just a button on the home station. So remote control beeps when you click that button on the home station."
+
+Past dialogue turns:
+AE_ID TS3004b.D.argumentstructs.Daan.1: "Yeah, the ten percent on the top, yeah. That that's a good one. Um uh page two. Remote controls are often lost somewhere in the room. That's exactly what we said about um maybe a home station for uh for it uh to uh recharge the batteries or something."
+AE_ID TS3004b.C.argumentstructs.8: "Yeah."
+AE_ID TS3004b.D.argumentstructs.Daan.2: "Uh I thought mo maybe we could make a clap system, so when you  clap your hands it will beep or something. Uh you must find it uh quickly."
+AE_ID TS3004b.B.argumentstructs.7: "Uh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004b.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3004b.B.argumentstructs.Daan.1
+source=TS3004b.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3004b-Finding the remote.csv - True Judgement Ratio: 60.00%

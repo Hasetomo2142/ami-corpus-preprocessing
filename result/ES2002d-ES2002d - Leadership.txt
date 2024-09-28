@@ -1,0 +1,487 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.48:
+"Very good."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002d.B.argumentstructs.48
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.21:
+"Um what about leadership ?"
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.48: "Very good."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.21
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.22:
+"I don't know if that means like, if I did a good job or something. I don't really know."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.48: "Very good."
+AE_ID ES2002d.B.argumentstructs.Erik.21: "Um what about leadership ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.21
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.22
+source=ES2002d.B.argumentstructs.Erik.21
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.15:
+"Yeah, well well I mean my sense on that is sort of what kind of guidance and direction, encouragement"
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.48: "Very good."
+AE_ID ES2002d.B.argumentstructs.Erik.21: "Um what about leadership ?"
+AE_ID ES2002d.B.argumentstructs.Erik.22: "I don't know if that means like, if I did a good job or something. I don't really know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.21
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.15
+source=ES2002d.B.argumentstructs.Erik.21
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.23:
+"From like your personal coach person and stuff like that, do you think maybe ?"
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.48: "Very good."
+AE_ID ES2002d.B.argumentstructs.Erik.21: "Um what about leadership ?"
+AE_ID ES2002d.B.argumentstructs.Erik.22: "I don't know if that means like, if I did a good job or something. I don't really know."
+AE_ID ES2002d.C.argumentstructs.Erik.15: "Yeah, well well I mean my sense on that is sort of what kind of guidance and direction, encouragement"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.22
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.23
+source=ES2002d.C.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.16:
+"Yeah from  and you as well I think, just sort of acting as team leader."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.48: "Very good."
+AE_ID ES2002d.B.argumentstructs.Erik.21: "Um what about leadership ?"
+AE_ID ES2002d.B.argumentstructs.Erik.22: "I don't know if that means like, if I did a good job or something. I don't really know."
+AE_ID ES2002d.C.argumentstructs.Erik.15: "Yeah, well well I mean my sense on that is sort of what kind of guidance and direction, encouragement"
+AE_ID ES2002d.B.argumentstructs.Erik.23: "From like your personal coach person and stuff like that, do you think maybe ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.21
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.16
+source=ES2002d.B.argumentstructs.Erik.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.24:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.21: "Um what about leadership ?"
+AE_ID ES2002d.B.argumentstructs.Erik.22: "I don't know if that means like, if I did a good job or something. I don't really know."
+AE_ID ES2002d.C.argumentstructs.Erik.15: "Yeah, well well I mean my sense on that is sort of what kind of guidance and direction, encouragement"
+AE_ID ES2002d.B.argumentstructs.Erik.23: "From like your personal coach person and stuff like that, do you think maybe ?"
+AE_ID ES2002d.C.argumentstructs.Erik.16: "Yeah from  and you as well I think, just sort of acting as team leader."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.23
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.24
+source=ES2002d.C.argumentstructs.Erik.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.40:
+"Um yeah I think I think it's I think it's good. I mean my personal views on on leadership is that effective effective leadership sort of um gives people a certain room for freedom and delegation, but then to come back with something that they take great ownership and"
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.22: "I don't know if that means like, if I did a good job or something. I don't really know."
+AE_ID ES2002d.C.argumentstructs.Erik.15: "Yeah, well well I mean my sense on that is sort of what kind of guidance and direction, encouragement"
+AE_ID ES2002d.B.argumentstructs.Erik.23: "From like your personal coach person and stuff like that, do you think maybe ?"
+AE_ID ES2002d.C.argumentstructs.Erik.16: "Yeah from  and you as well I think, just sort of acting as team leader."
+AE_ID ES2002d.B.argumentstructs.Erik.24: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.15
+---------------------------------
+target=ES2002d.C.argumentstructs.40
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.37:
+"Excuse me."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.15: "Yeah, well well I mean my sense on that is sort of what kind of guidance and direction, encouragement"
+AE_ID ES2002d.B.argumentstructs.Erik.23: "From like your personal coach person and stuff like that, do you think maybe ?"
+AE_ID ES2002d.C.argumentstructs.Erik.16: "Yeah from  and you as well I think, just sort of acting as team leader."
+AE_ID ES2002d.B.argumentstructs.Erik.24: "Okay."
+AE_ID ES2002d.C.argumentstructs.40: "Um yeah I think I think it's I think it's good. I mean my personal views on on leadership is that effective effective leadership sort of um gives people a certain room for freedom and delegation, but then to come back with something that they take great ownership and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.16
+---------------------------------
+target=ES2002d.A.argumentstructs.37
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.49:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.23: "From like your personal coach person and stuff like that, do you think maybe ?"
+AE_ID ES2002d.C.argumentstructs.Erik.16: "Yeah from  and you as well I think, just sort of acting as team leader."
+AE_ID ES2002d.B.argumentstructs.Erik.24: "Okay."
+AE_ID ES2002d.C.argumentstructs.40: "Um yeah I think I think it's I think it's good. I mean my personal views on on leadership is that effective effective leadership sort of um gives people a certain room for freedom and delegation, but then to come back with something that they take great ownership and"
+AE_ID ES2002d.A.argumentstructs.37: "Excuse me."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.24
+---------------------------------
+target=ES2002d.B.argumentstructs.49
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.17:
+"you know, innovative thought with. In in reality I think here the the different elements of leadership such as the the original b briefing and then the personal coach and the and then you know having having you with your  the meeting agenda is actually quite a quite a  quite a con confining framework to work within. And so it is leadership almost to the point of sort of disempowering the the the team member, so"
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.16: "Yeah from  and you as well I think, just sort of acting as team leader."
+AE_ID ES2002d.B.argumentstructs.Erik.24: "Okay."
+AE_ID ES2002d.C.argumentstructs.40: "Um yeah I think I think it's I think it's good. I mean my personal views on on leadership is that effective effective leadership sort of um gives people a certain room for freedom and delegation, but then to come back with something that they take great ownership and"
+AE_ID ES2002d.A.argumentstructs.37: "Excuse me."
+AE_ID ES2002d.B.argumentstructs.49: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.40
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.17
+source=ES2002d.B.argumentstructs.Erik.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.25:
+"Uh-huh, okay."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.24: "Okay."
+AE_ID ES2002d.C.argumentstructs.40: "Um yeah I think I think it's I think it's good. I mean my personal views on on leadership is that effective effective leadership sort of um gives people a certain room for freedom and delegation, but then to come back with something that they take great ownership and"
+AE_ID ES2002d.A.argumentstructs.37: "Excuse me."
+AE_ID ES2002d.B.argumentstructs.49: "Mm-hmm."
+AE_ID ES2002d.C.argumentstructs.Erik.17: "you know, innovative thought with. In in reality I think here the the different elements of leadership such as the the original b briefing and then the personal coach and the and then you know having having you with your  the meeting agenda is actually quite a quite a  quite a con confining framework to work within. And so it is leadership almost to the point of sort of disempowering the the the team member, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.24
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.25
+source=ES2002d.C.argumentstructs.Erik.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.18:
+"But it's not bad leadership, it's just sort of s fairly strong, you know. It turns it turns the individual into more of like a um sort of a predetermined mechanism, as opposed to a sort of a free"
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.40: "Um yeah I think I think it's I think it's good. I mean my personal views on on leadership is that effective effective leadership sort of um gives people a certain room for freedom and delegation, but then to come back with something that they take great ownership and"
+AE_ID ES2002d.A.argumentstructs.37: "Excuse me."
+AE_ID ES2002d.B.argumentstructs.49: "Mm-hmm."
+AE_ID ES2002d.C.argumentstructs.Erik.17: "you know, innovative thought with. In in reality I think here the the different elements of leadership such as the the original b briefing and then the personal coach and the and then you know having having you with your  the meeting agenda is actually quite a quite a  quite a con confining framework to work within. And so it is leadership almost to the point of sort of disempowering the the the team member, so"
+AE_ID ES2002d.B.argumentstructs.Erik.25: "Uh-huh, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.17
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.18
+source=ES2002d.C.argumentstructs.Erik.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.26:
+"So you think maybe a little too controlling or"
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.37: "Excuse me."
+AE_ID ES2002d.B.argumentstructs.49: "Mm-hmm."
+AE_ID ES2002d.C.argumentstructs.Erik.17: "you know, innovative thought with. In in reality I think here the the different elements of leadership such as the the original b briefing and then the personal coach and the and then you know having having you with your  the meeting agenda is actually quite a quite a  quite a con confining framework to work within. And so it is leadership almost to the point of sort of disempowering the the the team member, so"
+AE_ID ES2002d.B.argumentstructs.Erik.25: "Uh-huh, okay."
+AE_ID ES2002d.C.argumentstructs.Erik.18: "But it's not bad leadership, it's just sort of s fairly strong, you know. It turns it turns the individual into more of like a um sort of a predetermined mechanism, as opposed to a sort of a free"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.18
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.26
+source=ES2002d.C.argumentstructs.Erik.18
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.19:
+"Yeah, oh yeah, without without a doubt."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.49: "Mm-hmm."
+AE_ID ES2002d.C.argumentstructs.Erik.17: "you know, innovative thought with. In in reality I think here the the different elements of leadership such as the the original b briefing and then the personal coach and the and then you know having having you with your  the meeting agenda is actually quite a quite a  quite a con confining framework to work within. And so it is leadership almost to the point of sort of disempowering the the the team member, so"
+AE_ID ES2002d.B.argumentstructs.Erik.25: "Uh-huh, okay."
+AE_ID ES2002d.C.argumentstructs.Erik.18: "But it's not bad leadership, it's just sort of s fairly strong, you know. It turns it turns the individual into more of like a um sort of a predetermined mechanism, as opposed to a sort of a free"
+AE_ID ES2002d.B.argumentstructs.Erik.26: "So you think maybe a little too controlling or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.18
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.19
+source=ES2002d.B.argumentstructs.Erik.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.22:
+"I think controlling is not the right word, I think the interactions are very structured. I think structure is probably what you're saying that, each individual is structured to one particular task, and one parti rather than controlling. I don't think there's a sense of control 'cause all the decisions have been made in terms of a, like a consensus right, we go around and we think about it, but that you know process actually says you have to do it in a certain way. It doesn't tell you, you know, some ways that you might wanna be a bit more creative in terms of the process you know, not the"
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.17: "you know, innovative thought with. In in reality I think here the the different elements of leadership such as the the original b briefing and then the personal coach and the and then you know having having you with your  the meeting agenda is actually quite a quite a  quite a con confining framework to work within. And so it is leadership almost to the point of sort of disempowering the the the team member, so"
+AE_ID ES2002d.B.argumentstructs.Erik.25: "Uh-huh, okay."
+AE_ID ES2002d.C.argumentstructs.Erik.18: "But it's not bad leadership, it's just sort of s fairly strong, you know. It turns it turns the individual into more of like a um sort of a predetermined mechanism, as opposed to a sort of a free"
+AE_ID ES2002d.B.argumentstructs.Erik.26: "So you think maybe a little too controlling or"
+AE_ID ES2002d.C.argumentstructs.Erik.19: "Yeah, oh yeah, without without a doubt."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.17
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.22
+source=ES2002d.B.argumentstructs.Erik.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.20:
+"Yeah maybe not co confining."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.25: "Uh-huh, okay."
+AE_ID ES2002d.C.argumentstructs.Erik.18: "But it's not bad leadership, it's just sort of s fairly strong, you know. It turns it turns the individual into more of like a um sort of a predetermined mechanism, as opposed to a sort of a free"
+AE_ID ES2002d.B.argumentstructs.Erik.26: "So you think maybe a little too controlling or"
+AE_ID ES2002d.C.argumentstructs.Erik.19: "Yeah, oh yeah, without without a doubt."
+AE_ID ES2002d.A.argumentstructs.Erik.22: "I think controlling is not the right word, I think the interactions are very structured. I think structure is probably what you're saying that, each individual is structured to one particular task, and one parti rather than controlling. I don't think there's a sense of control 'cause all the decisions have been made in terms of a, like a consensus right, we go around and we think about it, but that you know process actually says you have to do it in a certain way. It doesn't tell you, you know, some ways that you might wanna be a bit more creative in terms of the process you know, not the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.26
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.20
+source=ES2002d.A.argumentstructs.Erik.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.41:
+"Yeah. Yeah, yeah. Mm-hmm, mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm, mm-hmm. Mm-hmm, mm-hmm. Mm-hmm. Mm. Mm-hmm, mm-hmm. Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.18: "But it's not bad leadership, it's just sort of s fairly strong, you know. It turns it turns the individual into more of like a um sort of a predetermined mechanism, as opposed to a sort of a free"
+AE_ID ES2002d.B.argumentstructs.Erik.26: "So you think maybe a little too controlling or"
+AE_ID ES2002d.C.argumentstructs.Erik.19: "Yeah, oh yeah, without without a doubt."
+AE_ID ES2002d.A.argumentstructs.Erik.22: "I think controlling is not the right word, I think the interactions are very structured. I think structure is probably what you're saying that, each individual is structured to one particular task, and one parti rather than controlling. I don't think there's a sense of control 'cause all the decisions have been made in terms of a, like a consensus right, we go around and we think about it, but that you know process actually says you have to do it in a certain way. It doesn't tell you, you know, some ways that you might wanna be a bit more creative in terms of the process you know, not the"
+AE_ID ES2002d.C.argumentstructs.Erik.20: "Yeah maybe not co confining."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.19
+---------------------------------
+target=ES2002d.C.argumentstructs.41
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.28:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.26: "So you think maybe a little too controlling or"
+AE_ID ES2002d.C.argumentstructs.Erik.19: "Yeah, oh yeah, without without a doubt."
+AE_ID ES2002d.A.argumentstructs.Erik.22: "I think controlling is not the right word, I think the interactions are very structured. I think structure is probably what you're saying that, each individual is structured to one particular task, and one parti rather than controlling. I don't think there's a sense of control 'cause all the decisions have been made in terms of a, like a consensus right, we go around and we think about it, but that you know process actually says you have to do it in a certain way. It doesn't tell you, you know, some ways that you might wanna be a bit more creative in terms of the process you know, not the"
+AE_ID ES2002d.C.argumentstructs.Erik.20: "Yeah maybe not co confining."
+AE_ID ES2002d.C.argumentstructs.41: "Yeah. Yeah, yeah. Mm-hmm, mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm, mm-hmm. Mm-hmm, mm-hmm. Mm-hmm. Mm. Mm-hmm, mm-hmm. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.26
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.28
+source=ES2002d.A.argumentstructs.Erik.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.50:
+"Uh-huh. Okay."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.19: "Yeah, oh yeah, without without a doubt."
+AE_ID ES2002d.A.argumentstructs.Erik.22: "I think controlling is not the right word, I think the interactions are very structured. I think structure is probably what you're saying that, each individual is structured to one particular task, and one parti rather than controlling. I don't think there's a sense of control 'cause all the decisions have been made in terms of a, like a consensus right, we go around and we think about it, but that you know process actually says you have to do it in a certain way. It doesn't tell you, you know, some ways that you might wanna be a bit more creative in terms of the process you know, not the"
+AE_ID ES2002d.C.argumentstructs.Erik.20: "Yeah maybe not co confining."
+AE_ID ES2002d.C.argumentstructs.41: "Yeah. Yeah, yeah. Mm-hmm, mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm, mm-hmm. Mm-hmm, mm-hmm. Mm-hmm. Mm. Mm-hmm, mm-hmm. Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.28: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.28
+---------------------------------
+target=ES2002d.B.argumentstructs.50
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2002d-ES2002d - Leadership.csv - True Judgement Ratio: 30.00%

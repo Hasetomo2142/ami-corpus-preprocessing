@@ -1,0 +1,387 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.37:
+"What about the digital pens, did you find them easy enough to use ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.37
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.D.argumentstructs.Erik.14:
+"Oh they're a bit clunky."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.37: "What about the digital pens, did you find them easy enough to use ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.37
+---------------------------------
+target=ES2002d.D.argumentstructs.Erik.14
+source=ES2002d.B.argumentstructs.Erik.37
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.30:
+"Sure, yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.37: "What about the digital pens, did you find them easy enough to use ?"
+AE_ID ES2002d.D.argumentstructs.Erik.14: "Oh they're a bit clunky."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.37
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.30
+source=ES2002d.B.argumentstructs.Erik.37
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.28:
+"Yep clunky. Agreed."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.37: "What about the digital pens, did you find them easy enough to use ?"
+AE_ID ES2002d.D.argumentstructs.Erik.14: "Oh they're a bit clunky."
+AE_ID ES2002d.C.argumentstructs.Erik.30: "Sure, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.D.argumentstructs.Erik.14
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.28
+source=ES2002d.B.argumentstructs.Erik.37
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.38:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.37: "What about the digital pens, did you find them easy enough to use ?"
+AE_ID ES2002d.D.argumentstructs.Erik.14: "Oh they're a bit clunky."
+AE_ID ES2002d.C.argumentstructs.Erik.30: "Sure, yeah."
+AE_ID ES2002d.A.argumentstructs.Erik.28: "Yep clunky. Agreed."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.37
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.38
+source=ES2002d.D.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.31:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.37: "What about the digital pens, did you find them easy enough to use ?"
+AE_ID ES2002d.D.argumentstructs.Erik.14: "Oh they're a bit clunky."
+AE_ID ES2002d.C.argumentstructs.Erik.30: "Sure, yeah."
+AE_ID ES2002d.A.argumentstructs.Erik.28: "Yep clunky. Agreed."
+AE_ID ES2002d.B.argumentstructs.Erik.38: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.38
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.31
+source=ES2002d.D.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.45:
+"Yep. Mm. Mm."
+
+Past dialogue turns:
+AE_ID ES2002d.D.argumentstructs.Erik.14: "Oh they're a bit clunky."
+AE_ID ES2002d.C.argumentstructs.Erik.30: "Sure, yeah."
+AE_ID ES2002d.A.argumentstructs.Erik.28: "Yep clunky. Agreed."
+AE_ID ES2002d.B.argumentstructs.Erik.38: "Yeah."
+AE_ID ES2002d.C.argumentstructs.Erik.31: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.28
+---------------------------------
+target=ES2002d.C.argumentstructs.45
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.39:
+"Clunky, okay."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.30: "Sure, yeah."
+AE_ID ES2002d.A.argumentstructs.Erik.28: "Yep clunky. Agreed."
+AE_ID ES2002d.B.argumentstructs.Erik.38: "Yeah."
+AE_ID ES2002d.C.argumentstructs.Erik.31: "Yeah."
+AE_ID ES2002d.C.argumentstructs.45: "Yep. Mm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.28
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.39
+source=ES2002d.D.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.55:
+"Um"
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.28: "Yep clunky. Agreed."
+AE_ID ES2002d.B.argumentstructs.Erik.38: "Yeah."
+AE_ID ES2002d.C.argumentstructs.Erik.31: "Yeah."
+AE_ID ES2002d.C.argumentstructs.45: "Yep. Mm. Mm."
+AE_ID ES2002d.B.argumentstructs.Erik.39: "Clunky, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002d.B.argumentstructs.55
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.29:
+"Having to tick it before you go off was a bit hindering as well, 'cause you're half way through a thought, and then you run out of paper and then you have to jump."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.38: "Yeah."
+AE_ID ES2002d.C.argumentstructs.Erik.31: "Yeah."
+AE_ID ES2002d.C.argumentstructs.45: "Yep. Mm. Mm."
+AE_ID ES2002d.B.argumentstructs.Erik.39: "Clunky, okay."
+AE_ID ES2002d.B.argumentstructs.55: "Um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.39
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.29
+source=ES2002d.B.argumentstructs.Erik.37
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.40:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.31: "Yeah."
+AE_ID ES2002d.C.argumentstructs.45: "Yep. Mm. Mm."
+AE_ID ES2002d.B.argumentstructs.Erik.39: "Clunky, okay."
+AE_ID ES2002d.B.argumentstructs.55: "Um"
+AE_ID ES2002d.A.argumentstructs.Erik.29: "Having to tick it before you go off was a bit hindering as well, 'cause you're half way through a thought, and then you run out of paper and then you have to jump."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.31
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.40
+source=ES2002d.A.argumentstructs.Erik.29
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.41:
+"I know, I think at the very start of today I like wrote a whole load of stuff, didn't click note on one, then went back and wrote one tiny wee thing on the another page, but then did click note, and so I'm quite worried that I've just written over the top of it or something, but they'll have my paper anyway um and haven't done that since."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.45: "Yep. Mm. Mm."
+AE_ID ES2002d.B.argumentstructs.Erik.39: "Clunky, okay."
+AE_ID ES2002d.B.argumentstructs.55: "Um"
+AE_ID ES2002d.A.argumentstructs.Erik.29: "Having to tick it before you go off was a bit hindering as well, 'cause you're half way through a thought, and then you run out of paper and then you have to jump."
+AE_ID ES2002d.B.argumentstructs.Erik.40: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.29
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.41
+source=ES2002d.A.argumentstructs.Erik.29
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.32:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.39: "Clunky, okay."
+AE_ID ES2002d.B.argumentstructs.55: "Um"
+AE_ID ES2002d.A.argumentstructs.Erik.29: "Having to tick it before you go off was a bit hindering as well, 'cause you're half way through a thought, and then you run out of paper and then you have to jump."
+AE_ID ES2002d.B.argumentstructs.Erik.40: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.41: "I know, I think at the very start of today I like wrote a whole load of stuff, didn't click note on one, then went back and wrote one tiny wee thing on the another page, but then did click note, and so I'm quite worried that I've just written over the top of it or something, but they'll have my paper anyway um and haven't done that since."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.40
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.32
+source=ES2002d.B.argumentstructs.Erik.41
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.46:
+"Hmm. Hmm. Mm-hmm, mm-hmm. Hmm. Mm-hmm, mm-hmm, mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.55: "Um"
+AE_ID ES2002d.A.argumentstructs.Erik.29: "Having to tick it before you go off was a bit hindering as well, 'cause you're half way through a thought, and then you run out of paper and then you have to jump."
+AE_ID ES2002d.B.argumentstructs.Erik.40: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.41: "I know, I think at the very start of today I like wrote a whole load of stuff, didn't click note on one, then went back and wrote one tiny wee thing on the another page, but then did click note, and so I'm quite worried that I've just written over the top of it or something, but they'll have my paper anyway um and haven't done that since."
+AE_ID ES2002d.C.argumentstructs.Erik.32: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002d.C.argumentstructs.46
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.30:
+"But I think the pen is v is very intuitive, everybody knows how to use it, we don't  have to worry. So I think the pen's good. It's about the best thing."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.29: "Having to tick it before you go off was a bit hindering as well, 'cause you're half way through a thought, and then you run out of paper and then you have to jump."
+AE_ID ES2002d.B.argumentstructs.Erik.40: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.41: "I know, I think at the very start of today I like wrote a whole load of stuff, didn't click note on one, then went back and wrote one tiny wee thing on the another page, but then did click note, and so I'm quite worried that I've just written over the top of it or something, but they'll have my paper anyway um and haven't done that since."
+AE_ID ES2002d.C.argumentstructs.Erik.32: "Yeah."
+AE_ID ES2002d.C.argumentstructs.46: "Hmm. Hmm. Mm-hmm, mm-hmm. Hmm. Mm-hmm, mm-hmm, mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.29
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.30
+source=ES2002d.B.argumentstructs.Erik.37
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.42:
+"Yeah, yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.40: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.41: "I know, I think at the very start of today I like wrote a whole load of stuff, didn't click note on one, then went back and wrote one tiny wee thing on the another page, but then did click note, and so I'm quite worried that I've just written over the top of it or something, but they'll have my paper anyway um and haven't done that since."
+AE_ID ES2002d.C.argumentstructs.Erik.32: "Yeah."
+AE_ID ES2002d.C.argumentstructs.46: "Hmm. Hmm. Mm-hmm, mm-hmm. Hmm. Mm-hmm, mm-hmm, mm-hmm."
+AE_ID ES2002d.A.argumentstructs.Erik.30: "But I think the pen is v is very intuitive, everybody knows how to use it, we don't  have to worry. So I think the pen's good. It's about the best thing."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID ES2002d.B.argumentstructs.Erik.40
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.42
+source=ES2002d.A.argumentstructs.Erik.30
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2002d-ES2002d - Digital pens.csv - True Judgement Ratio: 37.50%

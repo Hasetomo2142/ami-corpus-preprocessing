@@ -1,0 +1,462 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.13:
+"I I think we could use somehow the s coffee machine dialogue interface or so."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.13
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.6:
+"No we can we can't use that."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.13: "I I think we could use somehow the s coffee machine dialogue interface or so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.D.argumentstructs.Rutger.13
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.6
+source=IS1004c.D.argumentstructs.Rutger.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.14:
+"You  we can ? We can't."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.13: "I I think we could use somehow the s coffee machine dialogue interface or so."
+AE_ID IS1004c.A.argumentstructs.Rutger.6: "No we can we can't use that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.A.argumentstructs.Rutger.6
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.14
+source=IS1004c.A.argumentstructs.Rutger.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.15:
+"We can't use that to"
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.13: "I I think we could use somehow the s coffee machine dialogue interface or so."
+AE_ID IS1004c.A.argumentstructs.Rutger.6: "No we can we can't use that."
+AE_ID IS1004c.D.argumentstructs.Rutger.14: "You  we can ? We can't."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.A.argumentstructs.Rutger.6
+---------------------------------
+target=IS1004c.A.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.C.argumentstructs.9:
+"Communicate."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.13: "I I think we could use somehow the s coffee machine dialogue interface or so."
+AE_ID IS1004c.A.argumentstructs.Rutger.6: "No we can we can't use that."
+AE_ID IS1004c.D.argumentstructs.Rutger.14: "You  we can ? We can't."
+AE_ID IS1004c.A.argumentstructs.15: "We can't use that to"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.D.argumentstructs.Rutger.13
+---------------------------------
+target=IS1004c.C.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.7:
+"to comman co communicate, it's just a thing"
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.13: "I I think we could use somehow the s coffee machine dialogue interface or so."
+AE_ID IS1004c.A.argumentstructs.Rutger.6: "No we can we can't use that."
+AE_ID IS1004c.D.argumentstructs.Rutger.14: "You  we can ? We can't."
+AE_ID IS1004c.A.argumentstructs.15: "We can't use that to"
+AE_ID IS1004c.C.argumentstructs.9: "Communicate."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.C.argumentstructs.9
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.7
+source=IS1004c.A.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.15:
+"Yeah, but we can say channel twenty five. No ?"
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.Rutger.6: "No we can we can't use that."
+AE_ID IS1004c.D.argumentstructs.Rutger.14: "You  we can ? We can't."
+AE_ID IS1004c.A.argumentstructs.15: "We can't use that to"
+AE_ID IS1004c.C.argumentstructs.9: "Communicate."
+AE_ID IS1004c.A.argumentstructs.Rutger.7: "to comman co communicate, it's just a thing"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.A.argumentstructs.Rutger.6
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.15
+source=IS1004c.A.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.C.argumentstructs.Rutger.4:
+"It's one way."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.14: "You  we can ? We can't."
+AE_ID IS1004c.A.argumentstructs.15: "We can't use that to"
+AE_ID IS1004c.C.argumentstructs.9: "Communicate."
+AE_ID IS1004c.A.argumentstructs.Rutger.7: "to comman co communicate, it's just a thing"
+AE_ID IS1004c.D.argumentstructs.Rutger.15: "Yeah, but we can say channel twenty five. No ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.D.argumentstructs.Rutger.14
+---------------------------------
+target=IS1004c.C.argumentstructs.Rutger.4
+source=IS1004c.A.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.8:
+"No."
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.15: "We can't use that to"
+AE_ID IS1004c.C.argumentstructs.9: "Communicate."
+AE_ID IS1004c.A.argumentstructs.Rutger.7: "to comman co communicate, it's just a thing"
+AE_ID IS1004c.D.argumentstructs.Rutger.15: "Yeah, but we can say channel twenty five. No ?"
+AE_ID IS1004c.C.argumentstructs.Rutger.4: "It's one way."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.A.argumentstructs.Rutger.7
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.8
+source=IS1004c.D.argumentstructs.Rutger.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.15:
+"But then you have to have a template for every channel, for a hundred channels, you have to be able to to recognize"
+
+Past dialogue turns:
+AE_ID IS1004c.C.argumentstructs.9: "Communicate."
+AE_ID IS1004c.A.argumentstructs.Rutger.7: "to comman co communicate, it's just a thing"
+AE_ID IS1004c.D.argumentstructs.Rutger.15: "Yeah, but we can say channel twenty five. No ?"
+AE_ID IS1004c.C.argumentstructs.Rutger.4: "It's one way."
+AE_ID IS1004c.A.argumentstructs.Rutger.8: "No."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.D.argumentstructs.Rutger.15
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.15
+source=IS1004c.D.argumentstructs.Rutger.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.16:
+"It's not a lot one hundred templates, it's not"
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.Rutger.7: "to comman co communicate, it's just a thing"
+AE_ID IS1004c.D.argumentstructs.Rutger.15: "Yeah, but we can say channel twenty five. No ?"
+AE_ID IS1004c.C.argumentstructs.Rutger.4: "It's one way."
+AE_ID IS1004c.A.argumentstructs.Rutger.8: "No."
+AE_ID IS1004c.B.argumentstructs.Rutger.15: "But then you have to have a template for every channel, for a hundred channels, you have to be able to to recognize"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.15
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.16
+source=IS1004c.B.argumentstructs.Rutger.15
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.C.argumentstructs.10:
+"Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.15: "Yeah, but we can say channel twenty five. No ?"
+AE_ID IS1004c.C.argumentstructs.Rutger.4: "It's one way."
+AE_ID IS1004c.A.argumentstructs.Rutger.8: "No."
+AE_ID IS1004c.B.argumentstructs.Rutger.15: "But then you have to have a template for every channel, for a hundred channels, you have to be able to to recognize"
+AE_ID IS1004c.D.argumentstructs.Rutger.16: "It's not a lot one hundred templates, it's not"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1004c.C.argumentstructs.10
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.30:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1004c.C.argumentstructs.Rutger.4: "It's one way."
+AE_ID IS1004c.A.argumentstructs.Rutger.8: "No."
+AE_ID IS1004c.B.argumentstructs.Rutger.15: "But then you have to have a template for every channel, for a hundred channels, you have to be able to to recognize"
+AE_ID IS1004c.D.argumentstructs.Rutger.16: "It's not a lot one hundred templates, it's not"
+AE_ID IS1004c.C.argumentstructs.10: "Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.C.argumentstructs.10
+---------------------------------
+target=IS1004c.B.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.16:
+"Well, I f I think it's probably more than, than our  can handle because it's designed for a coffee machine, you know, to say hello in the morning."
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.Rutger.8: "No."
+AE_ID IS1004c.B.argumentstructs.Rutger.15: "But then you have to have a template for every channel, for a hundred channels, you have to be able to to recognize"
+AE_ID IS1004c.D.argumentstructs.Rutger.16: "It's not a lot one hundred templates, it's not"
+AE_ID IS1004c.C.argumentstructs.10: "Mm-hmm. Mm-hmm."
+AE_ID IS1004c.B.argumentstructs.30: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.15
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.16
+source=IS1004c.D.argumentstructs.Rutger.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.9:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.15: "But then you have to have a template for every channel, for a hundred channels, you have to be able to to recognize"
+AE_ID IS1004c.D.argumentstructs.Rutger.16: "It's not a lot one hundred templates, it's not"
+AE_ID IS1004c.C.argumentstructs.10: "Mm-hmm. Mm-hmm."
+AE_ID IS1004c.B.argumentstructs.30: "Mm."
+AE_ID IS1004c.B.argumentstructs.Rutger.16: "Well, I f I think it's probably more than, than our  can handle because it's designed for a coffee machine, you know, to say hello in the morning."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.D.argumentstructs.Rutger.16
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.9
+source=IS1004c.B.argumentstructs.Rutger.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.17:
+"Ah, it's designed for a cof  okay. Is it design for a coffee machine ?"
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.16: "It's not a lot one hundred templates, it's not"
+AE_ID IS1004c.C.argumentstructs.10: "Mm-hmm. Mm-hmm."
+AE_ID IS1004c.B.argumentstructs.30: "Mm."
+AE_ID IS1004c.B.argumentstructs.Rutger.16: "Well, I f I think it's probably more than, than our  can handle because it's designed for a coffee machine, you know, to say hello in the morning."
+AE_ID IS1004c.A.argumentstructs.Rutger.9: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.16
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.17
+source=IS1004c.D.argumentstructs.Rutger.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.17:
+"Well that's its current application, I would presume that it's kind of, they wouldn't design it to handle a hundred things th so."
+
+Past dialogue turns:
+AE_ID IS1004c.C.argumentstructs.10: "Mm-hmm. Mm-hmm."
+AE_ID IS1004c.B.argumentstructs.30: "Mm."
+AE_ID IS1004c.B.argumentstructs.Rutger.16: "Well, I f I think it's probably more than, than our  can handle because it's designed for a coffee machine, you know, to say hello in the morning."
+AE_ID IS1004c.A.argumentstructs.Rutger.9: "Yeah."
+AE_ID IS1004c.D.argumentstructs.Rutger.17: "Ah, it's designed for a cof  okay. Is it design for a coffee machine ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.16
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.17
+source=IS1004c.D.argumentstructs.Rutger.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.29:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.30: "Mm."
+AE_ID IS1004c.B.argumentstructs.Rutger.16: "Well, I f I think it's probably more than, than our  can handle because it's designed for a coffee machine, you know, to say hello in the morning."
+AE_ID IS1004c.A.argumentstructs.Rutger.9: "Yeah."
+AE_ID IS1004c.D.argumentstructs.Rutger.17: "Ah, it's designed for a cof  okay. Is it design for a coffee machine ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.17: "Well that's its current application, I would presume that it's kind of, they wouldn't design it to handle a hundred things th so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.30
+---------------------------------
+target=IS1004c.D.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.18:
+"Yeah. Maybe you could ask your  the  you could ask the engineering department if we can"
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.16: "Well, I f I think it's probably more than, than our  can handle because it's designed for a coffee machine, you know, to say hello in the morning."
+AE_ID IS1004c.A.argumentstructs.Rutger.9: "Yeah."
+AE_ID IS1004c.D.argumentstructs.Rutger.17: "Ah, it's designed for a cof  okay. Is it design for a coffee machine ?"
+AE_ID IS1004c.B.argumentstructs.Rutger.17: "Well that's its current application, I would presume that it's kind of, they wouldn't design it to handle a hundred things th so."
+AE_ID IS1004c.D.argumentstructs.29: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.16
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1004c-Coffee machine interface.csv - True Judgement Ratio: 26.32%

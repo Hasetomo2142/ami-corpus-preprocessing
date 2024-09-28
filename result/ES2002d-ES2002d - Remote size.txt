@@ -1,0 +1,462 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.43:
+"So if this isn't to scale, what kind of"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002d.B.argumentstructs.43
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.1:
+"dimensions are you thinking about here ?"
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.43: "So if this isn't to scale, what kind of"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.43
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.1
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.D.argumentstructs.Erik.1:
+"Well  we want the other buttons to be big enough to push easily with a finger so we reckon maybe that'll be about the same size as the palm of your hand."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.43: "So if this isn't to scale, what kind of"
+AE_ID ES2002d.B.argumentstructs.Erik.1: "dimensions are you thinking about here ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002d.D.argumentstructs.Erik.1
+source=ES2002d.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.44:
+"Mm-hmm. Six, seven, eight, nine, ten."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.43: "So if this isn't to scale, what kind of"
+AE_ID ES2002d.B.argumentstructs.Erik.1: "dimensions are you thinking about here ?"
+AE_ID ES2002d.D.argumentstructs.Erik.1: "Well  we want the other buttons to be big enough to push easily with a finger so we reckon maybe that'll be about the same size as the palm of your hand."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.43
+---------------------------------
+target=ES2002d.B.argumentstructs.44
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.1:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.43: "So if this isn't to scale, what kind of"
+AE_ID ES2002d.B.argumentstructs.Erik.1: "dimensions are you thinking about here ?"
+AE_ID ES2002d.D.argumentstructs.Erik.1: "Well  we want the other buttons to be big enough to push easily with a finger so we reckon maybe that'll be about the same size as the palm of your hand."
+AE_ID ES2002d.B.argumentstructs.44: "Mm-hmm. Six, seven, eight, nine, ten."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.1
+source=ES2002d.D.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.31:
+"Yep so that would be about a centimetre for a button, so one two three"
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.43: "So if this isn't to scale, what kind of"
+AE_ID ES2002d.B.argumentstructs.Erik.1: "dimensions are you thinking about here ?"
+AE_ID ES2002d.D.argumentstructs.Erik.1: "Well  we want the other buttons to be big enough to push easily with a finger so we reckon maybe that'll be about the same size as the palm of your hand."
+AE_ID ES2002d.B.argumentstructs.44: "Mm-hmm. Six, seven, eight, nine, ten."
+AE_ID ES2002d.C.argumentstructs.Erik.1: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2002d.A.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.1:
+"four centimetres. Plus maybe half o five"
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.1: "dimensions are you thinking about here ?"
+AE_ID ES2002d.D.argumentstructs.Erik.1: "Well  we want the other buttons to be big enough to push easily with a finger so we reckon maybe that'll be about the same size as the palm of your hand."
+AE_ID ES2002d.B.argumentstructs.44: "Mm-hmm. Six, seven, eight, nine, ten."
+AE_ID ES2002d.C.argumentstructs.Erik.1: "Okay."
+AE_ID ES2002d.A.argumentstructs.31: "Yep so that would be about a centimetre for a button, so one two three"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.1
+source=ES2002d.D.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.33:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2002d.D.argumentstructs.Erik.1: "Well  we want the other buttons to be big enough to push easily with a finger so we reckon maybe that'll be about the same size as the palm of your hand."
+AE_ID ES2002d.B.argumentstructs.44: "Mm-hmm. Six, seven, eight, nine, ten."
+AE_ID ES2002d.C.argumentstructs.Erik.1: "Okay."
+AE_ID ES2002d.A.argumentstructs.31: "Yep so that would be about a centimetre for a button, so one two three"
+AE_ID ES2002d.A.argumentstructs.Erik.1: "four centimetres. Plus maybe half o five"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.44
+---------------------------------
+target=ES2002d.C.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.2:
+"About nine in total."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.44: "Mm-hmm. Six, seven, eight, nine, ten."
+AE_ID ES2002d.C.argumentstructs.Erik.1: "Okay."
+AE_ID ES2002d.A.argumentstructs.31: "Yep so that would be about a centimetre for a button, so one two three"
+AE_ID ES2002d.A.argumentstructs.Erik.1: "four centimetres. Plus maybe half o five"
+AE_ID ES2002d.C.argumentstructs.33: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.44
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.2
+source=ES2002d.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.2:
+"six seven eight, about yeah nine total."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.1: "Okay."
+AE_ID ES2002d.A.argumentstructs.31: "Yep so that would be about a centimetre for a button, so one two three"
+AE_ID ES2002d.A.argumentstructs.Erik.1: "four centimetres. Plus maybe half o five"
+AE_ID ES2002d.C.argumentstructs.33: "Mm-hmm."
+AE_ID ES2002d.C.argumentstructs.Erik.2: "About nine in total."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.2
+source=ES2002d.C.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.2:
+"So we're talking about ten centimetres. That would be good. So ten centimetres in height."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.31: "Yep so that would be about a centimetre for a button, so one two three"
+AE_ID ES2002d.A.argumentstructs.Erik.1: "four centimetres. Plus maybe half o five"
+AE_ID ES2002d.C.argumentstructs.33: "Mm-hmm."
+AE_ID ES2002d.C.argumentstructs.Erik.2: "About nine in total."
+AE_ID ES2002d.A.argumentstructs.Erik.2: "six seven eight, about yeah nine total."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.2
+source=ES2002d.A.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.3:
+"That sounds good. Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.1: "four centimetres. Plus maybe half o five"
+AE_ID ES2002d.C.argumentstructs.33: "Mm-hmm."
+AE_ID ES2002d.C.argumentstructs.Erik.2: "About nine in total."
+AE_ID ES2002d.A.argumentstructs.Erik.2: "six seven eight, about yeah nine total."
+AE_ID ES2002d.B.argumentstructs.Erik.2: "So we're talking about ten centimetres. That would be good. So ten centimetres in height."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.3
+source=ES2002d.B.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.34:
+"Yep."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.33: "Mm-hmm."
+AE_ID ES2002d.C.argumentstructs.Erik.2: "About nine in total."
+AE_ID ES2002d.A.argumentstructs.Erik.2: "six seven eight, about yeah nine total."
+AE_ID ES2002d.B.argumentstructs.Erik.2: "So we're talking about ten centimetres. That would be good. So ten centimetres in height."
+AE_ID ES2002d.C.argumentstructs.Erik.3: "That sounds good. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.33
+---------------------------------
+target=ES2002d.C.argumentstructs.34
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.32:
+"Nine, ten."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.2: "About nine in total."
+AE_ID ES2002d.A.argumentstructs.Erik.2: "six seven eight, about yeah nine total."
+AE_ID ES2002d.B.argumentstructs.Erik.2: "So we're talking about ten centimetres. That would be good. So ten centimetres in height."
+AE_ID ES2002d.C.argumentstructs.Erik.3: "That sounds good. Yeah."
+AE_ID ES2002d.C.argumentstructs.34: "Yep."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2002d.A.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.3:
+"Yep."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.2: "six seven eight, about yeah nine total."
+AE_ID ES2002d.B.argumentstructs.Erik.2: "So we're talking about ten centimetres. That would be good. So ten centimetres in height."
+AE_ID ES2002d.C.argumentstructs.Erik.3: "That sounds good. Yeah."
+AE_ID ES2002d.C.argumentstructs.34: "Yep."
+AE_ID ES2002d.A.argumentstructs.32: "Nine, ten."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.34
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.3
+source=ES2002d.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.45:
+". Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.2: "So we're talking about ten centimetres. That would be good. So ten centimetres in height."
+AE_ID ES2002d.C.argumentstructs.Erik.3: "That sounds good. Yeah."
+AE_ID ES2002d.C.argumentstructs.34: "Yep."
+AE_ID ES2002d.A.argumentstructs.32: "Nine, ten."
+AE_ID ES2002d.A.argumentstructs.Erik.3: "Yep."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2002d.B.argumentstructs.45
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.4:
+"That'd be good, in fact a pen is about ten centimetres usually, so that would be  that sounds like a really good size, if you see it there."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.3: "That sounds good. Yeah."
+AE_ID ES2002d.C.argumentstructs.34: "Yep."
+AE_ID ES2002d.A.argumentstructs.32: "Nine, ten."
+AE_ID ES2002d.A.argumentstructs.Erik.3: "Yep."
+AE_ID ES2002d.B.argumentstructs.45: ". Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.4
+source=ES2002d.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.3:
+"That's great and it's very bright as well. So um okay."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.34: "Yep."
+AE_ID ES2002d.A.argumentstructs.32: "Nine, ten."
+AE_ID ES2002d.A.argumentstructs.Erik.3: "Yep."
+AE_ID ES2002d.B.argumentstructs.45: ". Yeah."
+AE_ID ES2002d.C.argumentstructs.Erik.4: "That'd be good, in fact a pen is about ten centimetres usually, so that would be  that sounds like a really good size, if you see it there."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.3
+source=ES2002d.C.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.35:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.32: "Nine, ten."
+AE_ID ES2002d.A.argumentstructs.Erik.3: "Yep."
+AE_ID ES2002d.B.argumentstructs.45: ". Yeah."
+AE_ID ES2002d.C.argumentstructs.Erik.4: "That'd be good, in fact a pen is about ten centimetres usually, so that would be  that sounds like a really good size, if you see it there."
+AE_ID ES2002d.B.argumentstructs.Erik.3: "That's great and it's very bright as well. So um okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2002d.C.argumentstructs.35
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2002d-ES2002d - Remote size.csv - True Judgement Ratio: 36.84%

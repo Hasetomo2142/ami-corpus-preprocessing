@@ -1,0 +1,362 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.C.argumentstructs.Daan.1:
+"Well I think if we are gonna use a touchscreen uh we're gonna go way above the twelve and a half Euros."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.C.argumentstructs.Daan.0
+---------------------------------
+target=TS3003b.C.argumentstructs.Daan.1
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.B.argumentstructs.Daan.1:
+"N I I don't think so. Uh you got uh quite a cheap uh touchscreen. S um it's uh not uh in colour or something. Uh it's just uh um one colo Uh yeah."
+
+Past dialogue turns:
+AE_ID TS3003b.C.argumentstructs.Daan.1: "Well I think if we are gonna use a touchscreen uh we're gonna go way above the twelve and a half Euros."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3003b.B.argumentstructs.Daan.1
+source=TS3003b.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.B.argumentstructs.Daan.2:
+"Uh I seen uh w uh something on the internet uh not today but uh a few uh weeks ago. Uh you got uh yeah quite an uh a kind of uh touchscreen um and it's uh  for uh twenty uh Euros or uh less uh. So it's possible."
+
+Past dialogue turns:
+AE_ID TS3003b.C.argumentstructs.Daan.1: "Well I think if we are gonna use a touchscreen uh we're gonna go way above the twelve and a half Euros."
+AE_ID TS3003b.B.argumentstructs.Daan.1: "N I I don't think so. Uh you got uh quite a cheap uh touchscreen. S um it's uh not uh in colour or something. Uh it's just uh um one colo Uh yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3003b.B.argumentstructs.Daan.2
+source=TS3003b.B.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.21:
+"Hmm."
+
+Past dialogue turns:
+AE_ID TS3003b.C.argumentstructs.Daan.1: "Well I think if we are gonna use a touchscreen uh we're gonna go way above the twelve and a half Euros."
+AE_ID TS3003b.B.argumentstructs.Daan.1: "N I I don't think so. Uh you got uh quite a cheap uh touchscreen. S um it's uh not uh in colour or something. Uh it's just uh um one colo Uh yeah."
+AE_ID TS3003b.B.argumentstructs.Daan.2: "Uh I seen uh w uh something on the internet uh not today but uh a few uh weeks ago. Uh you got uh yeah quite an uh a kind of uh touchscreen um and it's uh  for uh twenty uh Euros or uh less uh. So it's possible."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3003b.D.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.Daan.1:
+"Well it would certainly make a fancy design."
+
+Past dialogue turns:
+AE_ID TS3003b.C.argumentstructs.Daan.1: "Well I think if we are gonna use a touchscreen uh we're gonna go way above the twelve and a half Euros."
+AE_ID TS3003b.B.argumentstructs.Daan.1: "N I I don't think so. Uh you got uh quite a cheap uh touchscreen. S um it's uh not uh in colour or something. Uh it's just uh um one colo Uh yeah."
+AE_ID TS3003b.B.argumentstructs.Daan.2: "Uh I seen uh w uh something on the internet uh not today but uh a few uh weeks ago. Uh you got uh yeah quite an uh a kind of uh touchscreen um and it's uh  for uh twenty uh Euros or uh less uh. So it's possible."
+AE_ID TS3003b.D.argumentstructs.21: "Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3003b.D.argumentstructs.Daan.1
+source=TS3003b.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.B.argumentstructs.4:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3003b.C.argumentstructs.Daan.1: "Well I think if we are gonna use a touchscreen uh we're gonna go way above the twelve and a half Euros."
+AE_ID TS3003b.B.argumentstructs.Daan.1: "N I I don't think so. Uh you got uh quite a cheap uh touchscreen. S um it's uh not uh in colour or something. Uh it's just uh um one colo Uh yeah."
+AE_ID TS3003b.B.argumentstructs.Daan.2: "Uh I seen uh w uh something on the internet uh not today but uh a few uh weeks ago. Uh you got uh yeah quite an uh a kind of uh touchscreen um and it's uh  for uh twenty uh Euros or uh less uh. So it's possible."
+AE_ID TS3003b.D.argumentstructs.21: "Hmm."
+AE_ID TS3003b.D.argumentstructs.Daan.1: "Well it would certainly make a fancy design."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3003b.B.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.20:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3003b.B.argumentstructs.Daan.1: "N I I don't think so. Uh you got uh quite a cheap uh touchscreen. S um it's uh not uh in colour or something. Uh it's just uh um one colo Uh yeah."
+AE_ID TS3003b.B.argumentstructs.Daan.2: "Uh I seen uh w uh something on the internet uh not today but uh a few uh weeks ago. Uh you got uh yeah quite an uh a kind of uh touchscreen um and it's uh  for uh twenty uh Euros or uh less uh. So it's possible."
+AE_ID TS3003b.D.argumentstructs.21: "Hmm."
+AE_ID TS3003b.D.argumentstructs.Daan.1: "Well it would certainly make a fancy design."
+AE_ID TS3003b.B.argumentstructs.4: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.B.argumentstructs.4
+---------------------------------
+target=TS3003b.A.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.C.argumentstructs.Daan.2:
+"But the  It wouldn't be very robust. It's very fragile and you can get scratches on it."
+
+Past dialogue turns:
+AE_ID TS3003b.B.argumentstructs.Daan.2: "Uh I seen uh w uh something on the internet uh not today but uh a few uh weeks ago. Uh you got uh yeah quite an uh a kind of uh touchscreen um and it's uh  for uh twenty uh Euros or uh less uh. So it's possible."
+AE_ID TS3003b.D.argumentstructs.21: "Hmm."
+AE_ID TS3003b.D.argumentstructs.Daan.1: "Well it would certainly make a fancy design."
+AE_ID TS3003b.B.argumentstructs.4: "Yeah."
+AE_ID TS3003b.A.argumentstructs.20: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.D.argumentstructs.Daan.1
+---------------------------------
+target=TS3003b.C.argumentstructs.Daan.2
+source=TS3003b.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.22:
+"So"
+
+Past dialogue turns:
+AE_ID TS3003b.D.argumentstructs.21: "Hmm."
+AE_ID TS3003b.D.argumentstructs.Daan.1: "Well it would certainly make a fancy design."
+AE_ID TS3003b.B.argumentstructs.4: "Yeah."
+AE_ID TS3003b.A.argumentstructs.20: "Yeah."
+AE_ID TS3003b.C.argumentstructs.Daan.2: "But the  It wouldn't be very robust. It's very fragile and you can get scratches on it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3003b.D.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.Daan.2:
+"That is true."
+
+Past dialogue turns:
+AE_ID TS3003b.D.argumentstructs.Daan.1: "Well it would certainly make a fancy design."
+AE_ID TS3003b.B.argumentstructs.4: "Yeah."
+AE_ID TS3003b.A.argumentstructs.20: "Yeah."
+AE_ID TS3003b.C.argumentstructs.Daan.2: "But the  It wouldn't be very robust. It's very fragile and you can get scratches on it."
+AE_ID TS3003b.D.argumentstructs.22: "So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3003b.D.argumentstructs.Daan.2
+source=TS3003b.C.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.Daan.1:
+"That's right. Uh maybe we can first um listen to your presentation ? Uh  And then we  have a little discussion about the requirements and uh design."
+
+Past dialogue turns:
+AE_ID TS3003b.B.argumentstructs.4: "Yeah."
+AE_ID TS3003b.A.argumentstructs.20: "Yeah."
+AE_ID TS3003b.C.argumentstructs.Daan.2: "But the  It wouldn't be very robust. It's very fragile and you can get scratches on it."
+AE_ID TS3003b.D.argumentstructs.22: "So"
+AE_ID TS3003b.D.argumentstructs.Daan.2: "That is true."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3003b.A.argumentstructs.Daan.1
+source=TS3003b.C.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.B.argumentstructs.Daan.3:
+"Yeah that's true."
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.20: "Yeah."
+AE_ID TS3003b.C.argumentstructs.Daan.2: "But the  It wouldn't be very robust. It's very fragile and you can get scratches on it."
+AE_ID TS3003b.D.argumentstructs.22: "So"
+AE_ID TS3003b.D.argumentstructs.Daan.2: "That is true."
+AE_ID TS3003b.A.argumentstructs.Daan.1: "That's right. Uh maybe we can first um listen to your presentation ? Uh  And then we  have a little discussion about the requirements and uh design."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.D.argumentstructs.Daan.2
+---------------------------------
+target=TS3003b.B.argumentstructs.Daan.3
+source=TS3003b.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.Daan.3:
+"We would have to look into that."
+
+Past dialogue turns:
+AE_ID TS3003b.C.argumentstructs.Daan.2: "But the  It wouldn't be very robust. It's very fragile and you can get scratches on it."
+AE_ID TS3003b.D.argumentstructs.22: "So"
+AE_ID TS3003b.D.argumentstructs.Daan.2: "That is true."
+AE_ID TS3003b.A.argumentstructs.Daan.1: "That's right. Uh maybe we can first um listen to your presentation ? Uh  And then we  have a little discussion about the requirements and uh design."
+AE_ID TS3003b.B.argumentstructs.Daan.3: "Yeah that's true."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3003b.D.argumentstructs.Daan.3
+source=TS3003b.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.B.argumentstructs.5:
+"Uh."
+
+Past dialogue turns:
+AE_ID TS3003b.D.argumentstructs.22: "So"
+AE_ID TS3003b.D.argumentstructs.Daan.2: "That is true."
+AE_ID TS3003b.A.argumentstructs.Daan.1: "That's right. Uh maybe we can first um listen to your presentation ? Uh  And then we  have a little discussion about the requirements and uh design."
+AE_ID TS3003b.B.argumentstructs.Daan.3: "Yeah that's true."
+AE_ID TS3003b.D.argumentstructs.Daan.3: "We would have to look into that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.1
+---------------------------------
+target=TS3003b.B.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.23:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3003b.D.argumentstructs.Daan.2: "That is true."
+AE_ID TS3003b.A.argumentstructs.Daan.1: "That's right. Uh maybe we can first um listen to your presentation ? Uh  And then we  have a little discussion about the requirements and uh design."
+AE_ID TS3003b.B.argumentstructs.Daan.3: "Yeah that's true."
+AE_ID TS3003b.D.argumentstructs.Daan.3: "We would have to look into that."
+AE_ID TS3003b.B.argumentstructs.5: "Uh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.B.argumentstructs.Daan.3
+---------------------------------
+target=TS3003b.D.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3003b-Touch screen.csv - True Judgement Ratio: 26.67%

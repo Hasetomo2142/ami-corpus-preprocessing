@@ -1,0 +1,1137 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.1:
+"Yes.  This I was thinking. Do we need a power button at all ? Should should shouldn't we do it like sleep mode after five minutes of not using it ? Because generally"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.1:
+"uh required."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.1: "Yes.  This I was thinking. Do we need a power button at all ? Should should shouldn't we do it like sleep mode after five minutes of not using it ? Because generally"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.1
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.1
+source=IS1005b.B.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.1:
+"It's it's a kind of setting, I think. It should fit in those settings functions. Because it's not a very current useful function."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.1: "Yes.  This I was thinking. Do we need a power button at all ? Should should shouldn't we do it like sleep mode after five minutes of not using it ? Because generally"
+AE_ID IS1005b.D.argumentstructs.Rutger.1: "uh required."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.1
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.1
+source=IS1005b.B.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.C.argumentstructs.8:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.1: "Yes.  This I was thinking. Do we need a power button at all ? Should should shouldn't we do it like sleep mode after five minutes of not using it ? Because generally"
+AE_ID IS1005b.D.argumentstructs.Rutger.1: "uh required."
+AE_ID IS1005b.A.argumentstructs.Rutger.1: "It's it's a kind of setting, I think. It should fit in those settings functions. Because it's not a very current useful function."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.1
+---------------------------------
+target=IS1005b.C.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.C.argumentstructs.Rutger.1:
+"Settings."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.1: "Yes.  This I was thinking. Do we need a power button at all ? Should should shouldn't we do it like sleep mode after five minutes of not using it ? Because generally"
+AE_ID IS1005b.D.argumentstructs.Rutger.1: "uh required."
+AE_ID IS1005b.A.argumentstructs.Rutger.1: "It's it's a kind of setting, I think. It should fit in those settings functions. Because it's not a very current useful function."
+AE_ID IS1005b.C.argumentstructs.8: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.1
+---------------------------------
+target=IS1005b.C.argumentstructs.Rutger.1
+source=IS1005b.A.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.2:
+"Uh, well I think when they say power button they mean to turn the T_V_ on and off."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.1: "Yes.  This I was thinking. Do we need a power button at all ? Should should shouldn't we do it like sleep mode after five minutes of not using it ? Because generally"
+AE_ID IS1005b.D.argumentstructs.Rutger.1: "uh required."
+AE_ID IS1005b.A.argumentstructs.Rutger.1: "It's it's a kind of setting, I think. It should fit in those settings functions. Because it's not a very current useful function."
+AE_ID IS1005b.C.argumentstructs.8: "Mm."
+AE_ID IS1005b.C.argumentstructs.Rutger.1: "Settings."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.1
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.2
+source=IS1005b.B.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.2:
+"No, I think it's after after five minutes or something  a timer  I I think, no ?"
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.1: "uh required."
+AE_ID IS1005b.A.argumentstructs.Rutger.1: "It's it's a kind of setting, I think. It should fit in those settings functions. Because it's not a very current useful function."
+AE_ID IS1005b.C.argumentstructs.8: "Mm."
+AE_ID IS1005b.C.argumentstructs.Rutger.1: "Settings."
+AE_ID IS1005b.D.argumentstructs.Rutger.2: "Uh, well I think when they say power button they mean to turn the T_V_ on and off."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.1
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.2
+source=IS1005b.D.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.15:
+"Yes."
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.1: "It's it's a kind of setting, I think. It should fit in those settings functions. Because it's not a very current useful function."
+AE_ID IS1005b.C.argumentstructs.8: "Mm."
+AE_ID IS1005b.C.argumentstructs.Rutger.1: "Settings."
+AE_ID IS1005b.D.argumentstructs.Rutger.2: "Uh, well I think when they say power button they mean to turn the T_V_ on and off."
+AE_ID IS1005b.A.argumentstructs.Rutger.2: "No, I think it's after after five minutes or something  a timer  I I think, no ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.1
+---------------------------------
+target=IS1005b.B.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.2:
+"Well I I uh"
+
+Past dialogue turns:
+AE_ID IS1005b.C.argumentstructs.8: "Mm."
+AE_ID IS1005b.C.argumentstructs.Rutger.1: "Settings."
+AE_ID IS1005b.D.argumentstructs.Rutger.2: "Uh, well I think when they say power button they mean to turn the T_V_ on and off."
+AE_ID IS1005b.A.argumentstructs.Rutger.2: "No, I think it's after after five minutes or something  a timer  I I think, no ?"
+AE_ID IS1005b.B.argumentstructs.15: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.D.argumentstructs.Rutger.2
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.2
+source=IS1005b.A.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.3:
+"But if you're watching T_V_ for two hours, you don't want your T_V_ to turn off after five five minute"
+
+Past dialogue turns:
+AE_ID IS1005b.C.argumentstructs.Rutger.1: "Settings."
+AE_ID IS1005b.D.argumentstructs.Rutger.2: "Uh, well I think when they say power button they mean to turn the T_V_ on and off."
+AE_ID IS1005b.A.argumentstructs.Rutger.2: "No, I think it's after after five minutes or something  a timer  I I think, no ?"
+AE_ID IS1005b.B.argumentstructs.15: "Yes."
+AE_ID IS1005b.B.argumentstructs.Rutger.2: "Well I I uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.2
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.3
+source=IS1005b.A.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.3:
+"You don't need to  every five minutes to keep it alive. Uh probably. Okay, so we should keep this button."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.2: "Uh, well I think when they say power button they mean to turn the T_V_ on and off."
+AE_ID IS1005b.A.argumentstructs.Rutger.2: "No, I think it's after after five minutes or something  a timer  I I think, no ?"
+AE_ID IS1005b.B.argumentstructs.15: "Yes."
+AE_ID IS1005b.B.argumentstructs.Rutger.2: "Well I I uh"
+AE_ID IS1005b.D.argumentstructs.Rutger.3: "But if you're watching T_V_ for two hours, you don't want your T_V_ to turn off after five five minute"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.D.argumentstructs.Rutger.3
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.3
+source=IS1005b.D.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.4:
+"I mean based on our usability studies again, um  pe um people said that the power button was v a very relevant button. Um, you know, it was nine out of ten"
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.2: "No, I think it's after after five minutes or something  a timer  I I think, no ?"
+AE_ID IS1005b.B.argumentstructs.15: "Yes."
+AE_ID IS1005b.B.argumentstructs.Rutger.2: "Well I I uh"
+AE_ID IS1005b.D.argumentstructs.Rutger.3: "But if you're watching T_V_ for two hours, you don't want your T_V_ to turn off after five five minute"
+AE_ID IS1005b.B.argumentstructs.Rutger.3: "You don't need to  every five minutes to keep it alive. Uh probably. Okay, so we should keep this button."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.3
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.4
+source=IS1005b.B.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.C.argumentstructs.Rutger.2:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.15: "Yes."
+AE_ID IS1005b.B.argumentstructs.Rutger.2: "Well I I uh"
+AE_ID IS1005b.D.argumentstructs.Rutger.3: "But if you're watching T_V_ for two hours, you don't want your T_V_ to turn off after five five minute"
+AE_ID IS1005b.B.argumentstructs.Rutger.3: "You don't need to  every five minutes to keep it alive. Uh probably. Okay, so we should keep this button."
+AE_ID IS1005b.D.argumentstructs.Rutger.4: "I mean based on our usability studies again, um  pe um people said that the power button was v a very relevant button. Um, you know, it was nine out of ten"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.3
+---------------------------------
+target=IS1005b.C.argumentstructs.Rutger.2
+source=IS1005b.D.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.3:
+"Oh okay, yeah."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.2: "Well I I uh"
+AE_ID IS1005b.D.argumentstructs.Rutger.3: "But if you're watching T_V_ for two hours, you don't want your T_V_ to turn off after five five minute"
+AE_ID IS1005b.B.argumentstructs.Rutger.3: "You don't need to  every five minutes to keep it alive. Uh probably. Okay, so we should keep this button."
+AE_ID IS1005b.D.argumentstructs.Rutger.4: "I mean based on our usability studies again, um  pe um people said that the power button was v a very relevant button. Um, you know, it was nine out of ten"
+AE_ID IS1005b.C.argumentstructs.Rutger.2: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.3
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.3
+source=IS1005b.D.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.C.argumentstructs.9:
+"Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.3: "But if you're watching T_V_ for two hours, you don't want your T_V_ to turn off after five five minute"
+AE_ID IS1005b.B.argumentstructs.Rutger.3: "You don't need to  every five minutes to keep it alive. Uh probably. Okay, so we should keep this button."
+AE_ID IS1005b.D.argumentstructs.Rutger.4: "I mean based on our usability studies again, um  pe um people said that the power button was v a very relevant button. Um, you know, it was nine out of ten"
+AE_ID IS1005b.C.argumentstructs.Rutger.2: "Yeah."
+AE_ID IS1005b.A.argumentstructs.Rutger.3: "Oh okay, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.C.argumentstructs.Rutger.2
+---------------------------------
+target=IS1005b.C.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.4:
+"Okay, so we we could p what we could probably do is to keep also to keep uh keep the L_C_D_ and all the buttons and stuff, we could make it like a opening opening style that if you open it you are  you just turn on the T_V_ and if you close it, it will"
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.3: "You don't need to  every five minutes to keep it alive. Uh probably. Okay, so we should keep this button."
+AE_ID IS1005b.D.argumentstructs.Rutger.4: "I mean based on our usability studies again, um  pe um people said that the power button was v a very relevant button. Um, you know, it was nine out of ten"
+AE_ID IS1005b.C.argumentstructs.Rutger.2: "Yeah."
+AE_ID IS1005b.A.argumentstructs.Rutger.3: "Oh okay, yeah."
+AE_ID IS1005b.C.argumentstructs.9: "Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.3
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.4
+source=IS1005b.B.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.15:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.4: "I mean based on our usability studies again, um  pe um people said that the power button was v a very relevant button. Um, you know, it was nine out of ten"
+AE_ID IS1005b.C.argumentstructs.Rutger.2: "Yeah."
+AE_ID IS1005b.A.argumentstructs.Rutger.3: "Oh okay, yeah."
+AE_ID IS1005b.C.argumentstructs.9: "Mm-hmm. Mm-hmm."
+AE_ID IS1005b.B.argumentstructs.Rutger.4: "Okay, so we we could p what we could probably do is to keep also to keep uh keep the L_C_D_ and all the buttons and stuff, we could make it like a opening opening style that if you open it you are  you just turn on the T_V_ and if you close it, it will"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.C.argumentstructs.Rutger.2
+---------------------------------
+target=IS1005b.A.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.4:
+"Yeah"
+
+Past dialogue turns:
+AE_ID IS1005b.C.argumentstructs.Rutger.2: "Yeah."
+AE_ID IS1005b.A.argumentstructs.Rutger.3: "Oh okay, yeah."
+AE_ID IS1005b.C.argumentstructs.9: "Mm-hmm. Mm-hmm."
+AE_ID IS1005b.B.argumentstructs.Rutger.4: "Okay, so we we could p what we could probably do is to keep also to keep uh keep the L_C_D_ and all the buttons and stuff, we could make it like a opening opening style that if you open it you are  you just turn on the T_V_ and if you close it, it will"
+AE_ID IS1005b.A.argumentstructs.15: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.15
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.4
+source=IS1005b.B.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.16:
+". Yeah."
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.3: "Oh okay, yeah."
+AE_ID IS1005b.C.argumentstructs.9: "Mm-hmm. Mm-hmm."
+AE_ID IS1005b.B.argumentstructs.Rutger.4: "Okay, so we we could p what we could probably do is to keep also to keep uh keep the L_C_D_ and all the buttons and stuff, we could make it like a opening opening style that if you open it you are  you just turn on the T_V_ and if you close it, it will"
+AE_ID IS1005b.A.argumentstructs.15: "Yeah."
+AE_ID IS1005b.A.argumentstructs.Rutger.4: "Yeah"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.15
+---------------------------------
+target=IS1005b.A.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.5:
+"turn off the T_V_. If if you like this,"
+
+Past dialogue turns:
+AE_ID IS1005b.C.argumentstructs.9: "Mm-hmm. Mm-hmm."
+AE_ID IS1005b.B.argumentstructs.Rutger.4: "Okay, so we we could p what we could probably do is to keep also to keep uh keep the L_C_D_ and all the buttons and stuff, we could make it like a opening opening style that if you open it you are  you just turn on the T_V_ and if you close it, it will"
+AE_ID IS1005b.A.argumentstructs.15: "Yeah."
+AE_ID IS1005b.A.argumentstructs.Rutger.4: "Yeah"
+AE_ID IS1005b.A.argumentstructs.16: ". Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.4
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.5
+source=IS1005b.B.argumentstructs.Rutger.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.21:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.4: "Okay, so we we could p what we could probably do is to keep also to keep uh keep the L_C_D_ and all the buttons and stuff, we could make it like a opening opening style that if you open it you are  you just turn on the T_V_ and if you close it, it will"
+AE_ID IS1005b.A.argumentstructs.15: "Yeah."
+AE_ID IS1005b.A.argumentstructs.Rutger.4: "Yeah"
+AE_ID IS1005b.A.argumentstructs.16: ". Yeah."
+AE_ID IS1005b.B.argumentstructs.Rutger.5: "turn off the T_V_. If if you like this,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.4
+---------------------------------
+target=IS1005b.D.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.5:
+"B Okay."
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.15: "Yeah."
+AE_ID IS1005b.A.argumentstructs.Rutger.4: "Yeah"
+AE_ID IS1005b.A.argumentstructs.16: ". Yeah."
+AE_ID IS1005b.B.argumentstructs.Rutger.5: "turn off the T_V_. If if you like this,"
+AE_ID IS1005b.D.argumentstructs.21: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.D.argumentstructs.21
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.5
+source=IS1005b.B.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.22:
+"I think we need to concentrate on the, you know, the major usage of the th of the control, which is you sit down, you turn on your T_V_, you change channels, you change the volume, you turn the T_V_ off. Um and all the other f functionality is"
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.4: "Yeah"
+AE_ID IS1005b.A.argumentstructs.16: ". Yeah."
+AE_ID IS1005b.B.argumentstructs.Rutger.5: "turn off the T_V_. If if you like this,"
+AE_ID IS1005b.D.argumentstructs.21: "Okay."
+AE_ID IS1005b.D.argumentstructs.Rutger.5: "B Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.5
+---------------------------------
+target=IS1005b.D.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.5:
+"Yeah. So s yeah."
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.16: ". Yeah."
+AE_ID IS1005b.B.argumentstructs.Rutger.5: "turn off the T_V_. If if you like this,"
+AE_ID IS1005b.D.argumentstructs.21: "Okay."
+AE_ID IS1005b.D.argumentstructs.Rutger.5: "B Okay."
+AE_ID IS1005b.D.argumentstructs.22: "I think we need to concentrate on the, you know, the major usage of the th of the control, which is you sit down, you turn on your T_V_, you change channels, you change the volume, you turn the T_V_ off. Um and all the other f functionality is"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.5
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.5
+source=IS1005b.D.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.C.argumentstructs.Rutger.3:
+"Yeah, they can yeah they can be hide somewhere by a cover or something like this. Like covering cu. Yeah, like mobile phone covering."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.5: "turn off the T_V_. If if you like this,"
+AE_ID IS1005b.D.argumentstructs.21: "Okay."
+AE_ID IS1005b.D.argumentstructs.Rutger.5: "B Okay."
+AE_ID IS1005b.D.argumentstructs.22: "I think we need to concentrate on the, you know, the major usage of the th of the control, which is you sit down, you turn on your T_V_, you change channels, you change the volume, you turn the T_V_ off. Um and all the other f functionality is"
+AE_ID IS1005b.A.argumentstructs.Rutger.5: "Yeah. So s yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.D.argumentstructs.22
+---------------------------------
+target=IS1005b.C.argumentstructs.Rutger.3
+source=IS1005b.D.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.7:
+"not used very often."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.21: "Okay."
+AE_ID IS1005b.D.argumentstructs.Rutger.5: "B Okay."
+AE_ID IS1005b.D.argumentstructs.22: "I think we need to concentrate on the, you know, the major usage of the th of the control, which is you sit down, you turn on your T_V_, you change channels, you change the volume, you turn the T_V_ off. Um and all the other f functionality is"
+AE_ID IS1005b.A.argumentstructs.Rutger.5: "Yeah. So s yeah."
+AE_ID IS1005b.C.argumentstructs.Rutger.3: "Yeah, they can yeah they can be hide somewhere by a cover or something like this. Like covering cu. Yeah, like mobile phone covering."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID IS1005b.D.argumentstructs.22
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.7
+source=IS1005b.B.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.5: "B Okay."
+AE_ID IS1005b.D.argumentstructs.22: "I think we need to concentrate on the, you know, the major usage of the th of the control, which is you sit down, you turn on your T_V_, you change channels, you change the volume, you turn the T_V_ off. Um and all the other f functionality is"
+AE_ID IS1005b.A.argumentstructs.Rutger.5: "Yeah. So s yeah."
+AE_ID IS1005b.C.argumentstructs.Rutger.3: "Yeah, they can yeah they can be hide somewhere by a cover or something like this. Like covering cu. Yeah, like mobile phone covering."
+AE_ID IS1005b.D.argumentstructs.Rutger.7: "not used very often."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.5
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.6
+source=IS1005b.C.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.22: "I think we need to concentrate on the, you know, the major usage of the th of the control, which is you sit down, you turn on your T_V_, you change channels, you change the volume, you turn the T_V_ off. Um and all the other f functionality is"
+AE_ID IS1005b.A.argumentstructs.Rutger.5: "Yeah. So s yeah."
+AE_ID IS1005b.C.argumentstructs.Rutger.3: "Yeah, they can yeah they can be hide somewhere by a cover or something like this. Like covering cu. Yeah, like mobile phone covering."
+AE_ID IS1005b.D.argumentstructs.Rutger.7: "not used very often."
+AE_ID IS1005b.A.argumentstructs.Rutger.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.5
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.8
+source=IS1005b.C.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.7:
+"On the back, or"
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.5: "Yeah. So s yeah."
+AE_ID IS1005b.C.argumentstructs.Rutger.3: "Yeah, they can yeah they can be hide somewhere by a cover or something like this. Like covering cu. Yeah, like mobile phone covering."
+AE_ID IS1005b.D.argumentstructs.Rutger.7: "not used very often."
+AE_ID IS1005b.A.argumentstructs.Rutger.6: "Yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.C.argumentstructs.Rutger.3
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.7
+source=IS1005b.C.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.16:
+"Yeah. I mean like the"
+
+Past dialogue turns:
+AE_ID IS1005b.C.argumentstructs.Rutger.3: "Yeah, they can yeah they can be hide somewhere by a cover or something like this. Like covering cu. Yeah, like mobile phone covering."
+AE_ID IS1005b.D.argumentstructs.Rutger.7: "not used very often."
+AE_ID IS1005b.A.argumentstructs.Rutger.6: "Yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.8: "Yeah."
+AE_ID IS1005b.A.argumentstructs.Rutger.7: "On the back, or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.C
+---------------------------------
+target=IS1005b.B.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.6:
+"Yeah but since we have the L_C_D_, we didn't need too much button too many buttons."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.7: "not used very often."
+AE_ID IS1005b.A.argumentstructs.Rutger.6: "Yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.8: "Yeah."
+AE_ID IS1005b.A.argumentstructs.Rutger.7: "On the back, or"
+AE_ID IS1005b.B.argumentstructs.16: "Yeah. I mean like the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.6
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.6
+source=IS1005b.D.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.17:
+"Um, okay, just um the decision of the power button. Should we make it a button, or some some something which would be"
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.6: "Yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.8: "Yeah."
+AE_ID IS1005b.A.argumentstructs.Rutger.7: "On the back, or"
+AE_ID IS1005b.B.argumentstructs.16: "Yeah. I mean like the"
+AE_ID IS1005b.B.argumentstructs.Rutger.6: "Yeah but since we have the L_C_D_, we didn't need too much button too many buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.16
+---------------------------------
+target=IS1005b.B.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.17:
+"For what ?"
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.8: "Yeah."
+AE_ID IS1005b.A.argumentstructs.Rutger.7: "On the back, or"
+AE_ID IS1005b.B.argumentstructs.16: "Yeah. I mean like the"
+AE_ID IS1005b.B.argumentstructs.Rutger.6: "Yeah but since we have the L_C_D_, we didn't need too much button too many buttons."
+AE_ID IS1005b.B.argumentstructs.17: "Um, okay, just um the decision of the power button. Should we make it a button, or some some something which would be"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.17
+---------------------------------
+target=IS1005b.A.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.7:
+"Uh power button."
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.7: "On the back, or"
+AE_ID IS1005b.B.argumentstructs.16: "Yeah. I mean like the"
+AE_ID IS1005b.B.argumentstructs.Rutger.6: "Yeah but since we have the L_C_D_, we didn't need too much button too many buttons."
+AE_ID IS1005b.B.argumentstructs.17: "Um, okay, just um the decision of the power button. Should we make it a button, or some some something which would be"
+AE_ID IS1005b.A.argumentstructs.17: "For what ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.17
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.7
+source=IS1005b.B.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.9:
+"I think a button."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.16: "Yeah. I mean like the"
+AE_ID IS1005b.B.argumentstructs.Rutger.6: "Yeah but since we have the L_C_D_, we didn't need too much button too many buttons."
+AE_ID IS1005b.B.argumentstructs.17: "Um, okay, just um the decision of the power button. Should we make it a button, or some some something which would be"
+AE_ID IS1005b.A.argumentstructs.17: "For what ?"
+AE_ID IS1005b.B.argumentstructs.Rutger.7: "Uh power button."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.17
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.9
+source=IS1005b.B.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.C.argumentstructs.Rutger.4:
+"A button is better."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.6: "Yeah but since we have the L_C_D_, we didn't need too much button too many buttons."
+AE_ID IS1005b.B.argumentstructs.17: "Um, okay, just um the decision of the power button. Should we make it a button, or some some something which would be"
+AE_ID IS1005b.A.argumentstructs.17: "For what ?"
+AE_ID IS1005b.B.argumentstructs.Rutger.7: "Uh power button."
+AE_ID IS1005b.D.argumentstructs.Rutger.9: "I think a button."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.D.argumentstructs.Rutger.9
+---------------------------------
+target=IS1005b.C.argumentstructs.Rutger.4
+source=IS1005b.B.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.10:
+"I think it should be a bu"
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.17: "Um, okay, just um the decision of the power button. Should we make it a button, or some some something which would be"
+AE_ID IS1005b.A.argumentstructs.17: "For what ?"
+AE_ID IS1005b.B.argumentstructs.Rutger.7: "Uh power button."
+AE_ID IS1005b.D.argumentstructs.Rutger.9: "I think a button."
+AE_ID IS1005b.C.argumentstructs.Rutger.4: "A button is better."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.D.argumentstructs.Rutger.9
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.10
+source=IS1005b.C.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.8:
+"Ah oh yeah, yeah. Yeah a button, yeah I guess so."
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.17: "For what ?"
+AE_ID IS1005b.B.argumentstructs.Rutger.7: "Uh power button."
+AE_ID IS1005b.D.argumentstructs.Rutger.9: "I think a button."
+AE_ID IS1005b.C.argumentstructs.Rutger.4: "A button is better."
+AE_ID IS1005b.D.argumentstructs.Rutger.10: "I think it should be a bu"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.7
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.8
+source=IS1005b.B.argumentstructs.Rutger.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.8:
+"If it if it's a button or  Okay."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.7: "Uh power button."
+AE_ID IS1005b.D.argumentstructs.Rutger.9: "I think a button."
+AE_ID IS1005b.C.argumentstructs.Rutger.4: "A button is better."
+AE_ID IS1005b.D.argumentstructs.Rutger.10: "I think it should be a bu"
+AE_ID IS1005b.A.argumentstructs.Rutger.8: "Ah oh yeah, yeah. Yeah a button, yeah I guess so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.8
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.8
+source=IS1005b.B.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.C.argumentstructs.Rutger.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.9: "I think a button."
+AE_ID IS1005b.C.argumentstructs.Rutger.4: "A button is better."
+AE_ID IS1005b.D.argumentstructs.Rutger.10: "I think it should be a bu"
+AE_ID IS1005b.A.argumentstructs.Rutger.8: "Ah oh yeah, yeah. Yeah a button, yeah I guess so."
+AE_ID IS1005b.B.argumentstructs.Rutger.8: "If it if it's a button or  Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.8
+---------------------------------
+target=IS1005b.C.argumentstructs.Rutger.5
+source=IS1005b.B.argumentstructs.Rutger.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.11:
+"Its own button on the front."
+
+Past dialogue turns:
+AE_ID IS1005b.C.argumentstructs.Rutger.4: "A button is better."
+AE_ID IS1005b.D.argumentstructs.Rutger.10: "I think it should be a bu"
+AE_ID IS1005b.A.argumentstructs.Rutger.8: "Ah oh yeah, yeah. Yeah a button, yeah I guess so."
+AE_ID IS1005b.B.argumentstructs.Rutger.8: "If it if it's a button or  Okay."
+AE_ID IS1005b.C.argumentstructs.Rutger.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.C.argumentstructs.Rutger.4
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.11
+source=IS1005b.B.argumentstructs.Rutger.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.C.argumentstructs.10:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.10: "I think it should be a bu"
+AE_ID IS1005b.A.argumentstructs.Rutger.8: "Ah oh yeah, yeah. Yeah a button, yeah I guess so."
+AE_ID IS1005b.B.argumentstructs.Rutger.8: "If it if it's a button or  Okay."
+AE_ID IS1005b.C.argumentstructs.Rutger.5: "Yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.11: "Its own button on the front."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.8
+---------------------------------
+target=IS1005b.C.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.9:
+"Okay, one nice big button. Old fashioned button, to satisfy the grandmothers."
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.8: "Ah oh yeah, yeah. Yeah a button, yeah I guess so."
+AE_ID IS1005b.B.argumentstructs.Rutger.8: "If it if it's a button or  Okay."
+AE_ID IS1005b.C.argumentstructs.Rutger.5: "Yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.11: "Its own button on the front."
+AE_ID IS1005b.C.argumentstructs.10: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.8
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.9
+source=IS1005b.B.argumentstructs.Rutger.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.18:
+"Hmm."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.8: "If it if it's a button or  Okay."
+AE_ID IS1005b.C.argumentstructs.Rutger.5: "Yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.11: "Its own button on the front."
+AE_ID IS1005b.C.argumentstructs.10: "Mm."
+AE_ID IS1005b.B.argumentstructs.Rutger.9: "Okay, one nice big button. Old fashioned button, to satisfy the grandmothers."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.9
+---------------------------------
+target=IS1005b.B.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.12:
+"Okay"
+
+Past dialogue turns:
+AE_ID IS1005b.C.argumentstructs.Rutger.5: "Yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.11: "Its own button on the front."
+AE_ID IS1005b.C.argumentstructs.10: "Mm."
+AE_ID IS1005b.B.argumentstructs.Rutger.9: "Okay, one nice big button. Old fashioned button, to satisfy the grandmothers."
+AE_ID IS1005b.B.argumentstructs.18: "Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.9
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.12
+source=IS1005b.B.argumentstructs.Rutger.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.23:
+"."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.11: "Its own button on the front."
+AE_ID IS1005b.C.argumentstructs.10: "Mm."
+AE_ID IS1005b.B.argumentstructs.Rutger.9: "Okay, one nice big button. Old fashioned button, to satisfy the grandmothers."
+AE_ID IS1005b.B.argumentstructs.18: "Hmm."
+AE_ID IS1005b.D.argumentstructs.Rutger.12: "Okay"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.9
+---------------------------------
+target=IS1005b.D.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1005b-Power button.csv - True Judgement Ratio: 23.91%

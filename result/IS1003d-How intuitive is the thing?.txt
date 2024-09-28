@@ -1,0 +1,88 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.A.argumentstructs.3:
+"you've decided to go to channel twenty, so you can say channel twenty, or channel four, because you really want to go on this channel. But if you really want to to do zapping you you don't really know what you want to do, you can turn it. Just go through all the channels and maybe stop if there is something interesting ? Seems to be good. Good choice, mister David Jordan."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1003d.A.argumentstructs.3
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.D.argumentstructs.6:
+"And this would be more for browsing, ah. Yeah. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1003d.A.argumentstructs.3: "you've decided to go to channel twenty, so you can say channel twenty, or channel four, because you really want to go on this channel. But if you really want to to do zapping you you don't really know what you want to do, you can turn it. Just go through all the channels and maybe stop if there is something interesting ? Seems to be good. Good choice, mister David Jordan."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.A.argumentstructs.3
+---------------------------------
+target=IS1003d.D.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.C.argumentstructs.7:
+"Mm-hmm. Yeah. Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID IS1003d.A.argumentstructs.3: "you've decided to go to channel twenty, so you can say channel twenty, or channel four, because you really want to go on this channel. But if you really want to to do zapping you you don't really know what you want to do, you can turn it. Just go through all the channels and maybe stop if there is something interesting ? Seems to be good. Good choice, mister David Jordan."
+AE_ID IS1003d.D.argumentstructs.6: "And this would be more for browsing, ah. Yeah. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.D.argumentstructs.6
+---------------------------------
+target=IS1003d.C.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.B.argumentstructs.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1003d.A.argumentstructs.3: "you've decided to go to channel twenty, so you can say channel twenty, or channel four, because you really want to go on this channel. But if you really want to to do zapping you you don't really know what you want to do, you can turn it. Just go through all the channels and maybe stop if there is something interesting ? Seems to be good. Good choice, mister David Jordan."
+AE_ID IS1003d.D.argumentstructs.6: "And this would be more for browsing, ah. Yeah. Mm-hmm."
+AE_ID IS1003d.C.argumentstructs.7: "Mm-hmm. Yeah. Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.D.argumentstructs.6
+---------------------------------
+target=IS1003d.B.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1003d-How intuitive is the thing?.csv - True Judgement Ratio: 25.00%

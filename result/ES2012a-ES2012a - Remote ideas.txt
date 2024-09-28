@@ -1,0 +1,462 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.A.argumentstructs.Erik.1:
+"Any any thoughts about buttons or any oth other way of approaching the p the uh the problem ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2012a.A.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.A.argumentstructs.Erik.2:
+"Or anybody else, strong feelings about remote controls ?"
+
+Past dialogue turns:
+AE_ID ES2012a.A.argumentstructs.Erik.1: "Any any thoughts about buttons or any oth other way of approaching the p the uh the problem ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2012a.A.argumentstructs.Erik.2
+source=ES2012a.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.A.argumentstructs.Erik.3:
+"Are there you know, bad ones they've used or good ones they've used or ones that they've lost and never found again ?"
+
+Past dialogue turns:
+AE_ID ES2012a.A.argumentstructs.Erik.1: "Any any thoughts about buttons or any oth other way of approaching the p the uh the problem ?"
+AE_ID ES2012a.A.argumentstructs.Erik.2: "Or anybody else, strong feelings about remote controls ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2012a.A.argumentstructs.Erik.3
+source=ES2012a.A.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.B.argumentstructs.3:
+"Um"
+
+Past dialogue turns:
+AE_ID ES2012a.A.argumentstructs.Erik.1: "Any any thoughts about buttons or any oth other way of approaching the p the uh the problem ?"
+AE_ID ES2012a.A.argumentstructs.Erik.2: "Or anybody else, strong feelings about remote controls ?"
+AE_ID ES2012a.A.argumentstructs.Erik.3: "Are there you know, bad ones they've used or good ones they've used or ones that they've lost and never found again ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2012a.B.argumentstructs.3
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.B.argumentstructs.Erik.1:
+"I think it's important that you should be able to  when you when you press the buttons it'll actually pick up the signals from kind of anywhere and you shouldn't have to like contort yourself and twist your remote control to get it  the T_V_ to actually pick up the signal."
+
+Past dialogue turns:
+AE_ID ES2012a.A.argumentstructs.Erik.1: "Any any thoughts about buttons or any oth other way of approaching the p the uh the problem ?"
+AE_ID ES2012a.A.argumentstructs.Erik.2: "Or anybody else, strong feelings about remote controls ?"
+AE_ID ES2012a.A.argumentstructs.Erik.3: "Are there you know, bad ones they've used or good ones they've used or ones that they've lost and never found again ?"
+AE_ID ES2012a.B.argumentstructs.3: "Um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2012a.B.argumentstructs.Erik.1
+source=ES2012a.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.D.argumentstructs.Erik.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2012a.A.argumentstructs.Erik.1: "Any any thoughts about buttons or any oth other way of approaching the p the uh the problem ?"
+AE_ID ES2012a.A.argumentstructs.Erik.2: "Or anybody else, strong feelings about remote controls ?"
+AE_ID ES2012a.A.argumentstructs.Erik.3: "Are there you know, bad ones they've used or good ones they've used or ones that they've lost and never found again ?"
+AE_ID ES2012a.B.argumentstructs.3: "Um"
+AE_ID ES2012a.B.argumentstructs.Erik.1: "I think it's important that you should be able to  when you when you press the buttons it'll actually pick up the signals from kind of anywhere and you shouldn't have to like contort yourself and twist your remote control to get it  the T_V_ to actually pick up the signal."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2012a.D.argumentstructs.Erik.1
+source=ES2012a.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.C.argumentstructs.Erik.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2012a.A.argumentstructs.Erik.2: "Or anybody else, strong feelings about remote controls ?"
+AE_ID ES2012a.A.argumentstructs.Erik.3: "Are there you know, bad ones they've used or good ones they've used or ones that they've lost and never found again ?"
+AE_ID ES2012a.B.argumentstructs.3: "Um"
+AE_ID ES2012a.B.argumentstructs.Erik.1: "I think it's important that you should be able to  when you when you press the buttons it'll actually pick up the signals from kind of anywhere and you shouldn't have to like contort yourself and twist your remote control to get it  the T_V_ to actually pick up the signal."
+AE_ID ES2012a.D.argumentstructs.Erik.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2012a.C.argumentstructs.Erik.1
+source=ES2012a.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.D.argumentstructs.10:
+"T_V_s and D_V_ players, like they aren't"
+
+Past dialogue turns:
+AE_ID ES2012a.A.argumentstructs.Erik.3: "Are there you know, bad ones they've used or good ones they've used or ones that they've lost and never found again ?"
+AE_ID ES2012a.B.argumentstructs.3: "Um"
+AE_ID ES2012a.B.argumentstructs.Erik.1: "I think it's important that you should be able to  when you when you press the buttons it'll actually pick up the signals from kind of anywhere and you shouldn't have to like contort yourself and twist your remote control to get it  the T_V_ to actually pick up the signal."
+AE_ID ES2012a.D.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2012a.C.argumentstructs.Erik.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2012a.D.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.B.argumentstructs.4:
+"Mm. Mm."
+
+Past dialogue turns:
+AE_ID ES2012a.B.argumentstructs.3: "Um"
+AE_ID ES2012a.B.argumentstructs.Erik.1: "I think it's important that you should be able to  when you when you press the buttons it'll actually pick up the signals from kind of anywhere and you shouldn't have to like contort yourself and twist your remote control to get it  the T_V_ to actually pick up the signal."
+AE_ID ES2012a.D.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2012a.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2012a.D.argumentstructs.10: "T_V_s and D_V_ players, like they aren't"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.B.argumentstructs.3
+---------------------------------
+target=ES2012a.B.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.D.argumentstructs.Erik.2:
+"like an area that's put a lot of effort into, they're very boring, very plain. Like it's very  a very  like um making a a stylish remote control would be a very like"
+
+Past dialogue turns:
+AE_ID ES2012a.B.argumentstructs.Erik.1: "I think it's important that you should be able to  when you when you press the buttons it'll actually pick up the signals from kind of anywhere and you shouldn't have to like contort yourself and twist your remote control to get it  the T_V_ to actually pick up the signal."
+AE_ID ES2012a.D.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2012a.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2012a.D.argumentstructs.10: "T_V_s and D_V_ players, like they aren't"
+AE_ID ES2012a.B.argumentstructs.4: "Mm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2012a.D.argumentstructs.Erik.2
+source=ES2012a.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.D.argumentstructs.Erik.3:
+"Easily put us one step ahead of the current competition."
+
+Past dialogue turns:
+AE_ID ES2012a.D.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2012a.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2012a.D.argumentstructs.10: "T_V_s and D_V_ players, like they aren't"
+AE_ID ES2012a.B.argumentstructs.4: "Mm. Mm."
+AE_ID ES2012a.D.argumentstructs.Erik.2: "like an area that's put a lot of effort into, they're very boring, very plain. Like it's very  a very  like um making a a stylish remote control would be a very like"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2012a.D.argumentstructs.Erik.3
+source=ES2012a.D.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.A.argumentstructs.Erik.4:
+"Um what so wh what's in in  what particular style features are you thinking about ?"
+
+Past dialogue turns:
+AE_ID ES2012a.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2012a.D.argumentstructs.10: "T_V_s and D_V_ players, like they aren't"
+AE_ID ES2012a.B.argumentstructs.4: "Mm. Mm."
+AE_ID ES2012a.D.argumentstructs.Erik.2: "like an area that's put a lot of effort into, they're very boring, very plain. Like it's very  a very  like um making a a stylish remote control would be a very like"
+AE_ID ES2012a.D.argumentstructs.Erik.3: "Easily put us one step ahead of the current competition."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2012a.A.argumentstructs.Erik.4
+source=ES2012a.D.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.D.argumentstructs.11:
+"Um."
+
+Past dialogue turns:
+AE_ID ES2012a.D.argumentstructs.10: "T_V_s and D_V_ players, like they aren't"
+AE_ID ES2012a.B.argumentstructs.4: "Mm. Mm."
+AE_ID ES2012a.D.argumentstructs.Erik.2: "like an area that's put a lot of effort into, they're very boring, very plain. Like it's very  a very  like um making a a stylish remote control would be a very like"
+AE_ID ES2012a.D.argumentstructs.Erik.3: "Easily put us one step ahead of the current competition."
+AE_ID ES2012a.A.argumentstructs.Erik.4: "Um what so wh what's in in  what particular style features are you thinking about ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2012a.D.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.D.argumentstructs.Erik.4:
+"Something that looks looks  doesn't look like remote control. So if you want,  something that looks like uh  something that makes you think oh what's this ? Like this pen doesn't really look like a pen, but it makes you think oh."
+
+Past dialogue turns:
+AE_ID ES2012a.B.argumentstructs.4: "Mm. Mm."
+AE_ID ES2012a.D.argumentstructs.Erik.2: "like an area that's put a lot of effort into, they're very boring, very plain. Like it's very  a very  like um making a a stylish remote control would be a very like"
+AE_ID ES2012a.D.argumentstructs.Erik.3: "Easily put us one step ahead of the current competition."
+AE_ID ES2012a.A.argumentstructs.Erik.4: "Um what so wh what's in in  what particular style features are you thinking about ?"
+AE_ID ES2012a.D.argumentstructs.11: "Um."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2012a.D.argumentstructs.Erik.4
+source=ES2012a.A.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.A.argumentstructs.12:
+"."
+
+Past dialogue turns:
+AE_ID ES2012a.D.argumentstructs.Erik.2: "like an area that's put a lot of effort into, they're very boring, very plain. Like it's very  a very  like um making a a stylish remote control would be a very like"
+AE_ID ES2012a.D.argumentstructs.Erik.3: "Easily put us one step ahead of the current competition."
+AE_ID ES2012a.A.argumentstructs.Erik.4: "Um what so wh what's in in  what particular style features are you thinking about ?"
+AE_ID ES2012a.D.argumentstructs.11: "Um."
+AE_ID ES2012a.D.argumentstructs.Erik.4: "Something that looks looks  doesn't look like remote control. So if you want,  something that looks like uh  something that makes you think oh what's this ? Like this pen doesn't really look like a pen, but it makes you think oh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2012a.A.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.A.argumentstructs.Erik.5:
+"Yeah d no I mean do you think there's a risk if it doesn't look like remote control,  people won't see it as a remote control um and uh"
+
+Past dialogue turns:
+AE_ID ES2012a.D.argumentstructs.Erik.3: "Easily put us one step ahead of the current competition."
+AE_ID ES2012a.A.argumentstructs.Erik.4: "Um what so wh what's in in  what particular style features are you thinking about ?"
+AE_ID ES2012a.D.argumentstructs.11: "Um."
+AE_ID ES2012a.D.argumentstructs.Erik.4: "Something that looks looks  doesn't look like remote control. So if you want,  something that looks like uh  something that makes you think oh what's this ? Like this pen doesn't really look like a pen, but it makes you think oh."
+AE_ID ES2012a.A.argumentstructs.12: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2012a.A.argumentstructs.Erik.5
+source=ES2012a.D.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.D.argumentstructs.12:
+". Uh I suppose suppose that's up to the marketing to"
+
+Past dialogue turns:
+AE_ID ES2012a.A.argumentstructs.Erik.4: "Um what so wh what's in in  what particular style features are you thinking about ?"
+AE_ID ES2012a.D.argumentstructs.11: "Um."
+AE_ID ES2012a.D.argumentstructs.Erik.4: "Something that looks looks  doesn't look like remote control. So if you want,  something that looks like uh  something that makes you think oh what's this ? Like this pen doesn't really look like a pen, but it makes you think oh."
+AE_ID ES2012a.A.argumentstructs.12: "."
+AE_ID ES2012a.A.argumentstructs.Erik.5: "Yeah d no I mean do you think there's a risk if it doesn't look like remote control,  people won't see it as a remote control um and uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.D.argumentstructs.11
+---------------------------------
+target=ES2012a.D.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.D.argumentstructs.Erik.5:
+"to make make people aware of the product."
+
+Past dialogue turns:
+AE_ID ES2012a.D.argumentstructs.11: "Um."
+AE_ID ES2012a.D.argumentstructs.Erik.4: "Something that looks looks  doesn't look like remote control. So if you want,  something that looks like uh  something that makes you think oh what's this ? Like this pen doesn't really look like a pen, but it makes you think oh."
+AE_ID ES2012a.A.argumentstructs.12: "."
+AE_ID ES2012a.A.argumentstructs.Erik.5: "Yeah d no I mean do you think there's a risk if it doesn't look like remote control,  people won't see it as a remote control um and uh"
+AE_ID ES2012a.D.argumentstructs.12: ". Uh I suppose suppose that's up to the marketing to"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2012a.D.argumentstructs.Erik.5
+source=ES2012a.A.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2012a.A.argumentstructs.13:
+"Uh-huh."
+
+Past dialogue turns:
+AE_ID ES2012a.D.argumentstructs.Erik.4: "Something that looks looks  doesn't look like remote control. So if you want,  something that looks like uh  something that makes you think oh what's this ? Like this pen doesn't really look like a pen, but it makes you think oh."
+AE_ID ES2012a.A.argumentstructs.12: "."
+AE_ID ES2012a.A.argumentstructs.Erik.5: "Yeah d no I mean do you think there's a risk if it doesn't look like remote control,  people won't see it as a remote control um and uh"
+AE_ID ES2012a.D.argumentstructs.12: ". Uh I suppose suppose that's up to the marketing to"
+AE_ID ES2012a.D.argumentstructs.Erik.5: "to make make people aware of the product."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2012a.A.argumentstructs.12
+---------------------------------
+target=ES2012a.A.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2012a-ES2012a - Remote ideas.csv - True Judgement Ratio: 36.84%

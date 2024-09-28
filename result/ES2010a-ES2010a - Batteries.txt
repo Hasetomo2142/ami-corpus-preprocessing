@@ -1,0 +1,462 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.B.argumentstructs.Erik.1:
+"What kinda battery would we want to use ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2010a.B.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.C.argumentstructs.5:
+"D"
+
+Past dialogue turns:
+AE_ID ES2010a.B.argumentstructs.Erik.1: "What kinda battery would we want to use ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2010a.C.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.C.argumentstructs.Erik.1:
+"Double A_."
+
+Past dialogue turns:
+AE_ID ES2010a.B.argumentstructs.Erik.1: "What kinda battery would we want to use ?"
+AE_ID ES2010a.C.argumentstructs.5: "D"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2010a.C.argumentstructs.Erik.1
+source=ES2010a.B.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.D.argumentstructs.Erik.1:
+"Double A_."
+
+Past dialogue turns:
+AE_ID ES2010a.B.argumentstructs.Erik.1: "What kinda battery would we want to use ?"
+AE_ID ES2010a.C.argumentstructs.5: "D"
+AE_ID ES2010a.C.argumentstructs.Erik.1: "Double A_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2010a.D.argumentstructs.Erik.1
+source=ES2010a.C.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.B.argumentstructs.3:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2010a.B.argumentstructs.Erik.1: "What kinda battery would we want to use ?"
+AE_ID ES2010a.C.argumentstructs.5: "D"
+AE_ID ES2010a.C.argumentstructs.Erik.1: "Double A_."
+AE_ID ES2010a.D.argumentstructs.Erik.1: "Double A_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2010a.B.argumentstructs.3
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.A.argumentstructs.Erik.1:
+"Do some of them use triple A_s though ?"
+
+Past dialogue turns:
+AE_ID ES2010a.B.argumentstructs.Erik.1: "What kinda battery would we want to use ?"
+AE_ID ES2010a.C.argumentstructs.5: "D"
+AE_ID ES2010a.C.argumentstructs.Erik.1: "Double A_."
+AE_ID ES2010a.D.argumentstructs.Erik.1: "Double A_."
+AE_ID ES2010a.B.argumentstructs.3: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2010a.A.argumentstructs.Erik.1
+source=ES2010a.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.D.argumentstructs.Erik.2:
+"Yeah some use triple A_s."
+
+Past dialogue turns:
+AE_ID ES2010a.C.argumentstructs.5: "D"
+AE_ID ES2010a.C.argumentstructs.Erik.1: "Double A_."
+AE_ID ES2010a.D.argumentstructs.Erik.1: "Double A_."
+AE_ID ES2010a.B.argumentstructs.3: "Okay."
+AE_ID ES2010a.A.argumentstructs.Erik.1: "Do some of them use triple A_s though ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2010a.D.argumentstructs.Erik.2
+source=ES2010a.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.C.argumentstructs.Erik.2:
+"Some but"
+
+Past dialogue turns:
+AE_ID ES2010a.C.argumentstructs.Erik.1: "Double A_."
+AE_ID ES2010a.D.argumentstructs.Erik.1: "Double A_."
+AE_ID ES2010a.B.argumentstructs.3: "Okay."
+AE_ID ES2010a.A.argumentstructs.Erik.1: "Do some of them use triple A_s though ?"
+AE_ID ES2010a.D.argumentstructs.Erik.2: "Yeah some use triple A_s."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2010a.C.argumentstructs.Erik.2
+source=ES2010a.A.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.D.argumentstructs.Erik.3:
+"So double or triple ?"
+
+Past dialogue turns:
+AE_ID ES2010a.D.argumentstructs.Erik.1: "Double A_."
+AE_ID ES2010a.B.argumentstructs.3: "Okay."
+AE_ID ES2010a.A.argumentstructs.Erik.1: "Do some of them use triple A_s though ?"
+AE_ID ES2010a.D.argumentstructs.Erik.2: "Yeah some use triple A_s."
+AE_ID ES2010a.C.argumentstructs.Erik.2: "Some but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2010a.D.argumentstructs.Erik.3
+source=ES2010a.D.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.A.argumentstructs.Erik.2:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2010a.B.argumentstructs.3: "Okay."
+AE_ID ES2010a.A.argumentstructs.Erik.1: "Do some of them use triple A_s though ?"
+AE_ID ES2010a.D.argumentstructs.Erik.2: "Yeah some use triple A_s."
+AE_ID ES2010a.C.argumentstructs.Erik.2: "Some but"
+AE_ID ES2010a.D.argumentstructs.Erik.3: "So double or triple ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2010a.A.argumentstructs.Erik.2
+source=ES2010a.C.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.C.argumentstructs.6:
+"Yeah, I guess then it's"
+
+Past dialogue turns:
+AE_ID ES2010a.A.argumentstructs.Erik.1: "Do some of them use triple A_s though ?"
+AE_ID ES2010a.D.argumentstructs.Erik.2: "Yeah some use triple A_s."
+AE_ID ES2010a.C.argumentstructs.Erik.2: "Some but"
+AE_ID ES2010a.D.argumentstructs.Erik.3: "So double or triple ?"
+AE_ID ES2010a.A.argumentstructs.Erik.2: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2010a.C.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.C.argumentstructs.Erik.3:
+"If we need to do triple A_ we can, but most people usually have double A_s around."
+
+Past dialogue turns:
+AE_ID ES2010a.D.argumentstructs.Erik.2: "Yeah some use triple A_s."
+AE_ID ES2010a.C.argumentstructs.Erik.2: "Some but"
+AE_ID ES2010a.D.argumentstructs.Erik.3: "So double or triple ?"
+AE_ID ES2010a.A.argumentstructs.Erik.2: "Okay."
+AE_ID ES2010a.C.argumentstructs.6: "Yeah, I guess then it's"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2010a.C.argumentstructs.Erik.3
+source=ES2010a.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.A.argumentstructs.Erik.3:
+"Okay. Yeah. But that has to do with the size of it too. Well, w as long as we know that issue is"
+
+Past dialogue turns:
+AE_ID ES2010a.C.argumentstructs.Erik.2: "Some but"
+AE_ID ES2010a.D.argumentstructs.Erik.3: "So double or triple ?"
+AE_ID ES2010a.A.argumentstructs.Erik.2: "Okay."
+AE_ID ES2010a.C.argumentstructs.6: "Yeah, I guess then it's"
+AE_ID ES2010a.C.argumentstructs.Erik.3: "If we need to do triple A_ we can, but most people usually have double A_s around."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2010a.A.argumentstructs.Erik.3
+source=ES2010a.C.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.C.argumentstructs.Erik.4:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2010a.D.argumentstructs.Erik.3: "So double or triple ?"
+AE_ID ES2010a.A.argumentstructs.Erik.2: "Okay."
+AE_ID ES2010a.C.argumentstructs.6: "Yeah, I guess then it's"
+AE_ID ES2010a.C.argumentstructs.Erik.3: "If we need to do triple A_ we can, but most people usually have double A_s around."
+AE_ID ES2010a.A.argumentstructs.Erik.3: "Okay. Yeah. But that has to do with the size of it too. Well, w as long as we know that issue is"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2010a.C.argumentstructs.Erik.4
+source=ES2010a.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.B.argumentstructs.Erik.2:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010a.A.argumentstructs.Erik.2: "Okay."
+AE_ID ES2010a.C.argumentstructs.6: "Yeah, I guess then it's"
+AE_ID ES2010a.C.argumentstructs.Erik.3: "If we need to do triple A_ we can, but most people usually have double A_s around."
+AE_ID ES2010a.A.argumentstructs.Erik.3: "Okay. Yeah. But that has to do with the size of it too. Well, w as long as we know that issue is"
+AE_ID ES2010a.C.argumentstructs.Erik.4: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2010a.B.argumentstructs.Erik.2
+source=ES2010a.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.D.argumentstructs.Erik.4:
+"Yeah, if we want it to be more thin, then we'd probably wanna go with a triple A_."
+
+Past dialogue turns:
+AE_ID ES2010a.C.argumentstructs.6: "Yeah, I guess then it's"
+AE_ID ES2010a.C.argumentstructs.Erik.3: "If we need to do triple A_ we can, but most people usually have double A_s around."
+AE_ID ES2010a.A.argumentstructs.Erik.3: "Okay. Yeah. But that has to do with the size of it too. Well, w as long as we know that issue is"
+AE_ID ES2010a.C.argumentstructs.Erik.4: "Right."
+AE_ID ES2010a.B.argumentstructs.Erik.2: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2010a.D.argumentstructs.Erik.4
+source=ES2010a.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.A.argumentstructs.5:
+"Here we can"
+
+Past dialogue turns:
+AE_ID ES2010a.C.argumentstructs.Erik.3: "If we need to do triple A_ we can, but most people usually have double A_s around."
+AE_ID ES2010a.A.argumentstructs.Erik.3: "Okay. Yeah. But that has to do with the size of it too. Well, w as long as we know that issue is"
+AE_ID ES2010a.C.argumentstructs.Erik.4: "Right."
+AE_ID ES2010a.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2010a.D.argumentstructs.Erik.4: "Yeah, if we want it to be more thin, then we'd probably wanna go with a triple A_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2010a.A.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.A.argumentstructs.Erik.4:
+"Triple A. But it's okay, we don't have to decide about it now, just as long as we remember battery type and size is important"
+
+Past dialogue turns:
+AE_ID ES2010a.A.argumentstructs.Erik.3: "Okay. Yeah. But that has to do with the size of it too. Well, w as long as we know that issue is"
+AE_ID ES2010a.C.argumentstructs.Erik.4: "Right."
+AE_ID ES2010a.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2010a.D.argumentstructs.Erik.4: "Yeah, if we want it to be more thin, then we'd probably wanna go with a triple A_."
+AE_ID ES2010a.A.argumentstructs.5: "Here we can"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2010a.A.argumentstructs.Erik.4
+source=ES2010a.D.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010a.A.argumentstructs.6:
+". Hey. Anything else ?"
+
+Past dialogue turns:
+AE_ID ES2010a.C.argumentstructs.Erik.4: "Right."
+AE_ID ES2010a.B.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2010a.D.argumentstructs.Erik.4: "Yeah, if we want it to be more thin, then we'd probably wanna go with a triple A_."
+AE_ID ES2010a.A.argumentstructs.5: "Here we can"
+AE_ID ES2010a.A.argumentstructs.Erik.4: "Triple A. But it's okay, we don't have to decide about it now, just as long as we remember battery type and size is important"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010a.A.argumentstructs.5
+---------------------------------
+target=ES2010a.A.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2010a-ES2010a - Batteries.csv - True Judgement Ratio: 42.11%

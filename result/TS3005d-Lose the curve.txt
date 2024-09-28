@@ -1,0 +1,362 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.C.argumentstructs.Daan.1:
+"Okay, so we don't exactly need the single  We don't need a curve. 'S possible to lose curve."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3005d.C.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.13:
+"But w d wha"
+
+Past dialogue turns:
+AE_ID TS3005d.C.argumentstructs.Daan.1: "Okay, so we don't exactly need the single  We don't need a curve. 'S possible to lose curve."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3005d.D.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.10:
+"No, the curve doesn't really"
+
+Past dialogue turns:
+AE_ID TS3005d.C.argumentstructs.Daan.1: "Okay, so we don't exactly need the single  We don't need a curve. 'S possible to lose curve."
+AE_ID TS3005d.D.argumentstructs.13: "But w d wha"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3005d.B.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.Daan.1:
+"Curved then it will be square."
+
+Past dialogue turns:
+AE_ID TS3005d.C.argumentstructs.Daan.1: "Okay, so we don't exactly need the single  We don't need a curve. 'S possible to lose curve."
+AE_ID TS3005d.D.argumentstructs.13: "But w d wha"
+AE_ID TS3005d.B.argumentstructs.10: "No, the curve doesn't really"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3005d.D.argumentstructs.Daan.1
+source=TS3005d.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.Daan.1:
+"No, then it will  won't uh stand up from the table. Then it would just"
+
+Past dialogue turns:
+AE_ID TS3005d.C.argumentstructs.Daan.1: "Okay, so we don't exactly need the single  We don't need a curve. 'S possible to lose curve."
+AE_ID TS3005d.D.argumentstructs.13: "But w d wha"
+AE_ID TS3005d.B.argumentstructs.10: "No, the curve doesn't really"
+AE_ID TS3005d.D.argumentstructs.Daan.1: "Curved then it will be square."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.10
+---------------------------------
+target=TS3005d.B.argumentstructs.Daan.1
+source=TS3005d.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.C.argumentstructs.Daan.2:
+"Okay.  Yeah, that's meant with scr uh with s curve. The curve is uh in a dimension. If you make it a flat one, s n it's no curve, you got no curves. Yeah, okay."
+
+Past dialogue turns:
+AE_ID TS3005d.C.argumentstructs.Daan.1: "Okay, so we don't exactly need the single  We don't need a curve. 'S possible to lose curve."
+AE_ID TS3005d.D.argumentstructs.13: "But w d wha"
+AE_ID TS3005d.B.argumentstructs.10: "No, the curve doesn't really"
+AE_ID TS3005d.D.argumentstructs.Daan.1: "Curved then it will be square."
+AE_ID TS3005d.B.argumentstructs.Daan.1: "No, then it will  won't uh stand up from the table. Then it would just"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.C.argumentstructs.Daan.1
+---------------------------------
+target=TS3005d.C.argumentstructs.Daan.2
+source=TS3005d.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.Daan.2:
+"Was that  does that mean to it, single curve ?"
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.13: "But w d wha"
+AE_ID TS3005d.B.argumentstructs.10: "No, the curve doesn't really"
+AE_ID TS3005d.D.argumentstructs.Daan.1: "Curved then it will be square."
+AE_ID TS3005d.B.argumentstructs.Daan.1: "No, then it will  won't uh stand up from the table. Then it would just"
+AE_ID TS3005d.C.argumentstructs.Daan.2: "Okay.  Yeah, that's meant with scr uh with s curve. The curve is uh in a dimension. If you make it a flat one, s n it's no curve, you got no curves. Yeah, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3005d.D.argumentstructs.Daan.2
+source=TS3005d.C.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.Daan.2:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3005d.B.argumentstructs.10: "No, the curve doesn't really"
+AE_ID TS3005d.D.argumentstructs.Daan.1: "Curved then it will be square."
+AE_ID TS3005d.B.argumentstructs.Daan.1: "No, then it will  won't uh stand up from the table. Then it would just"
+AE_ID TS3005d.C.argumentstructs.Daan.2: "Okay.  Yeah, that's meant with scr uh with s curve. The curve is uh in a dimension. If you make it a flat one, s n it's no curve, you got no curves. Yeah, okay."
+AE_ID TS3005d.D.argumentstructs.Daan.2: "Was that  does that mean to it, single curve ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3005d.B.argumentstructs.Daan.2
+source=TS3005d.D.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.14:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.Daan.1: "Curved then it will be square."
+AE_ID TS3005d.B.argumentstructs.Daan.1: "No, then it will  won't uh stand up from the table. Then it would just"
+AE_ID TS3005d.C.argumentstructs.Daan.2: "Okay.  Yeah, that's meant with scr uh with s curve. The curve is uh in a dimension. If you make it a flat one, s n it's no curve, you got no curves. Yeah, okay."
+AE_ID TS3005d.D.argumentstructs.Daan.2: "Was that  does that mean to it, single curve ?"
+AE_ID TS3005d.B.argumentstructs.Daan.2: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.C.argumentstructs.Daan.2
+---------------------------------
+target=TS3005d.D.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.11:
+"So"
+
+Past dialogue turns:
+AE_ID TS3005d.B.argumentstructs.Daan.1: "No, then it will  won't uh stand up from the table. Then it would just"
+AE_ID TS3005d.C.argumentstructs.Daan.2: "Okay.  Yeah, that's meant with scr uh with s curve. The curve is uh in a dimension. If you make it a flat one, s n it's no curve, you got no curves. Yeah, okay."
+AE_ID TS3005d.D.argumentstructs.Daan.2: "Was that  does that mean to it, single curve ?"
+AE_ID TS3005d.B.argumentstructs.Daan.2: "Yeah."
+AE_ID TS3005d.D.argumentstructs.14: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.2
+---------------------------------
+target=TS3005d.B.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.Daan.3:
+"We would lose this one ?"
+
+Past dialogue turns:
+AE_ID TS3005d.C.argumentstructs.Daan.2: "Okay.  Yeah, that's meant with scr uh with s curve. The curve is uh in a dimension. If you make it a flat one, s n it's no curve, you got no curves. Yeah, okay."
+AE_ID TS3005d.D.argumentstructs.Daan.2: "Was that  does that mean to it, single curve ?"
+AE_ID TS3005d.B.argumentstructs.Daan.2: "Yeah."
+AE_ID TS3005d.D.argumentstructs.14: "Okay."
+AE_ID TS3005d.B.argumentstructs.11: "So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.2
+---------------------------------
+target=TS3005d.B.argumentstructs.Daan.3
+source=TS3005d.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.Daan.3:
+"Yeah, but tha that that only is one."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.Daan.2: "Was that  does that mean to it, single curve ?"
+AE_ID TS3005d.B.argumentstructs.Daan.2: "Yeah."
+AE_ID TS3005d.D.argumentstructs.14: "Okay."
+AE_ID TS3005d.B.argumentstructs.11: "So"
+AE_ID TS3005d.B.argumentstructs.Daan.3: "We would lose this one ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.2
+---------------------------------
+target=TS3005d.D.argumentstructs.Daan.3
+source=TS3005d.B.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.B.argumentstructs.Daan.4:
+"Yeah, we could s yeah, a bit."
+
+Past dialogue turns:
+AE_ID TS3005d.B.argumentstructs.Daan.2: "Yeah."
+AE_ID TS3005d.D.argumentstructs.14: "Okay."
+AE_ID TS3005d.B.argumentstructs.11: "So"
+AE_ID TS3005d.B.argumentstructs.Daan.3: "We would lose this one ?"
+AE_ID TS3005d.D.argumentstructs.Daan.3: "Yeah, but tha that that only is one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.3
+---------------------------------
+target=TS3005d.B.argumentstructs.Daan.4
+source=TS3005d.B.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.C.argumentstructs.Daan.3:
+"No, two."
+
+Past dialogue turns:
+AE_ID TS3005d.D.argumentstructs.14: "Okay."
+AE_ID TS3005d.B.argumentstructs.11: "So"
+AE_ID TS3005d.B.argumentstructs.Daan.3: "We would lose this one ?"
+AE_ID TS3005d.D.argumentstructs.Daan.3: "Yeah, but tha that that only is one."
+AE_ID TS3005d.B.argumentstructs.Daan.4: "Yeah, we could s yeah, a bit."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.B.argumentstructs.Daan.3
+---------------------------------
+target=TS3005d.C.argumentstructs.Daan.3
+source=TS3005d.D.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005d.D.argumentstructs.Daan.4:
+"No, one."
+
+Past dialogue turns:
+AE_ID TS3005d.B.argumentstructs.11: "So"
+AE_ID TS3005d.B.argumentstructs.Daan.3: "We would lose this one ?"
+AE_ID TS3005d.D.argumentstructs.Daan.3: "Yeah, but tha that that only is one."
+AE_ID TS3005d.B.argumentstructs.Daan.4: "Yeah, we could s yeah, a bit."
+AE_ID TS3005d.C.argumentstructs.Daan.3: "No, two."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005d.D.argumentstructs.Daan.3
+---------------------------------
+target=TS3005d.D.argumentstructs.Daan.4
+source=TS3005d.C.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3005d-Lose the curve.csv - True Judgement Ratio: 33.33%

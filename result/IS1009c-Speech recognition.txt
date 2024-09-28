@@ -1,0 +1,512 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.Daan.4:
+"Okay. Uh that concludes the presentation of everyone. And what we really have to decide in this meeting is um the concept of the remote."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1009c.A.argumentstructs.Daan.4
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.D.argumentstructs.9:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.4: "Okay. Uh that concludes the presentation of everyone. And what we really have to decide in this meeting is um the concept of the remote."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.4
+---------------------------------
+target=IS1009c.D.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.Daan.5:
+"And uh so what do we think on the concept"
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.4: "Okay. Uh that concludes the presentation of everyone. And what we really have to decide in this meeting is um the concept of the remote."
+AE_ID IS1009c.D.argumentstructs.9: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.4
+---------------------------------
+target=IS1009c.A.argumentstructs.Daan.5
+source=IS1009c.A.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.Daan.6:
+"of the remote ?"
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.4: "Okay. Uh that concludes the presentation of everyone. And what we really have to decide in this meeting is um the concept of the remote."
+AE_ID IS1009c.D.argumentstructs.9: "Mm-hmm."
+AE_ID IS1009c.A.argumentstructs.Daan.5: "And uh so what do we think on the concept"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.4
+---------------------------------
+target=IS1009c.A.argumentstructs.Daan.6
+source=IS1009c.A.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.D.argumentstructs.Daan.3:
+"You wanna try to come back to yours, and limit yours a bit ?"
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.4: "Okay. Uh that concludes the presentation of everyone. And what we really have to decide in this meeting is um the concept of the remote."
+AE_ID IS1009c.D.argumentstructs.9: "Mm-hmm."
+AE_ID IS1009c.A.argumentstructs.Daan.5: "And uh so what do we think on the concept"
+AE_ID IS1009c.A.argumentstructs.Daan.6: "of the remote ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.5
+---------------------------------
+target=IS1009c.D.argumentstructs.Daan.3
+source=IS1009c.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.Daan.7:
+"Uh yes, I would like to include this feature which is called as voice recogniser."
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.4: "Okay. Uh that concludes the presentation of everyone. And what we really have to decide in this meeting is um the concept of the remote."
+AE_ID IS1009c.D.argumentstructs.9: "Mm-hmm."
+AE_ID IS1009c.A.argumentstructs.Daan.5: "And uh so what do we think on the concept"
+AE_ID IS1009c.A.argumentstructs.Daan.6: "of the remote ?"
+AE_ID IS1009c.D.argumentstructs.Daan.3: "You wanna try to come back to yours, and limit yours a bit ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.4
+---------------------------------
+target=IS1009c.B.argumentstructs.Daan.7
+source=IS1009c.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.D.argumentstructs.10:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1009c.D.argumentstructs.9: "Mm-hmm."
+AE_ID IS1009c.A.argumentstructs.Daan.5: "And uh so what do we think on the concept"
+AE_ID IS1009c.A.argumentstructs.Daan.6: "of the remote ?"
+AE_ID IS1009c.D.argumentstructs.Daan.3: "You wanna try to come back to yours, and limit yours a bit ?"
+AE_ID IS1009c.B.argumentstructs.Daan.7: "Uh yes, I would like to include this feature which is called as voice recogniser."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.D.argumentstructs.9
+---------------------------------
+target=IS1009c.D.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.C.argumentstructs.9:
+"Mm-hmm. Yeah, but w Yeah."
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.5: "And uh so what do we think on the concept"
+AE_ID IS1009c.A.argumentstructs.Daan.6: "of the remote ?"
+AE_ID IS1009c.D.argumentstructs.Daan.3: "You wanna try to come back to yours, and limit yours a bit ?"
+AE_ID IS1009c.B.argumentstructs.Daan.7: "Uh yes, I would like to include this feature which is called as voice recogniser."
+AE_ID IS1009c.D.argumentstructs.10: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.5
+---------------------------------
+target=IS1009c.C.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.D.argumentstructs.Daan.4:
+"So speech recognition is most important as far as you're concerned ?"
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.6: "of the remote ?"
+AE_ID IS1009c.D.argumentstructs.Daan.3: "You wanna try to come back to yours, and limit yours a bit ?"
+AE_ID IS1009c.B.argumentstructs.Daan.7: "Uh yes, I would like to include this feature which is called as voice recogniser."
+AE_ID IS1009c.D.argumentstructs.10: "Okay."
+AE_ID IS1009c.C.argumentstructs.9: "Mm-hmm. Yeah, but w Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.B.argumentstructs.Daan.7
+---------------------------------
+target=IS1009c.D.argumentstructs.Daan.4
+source=IS1009c.B.argumentstructs.Daan.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.Daan.8:
+"This could be uh one feature which could be sellable."
+
+Past dialogue turns:
+AE_ID IS1009c.D.argumentstructs.Daan.3: "You wanna try to come back to yours, and limit yours a bit ?"
+AE_ID IS1009c.B.argumentstructs.Daan.7: "Uh yes, I would like to include this feature which is called as voice recogniser."
+AE_ID IS1009c.D.argumentstructs.10: "Okay."
+AE_ID IS1009c.C.argumentstructs.9: "Mm-hmm. Yeah, but w Yeah."
+AE_ID IS1009c.D.argumentstructs.Daan.4: "So speech recognition is most important as far as you're concerned ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.B.argumentstructs.Daan.7
+---------------------------------
+target=IS1009c.B.argumentstructs.Daan.8
+source=IS1009c.D.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.D.argumentstructs.Daan.5:
+"Yeah h that could that could that could be our star feature. That that  be really good, yeah, I agree with that."
+
+Past dialogue turns:
+AE_ID IS1009c.B.argumentstructs.Daan.7: "Uh yes, I would like to include this feature which is called as voice recogniser."
+AE_ID IS1009c.D.argumentstructs.10: "Okay."
+AE_ID IS1009c.C.argumentstructs.9: "Mm-hmm. Yeah, but w Yeah."
+AE_ID IS1009c.D.argumentstructs.Daan.4: "So speech recognition is most important as far as you're concerned ?"
+AE_ID IS1009c.B.argumentstructs.Daan.8: "This could be uh one feature which could be sellable."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.B.argumentstructs.Daan.7
+---------------------------------
+target=IS1009c.D.argumentstructs.Daan.5
+source=IS1009c.B.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.C.argumentstructs.Daan.4:
+"Yeah, but but I what I'm uh very very much doubtful how  how uh far it will work, because a speech recogniser like i it it has its own uh uh problems, issues."
+
+Past dialogue turns:
+AE_ID IS1009c.D.argumentstructs.10: "Okay."
+AE_ID IS1009c.C.argumentstructs.9: "Mm-hmm. Yeah, but w Yeah."
+AE_ID IS1009c.D.argumentstructs.Daan.4: "So speech recognition is most important as far as you're concerned ?"
+AE_ID IS1009c.B.argumentstructs.Daan.8: "This could be uh one feature which could be sellable."
+AE_ID IS1009c.D.argumentstructs.Daan.5: "Yeah h that could that could that could be our star feature. That that  be really good, yeah, I agree with that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.D.argumentstructs.Daan.4
+---------------------------------
+target=IS1009c.C.argumentstructs.Daan.4
+source=IS1009c.B.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.12:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1009c.C.argumentstructs.9: "Mm-hmm. Yeah, but w Yeah."
+AE_ID IS1009c.D.argumentstructs.Daan.4: "So speech recognition is most important as far as you're concerned ?"
+AE_ID IS1009c.B.argumentstructs.Daan.8: "This could be uh one feature which could be sellable."
+AE_ID IS1009c.D.argumentstructs.Daan.5: "Yeah h that could that could that could be our star feature. That that  be really good, yeah, I agree with that."
+AE_ID IS1009c.C.argumentstructs.Daan.4: "Yeah, but but I what I'm uh very very much doubtful how  how uh far it will work, because a speech recogniser like i it it has its own uh uh problems, issues."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.D.argumentstructs.Daan.5
+---------------------------------
+target=IS1009c.A.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.D.argumentstructs.Daan.6:
+"Distance problem ?"
+
+Past dialogue turns:
+AE_ID IS1009c.D.argumentstructs.Daan.4: "So speech recognition is most important as far as you're concerned ?"
+AE_ID IS1009c.B.argumentstructs.Daan.8: "This could be uh one feature which could be sellable."
+AE_ID IS1009c.D.argumentstructs.Daan.5: "Yeah h that could that could that could be our star feature. That that  be really good, yeah, I agree with that."
+AE_ID IS1009c.C.argumentstructs.Daan.4: "Yeah, but but I what I'm uh very very much doubtful how  how uh far it will work, because a speech recogniser like i it it has its own uh uh problems, issues."
+AE_ID IS1009c.A.argumentstructs.12: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.C.argumentstructs.Daan.4
+---------------------------------
+target=IS1009c.D.argumentstructs.Daan.6
+source=IS1009c.C.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.C.argumentstructs.Daan.5:
+"Yeah, it's not distance problem it it's recognising a person's voice, like maybe different people will be having different voices, so it like it's uh  everything so i"
+
+Past dialogue turns:
+AE_ID IS1009c.B.argumentstructs.Daan.8: "This could be uh one feature which could be sellable."
+AE_ID IS1009c.D.argumentstructs.Daan.5: "Yeah h that could that could that could be our star feature. That that  be really good, yeah, I agree with that."
+AE_ID IS1009c.C.argumentstructs.Daan.4: "Yeah, but but I what I'm uh very very much doubtful how  how uh far it will work, because a speech recogniser like i it it has its own uh uh problems, issues."
+AE_ID IS1009c.A.argumentstructs.12: "Mm-hmm."
+AE_ID IS1009c.D.argumentstructs.Daan.6: "Distance problem ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.D.argumentstructs.Daan.5
+---------------------------------
+target=IS1009c.C.argumentstructs.Daan.5
+source=IS1009c.D.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.13:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1009c.D.argumentstructs.Daan.5: "Yeah h that could that could that could be our star feature. That that  be really good, yeah, I agree with that."
+AE_ID IS1009c.C.argumentstructs.Daan.4: "Yeah, but but I what I'm uh very very much doubtful how  how uh far it will work, because a speech recogniser like i it it has its own uh uh problems, issues."
+AE_ID IS1009c.A.argumentstructs.12: "Mm-hmm."
+AE_ID IS1009c.D.argumentstructs.Daan.6: "Distance problem ?"
+AE_ID IS1009c.C.argumentstructs.Daan.5: "Yeah, it's not distance problem it it's recognising a person's voice, like maybe different people will be having different voices, so it like it's uh  everything so i"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.12
+---------------------------------
+target=IS1009c.B.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.D.argumentstructs.11:
+"Uh."
+
+Past dialogue turns:
+AE_ID IS1009c.C.argumentstructs.Daan.4: "Yeah, but but I what I'm uh very very much doubtful how  how uh far it will work, because a speech recogniser like i it it has its own uh uh problems, issues."
+AE_ID IS1009c.A.argumentstructs.12: "Mm-hmm."
+AE_ID IS1009c.D.argumentstructs.Daan.6: "Distance problem ?"
+AE_ID IS1009c.C.argumentstructs.Daan.5: "Yeah, it's not distance problem it it's recognising a person's voice, like maybe different people will be having different voices, so it like it's uh  everything so i"
+AE_ID IS1009c.B.argumentstructs.13: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.C.argumentstructs.Daan.4
+---------------------------------
+target=IS1009c.D.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.Daan.7:
+"Well, you you teach  You have to teach uh"
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.12: "Mm-hmm."
+AE_ID IS1009c.D.argumentstructs.Daan.6: "Distance problem ?"
+AE_ID IS1009c.C.argumentstructs.Daan.5: "Yeah, it's not distance problem it it's recognising a person's voice, like maybe different people will be having different voices, so it like it's uh  everything so i"
+AE_ID IS1009c.B.argumentstructs.13: "Mm-hmm."
+AE_ID IS1009c.D.argumentstructs.11: "Uh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.C.argumentstructs.Daan.5
+---------------------------------
+target=IS1009c.A.argumentstructs.Daan.7
+source=IS1009c.C.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.C.argumentstructs.Daan.6:
+"So to get a good recogni recognising system, it's a costly thing, I think."
+
+Past dialogue turns:
+AE_ID IS1009c.D.argumentstructs.Daan.6: "Distance problem ?"
+AE_ID IS1009c.C.argumentstructs.Daan.5: "Yeah, it's not distance problem it it's recognising a person's voice, like maybe different people will be having different voices, so it like it's uh  everything so i"
+AE_ID IS1009c.B.argumentstructs.13: "Mm-hmm."
+AE_ID IS1009c.D.argumentstructs.11: "Uh."
+AE_ID IS1009c.A.argumentstructs.Daan.7: "Well, you you teach  You have to teach uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.C.argumentstructs.Daan.5
+---------------------------------
+target=IS1009c.C.argumentstructs.Daan.6
+source=IS1009c.C.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.Daan.9:
+"No, it's it's, uh yeah, it it's like your recording of uh all uh um a question already, and then you're expecting an answer from th For example, you have a T_V_ system, I'm the user and my family members are the user, I will already record uh a question like, uh good morning, like around eight o'clock I want to see the news in the television. So I'll say just good morning and the T_V_ will switch on. It will recognise my voice and will switch on."
+
+Past dialogue turns:
+AE_ID IS1009c.C.argumentstructs.Daan.5: "Yeah, it's not distance problem it it's recognising a person's voice, like maybe different people will be having different voices, so it like it's uh  everything so i"
+AE_ID IS1009c.B.argumentstructs.13: "Mm-hmm."
+AE_ID IS1009c.D.argumentstructs.11: "Uh."
+AE_ID IS1009c.A.argumentstructs.Daan.7: "Well, you you teach  You have to teach uh"
+AE_ID IS1009c.C.argumentstructs.Daan.6: "So to get a good recogni recognising system, it's a costly thing, I think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.C.argumentstructs.Daan.5
+---------------------------------
+target=IS1009c.B.argumentstructs.Daan.9
+source=IS1009c.C.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.C.argumentstructs.10:
+"Yeah. Mm-hmm. Mm-hmm. Mm-hmm. Yeah."
+
+Past dialogue turns:
+AE_ID IS1009c.B.argumentstructs.13: "Mm-hmm."
+AE_ID IS1009c.D.argumentstructs.11: "Uh."
+AE_ID IS1009c.A.argumentstructs.Daan.7: "Well, you you teach  You have to teach uh"
+AE_ID IS1009c.C.argumentstructs.Daan.6: "So to get a good recogni recognising system, it's a costly thing, I think."
+AE_ID IS1009c.B.argumentstructs.Daan.9: "No, it's it's, uh yeah, it it's like your recording of uh all uh um a question already, and then you're expecting an answer from th For example, you have a T_V_ system, I'm the user and my family members are the user, I will already record uh a question like, uh good morning, like around eight o'clock I want to see the news in the television. So I'll say just good morning and the T_V_ will switch on. It will recognise my voice and will switch on."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.B.argumentstructs.13
+---------------------------------
+target=IS1009c.C.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1009c-Speech recognition.csv - True Judgement Ratio: 33.33%

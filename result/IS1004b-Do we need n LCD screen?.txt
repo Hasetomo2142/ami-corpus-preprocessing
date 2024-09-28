@@ -1,0 +1,712 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.20:
+"one question, what would be the goal of putting an L_C_D_ in a remote control ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1004b.D.argumentstructs.20
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.16:
+"Well th"
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.20: "one question, what would be the goal of putting an L_C_D_ in a remote control ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.D.argumentstructs.20
+---------------------------------
+target=IS1004b.B.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.11:
+"What what kind of information ?"
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.20: "one question, what would be the goal of putting an L_C_D_ in a remote control ?"
+AE_ID IS1004b.B.argumentstructs.16: "Well th"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.D.argumentstructs.20
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.9:
+"'Cause you can have things like the programme name instead of the channel numbers, like an interactive programme guide."
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.20: "one question, what would be the goal of putting an L_C_D_ in a remote control ?"
+AE_ID IS1004b.B.argumentstructs.16: "Well th"
+AE_ID IS1004b.D.argumentstructs.Rutger.11: "What what kind of information ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.D.argumentstructs.20
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.9
+source=IS1004b.D.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.12:
+"Yeah but mo most of the T_V_s nowadays show the show the"
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.20: "one question, what would be the goal of putting an L_C_D_ in a remote control ?"
+AE_ID IS1004b.B.argumentstructs.16: "Well th"
+AE_ID IS1004b.D.argumentstructs.Rutger.11: "What what kind of information ?"
+AE_ID IS1004b.B.argumentstructs.Rutger.9: "'Cause you can have things like the programme name instead of the channel numbers, like an interactive programme guide."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.D.argumentstructs.Rutger.11
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.12
+source=IS1004b.B.argumentstructs.Rutger.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.20:
+"They have tele teletext."
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.20: "one question, what would be the goal of putting an L_C_D_ in a remote control ?"
+AE_ID IS1004b.B.argumentstructs.16: "Well th"
+AE_ID IS1004b.D.argumentstructs.Rutger.11: "What what kind of information ?"
+AE_ID IS1004b.B.argumentstructs.Rutger.9: "'Cause you can have things like the programme name instead of the channel numbers, like an interactive programme guide."
+AE_ID IS1004b.D.argumentstructs.Rutger.12: "Yeah but mo most of the T_V_s nowadays show the show the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.16
+---------------------------------
+target=IS1004b.A.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.10:
+"Well, because they have teletext on it. Th th you have a teletext sin signal that you can that you can uh that you can get thr through the channel."
+
+Past dialogue turns:
+AE_ID IS1004b.B.argumentstructs.16: "Well th"
+AE_ID IS1004b.D.argumentstructs.Rutger.11: "What what kind of information ?"
+AE_ID IS1004b.B.argumentstructs.Rutger.9: "'Cause you can have things like the programme name instead of the channel numbers, like an interactive programme guide."
+AE_ID IS1004b.D.argumentstructs.Rutger.12: "Yeah but mo most of the T_V_s nowadays show the show the"
+AE_ID IS1004b.A.argumentstructs.20: "They have tele teletext."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.20
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.10
+source=IS1004b.D.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.21:
+"the n"
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.Rutger.11: "What what kind of information ?"
+AE_ID IS1004b.B.argumentstructs.Rutger.9: "'Cause you can have things like the programme name instead of the channel numbers, like an interactive programme guide."
+AE_ID IS1004b.D.argumentstructs.Rutger.12: "Yeah but mo most of the T_V_s nowadays show the show the"
+AE_ID IS1004b.A.argumentstructs.20: "They have tele teletext."
+AE_ID IS1004b.A.argumentstructs.Rutger.10: "Well, because they have teletext on it. Th th you have a teletext sin signal that you can that you can uh that you can get thr through the channel."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.20
+---------------------------------
+target=IS1004b.D.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.13:
+"Yeah but yeah most of the T_V_s have teletext nowadays."
+
+Past dialogue turns:
+AE_ID IS1004b.B.argumentstructs.Rutger.9: "'Cause you can have things like the programme name instead of the channel numbers, like an interactive programme guide."
+AE_ID IS1004b.D.argumentstructs.Rutger.12: "Yeah but mo most of the T_V_s nowadays show the show the"
+AE_ID IS1004b.A.argumentstructs.20: "They have tele teletext."
+AE_ID IS1004b.A.argumentstructs.Rutger.10: "Well, because they have teletext on it. Th th you have a teletext sin signal that you can that you can uh that you can get thr through the channel."
+AE_ID IS1004b.D.argumentstructs.21: "the n"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID IS1004b.A.argumentstructs.20
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.13
+source=IS1004b.A.argumentstructs.Rutger.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.11:
+"They have t most of them have teletext, but we want to get rid  well one of our requirements is to uh to move to teletext to uh to the use of internet. So to to uh"
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.Rutger.12: "Yeah but mo most of the T_V_s nowadays show the show the"
+AE_ID IS1004b.A.argumentstructs.20: "They have tele teletext."
+AE_ID IS1004b.A.argumentstructs.Rutger.10: "Well, because they have teletext on it. Th th you have a teletext sin signal that you can that you can uh that you can get thr through the channel."
+AE_ID IS1004b.D.argumentstructs.21: "the n"
+AE_ID IS1004b.D.argumentstructs.Rutger.13: "Yeah but yeah most of the T_V_s have teletext nowadays."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.20
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.11
+source=IS1004b.A.argumentstructs.Rutger.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.14:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.20: "They have tele teletext."
+AE_ID IS1004b.A.argumentstructs.Rutger.10: "Well, because they have teletext on it. Th th you have a teletext sin signal that you can that you can uh that you can get thr through the channel."
+AE_ID IS1004b.D.argumentstructs.21: "the n"
+AE_ID IS1004b.D.argumentstructs.Rutger.13: "Yeah but yeah most of the T_V_s have teletext nowadays."
+AE_ID IS1004b.A.argumentstructs.Rutger.11: "They have t most of them have teletext, but we want to get rid  well one of our requirements is to uh to move to teletext to uh to the use of internet. So to to uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.D.argumentstructs.Rutger.13
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.14
+source=IS1004b.A.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.10:
+"You can get a lot more information on it."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.10: "Well, because they have teletext on it. Th th you have a teletext sin signal that you can that you can uh that you can get thr through the channel."
+AE_ID IS1004b.D.argumentstructs.21: "the n"
+AE_ID IS1004b.D.argumentstructs.Rutger.13: "Yeah but yeah most of the T_V_s have teletext nowadays."
+AE_ID IS1004b.A.argumentstructs.Rutger.11: "They have t most of them have teletext, but we want to get rid  well one of our requirements is to uh to move to teletext to uh to the use of internet. So to to uh"
+AE_ID IS1004b.D.argumentstructs.Rutger.14: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.11
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.10
+source=IS1004b.A.argumentstructs.Rutger.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.21:
+"to browse more easily the teletext."
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.21: "the n"
+AE_ID IS1004b.D.argumentstructs.Rutger.13: "Yeah but yeah most of the T_V_s have teletext nowadays."
+AE_ID IS1004b.A.argumentstructs.Rutger.11: "They have t most of them have teletext, but we want to get rid  well one of our requirements is to uh to move to teletext to uh to the use of internet. So to to uh"
+AE_ID IS1004b.D.argumentstructs.Rutger.14: "Yeah."
+AE_ID IS1004b.B.argumentstructs.Rutger.10: "You can get a lot more information on it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.D.argumentstructs.Rutger.13
+---------------------------------
+target=IS1004b.A.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.12:
+"For instance through uh through your remote control."
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.Rutger.13: "Yeah but yeah most of the T_V_s have teletext nowadays."
+AE_ID IS1004b.A.argumentstructs.Rutger.11: "They have t most of them have teletext, but we want to get rid  well one of our requirements is to uh to move to teletext to uh to the use of internet. So to to uh"
+AE_ID IS1004b.D.argumentstructs.Rutger.14: "Yeah."
+AE_ID IS1004b.B.argumentstructs.Rutger.10: "You can get a lot more information on it."
+AE_ID IS1004b.A.argumentstructs.21: "to browse more easily the teletext."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.11
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.12
+source=IS1004b.A.argumentstructs.Rutger.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.15:
+"So what would what would appear in the in the L_C_D_ ?"
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.11: "They have t most of them have teletext, but we want to get rid  well one of our requirements is to uh to move to teletext to uh to the use of internet. So to to uh"
+AE_ID IS1004b.D.argumentstructs.Rutger.14: "Yeah."
+AE_ID IS1004b.B.argumentstructs.Rutger.10: "You can get a lot more information on it."
+AE_ID IS1004b.A.argumentstructs.21: "to browse more easily the teletext."
+AE_ID IS1004b.A.argumentstructs.Rutger.12: "For instance through uh through your remote control."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.11
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.15
+source=IS1004b.D.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.11:
+"So you could have the name of the programme, you could have um the start time you know where it's up to."
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.Rutger.14: "Yeah."
+AE_ID IS1004b.B.argumentstructs.Rutger.10: "You can get a lot more information on it."
+AE_ID IS1004b.A.argumentstructs.21: "to browse more easily the teletext."
+AE_ID IS1004b.A.argumentstructs.Rutger.12: "For instance through uh through your remote control."
+AE_ID IS1004b.D.argumentstructs.Rutger.15: "So what would what would appear in the in the L_C_D_ ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.10
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.11
+source=IS1004b.D.argumentstructs.Rutger.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.13:
+"The ti the start time, all the p all the programmes you could have uh  o"
+
+Past dialogue turns:
+AE_ID IS1004b.B.argumentstructs.Rutger.10: "You can get a lot more information on it."
+AE_ID IS1004b.A.argumentstructs.21: "to browse more easily the teletext."
+AE_ID IS1004b.A.argumentstructs.Rutger.12: "For instance through uh through your remote control."
+AE_ID IS1004b.D.argumentstructs.Rutger.15: "So what would what would appear in the in the L_C_D_ ?"
+AE_ID IS1004b.B.argumentstructs.Rutger.11: "So you could have the name of the programme, you could have um the start time you know where it's up to."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.11
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.13
+source=IS1004b.B.argumentstructs.Rutger.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.12:
+"You could have a l even a little image of you know the c you know the the m the main actors or something so you can quickly just kind of  even without reading"
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.21: "to browse more easily the teletext."
+AE_ID IS1004b.A.argumentstructs.Rutger.12: "For instance through uh through your remote control."
+AE_ID IS1004b.D.argumentstructs.Rutger.15: "So what would what would appear in the in the L_C_D_ ?"
+AE_ID IS1004b.B.argumentstructs.Rutger.11: "So you could have the name of the programme, you could have um the start time you know where it's up to."
+AE_ID IS1004b.A.argumentstructs.Rutger.13: "The ti the start time, all the p all the programmes you could have uh  o"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.11
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.12
+source=IS1004b.D.argumentstructs.Rutger.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.16:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.12: "For instance through uh through your remote control."
+AE_ID IS1004b.D.argumentstructs.Rutger.15: "So what would what would appear in the in the L_C_D_ ?"
+AE_ID IS1004b.B.argumentstructs.Rutger.11: "So you could have the name of the programme, you could have um the start time you know where it's up to."
+AE_ID IS1004b.A.argumentstructs.Rutger.13: "The ti the start time, all the p all the programmes you could have uh  o"
+AE_ID IS1004b.B.argumentstructs.Rutger.12: "You could have a l even a little image of you know the c you know the the m the main actors or something so you can quickly just kind of  even without reading"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.11
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.16
+source=IS1004b.B.argumentstructs.Rutger.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.14:
+"Well I don't know if this information is available from teletext, also."
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.Rutger.15: "So what would what would appear in the in the L_C_D_ ?"
+AE_ID IS1004b.B.argumentstructs.Rutger.11: "So you could have the name of the programme, you could have um the start time you know where it's up to."
+AE_ID IS1004b.A.argumentstructs.Rutger.13: "The ti the start time, all the p all the programmes you could have uh  o"
+AE_ID IS1004b.B.argumentstructs.Rutger.12: "You could have a l even a little image of you know the c you know the the m the main actors or something so you can quickly just kind of  even without reading"
+AE_ID IS1004b.D.argumentstructs.Rutger.16: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.11
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.14
+source=IS1004b.B.argumentstructs.Rutger.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.13:
+"Well no, but there are the electronic programme guides out there. They may not have pictures, but maybe they do. There's  dependi it also depends on the country."
+
+Past dialogue turns:
+AE_ID IS1004b.B.argumentstructs.Rutger.11: "So you could have the name of the programme, you could have um the start time you know where it's up to."
+AE_ID IS1004b.A.argumentstructs.Rutger.13: "The ti the start time, all the p all the programmes you could have uh  o"
+AE_ID IS1004b.B.argumentstructs.Rutger.12: "You could have a l even a little image of you know the c you know the the m the main actors or something so you can quickly just kind of  even without reading"
+AE_ID IS1004b.D.argumentstructs.Rutger.16: "Okay."
+AE_ID IS1004b.A.argumentstructs.Rutger.14: "Well I don't know if this information is available from teletext, also."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.12
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.13
+source=IS1004b.A.argumentstructs.Rutger.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.C.argumentstructs.3:
+"Are"
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.13: "The ti the start time, all the p all the programmes you could have uh  o"
+AE_ID IS1004b.B.argumentstructs.Rutger.12: "You could have a l even a little image of you know the c you know the the m the main actors or something so you can quickly just kind of  even without reading"
+AE_ID IS1004b.D.argumentstructs.Rutger.16: "Okay."
+AE_ID IS1004b.A.argumentstructs.Rutger.14: "Well I don't know if this information is available from teletext, also."
+AE_ID IS1004b.B.argumentstructs.Rutger.13: "Well no, but there are the electronic programme guides out there. They may not have pictures, but maybe they do. There's  dependi it also depends on the country."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.13
+---------------------------------
+target=IS1004b.C.argumentstructs.3
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.22:
+"for the same reason that we cannot"
+
+Past dialogue turns:
+AE_ID IS1004b.B.argumentstructs.Rutger.12: "You could have a l even a little image of you know the c you know the the m the main actors or something so you can quickly just kind of  even without reading"
+AE_ID IS1004b.D.argumentstructs.Rutger.16: "Okay."
+AE_ID IS1004b.A.argumentstructs.Rutger.14: "Well I don't know if this information is available from teletext, also."
+AE_ID IS1004b.B.argumentstructs.Rutger.13: "Well no, but there are the electronic programme guides out there. They may not have pictures, but maybe they do. There's  dependi it also depends on the country."
+AE_ID IS1004b.C.argumentstructs.3: "Are"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.13
+---------------------------------
+target=IS1004b.A.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.15:
+"uh  informations on the T_V_. We c we couldn't grab information information which is not there."
+
+Past dialogue turns:
+AE_ID IS1004b.D.argumentstructs.Rutger.16: "Okay."
+AE_ID IS1004b.A.argumentstructs.Rutger.14: "Well I don't know if this information is available from teletext, also."
+AE_ID IS1004b.B.argumentstructs.Rutger.13: "Well no, but there are the electronic programme guides out there. They may not have pictures, but maybe they do. There's  dependi it also depends on the country."
+AE_ID IS1004b.C.argumentstructs.3: "Are"
+AE_ID IS1004b.A.argumentstructs.22: "for the same reason that we cannot"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.14
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.15
+source=IS1004b.B.argumentstructs.Rutger.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.14:
+"No but I mean with the internet you have flexibility of where you get your information from. So it may be possible that there are people out there providing that. Uh."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.14: "Well I don't know if this information is available from teletext, also."
+AE_ID IS1004b.B.argumentstructs.Rutger.13: "Well no, but there are the electronic programme guides out there. They may not have pictures, but maybe they do. There's  dependi it also depends on the country."
+AE_ID IS1004b.C.argumentstructs.3: "Are"
+AE_ID IS1004b.A.argumentstructs.22: "for the same reason that we cannot"
+AE_ID IS1004b.A.argumentstructs.Rutger.15: "uh  informations on the T_V_. We c we couldn't grab information information which is not there."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.13
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.14
+source=IS1004b.B.argumentstructs.Rutger.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.A.argumentstructs.Rutger.16:
+"So  so that mean w w we need an in an extra internet connection to use the remote control, if you want to browse, in addition to the T_V_, or uh or it should be a special T_V_ connected to"
+
+Past dialogue turns:
+AE_ID IS1004b.B.argumentstructs.Rutger.13: "Well no, but there are the electronic programme guides out there. They may not have pictures, but maybe they do. There's  dependi it also depends on the country."
+AE_ID IS1004b.C.argumentstructs.3: "Are"
+AE_ID IS1004b.A.argumentstructs.22: "for the same reason that we cannot"
+AE_ID IS1004b.A.argumentstructs.Rutger.15: "uh  informations on the T_V_. We c we couldn't grab information information which is not there."
+AE_ID IS1004b.B.argumentstructs.Rutger.14: "No but I mean with the internet you have flexibility of where you get your information from. So it may be possible that there are people out there providing that. Uh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.14
+---------------------------------
+target=IS1004b.A.argumentstructs.Rutger.16
+source=IS1004b.B.argumentstructs.Rutger.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.22:
+"But"
+
+Past dialogue turns:
+AE_ID IS1004b.C.argumentstructs.3: "Are"
+AE_ID IS1004b.A.argumentstructs.22: "for the same reason that we cannot"
+AE_ID IS1004b.A.argumentstructs.Rutger.15: "uh  informations on the T_V_. We c we couldn't grab information information which is not there."
+AE_ID IS1004b.B.argumentstructs.Rutger.14: "No but I mean with the internet you have flexibility of where you get your information from. So it may be possible that there are people out there providing that. Uh."
+AE_ID IS1004b.A.argumentstructs.Rutger.16: "So  so that mean w w we need an in an extra internet connection to use the remote control, if you want to browse, in addition to the T_V_, or uh or it should be a special T_V_ connected to"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.14
+---------------------------------
+target=IS1004b.D.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.D.argumentstructs.Rutger.17:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.22: "for the same reason that we cannot"
+AE_ID IS1004b.A.argumentstructs.Rutger.15: "uh  informations on the T_V_. We c we couldn't grab information information which is not there."
+AE_ID IS1004b.B.argumentstructs.Rutger.14: "No but I mean with the internet you have flexibility of where you get your information from. So it may be possible that there are people out there providing that. Uh."
+AE_ID IS1004b.A.argumentstructs.Rutger.16: "So  so that mean w w we need an in an extra internet connection to use the remote control, if you want to browse, in addition to the T_V_, or uh or it should be a special T_V_ connected to"
+AE_ID IS1004b.D.argumentstructs.22: "But"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.B.argumentstructs.Rutger.14
+---------------------------------
+target=IS1004b.D.argumentstructs.Rutger.17
+source=IS1004b.A.argumentstructs.Rutger.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004b.B.argumentstructs.Rutger.15:
+"Well I I think if we're gonna  I think we would definitely need the internet connection because even with y I don't think you could even get teletext information from the T_V_ onto the remote control, especially if we don't control the T_V_. I dunno. We need to find that out."
+
+Past dialogue turns:
+AE_ID IS1004b.A.argumentstructs.Rutger.15: "uh  informations on the T_V_. We c we couldn't grab information information which is not there."
+AE_ID IS1004b.B.argumentstructs.Rutger.14: "No but I mean with the internet you have flexibility of where you get your information from. So it may be possible that there are people out there providing that. Uh."
+AE_ID IS1004b.A.argumentstructs.Rutger.16: "So  so that mean w w we need an in an extra internet connection to use the remote control, if you want to browse, in addition to the T_V_, or uh or it should be a special T_V_ connected to"
+AE_ID IS1004b.D.argumentstructs.22: "But"
+AE_ID IS1004b.D.argumentstructs.Rutger.17: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004b.A.argumentstructs.Rutger.15
+---------------------------------
+target=IS1004b.B.argumentstructs.Rutger.15
+source=IS1004b.A.argumentstructs.Rutger.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1004b-Do we need n LCD screen?.csv - True Judgement Ratio: 17.24%

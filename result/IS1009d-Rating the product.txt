@@ -1,0 +1,887 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.9:
+"You ready. So now we're all supposed to say what we think. Um okay so on shape"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.9
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.10:
+"I gave it a one."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.9: "You ready. So now we're all supposed to say what we think. Um okay so on shape"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.9
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.10
+source=IS1009d.D.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.11:
+"Wait what would you ra uh one being good and seven being the worst. Um what do you think the shape is ? One, okay, and Be Betsy ?"
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.9: "You ready. So now we're all supposed to say what we think. Um okay so on shape"
+AE_ID IS1009d.D.argumentstructs.Daan.10: "I gave it a one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.10
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.11
+source=IS1009d.D.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.B.argumentstructs.Daan.2:
+"Worse, okay. One."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.9: "You ready. So now we're all supposed to say what we think. Um okay so on shape"
+AE_ID IS1009d.D.argumentstructs.Daan.10: "I gave it a one."
+AE_ID IS1009d.D.argumentstructs.Daan.11: "Wait what would you ra uh one being good and seven being the worst. Um what do you think the shape is ? One, okay, and Be Betsy ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.10
+---------------------------------
+target=IS1009d.B.argumentstructs.Daan.2
+source=IS1009d.D.argumentstructs.Daan.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.Daan.15:
+"Yes I think uh shape is one."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.9: "You ready. So now we're all supposed to say what we think. Um okay so on shape"
+AE_ID IS1009d.D.argumentstructs.Daan.10: "I gave it a one."
+AE_ID IS1009d.D.argumentstructs.Daan.11: "Wait what would you ra uh one being good and seven being the worst. Um what do you think the shape is ? One, okay, and Be Betsy ?"
+AE_ID IS1009d.B.argumentstructs.Daan.2: "Worse, okay. One."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.11
+---------------------------------
+target=IS1009d.A.argumentstructs.Daan.15
+source=IS1009d.D.argumentstructs.Daan.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.C.argumentstructs.Daan.7:
+"Yeah, even my  yeah, shape is one."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.9: "You ready. So now we're all supposed to say what we think. Um okay so on shape"
+AE_ID IS1009d.D.argumentstructs.Daan.10: "I gave it a one."
+AE_ID IS1009d.D.argumentstructs.Daan.11: "Wait what would you ra uh one being good and seven being the worst. Um what do you think the shape is ? One, okay, and Be Betsy ?"
+AE_ID IS1009d.B.argumentstructs.Daan.2: "Worse, okay. One."
+AE_ID IS1009d.A.argumentstructs.Daan.15: "Yes I think uh shape is one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.11
+---------------------------------
+target=IS1009d.C.argumentstructs.Daan.7
+source=IS1009d.D.argumentstructs.Daan.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.12:
+"Okay, uh-huh one, okay. And how about on size ?"
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.10: "I gave it a one."
+AE_ID IS1009d.D.argumentstructs.Daan.11: "Wait what would you ra uh one being good and seven being the worst. Um what do you think the shape is ? One, okay, and Be Betsy ?"
+AE_ID IS1009d.B.argumentstructs.Daan.2: "Worse, okay. One."
+AE_ID IS1009d.A.argumentstructs.Daan.15: "Yes I think uh shape is one."
+AE_ID IS1009d.C.argumentstructs.Daan.7: "Yeah, even my  yeah, shape is one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.11
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.12
+source=IS1009d.D.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.13:
+"On size"
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.11: "Wait what would you ra uh one being good and seven being the worst. Um what do you think the shape is ? One, okay, and Be Betsy ?"
+AE_ID IS1009d.B.argumentstructs.Daan.2: "Worse, okay. One."
+AE_ID IS1009d.A.argumentstructs.Daan.15: "Yes I think uh shape is one."
+AE_ID IS1009d.C.argumentstructs.Daan.7: "Yeah, even my  yeah, shape is one."
+AE_ID IS1009d.D.argumentstructs.Daan.12: "Okay, uh-huh one, okay. And how about on size ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.12
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.13
+source=IS1009d.D.argumentstructs.Daan.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.Daan.16:
+"You  you gave it a four."
+
+Past dialogue turns:
+AE_ID IS1009d.B.argumentstructs.Daan.2: "Worse, okay. One."
+AE_ID IS1009d.A.argumentstructs.Daan.15: "Yes I think uh shape is one."
+AE_ID IS1009d.C.argumentstructs.Daan.7: "Yeah, even my  yeah, shape is one."
+AE_ID IS1009d.D.argumentstructs.Daan.12: "Okay, uh-huh one, okay. And how about on size ?"
+AE_ID IS1009d.D.argumentstructs.Daan.13: "On size"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.B.argumentstructs.Daan.2
+---------------------------------
+target=IS1009d.A.argumentstructs.Daan.16
+source=IS1009d.D.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.14:
+"I gave it a four, yeah, I feel it's just average."
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.15: "Yes I think uh shape is one."
+AE_ID IS1009d.C.argumentstructs.Daan.7: "Yeah, even my  yeah, shape is one."
+AE_ID IS1009d.D.argumentstructs.Daan.12: "Okay, uh-huh one, okay. And how about on size ?"
+AE_ID IS1009d.D.argumentstructs.Daan.13: "On size"
+AE_ID IS1009d.A.argumentstructs.Daan.16: "You  you gave it a four."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.A.argumentstructs.Daan.16
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.14
+source=IS1009d.A.argumentstructs.Daan.16
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.Daan.17:
+"Um, I dunno. I think I would give it at least a two."
+
+Past dialogue turns:
+AE_ID IS1009d.C.argumentstructs.Daan.7: "Yeah, even my  yeah, shape is one."
+AE_ID IS1009d.D.argumentstructs.Daan.12: "Okay, uh-huh one, okay. And how about on size ?"
+AE_ID IS1009d.D.argumentstructs.Daan.13: "On size"
+AE_ID IS1009d.A.argumentstructs.Daan.16: "You  you gave it a four."
+AE_ID IS1009d.D.argumentstructs.Daan.14: "I gave it a four, yeah, I feel it's just average."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.14
+---------------------------------
+target=IS1009d.A.argumentstructs.Daan.17
+source=IS1009d.D.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.26:
+"Okay. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.12: "Okay, uh-huh one, okay. And how about on size ?"
+AE_ID IS1009d.D.argumentstructs.Daan.13: "On size"
+AE_ID IS1009d.A.argumentstructs.Daan.16: "You  you gave it a four."
+AE_ID IS1009d.D.argumentstructs.Daan.14: "I gave it a four, yeah, I feel it's just average."
+AE_ID IS1009d.A.argumentstructs.Daan.17: "Um, I dunno. I think I would give it at least a two."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.12
+---------------------------------
+target=IS1009d.D.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.B.argumentstructs.Daan.3:
+"One."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.13: "On size"
+AE_ID IS1009d.A.argumentstructs.Daan.16: "You  you gave it a four."
+AE_ID IS1009d.D.argumentstructs.Daan.14: "I gave it a four, yeah, I feel it's just average."
+AE_ID IS1009d.A.argumentstructs.Daan.17: "Um, I dunno. I think I would give it at least a two."
+AE_ID IS1009d.D.argumentstructs.26: "Okay. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.A.argumentstructs.Daan.16
+---------------------------------
+target=IS1009d.B.argumentstructs.Daan.3
+source=IS1009d.D.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.C.argumentstructs.Daan.8:
+"Yeah, even I think it is one. It's quite small."
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.16: "You  you gave it a four."
+AE_ID IS1009d.D.argumentstructs.Daan.14: "I gave it a four, yeah, I feel it's just average."
+AE_ID IS1009d.A.argumentstructs.Daan.17: "Um, I dunno. I think I would give it at least a two."
+AE_ID IS1009d.D.argumentstructs.26: "Okay. Mm-hmm."
+AE_ID IS1009d.B.argumentstructs.Daan.3: "One."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.14
+---------------------------------
+target=IS1009d.C.argumentstructs.Daan.8
+source=IS1009d.D.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.15:
+"Okay. Okay  you're the designer, of course you wanna give it a one.  Um and then how about  how we doing on colour ?"
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.14: "I gave it a four, yeah, I feel it's just average."
+AE_ID IS1009d.A.argumentstructs.Daan.17: "Um, I dunno. I think I would give it at least a two."
+AE_ID IS1009d.D.argumentstructs.26: "Okay. Mm-hmm."
+AE_ID IS1009d.B.argumentstructs.Daan.3: "One."
+AE_ID IS1009d.C.argumentstructs.Daan.8: "Yeah, even I think it is one. It's quite small."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.14
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.15
+source=IS1009d.D.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.24:
+"Colour uh I"
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.17: "Um, I dunno. I think I would give it at least a two."
+AE_ID IS1009d.D.argumentstructs.26: "Okay. Mm-hmm."
+AE_ID IS1009d.B.argumentstructs.Daan.3: "One."
+AE_ID IS1009d.C.argumentstructs.Daan.8: "Yeah, even I think it is one. It's quite small."
+AE_ID IS1009d.D.argumentstructs.Daan.15: "Okay. Okay  you're the designer, of course you wanna give it a one.  Um and then how about  how we doing on colour ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.15
+---------------------------------
+target=IS1009d.A.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.16:
+"Colour, I gave it a one. I really like all those nice bright, warm colours."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.26: "Okay. Mm-hmm."
+AE_ID IS1009d.B.argumentstructs.Daan.3: "One."
+AE_ID IS1009d.C.argumentstructs.Daan.8: "Yeah, even I think it is one. It's quite small."
+AE_ID IS1009d.D.argumentstructs.Daan.15: "Okay. Okay  you're the designer, of course you wanna give it a one.  Um and then how about  how we doing on colour ?"
+AE_ID IS1009d.A.argumentstructs.24: "Colour uh I"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.15
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.16
+source=IS1009d.D.argumentstructs.Daan.15
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.Daan.18:
+"One."
+
+Past dialogue turns:
+AE_ID IS1009d.B.argumentstructs.Daan.3: "One."
+AE_ID IS1009d.C.argumentstructs.Daan.8: "Yeah, even I think it is one. It's quite small."
+AE_ID IS1009d.D.argumentstructs.Daan.15: "Okay. Okay  you're the designer, of course you wanna give it a one.  Um and then how about  how we doing on colour ?"
+AE_ID IS1009d.A.argumentstructs.24: "Colour uh I"
+AE_ID IS1009d.D.argumentstructs.Daan.16: "Colour, I gave it a one. I really like all those nice bright, warm colours."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.B.argumentstructs.Daan.3
+---------------------------------
+target=IS1009d.A.argumentstructs.Daan.18
+source=IS1009d.D.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.Daan.19:
+"I  I like the colours. One."
+
+Past dialogue turns:
+AE_ID IS1009d.C.argumentstructs.Daan.8: "Yeah, even I think it is one. It's quite small."
+AE_ID IS1009d.D.argumentstructs.Daan.15: "Okay. Okay  you're the designer, of course you wanna give it a one.  Um and then how about  how we doing on colour ?"
+AE_ID IS1009d.A.argumentstructs.24: "Colour uh I"
+AE_ID IS1009d.D.argumentstructs.Daan.16: "Colour, I gave it a one. I really like all those nice bright, warm colours."
+AE_ID IS1009d.A.argumentstructs.Daan.18: "One."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.16
+---------------------------------
+target=IS1009d.A.argumentstructs.Daan.19
+source=IS1009d.A.argumentstructs.Daan.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.B.argumentstructs.Daan.4:
+"One. Yes."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.15: "Okay. Okay  you're the designer, of course you wanna give it a one.  Um and then how about  how we doing on colour ?"
+AE_ID IS1009d.A.argumentstructs.24: "Colour uh I"
+AE_ID IS1009d.D.argumentstructs.Daan.16: "Colour, I gave it a one. I really like all those nice bright, warm colours."
+AE_ID IS1009d.A.argumentstructs.Daan.18: "One."
+AE_ID IS1009d.A.argumentstructs.Daan.19: "I  I like the colours. One."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.16
+---------------------------------
+target=IS1009d.B.argumentstructs.Daan.4
+source=IS1009d.D.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.27:
+"One."
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.24: "Colour uh I"
+AE_ID IS1009d.D.argumentstructs.Daan.16: "Colour, I gave it a one. I really like all those nice bright, warm colours."
+AE_ID IS1009d.A.argumentstructs.Daan.18: "One."
+AE_ID IS1009d.A.argumentstructs.Daan.19: "I  I like the colours. One."
+AE_ID IS1009d.B.argumentstructs.Daan.4: "One. Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.A.argumentstructs.Daan.18
+---------------------------------
+target=IS1009d.D.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.C.argumentstructs.17:
+"Yeah, one."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.16: "Colour, I gave it a one. I really like all those nice bright, warm colours."
+AE_ID IS1009d.A.argumentstructs.Daan.18: "One."
+AE_ID IS1009d.A.argumentstructs.Daan.19: "I  I like the colours. One."
+AE_ID IS1009d.B.argumentstructs.Daan.4: "One. Yes."
+AE_ID IS1009d.D.argumentstructs.27: "One."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.16
+---------------------------------
+target=IS1009d.C.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.17:
+"One, one, one, okay. And how about the feel ?"
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.18: "One."
+AE_ID IS1009d.A.argumentstructs.Daan.19: "I  I like the colours. One."
+AE_ID IS1009d.B.argumentstructs.Daan.4: "One. Yes."
+AE_ID IS1009d.D.argumentstructs.27: "One."
+AE_ID IS1009d.C.argumentstructs.17: "Yeah, one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.A.argumentstructs.Daan.19
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.17
+source=IS1009d.D.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.18:
+"Taking into um consideration texture and comfort in the hand."
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.19: "I  I like the colours. One."
+AE_ID IS1009d.B.argumentstructs.Daan.4: "One. Yes."
+AE_ID IS1009d.D.argumentstructs.27: "One."
+AE_ID IS1009d.C.argumentstructs.17: "Yeah, one."
+AE_ID IS1009d.D.argumentstructs.Daan.17: "One, one, one, okay. And how about the feel ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.17
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.18
+source=IS1009d.D.argumentstructs.Daan.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.Daan.20:
+"Uh, I think I would give it a two."
+
+Past dialogue turns:
+AE_ID IS1009d.B.argumentstructs.Daan.4: "One. Yes."
+AE_ID IS1009d.D.argumentstructs.27: "One."
+AE_ID IS1009d.C.argumentstructs.17: "Yeah, one."
+AE_ID IS1009d.D.argumentstructs.Daan.17: "One, one, one, okay. And how about the feel ?"
+AE_ID IS1009d.D.argumentstructs.Daan.18: "Taking into um consideration texture and comfort in the hand."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1009d.A.argumentstructs.Daan.20
+source=IS1009d.D.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.19:
+"Okay, I gave it a three, two, yeah ? Three."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.27: "One."
+AE_ID IS1009d.C.argumentstructs.17: "Yeah, one."
+AE_ID IS1009d.D.argumentstructs.Daan.17: "One, one, one, okay. And how about the feel ?"
+AE_ID IS1009d.D.argumentstructs.Daan.18: "Taking into um consideration texture and comfort in the hand."
+AE_ID IS1009d.A.argumentstructs.Daan.20: "Uh, I think I would give it a two."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.20
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.19
+source=IS1009d.D.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.B.argumentstructs.Daan.5:
+"I'll give three."
+
+Past dialogue turns:
+AE_ID IS1009d.C.argumentstructs.17: "Yeah, one."
+AE_ID IS1009d.D.argumentstructs.Daan.17: "One, one, one, okay. And how about the feel ?"
+AE_ID IS1009d.D.argumentstructs.Daan.18: "Taking into um consideration texture and comfort in the hand."
+AE_ID IS1009d.A.argumentstructs.Daan.20: "Uh, I think I would give it a two."
+AE_ID IS1009d.D.argumentstructs.Daan.19: "Okay, I gave it a three, two, yeah ? Three."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.19
+---------------------------------
+target=IS1009d.B.argumentstructs.Daan.5
+source=IS1009d.D.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.C.argumentstructs.Daan.9:
+"Uh maybe two, yeah."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.17: "One, one, one, okay. And how about the feel ?"
+AE_ID IS1009d.D.argumentstructs.Daan.18: "Taking into um consideration texture and comfort in the hand."
+AE_ID IS1009d.A.argumentstructs.Daan.20: "Uh, I think I would give it a two."
+AE_ID IS1009d.D.argumentstructs.Daan.19: "Okay, I gave it a three, two, yeah ? Three."
+AE_ID IS1009d.B.argumentstructs.Daan.5: "I'll give three."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.19
+---------------------------------
+target=IS1009d.C.argumentstructs.Daan.9
+source=IS1009d.D.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.28:
+"Two, okay."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.18: "Taking into um consideration texture and comfort in the hand."
+AE_ID IS1009d.A.argumentstructs.Daan.20: "Uh, I think I would give it a two."
+AE_ID IS1009d.D.argumentstructs.Daan.19: "Okay, I gave it a three, two, yeah ? Three."
+AE_ID IS1009d.B.argumentstructs.Daan.5: "I'll give three."
+AE_ID IS1009d.C.argumentstructs.Daan.9: "Uh maybe two, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.A.argumentstructs.Daan.20
+---------------------------------
+target=IS1009d.D.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.20:
+"And the next is functionality where I I admit I was a little hard on our team here, but"
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.20: "Uh, I think I would give it a two."
+AE_ID IS1009d.D.argumentstructs.Daan.19: "Okay, I gave it a three, two, yeah ? Three."
+AE_ID IS1009d.B.argumentstructs.Daan.5: "I'll give three."
+AE_ID IS1009d.C.argumentstructs.Daan.9: "Uh maybe two, yeah."
+AE_ID IS1009d.D.argumentstructs.28: "Two, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.A.argumentstructs.Daan.20
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.20
+source=IS1009d.D.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.Daan.21:
+"Well it's also you can't really try it out uh the other things you have have more  is  are more tangible so from that point of view but um"
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.19: "Okay, I gave it a three, two, yeah ? Three."
+AE_ID IS1009d.B.argumentstructs.Daan.5: "I'll give three."
+AE_ID IS1009d.C.argumentstructs.Daan.9: "Uh maybe two, yeah."
+AE_ID IS1009d.D.argumentstructs.28: "Two, okay."
+AE_ID IS1009d.D.argumentstructs.Daan.20: "And the next is functionality where I I admit I was a little hard on our team here, but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.Daan.20
+---------------------------------
+target=IS1009d.A.argumentstructs.Daan.21
+source=IS1009d.D.argumentstructs.Daan.20
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.29:
+"Yeah. Mm-hmm. Okay. Two, okay. Three ? Okay. Well, um."
+
+Past dialogue turns:
+AE_ID IS1009d.B.argumentstructs.Daan.5: "I'll give three."
+AE_ID IS1009d.C.argumentstructs.Daan.9: "Uh maybe two, yeah."
+AE_ID IS1009d.D.argumentstructs.28: "Two, okay."
+AE_ID IS1009d.D.argumentstructs.Daan.20: "And the next is functionality where I I admit I was a little hard on our team here, but"
+AE_ID IS1009d.A.argumentstructs.Daan.21: "Well it's also you can't really try it out uh the other things you have have more  is  are more tangible so from that point of view but um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1009d.D.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.A.argumentstructs.Daan.22:
+"I'll give it a three."
+
+Past dialogue turns:
+AE_ID IS1009d.C.argumentstructs.Daan.9: "Uh maybe two, yeah."
+AE_ID IS1009d.D.argumentstructs.28: "Two, okay."
+AE_ID IS1009d.D.argumentstructs.Daan.20: "And the next is functionality where I I admit I was a little hard on our team here, but"
+AE_ID IS1009d.A.argumentstructs.Daan.21: "Well it's also you can't really try it out uh the other things you have have more  is  are more tangible so from that point of view but um"
+AE_ID IS1009d.D.argumentstructs.29: "Yeah. Mm-hmm. Okay. Two, okay. Three ? Okay. Well, um."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.29
+---------------------------------
+target=IS1009d.A.argumentstructs.Daan.22
+source=IS1009d.D.argumentstructs.Daan.20
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.B.argumentstructs.Daan.6:
+"Two."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.28: "Two, okay."
+AE_ID IS1009d.D.argumentstructs.Daan.20: "And the next is functionality where I I admit I was a little hard on our team here, but"
+AE_ID IS1009d.A.argumentstructs.Daan.21: "Well it's also you can't really try it out uh the other things you have have more  is  are more tangible so from that point of view but um"
+AE_ID IS1009d.D.argumentstructs.29: "Yeah. Mm-hmm. Okay. Two, okay. Three ? Okay. Well, um."
+AE_ID IS1009d.A.argumentstructs.Daan.22: "I'll give it a three."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.D.argumentstructs.28
+---------------------------------
+target=IS1009d.B.argumentstructs.Daan.6
+source=IS1009d.D.argumentstructs.Daan.20
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.C.argumentstructs.Daan.10:
+"Uh three, mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1009d.D.argumentstructs.Daan.20: "And the next is functionality where I I admit I was a little hard on our team here, but"
+AE_ID IS1009d.A.argumentstructs.Daan.21: "Well it's also you can't really try it out uh the other things you have have more  is  are more tangible so from that point of view but um"
+AE_ID IS1009d.D.argumentstructs.29: "Yeah. Mm-hmm. Okay. Two, okay. Three ? Okay. Well, um."
+AE_ID IS1009d.A.argumentstructs.Daan.22: "I'll give it a three."
+AE_ID IS1009d.B.argumentstructs.Daan.6: "Two."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID IS1009d.A.argumentstructs.Daan.22
+---------------------------------
+target=IS1009d.C.argumentstructs.Daan.10
+source=IS1009d.D.argumentstructs.Daan.20
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009d.D.argumentstructs.Daan.21:
+"It looks like we've got got ourselves a pretty good product. Um the functionality's the only place where maybe we have to think about m m maybe, heaven forbid, having another meeting.  But um otherwise I think we're  we're ready to go to  go with this product."
+
+Past dialogue turns:
+AE_ID IS1009d.A.argumentstructs.Daan.21: "Well it's also you can't really try it out uh the other things you have have more  is  are more tangible so from that point of view but um"
+AE_ID IS1009d.D.argumentstructs.29: "Yeah. Mm-hmm. Okay. Two, okay. Three ? Okay. Well, um."
+AE_ID IS1009d.A.argumentstructs.Daan.22: "I'll give it a three."
+AE_ID IS1009d.B.argumentstructs.Daan.6: "Two."
+AE_ID IS1009d.C.argumentstructs.Daan.10: "Uh three, mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009d.A.argumentstructs.Daan.21
+---------------------------------
+target=IS1009d.D.argumentstructs.Daan.21
+source=IS1009d.D.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1009d-Rating the product.csv - True Judgement Ratio: 25.00%

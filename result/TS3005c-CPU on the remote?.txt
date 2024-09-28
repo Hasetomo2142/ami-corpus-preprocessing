@@ -1,0 +1,437 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.4:
+"Well uh chip on print, I think what they mean uh with the regular rubber buttons that you got, uh it's always clear for the remote control when you press uh a certain button. But when you got a L_C_D_ screen, with no uh with not   the buttons are not always on the same place, for example if you enlarge a button, or if you got several options uh appearing on your screen, uh the co-ordinations aren't always the same. When you got a regular button, th the button of stand-by is always on the same place and you got on the and on the"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.4
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.20:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.4: "Well uh chip on print, I think what they mean uh with the regular rubber buttons that you got, uh it's always clear for the remote control when you press uh a certain button. But when you got a L_C_D_ screen, with no uh with not   the buttons are not always on the same place, for example if you enlarge a button, or if you got several options uh appearing on your screen, uh the co-ordinations aren't always the same. When you got a regular button, th the button of stand-by is always on the same place and you got on the and on the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.4
+---------------------------------
+target=TS3005c.A.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.28:
+"Yeah, okay. But"
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.4: "Well uh chip on print, I think what they mean uh with the regular rubber buttons that you got, uh it's always clear for the remote control when you press uh a certain button. But when you got a L_C_D_ screen, with no uh with not   the buttons are not always on the same place, for example if you enlarge a button, or if you got several options uh appearing on your screen, uh the co-ordinations aren't always the same. When you got a regular button, th the button of stand-by is always on the same place and you got on the and on the"
+AE_ID TS3005c.A.argumentstructs.20: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.4
+---------------------------------
+target=TS3005c.D.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.B.argumentstructs.17:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.4: "Well uh chip on print, I think what they mean uh with the regular rubber buttons that you got, uh it's always clear for the remote control when you press uh a certain button. But when you got a L_C_D_ screen, with no uh with not   the buttons are not always on the same place, for example if you enlarge a button, or if you got several options uh appearing on your screen, uh the co-ordinations aren't always the same. When you got a regular button, th the button of stand-by is always on the same place and you got on the and on the"
+AE_ID TS3005c.A.argumentstructs.20: "Mm-hmm."
+AE_ID TS3005c.D.argumentstructs.28: "Yeah, okay. But"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.4
+---------------------------------
+target=TS3005c.B.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.5:
+"Yeah okay, but the p print plate of L_ L_C_D_ screen is more advanced than a normal print plate, so that that's not of any discussion, I think."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.4: "Well uh chip on print, I think what they mean uh with the regular rubber buttons that you got, uh it's always clear for the remote control when you press uh a certain button. But when you got a L_C_D_ screen, with no uh with not   the buttons are not always on the same place, for example if you enlarge a button, or if you got several options uh appearing on your screen, uh the co-ordinations aren't always the same. When you got a regular button, th the button of stand-by is always on the same place and you got on the and on the"
+AE_ID TS3005c.A.argumentstructs.20: "Mm-hmm."
+AE_ID TS3005c.D.argumentstructs.28: "Yeah, okay. But"
+AE_ID TS3005c.B.argumentstructs.17: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.4
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.5
+source=TS3005c.C.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.28:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.4: "Well uh chip on print, I think what they mean uh with the regular rubber buttons that you got, uh it's always clear for the remote control when you press uh a certain button. But when you got a L_C_D_ screen, with no uh with not   the buttons are not always on the same place, for example if you enlarge a button, or if you got several options uh appearing on your screen, uh the co-ordinations aren't always the same. When you got a regular button, th the button of stand-by is always on the same place and you got on the and on the"
+AE_ID TS3005c.A.argumentstructs.20: "Mm-hmm."
+AE_ID TS3005c.D.argumentstructs.28: "Yeah, okay. But"
+AE_ID TS3005c.B.argumentstructs.17: "Yeah."
+AE_ID TS3005c.D.argumentstructs.Daan.5: "Yeah okay, but the p print plate of L_ L_C_D_ screen is more advanced than a normal print plate, so that that's not of any discussion, I think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.B.argumentstructs.17
+---------------------------------
+target=TS3005c.C.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.Daan.4:
+"Well you need some kind of C_P_U_, I guess."
+
+Past dialogue turns:
+AE_ID TS3005c.A.argumentstructs.20: "Mm-hmm."
+AE_ID TS3005c.D.argumentstructs.28: "Yeah, okay. But"
+AE_ID TS3005c.B.argumentstructs.17: "Yeah."
+AE_ID TS3005c.D.argumentstructs.Daan.5: "Yeah okay, but the p print plate of L_ L_C_D_ screen is more advanced than a normal print plate, so that that's not of any discussion, I think."
+AE_ID TS3005c.C.argumentstructs.28: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3005c.A.argumentstructs.Daan.4
+source=TS3005c.D.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.5:
+"I suppose so."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.28: "Yeah, okay. But"
+AE_ID TS3005c.B.argumentstructs.17: "Yeah."
+AE_ID TS3005c.D.argumentstructs.Daan.5: "Yeah okay, but the p print plate of L_ L_C_D_ screen is more advanced than a normal print plate, so that that's not of any discussion, I think."
+AE_ID TS3005c.C.argumentstructs.28: "Yeah."
+AE_ID TS3005c.A.argumentstructs.Daan.4: "Well you need some kind of C_P_U_, I guess."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.B.argumentstructs.17
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.5
+source=TS3005c.A.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.6:
+"Mm, I don't I dunno I don't think that's"
+
+Past dialogue turns:
+AE_ID TS3005c.B.argumentstructs.17: "Yeah."
+AE_ID TS3005c.D.argumentstructs.Daan.5: "Yeah okay, but the p print plate of L_ L_C_D_ screen is more advanced than a normal print plate, so that that's not of any discussion, I think."
+AE_ID TS3005c.C.argumentstructs.28: "Yeah."
+AE_ID TS3005c.A.argumentstructs.Daan.4: "Well you need some kind of C_P_U_, I guess."
+AE_ID TS3005c.C.argumentstructs.Daan.5: "I suppose so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.6
+source=TS3005c.D.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.7:
+"Yeah yeah okay but I d I I don't know if nor o s it's quite a simple L_C_D_. Yeah, it's quite a simple L_C_D_ screen. I think they don't need that big of C_P_U_."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.5: "Yeah okay, but the p print plate of L_ L_C_D_ screen is more advanced than a normal print plate, so that that's not of any discussion, I think."
+AE_ID TS3005c.C.argumentstructs.28: "Yeah."
+AE_ID TS3005c.A.argumentstructs.Daan.4: "Well you need some kind of C_P_U_, I guess."
+AE_ID TS3005c.C.argumentstructs.Daan.5: "I suppose so."
+AE_ID TS3005c.D.argumentstructs.Daan.6: "Mm, I don't I dunno I don't think that's"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.7
+source=TS3005c.D.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.29:
+"Yeah because it has to uh b"
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.28: "Yeah."
+AE_ID TS3005c.A.argumentstructs.Daan.4: "Well you need some kind of C_P_U_, I guess."
+AE_ID TS3005c.C.argumentstructs.Daan.5: "I suppose so."
+AE_ID TS3005c.D.argumentstructs.Daan.6: "Mm, I don't I dunno I don't think that's"
+AE_ID TS3005c.D.argumentstructs.Daan.7: "Yeah yeah okay but I d I I don't know if nor o s it's quite a simple L_C_D_. Yeah, it's quite a simple L_C_D_ screen. I think they don't need that big of C_P_U_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.28
+---------------------------------
+target=TS3005c.C.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.7:
+"Yeah but it the the remote control has to know whether you're in a settings menu or just uh you just want to turn up the volume."
+
+Past dialogue turns:
+AE_ID TS3005c.A.argumentstructs.Daan.4: "Well you need some kind of C_P_U_, I guess."
+AE_ID TS3005c.C.argumentstructs.Daan.5: "I suppose so."
+AE_ID TS3005c.D.argumentstructs.Daan.6: "Mm, I don't I dunno I don't think that's"
+AE_ID TS3005c.D.argumentstructs.Daan.7: "Yeah yeah okay but I d I I don't know if nor o s it's quite a simple L_C_D_. Yeah, it's quite a simple L_C_D_ screen. I think they don't need that big of C_P_U_."
+AE_ID TS3005c.C.argumentstructs.29: "Yeah because it has to uh b"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.7
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.7
+source=TS3005c.D.argumentstructs.Daan.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.8:
+"Yeah, okay, true true."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.5: "I suppose so."
+AE_ID TS3005c.D.argumentstructs.Daan.6: "Mm, I don't I dunno I don't think that's"
+AE_ID TS3005c.D.argumentstructs.Daan.7: "Yeah yeah okay but I d I I don't know if nor o s it's quite a simple L_C_D_. Yeah, it's quite a simple L_C_D_ screen. I think they don't need that big of C_P_U_."
+AE_ID TS3005c.C.argumentstructs.29: "Yeah because it has to uh b"
+AE_ID TS3005c.C.argumentstructs.Daan.7: "Yeah but it the the remote control has to know whether you're in a settings menu or just uh you just want to turn up the volume."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.7
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.8
+source=TS3005c.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.29:
+"True."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.6: "Mm, I don't I dunno I don't think that's"
+AE_ID TS3005c.D.argumentstructs.Daan.7: "Yeah yeah okay but I d I I don't know if nor o s it's quite a simple L_C_D_. Yeah, it's quite a simple L_C_D_ screen. I think they don't need that big of C_P_U_."
+AE_ID TS3005c.C.argumentstructs.29: "Yeah because it has to uh b"
+AE_ID TS3005c.C.argumentstructs.Daan.7: "Yeah but it the the remote control has to know whether you're in a settings menu or just uh you just want to turn up the volume."
+AE_ID TS3005c.D.argumentstructs.Daan.8: "Yeah, okay, true true."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.8
+---------------------------------
+target=TS3005c.D.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.8:
+"So it has to have some kind of a calculation unit or C_P_U_ to know uh in which state you are and uh which button you are pressing in at the right moment."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.7: "Yeah yeah okay but I d I I don't know if nor o s it's quite a simple L_C_D_. Yeah, it's quite a simple L_C_D_ screen. I think they don't need that big of C_P_U_."
+AE_ID TS3005c.C.argumentstructs.29: "Yeah because it has to uh b"
+AE_ID TS3005c.C.argumentstructs.Daan.7: "Yeah but it the the remote control has to know whether you're in a settings menu or just uh you just want to turn up the volume."
+AE_ID TS3005c.D.argumentstructs.Daan.8: "Yeah, okay, true true."
+AE_ID TS3005c.D.argumentstructs.29: "True."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.7
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.8
+source=TS3005c.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.Daan.5:
+"Mm-hmm.  Because we're projecting projecting the buttons on the L_C_D_ screen."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.29: "Yeah because it has to uh b"
+AE_ID TS3005c.C.argumentstructs.Daan.7: "Yeah but it the the remote control has to know whether you're in a settings menu or just uh you just want to turn up the volume."
+AE_ID TS3005c.D.argumentstructs.Daan.8: "Yeah, okay, true true."
+AE_ID TS3005c.D.argumentstructs.29: "True."
+AE_ID TS3005c.C.argumentstructs.Daan.8: "So it has to have some kind of a calculation unit or C_P_U_ to know uh in which state you are and uh which button you are pressing in at the right moment."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.8
+---------------------------------
+target=TS3005c.A.argumentstructs.Daan.5
+source=TS3005c.C.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.30:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.7: "Yeah but it the the remote control has to know whether you're in a settings menu or just uh you just want to turn up the volume."
+AE_ID TS3005c.D.argumentstructs.Daan.8: "Yeah, okay, true true."
+AE_ID TS3005c.D.argumentstructs.29: "True."
+AE_ID TS3005c.C.argumentstructs.Daan.8: "So it has to have some kind of a calculation unit or C_P_U_ to know uh in which state you are and uh which button you are pressing in at the right moment."
+AE_ID TS3005c.A.argumentstructs.Daan.5: "Mm-hmm.  Because we're projecting projecting the buttons on the L_C_D_ screen."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.8
+---------------------------------
+target=TS3005c.C.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.9:
+"And a touch screen makes it uh possible to uh to get the co-ordination of your finger on the screen. And the case, yeah we already discussed the case, we wanted to make it from rubber and uh"
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.8: "Yeah, okay, true true."
+AE_ID TS3005c.D.argumentstructs.29: "True."
+AE_ID TS3005c.C.argumentstructs.Daan.8: "So it has to have some kind of a calculation unit or C_P_U_ to know uh in which state you are and uh which button you are pressing in at the right moment."
+AE_ID TS3005c.A.argumentstructs.Daan.5: "Mm-hmm.  Because we're projecting projecting the buttons on the L_C_D_ screen."
+AE_ID TS3005c.C.argumentstructs.30: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.8
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.9
+source=TS3005c.C.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3005c-CPU on the remote?.csv - True Judgement Ratio: 38.89%

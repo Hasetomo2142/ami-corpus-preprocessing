@@ -1,0 +1,962 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.Daan.3:
+"So, obviously we w w I just did a run down the evaluation of the form, the fan uh the fancy stylishness of the  of the unit, the ease of use, speech recognition, cost, we've gone through these. Now, the company must evaluate the feasibility of being able to take enough of the market to justify in production."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1008d.D.argumentstructs.Daan.3
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.Daan.4:
+"Or we project this over two years, but being that the market changes very very quickly, maybe there's no more interest in buying this thing in eighteen months from now. So, now we have to come up with a decision. Can the company sell two million units ? Can it sell it for fifty Euros ?"
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.3: "So, obviously we w w I just did a run down the evaluation of the form, the fan uh the fancy stylishness of the  of the unit, the ease of use, speech recognition, cost, we've gone through these. Now, the company must evaluate the feasibility of being able to take enough of the market to justify in production."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1008d.D.argumentstructs.Daan.4
+source=IS1008d.D.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.25:
+"Yes. Yep."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.3: "So, obviously we w w I just did a run down the evaluation of the form, the fan uh the fancy stylishness of the  of the unit, the ease of use, speech recognition, cost, we've gone through these. Now, the company must evaluate the feasibility of being able to take enough of the market to justify in production."
+AE_ID IS1008d.D.argumentstructs.Daan.4: "Or we project this over two years, but being that the market changes very very quickly, maybe there's no more interest in buying this thing in eighteen months from now. So, now we have to come up with a decision. Can the company sell two million units ? Can it sell it for fifty Euros ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1008d.A.argumentstructs.25
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.5:
+"Of course."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.3: "So, obviously we w w I just did a run down the evaluation of the form, the fan uh the fancy stylishness of the  of the unit, the ease of use, speech recognition, cost, we've gone through these. Now, the company must evaluate the feasibility of being able to take enough of the market to justify in production."
+AE_ID IS1008d.D.argumentstructs.Daan.4: "Or we project this over two years, but being that the market changes very very quickly, maybe there's no more interest in buying this thing in eighteen months from now. So, now we have to come up with a decision. Can the company sell two million units ? Can it sell it for fifty Euros ?"
+AE_ID IS1008d.A.argumentstructs.25: "Yes. Yep."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.5
+source=IS1008d.D.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.20:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.3: "So, obviously we w w I just did a run down the evaluation of the form, the fan uh the fancy stylishness of the  of the unit, the ease of use, speech recognition, cost, we've gone through these. Now, the company must evaluate the feasibility of being able to take enough of the market to justify in production."
+AE_ID IS1008d.D.argumentstructs.Daan.4: "Or we project this over two years, but being that the market changes very very quickly, maybe there's no more interest in buying this thing in eighteen months from now. So, now we have to come up with a decision. Can the company sell two million units ? Can it sell it for fifty Euros ?"
+AE_ID IS1008d.A.argumentstructs.25: "Yes. Yep."
+AE_ID IS1008d.A.argumentstructs.Daan.5: "Of course."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1008d.C.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.26:
+"Yep. Yep. Yes. Yes."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.3: "So, obviously we w w I just did a run down the evaluation of the form, the fan uh the fancy stylishness of the  of the unit, the ease of use, speech recognition, cost, we've gone through these. Now, the company must evaluate the feasibility of being able to take enough of the market to justify in production."
+AE_ID IS1008d.D.argumentstructs.Daan.4: "Or we project this over two years, but being that the market changes very very quickly, maybe there's no more interest in buying this thing in eighteen months from now. So, now we have to come up with a decision. Can the company sell two million units ? Can it sell it for fifty Euros ?"
+AE_ID IS1008d.A.argumentstructs.25: "Yes. Yep."
+AE_ID IS1008d.A.argumentstructs.Daan.5: "Of course."
+AE_ID IS1008d.C.argumentstructs.20: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.25
+---------------------------------
+target=IS1008d.A.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.4:
+"Could could I go to findings ? Uh uh um I would uh like to explore the possibility of using um alternative um delivery and sales channel which would be um to use the internet for promotion and ordering and then to drop-ship the p product to the customer's residence. That way you have no storage, you have no um  you do have transportation, still have the labour cost, but you don't have the transport to the uh point of sale. The point of sale is online."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.4: "Or we project this over two years, but being that the market changes very very quickly, maybe there's no more interest in buying this thing in eighteen months from now. So, now we have to come up with a decision. Can the company sell two million units ? Can it sell it for fifty Euros ?"
+AE_ID IS1008d.A.argumentstructs.25: "Yes. Yep."
+AE_ID IS1008d.A.argumentstructs.Daan.5: "Of course."
+AE_ID IS1008d.C.argumentstructs.20: "Mm."
+AE_ID IS1008d.A.argumentstructs.26: "Yep. Yep. Yes. Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.D.argumentstructs.Daan.4
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.4
+source=IS1008d.D.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.Daan.5:
+"I was thinking the same thing, yeah."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.25: "Yes. Yep."
+AE_ID IS1008d.A.argumentstructs.Daan.5: "Of course."
+AE_ID IS1008d.C.argumentstructs.20: "Mm."
+AE_ID IS1008d.A.argumentstructs.26: "Yep. Yep. Yes. Yes."
+AE_ID IS1008d.B.argumentstructs.Daan.4: "Could could I go to findings ? Uh uh um I would uh like to explore the possibility of using um alternative um delivery and sales channel which would be um to use the internet for promotion and ordering and then to drop-ship the p product to the customer's residence. That way you have no storage, you have no um  you do have transportation, still have the labour cost, but you don't have the transport to the uh point of sale. The point of sale is online."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.25
+---------------------------------
+target=IS1008d.C.argumentstructs.Daan.5
+source=IS1008d.B.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.Daan.6:
+"Directly."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.5: "Of course."
+AE_ID IS1008d.C.argumentstructs.20: "Mm."
+AE_ID IS1008d.A.argumentstructs.26: "Yep. Yep. Yes. Yes."
+AE_ID IS1008d.B.argumentstructs.Daan.4: "Could could I go to findings ? Uh uh um I would uh like to explore the possibility of using um alternative um delivery and sales channel which would be um to use the internet for promotion and ordering and then to drop-ship the p product to the customer's residence. That way you have no storage, you have no um  you do have transportation, still have the labour cost, but you don't have the transport to the uh point of sale. The point of sale is online."
+AE_ID IS1008d.C.argumentstructs.Daan.5: "I was thinking the same thing, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.5
+---------------------------------
+target=IS1008d.C.argumentstructs.Daan.6
+source=IS1008d.C.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.21:
+"Um-hmm. Yeah."
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.20: "Mm."
+AE_ID IS1008d.A.argumentstructs.26: "Yep. Yep. Yes. Yes."
+AE_ID IS1008d.B.argumentstructs.Daan.4: "Could could I go to findings ? Uh uh um I would uh like to explore the possibility of using um alternative um delivery and sales channel which would be um to use the internet for promotion and ordering and then to drop-ship the p product to the customer's residence. That way you have no storage, you have no um  you do have transportation, still have the labour cost, but you don't have the transport to the uh point of sale. The point of sale is online."
+AE_ID IS1008d.C.argumentstructs.Daan.5: "I was thinking the same thing, yeah."
+AE_ID IS1008d.C.argumentstructs.Daan.6: "Directly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.20
+---------------------------------
+target=IS1008d.C.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.6:
+"To the agents."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.26: "Yep. Yep. Yes. Yes."
+AE_ID IS1008d.B.argumentstructs.Daan.4: "Could could I go to findings ? Uh uh um I would uh like to explore the possibility of using um alternative um delivery and sales channel which would be um to use the internet for promotion and ordering and then to drop-ship the p product to the customer's residence. That way you have no storage, you have no um  you do have transportation, still have the labour cost, but you don't have the transport to the uh point of sale. The point of sale is online."
+AE_ID IS1008d.C.argumentstructs.Daan.5: "I was thinking the same thing, yeah."
+AE_ID IS1008d.C.argumentstructs.Daan.6: "Directly."
+AE_ID IS1008d.C.argumentstructs.21: "Um-hmm. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.5
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.6
+source=IS1008d.C.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.Daan.7:
+"Yeah. You can do a shipping centre somewhere, or strategically place shipping centres to minimise distance costs."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.4: "Could could I go to findings ? Uh uh um I would uh like to explore the possibility of using um alternative um delivery and sales channel which would be um to use the internet for promotion and ordering and then to drop-ship the p product to the customer's residence. That way you have no storage, you have no um  you do have transportation, still have the labour cost, but you don't have the transport to the uh point of sale. The point of sale is online."
+AE_ID IS1008d.C.argumentstructs.Daan.5: "I was thinking the same thing, yeah."
+AE_ID IS1008d.C.argumentstructs.Daan.6: "Directly."
+AE_ID IS1008d.C.argumentstructs.21: "Um-hmm. Yeah."
+AE_ID IS1008d.A.argumentstructs.Daan.6: "To the agents."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1008d.C.argumentstructs.Daan.7
+source=IS1008d.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.5:
+"Right, like Amazon. In fact, we should sell through Amazon, don't you think ? Or eBay, yeah."
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.Daan.5: "I was thinking the same thing, yeah."
+AE_ID IS1008d.C.argumentstructs.Daan.6: "Directly."
+AE_ID IS1008d.C.argumentstructs.21: "Um-hmm. Yeah."
+AE_ID IS1008d.A.argumentstructs.Daan.6: "To the agents."
+AE_ID IS1008d.C.argumentstructs.Daan.7: "Yeah. You can do a shipping centre somewhere, or strategically place shipping centres to minimise distance costs."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.5
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.5
+source=IS1008d.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.27:
+"Yes."
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.Daan.6: "Directly."
+AE_ID IS1008d.C.argumentstructs.21: "Um-hmm. Yeah."
+AE_ID IS1008d.A.argumentstructs.Daan.6: "To the agents."
+AE_ID IS1008d.C.argumentstructs.Daan.7: "Yeah. You can do a shipping centre somewhere, or strategically place shipping centres to minimise distance costs."
+AE_ID IS1008d.B.argumentstructs.Daan.5: "Right, like Amazon. In fact, we should sell through Amazon, don't you think ? Or eBay, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.21
+---------------------------------
+target=IS1008d.A.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.7:
+"Or eBay, or"
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.21: "Um-hmm. Yeah."
+AE_ID IS1008d.A.argumentstructs.Daan.6: "To the agents."
+AE_ID IS1008d.C.argumentstructs.Daan.7: "Yeah. You can do a shipping centre somewhere, or strategically place shipping centres to minimise distance costs."
+AE_ID IS1008d.B.argumentstructs.Daan.5: "Right, like Amazon. In fact, we should sell through Amazon, don't you think ? Or eBay, yeah."
+AE_ID IS1008d.A.argumentstructs.27: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.7
+source=IS1008d.B.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.28:
+"Yes."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.6: "To the agents."
+AE_ID IS1008d.C.argumentstructs.Daan.7: "Yeah. You can do a shipping centre somewhere, or strategically place shipping centres to minimise distance costs."
+AE_ID IS1008d.B.argumentstructs.Daan.5: "Right, like Amazon. In fact, we should sell through Amazon, don't you think ? Or eBay, yeah."
+AE_ID IS1008d.A.argumentstructs.27: "Yes."
+AE_ID IS1008d.A.argumentstructs.Daan.7: "Or eBay, or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.27
+---------------------------------
+target=IS1008d.A.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.22:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.Daan.7: "Yeah. You can do a shipping centre somewhere, or strategically place shipping centres to minimise distance costs."
+AE_ID IS1008d.B.argumentstructs.Daan.5: "Right, like Amazon. In fact, we should sell through Amazon, don't you think ? Or eBay, yeah."
+AE_ID IS1008d.A.argumentstructs.27: "Yes."
+AE_ID IS1008d.A.argumentstructs.Daan.7: "Or eBay, or"
+AE_ID IS1008d.A.argumentstructs.28: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.7
+---------------------------------
+target=IS1008d.C.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.6:
+"There's an idea. Going with um"
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.5: "Right, like Amazon. In fact, we should sell through Amazon, don't you think ? Or eBay, yeah."
+AE_ID IS1008d.A.argumentstructs.27: "Yes."
+AE_ID IS1008d.A.argumentstructs.Daan.7: "Or eBay, or"
+AE_ID IS1008d.A.argumentstructs.28: "Yes."
+AE_ID IS1008d.C.argumentstructs.22: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.6
+source=IS1008d.B.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.9:
+"Yeah, that's a good idea."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.27: "Yes."
+AE_ID IS1008d.A.argumentstructs.Daan.7: "Or eBay, or"
+AE_ID IS1008d.A.argumentstructs.28: "Yes."
+AE_ID IS1008d.C.argumentstructs.22: "Yeah."
+AE_ID IS1008d.B.argumentstructs.Daan.6: "There's an idea. Going with um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.7
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.9
+source=IS1008d.B.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.10:
+"To impro more profit and uh"
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.7: "Or eBay, or"
+AE_ID IS1008d.A.argumentstructs.28: "Yes."
+AE_ID IS1008d.C.argumentstructs.22: "Yeah."
+AE_ID IS1008d.B.argumentstructs.Daan.6: "There's an idea. Going with um"
+AE_ID IS1008d.A.argumentstructs.Daan.9: "Yeah, that's a good idea."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.6
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.10
+source=IS1008d.A.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.Daan.5:
+"S Upscale technology.  Well."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.28: "Yes."
+AE_ID IS1008d.C.argumentstructs.22: "Yeah."
+AE_ID IS1008d.B.argumentstructs.Daan.6: "There's an idea. Going with um"
+AE_ID IS1008d.A.argumentstructs.Daan.9: "Yeah, that's a good idea."
+AE_ID IS1008d.A.argumentstructs.Daan.10: "To impro more profit and uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.6
+---------------------------------
+target=IS1008d.D.argumentstructs.Daan.5
+source=IS1008d.A.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.29:
+"Yeah, yes. Yeah."
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.22: "Yeah."
+AE_ID IS1008d.B.argumentstructs.Daan.6: "There's an idea. Going with um"
+AE_ID IS1008d.A.argumentstructs.Daan.9: "Yeah, that's a good idea."
+AE_ID IS1008d.A.argumentstructs.Daan.10: "To impro more profit and uh"
+AE_ID IS1008d.D.argumentstructs.Daan.5: "S Upscale technology.  Well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.22
+---------------------------------
+target=IS1008d.A.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.7:
+"Ah, we we're do you know, selling a unique product uh."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.6: "There's an idea. Going with um"
+AE_ID IS1008d.A.argumentstructs.Daan.9: "Yeah, that's a good idea."
+AE_ID IS1008d.A.argumentstructs.Daan.10: "To impro more profit and uh"
+AE_ID IS1008d.D.argumentstructs.Daan.5: "S Upscale technology.  Well."
+AE_ID IS1008d.A.argumentstructs.29: "Yeah, yes. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.6
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.7
+source=IS1008d.A.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.Daan.8:
+"That actually makes more sense if we're gonna make it so highly customisable, 'cause on the web people can look at the different options they have, see maybe what other people have done, what the range of possibility as, whereas if you're in a store, you can't  unless you're a highly imaginative person, you may not really know what it is you want, whereas on the web, if you have a bunch of pictures, it can sort of trigger ideas and"
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.9: "Yeah, that's a good idea."
+AE_ID IS1008d.A.argumentstructs.Daan.10: "To impro more profit and uh"
+AE_ID IS1008d.D.argumentstructs.Daan.5: "S Upscale technology.  Well."
+AE_ID IS1008d.A.argumentstructs.29: "Yeah, yes. Yeah."
+AE_ID IS1008d.B.argumentstructs.Daan.7: "Ah, we we're do you know, selling a unique product uh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.9
+---------------------------------
+target=IS1008d.C.argumentstructs.Daan.8
+source=IS1008d.B.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.22:
+"Mm. Mm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.10: "To impro more profit and uh"
+AE_ID IS1008d.D.argumentstructs.Daan.5: "S Upscale technology.  Well."
+AE_ID IS1008d.A.argumentstructs.29: "Yeah, yes. Yeah."
+AE_ID IS1008d.B.argumentstructs.Daan.7: "Ah, we we're do you know, selling a unique product uh."
+AE_ID IS1008d.C.argumentstructs.Daan.8: "That actually makes more sense if we're gonna make it so highly customisable, 'cause on the web people can look at the different options they have, see maybe what other people have done, what the range of possibility as, whereas if you're in a store, you can't  unless you're a highly imaginative person, you may not really know what it is you want, whereas on the web, if you have a bunch of pictures, it can sort of trigger ideas and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1008d.B.argumentstructs.22
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.Daan.6:
+"There are several companies that have gone that way."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.5: "S Upscale technology.  Well."
+AE_ID IS1008d.A.argumentstructs.29: "Yeah, yes. Yeah."
+AE_ID IS1008d.B.argumentstructs.Daan.7: "Ah, we we're do you know, selling a unique product uh."
+AE_ID IS1008d.C.argumentstructs.Daan.8: "That actually makes more sense if we're gonna make it so highly customisable, 'cause on the web people can look at the different options they have, see maybe what other people have done, what the range of possibility as, whereas if you're in a store, you can't  unless you're a highly imaginative person, you may not really know what it is you want, whereas on the web, if you have a bunch of pictures, it can sort of trigger ideas and"
+AE_ID IS1008d.B.argumentstructs.22: "Mm. Mm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.8
+---------------------------------
+target=IS1008d.D.argumentstructs.Daan.6
+source=IS1008d.C.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.8:
+"And you can even have an  a movie that you can rotate the object and look at the di the only thing that you're missing really is the weight."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.29: "Yeah, yes. Yeah."
+AE_ID IS1008d.B.argumentstructs.Daan.7: "Ah, we we're do you know, selling a unique product uh."
+AE_ID IS1008d.C.argumentstructs.Daan.8: "That actually makes more sense if we're gonna make it so highly customisable, 'cause on the web people can look at the different options they have, see maybe what other people have done, what the range of possibility as, whereas if you're in a store, you can't  unless you're a highly imaginative person, you may not really know what it is you want, whereas on the web, if you have a bunch of pictures, it can sort of trigger ideas and"
+AE_ID IS1008d.B.argumentstructs.22: "Mm. Mm. Mm-hmm."
+AE_ID IS1008d.D.argumentstructs.Daan.6: "There are several companies that have gone that way."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.8
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.8
+source=IS1008d.C.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.23:
+"Yeah. The weight and feel. Yeah. Yeah. Yeah. Mm-hmm. Yes. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.7: "Ah, we we're do you know, selling a unique product uh."
+AE_ID IS1008d.C.argumentstructs.Daan.8: "That actually makes more sense if we're gonna make it so highly customisable, 'cause on the web people can look at the different options they have, see maybe what other people have done, what the range of possibility as, whereas if you're in a store, you can't  unless you're a highly imaginative person, you may not really know what it is you want, whereas on the web, if you have a bunch of pictures, it can sort of trigger ideas and"
+AE_ID IS1008d.B.argumentstructs.22: "Mm. Mm. Mm-hmm."
+AE_ID IS1008d.D.argumentstructs.Daan.6: "There are several companies that have gone that way."
+AE_ID IS1008d.B.argumentstructs.Daan.8: "And you can even have an  a movie that you can rotate the object and look at the di the only thing that you're missing really is the weight."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.8
+---------------------------------
+target=IS1008d.C.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.15:
+"Weight, the feel of the product, but"
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.Daan.8: "That actually makes more sense if we're gonna make it so highly customisable, 'cause on the web people can look at the different options they have, see maybe what other people have done, what the range of possibility as, whereas if you're in a store, you can't  unless you're a highly imaginative person, you may not really know what it is you want, whereas on the web, if you have a bunch of pictures, it can sort of trigger ideas and"
+AE_ID IS1008d.B.argumentstructs.22: "Mm. Mm. Mm-hmm."
+AE_ID IS1008d.D.argumentstructs.Daan.6: "There are several companies that have gone that way."
+AE_ID IS1008d.B.argumentstructs.Daan.8: "And you can even have an  a movie that you can rotate the object and look at the di the only thing that you're missing really is the weight."
+AE_ID IS1008d.C.argumentstructs.23: "Yeah. The weight and feel. Yeah. Yeah. Yeah. Mm-hmm. Yes. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.8
+---------------------------------
+target=IS1008d.D.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.23:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.22: "Mm. Mm. Mm-hmm."
+AE_ID IS1008d.D.argumentstructs.Daan.6: "There are several companies that have gone that way."
+AE_ID IS1008d.B.argumentstructs.Daan.8: "And you can even have an  a movie that you can rotate the object and look at the di the only thing that you're missing really is the weight."
+AE_ID IS1008d.C.argumentstructs.23: "Yeah. The weight and feel. Yeah. Yeah. Yeah. Mm-hmm. Yes. Mm-hmm."
+AE_ID IS1008d.D.argumentstructs.15: "Weight, the feel of the product, but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.22
+---------------------------------
+target=IS1008d.B.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.9:
+"We're getting used to that. It's not quite like trying on a shoe, but"
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.6: "There are several companies that have gone that way."
+AE_ID IS1008d.B.argumentstructs.Daan.8: "And you can even have an  a movie that you can rotate the object and look at the di the only thing that you're missing really is the weight."
+AE_ID IS1008d.C.argumentstructs.23: "Yeah. The weight and feel. Yeah. Yeah. Yeah. Mm-hmm. Yes. Mm-hmm."
+AE_ID IS1008d.D.argumentstructs.15: "Weight, the feel of the product, but"
+AE_ID IS1008d.B.argumentstructs.23: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.8
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.9
+source=IS1008d.B.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.10:
+"people are getting used to buying things online that they can't touch before buying."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.8: "And you can even have an  a movie that you can rotate the object and look at the di the only thing that you're missing really is the weight."
+AE_ID IS1008d.C.argumentstructs.23: "Yeah. The weight and feel. Yeah. Yeah. Yeah. Mm-hmm. Yes. Mm-hmm."
+AE_ID IS1008d.D.argumentstructs.15: "Weight, the feel of the product, but"
+AE_ID IS1008d.B.argumentstructs.23: "Mm."
+AE_ID IS1008d.B.argumentstructs.Daan.9: "We're getting used to that. It's not quite like trying on a shoe, but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.9
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.10
+source=IS1008d.B.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.Daan.7:
+"There are several that have gone through with the watches, too. You can customise a watch, you can see how it is at the f at the end of the production, you can change it uh"
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.23: "Yeah. The weight and feel. Yeah. Yeah. Yeah. Mm-hmm. Yes. Mm-hmm."
+AE_ID IS1008d.D.argumentstructs.15: "Weight, the feel of the product, but"
+AE_ID IS1008d.B.argumentstructs.23: "Mm."
+AE_ID IS1008d.B.argumentstructs.Daan.9: "We're getting used to that. It's not quite like trying on a shoe, but"
+AE_ID IS1008d.B.argumentstructs.Daan.10: "people are getting used to buying things online that they can't touch before buying."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.D.argumentstructs.15
+---------------------------------
+target=IS1008d.D.argumentstructs.Daan.7
+source=IS1008d.C.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.24:
+"Uh-huh."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.15: "Weight, the feel of the product, but"
+AE_ID IS1008d.B.argumentstructs.23: "Mm."
+AE_ID IS1008d.B.argumentstructs.Daan.9: "We're getting used to that. It's not quite like trying on a shoe, but"
+AE_ID IS1008d.B.argumentstructs.Daan.10: "people are getting used to buying things online that they can't touch before buying."
+AE_ID IS1008d.D.argumentstructs.Daan.7: "There are several that have gone through with the watches, too. You can customise a watch, you can see how it is at the f at the end of the production, you can change it uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.23
+---------------------------------
+target=IS1008d.B.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.Daan.8:
+"There's a lot of online that's  that is doing this now."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.23: "Mm."
+AE_ID IS1008d.B.argumentstructs.Daan.9: "We're getting used to that. It's not quite like trying on a shoe, but"
+AE_ID IS1008d.B.argumentstructs.Daan.10: "people are getting used to buying things online that they can't touch before buying."
+AE_ID IS1008d.D.argumentstructs.Daan.7: "There are several that have gone through with the watches, too. You can customise a watch, you can see how it is at the f at the end of the production, you can change it uh"
+AE_ID IS1008d.B.argumentstructs.24: "Uh-huh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.10
+---------------------------------
+target=IS1008d.D.argumentstructs.Daan.8
+source=IS1008d.D.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.Daan.9:
+"And when you're rotating, you'll look behind and look this way uh  it's possible to do with this, maybe there's a possibility of selling more than two million units in one year, which could  you know, feasibili feasibility uh lower the price of the unit."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.9: "We're getting used to that. It's not quite like trying on a shoe, but"
+AE_ID IS1008d.B.argumentstructs.Daan.10: "people are getting used to buying things online that they can't touch before buying."
+AE_ID IS1008d.D.argumentstructs.Daan.7: "There are several that have gone through with the watches, too. You can customise a watch, you can see how it is at the f at the end of the production, you can change it uh"
+AE_ID IS1008d.B.argumentstructs.24: "Uh-huh."
+AE_ID IS1008d.D.argumentstructs.Daan.8: "There's a lot of online that's  that is doing this now."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.10
+---------------------------------
+target=IS1008d.D.argumentstructs.Daan.9
+source=IS1008d.B.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.11:
+"We can."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.10: "people are getting used to buying things online that they can't touch before buying."
+AE_ID IS1008d.D.argumentstructs.Daan.7: "There are several that have gone through with the watches, too. You can customise a watch, you can see how it is at the f at the end of the production, you can change it uh"
+AE_ID IS1008d.B.argumentstructs.24: "Uh-huh."
+AE_ID IS1008d.D.argumentstructs.Daan.8: "There's a lot of online that's  that is doing this now."
+AE_ID IS1008d.D.argumentstructs.Daan.9: "And when you're rotating, you'll look behind and look this way uh  it's possible to do with this, maybe there's a possibility of selling more than two million units in one year, which could  you know, feasibili feasibility uh lower the price of the unit."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.D.argumentstructs.Daan.8
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.11
+source=IS1008d.D.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.11:
+"Great."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.7: "There are several that have gone through with the watches, too. You can customise a watch, you can see how it is at the f at the end of the production, you can change it uh"
+AE_ID IS1008d.B.argumentstructs.24: "Uh-huh."
+AE_ID IS1008d.D.argumentstructs.Daan.8: "There's a lot of online that's  that is doing this now."
+AE_ID IS1008d.D.argumentstructs.Daan.9: "And when you're rotating, you'll look behind and look this way uh  it's possible to do with this, maybe there's a possibility of selling more than two million units in one year, which could  you know, feasibili feasibility uh lower the price of the unit."
+AE_ID IS1008d.A.argumentstructs.Daan.11: "We can."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.D.argumentstructs.Daan.9
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.11
+source=IS1008d.D.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.12:
+"I don't think that's uh not possible, it's uh  okay then, l uh let's wait for the production, okay, then uh you can evaluate the product, so how it looks like technically and uh how it look like uh the real."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.24: "Uh-huh."
+AE_ID IS1008d.D.argumentstructs.Daan.8: "There's a lot of online that's  that is doing this now."
+AE_ID IS1008d.D.argumentstructs.Daan.9: "And when you're rotating, you'll look behind and look this way uh  it's possible to do with this, maybe there's a possibility of selling more than two million units in one year, which could  you know, feasibili feasibility uh lower the price of the unit."
+AE_ID IS1008d.A.argumentstructs.Daan.11: "We can."
+AE_ID IS1008d.B.argumentstructs.Daan.11: "Great."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.D.argumentstructs.Daan.9
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.12
+source=IS1008d.D.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1008d-Sellin the product.csv - True Judgement Ratio: 30.77%

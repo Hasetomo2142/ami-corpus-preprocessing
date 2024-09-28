@@ -1,0 +1,737 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.D.argumentstructs.Erik.10:
+"Alright and the next is, does it integrate some notion of fruits and vegetables  ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2008d.D.argumentstructs.Erik.10
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.C.argumentstructs.12:
+"."
+
+Past dialogue turns:
+AE_ID ES2008d.D.argumentstructs.Erik.10: "Alright and the next is, does it integrate some notion of fruits and vegetables  ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2008d.C.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.D.argumentstructs.Erik.11:
+"Well, is it gonna be yellow ?"
+
+Past dialogue turns:
+AE_ID ES2008d.D.argumentstructs.Erik.10: "Alright and the next is, does it integrate some notion of fruits and vegetables  ?"
+AE_ID ES2008d.C.argumentstructs.12: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2008d.D.argumentstructs.Erik.11
+source=ES2008d.D.argumentstructs.Erik.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.B.argumentstructs.Erik.8:
+"It it might be, 'cause that's our corporate colour, isn't it ?"
+
+Past dialogue turns:
+AE_ID ES2008d.D.argumentstructs.Erik.10: "Alright and the next is, does it integrate some notion of fruits and vegetables  ?"
+AE_ID ES2008d.C.argumentstructs.12: "."
+AE_ID ES2008d.D.argumentstructs.Erik.11: "Well, is it gonna be yellow ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.D.argumentstructs.Erik.11
+---------------------------------
+target=ES2008d.B.argumentstructs.Erik.8
+source=ES2008d.D.argumentstructs.Erik.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.A.argumentstructs.Erik.12:
+"That's right, yeah, corporate colour, we didn't keep that in  um well if we  I know it would make it a little less c a little more confusing, but if we had all the buttons in black, and a design in  and the outside in yellow, that'd be our corporate one and we could also have alternative colours, one a more conservative one, one that's more fruity."
+
+Past dialogue turns:
+AE_ID ES2008d.D.argumentstructs.Erik.10: "Alright and the next is, does it integrate some notion of fruits and vegetables  ?"
+AE_ID ES2008d.C.argumentstructs.12: "."
+AE_ID ES2008d.D.argumentstructs.Erik.11: "Well, is it gonna be yellow ?"
+AE_ID ES2008d.B.argumentstructs.Erik.8: "It it might be, 'cause that's our corporate colour, isn't it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.B.argumentstructs.Erik.8
+---------------------------------
+target=ES2008d.A.argumentstructs.Erik.12
+source=ES2008d.B.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.C.argumentstructs.Erik.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2008d.D.argumentstructs.Erik.10: "Alright and the next is, does it integrate some notion of fruits and vegetables  ?"
+AE_ID ES2008d.C.argumentstructs.12: "."
+AE_ID ES2008d.D.argumentstructs.Erik.11: "Well, is it gonna be yellow ?"
+AE_ID ES2008d.B.argumentstructs.Erik.8: "It it might be, 'cause that's our corporate colour, isn't it ?"
+AE_ID ES2008d.A.argumentstructs.Erik.12: "That's right, yeah, corporate colour, we didn't keep that in  um well if we  I know it would make it a little less c a little more confusing, but if we had all the buttons in black, and a design in  and the outside in yellow, that'd be our corporate one and we could also have alternative colours, one a more conservative one, one that's more fruity."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2008d.C.argumentstructs.Erik.6
+source=ES2008d.A.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.B.argumentstructs.Erik.9:
+"We might wanna keep it yellow."
+
+Past dialogue turns:
+AE_ID ES2008d.C.argumentstructs.12: "."
+AE_ID ES2008d.D.argumentstructs.Erik.11: "Well, is it gonna be yellow ?"
+AE_ID ES2008d.B.argumentstructs.Erik.8: "It it might be, 'cause that's our corporate colour, isn't it ?"
+AE_ID ES2008d.A.argumentstructs.Erik.12: "That's right, yeah, corporate colour, we didn't keep that in  um well if we  I know it would make it a little less c a little more confusing, but if we had all the buttons in black, and a design in  and the outside in yellow, that'd be our corporate one and we could also have alternative colours, one a more conservative one, one that's more fruity."
+AE_ID ES2008d.C.argumentstructs.Erik.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.D.argumentstructs.Erik.11
+---------------------------------
+target=ES2008d.B.argumentstructs.Erik.9
+source=ES2008d.A.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.D.argumentstructs.Erik.12:
+"Yeah, but if you had like a silvery kind of white or something."
+
+Past dialogue turns:
+AE_ID ES2008d.D.argumentstructs.Erik.11: "Well, is it gonna be yellow ?"
+AE_ID ES2008d.B.argumentstructs.Erik.8: "It it might be, 'cause that's our corporate colour, isn't it ?"
+AE_ID ES2008d.A.argumentstructs.Erik.12: "That's right, yeah, corporate colour, we didn't keep that in  um well if we  I know it would make it a little less c a little more confusing, but if we had all the buttons in black, and a design in  and the outside in yellow, that'd be our corporate one and we could also have alternative colours, one a more conservative one, one that's more fruity."
+AE_ID ES2008d.C.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2008d.B.argumentstructs.Erik.9: "We might wanna keep it yellow."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.B.argumentstructs.Erik.9
+---------------------------------
+target=ES2008d.D.argumentstructs.Erik.12
+source=ES2008d.A.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.B.argumentstructs.Erik.10:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2008d.B.argumentstructs.Erik.8: "It it might be, 'cause that's our corporate colour, isn't it ?"
+AE_ID ES2008d.A.argumentstructs.Erik.12: "That's right, yeah, corporate colour, we didn't keep that in  um well if we  I know it would make it a little less c a little more confusing, but if we had all the buttons in black, and a design in  and the outside in yellow, that'd be our corporate one and we could also have alternative colours, one a more conservative one, one that's more fruity."
+AE_ID ES2008d.C.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2008d.B.argumentstructs.Erik.9: "We might wanna keep it yellow."
+AE_ID ES2008d.D.argumentstructs.Erik.12: "Yeah, but if you had like a silvery kind of white or something."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.B.argumentstructs.Erik.8
+---------------------------------
+target=ES2008d.B.argumentstructs.Erik.10
+source=ES2008d.D.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.C.argumentstructs.Erik.7:
+"Yeah"
+
+Past dialogue turns:
+AE_ID ES2008d.A.argumentstructs.Erik.12: "That's right, yeah, corporate colour, we didn't keep that in  um well if we  I know it would make it a little less c a little more confusing, but if we had all the buttons in black, and a design in  and the outside in yellow, that'd be our corporate one and we could also have alternative colours, one a more conservative one, one that's more fruity."
+AE_ID ES2008d.C.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2008d.B.argumentstructs.Erik.9: "We might wanna keep it yellow."
+AE_ID ES2008d.D.argumentstructs.Erik.12: "Yeah, but if you had like a silvery kind of white or something."
+AE_ID ES2008d.B.argumentstructs.Erik.10: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2008d.C.argumentstructs.Erik.7
+source=ES2008d.D.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.A.argumentstructs.Erik.13:
+"Um and can we have like an R_R_ inscribed on the bottom or something ?"
+
+Past dialogue turns:
+AE_ID ES2008d.C.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2008d.B.argumentstructs.Erik.9: "We might wanna keep it yellow."
+AE_ID ES2008d.D.argumentstructs.Erik.12: "Yeah, but if you had like a silvery kind of white or something."
+AE_ID ES2008d.B.argumentstructs.Erik.10: "Yeah."
+AE_ID ES2008d.C.argumentstructs.Erik.7: "Yeah"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.D.argumentstructs.Erik.12
+---------------------------------
+target=ES2008d.A.argumentstructs.Erik.13
+source=ES2008d.A.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.C.argumentstructs.13:
+","
+
+Past dialogue turns:
+AE_ID ES2008d.B.argumentstructs.Erik.9: "We might wanna keep it yellow."
+AE_ID ES2008d.D.argumentstructs.Erik.12: "Yeah, but if you had like a silvery kind of white or something."
+AE_ID ES2008d.B.argumentstructs.Erik.10: "Yeah."
+AE_ID ES2008d.C.argumentstructs.Erik.7: "Yeah"
+AE_ID ES2008d.A.argumentstructs.Erik.13: "Um and can we have like an R_R_ inscribed on the bottom or something ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2008d.C.argumentstructs.13
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.B.argumentstructs.17:
+"If we had a yellow"
+
+Past dialogue turns:
+AE_ID ES2008d.D.argumentstructs.Erik.12: "Yeah, but if you had like a silvery kind of white or something."
+AE_ID ES2008d.B.argumentstructs.Erik.10: "Yeah."
+AE_ID ES2008d.C.argumentstructs.Erik.7: "Yeah"
+AE_ID ES2008d.A.argumentstructs.Erik.13: "Um and can we have like an R_R_ inscribed on the bottom or something ?"
+AE_ID ES2008d.C.argumentstructs.13: ","
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.D.argumentstructs.Erik.12
+---------------------------------
+target=ES2008d.B.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.B.argumentstructs.Erik.11:
+"Sure."
+
+Past dialogue turns:
+AE_ID ES2008d.B.argumentstructs.Erik.10: "Yeah."
+AE_ID ES2008d.C.argumentstructs.Erik.7: "Yeah"
+AE_ID ES2008d.A.argumentstructs.Erik.13: "Um and can we have like an R_R_ inscribed on the bottom or something ?"
+AE_ID ES2008d.C.argumentstructs.13: ","
+AE_ID ES2008d.B.argumentstructs.17: "If we had a yellow"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.B.argumentstructs.Erik.10
+---------------------------------
+target=ES2008d.B.argumentstructs.Erik.11
+source=ES2008d.A.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.A.argumentstructs.20:
+"Okay. Fruity, so fruity."
+
+Past dialogue turns:
+AE_ID ES2008d.C.argumentstructs.Erik.7: "Yeah"
+AE_ID ES2008d.A.argumentstructs.Erik.13: "Um and can we have like an R_R_ inscribed on the bottom or something ?"
+AE_ID ES2008d.C.argumentstructs.13: ","
+AE_ID ES2008d.B.argumentstructs.17: "If we had a yellow"
+AE_ID ES2008d.B.argumentstructs.Erik.11: "Sure."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.B.argumentstructs.17
+---------------------------------
+target=ES2008d.A.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.D.argumentstructs.Erik.13:
+"Oh, yeah."
+
+Past dialogue turns:
+AE_ID ES2008d.A.argumentstructs.Erik.13: "Um and can we have like an R_R_ inscribed on the bottom or something ?"
+AE_ID ES2008d.C.argumentstructs.13: ","
+AE_ID ES2008d.B.argumentstructs.17: "If we had a yellow"
+AE_ID ES2008d.B.argumentstructs.Erik.11: "Sure."
+AE_ID ES2008d.A.argumentstructs.20: "Okay. Fruity, so fruity."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.A.argumentstructs.Erik.13
+---------------------------------
+target=ES2008d.D.argumentstructs.Erik.13
+source=ES2008d.A.argumentstructs.Erik.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.C.argumentstructs.Erik.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2008d.C.argumentstructs.13: ","
+AE_ID ES2008d.B.argumentstructs.17: "If we had a yellow"
+AE_ID ES2008d.B.argumentstructs.Erik.11: "Sure."
+AE_ID ES2008d.A.argumentstructs.20: "Okay. Fruity, so fruity."
+AE_ID ES2008d.D.argumentstructs.Erik.13: "Oh, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.D.argumentstructs.Erik.13
+---------------------------------
+target=ES2008d.C.argumentstructs.Erik.8
+source=ES2008d.A.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.D.argumentstructs.Erik.14:
+"Alright, so I think it it's"
+
+Past dialogue turns:
+AE_ID ES2008d.B.argumentstructs.17: "If we had a yellow"
+AE_ID ES2008d.B.argumentstructs.Erik.11: "Sure."
+AE_ID ES2008d.A.argumentstructs.20: "Okay. Fruity, so fruity."
+AE_ID ES2008d.D.argumentstructs.Erik.13: "Oh, yeah."
+AE_ID ES2008d.C.argumentstructs.Erik.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.D.argumentstructs.Erik.13
+---------------------------------
+target=ES2008d.D.argumentstructs.Erik.14
+source=ES2008d.A.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.B.argumentstructs.Erik.12:
+"So  it was inspired by the potato, so I think it's pretty fruity."
+
+Past dialogue turns:
+AE_ID ES2008d.B.argumentstructs.Erik.11: "Sure."
+AE_ID ES2008d.A.argumentstructs.20: "Okay. Fruity, so fruity."
+AE_ID ES2008d.D.argumentstructs.Erik.13: "Oh, yeah."
+AE_ID ES2008d.C.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2008d.D.argumentstructs.Erik.14: "Alright, so I think it it's"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.A.argumentstructs.20
+---------------------------------
+target=ES2008d.B.argumentstructs.Erik.12
+source=ES2008d.D.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.D.argumentstructs.Erik.15:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2008d.A.argumentstructs.20: "Okay. Fruity, so fruity."
+AE_ID ES2008d.D.argumentstructs.Erik.13: "Oh, yeah."
+AE_ID ES2008d.C.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2008d.D.argumentstructs.Erik.14: "Alright, so I think it it's"
+AE_ID ES2008d.B.argumentstructs.Erik.12: "So  it was inspired by the potato, so I think it's pretty fruity."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.D.argumentstructs.Erik.14
+---------------------------------
+target=ES2008d.D.argumentstructs.Erik.15
+source=ES2008d.B.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.A.argumentstructs.Erik.14:
+"I think i it's kind of mangoey too."
+
+Past dialogue turns:
+AE_ID ES2008d.D.argumentstructs.Erik.13: "Oh, yeah."
+AE_ID ES2008d.C.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2008d.D.argumentstructs.Erik.14: "Alright, so I think it it's"
+AE_ID ES2008d.B.argumentstructs.Erik.12: "So  it was inspired by the potato, so I think it's pretty fruity."
+AE_ID ES2008d.D.argumentstructs.Erik.15: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2008d.A.argumentstructs.Erik.14
+source=ES2008d.B.argumentstructs.Erik.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.B.argumentstructs.18:
+"Oh, mango that that"
+
+Past dialogue turns:
+AE_ID ES2008d.C.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2008d.D.argumentstructs.Erik.14: "Alright, so I think it it's"
+AE_ID ES2008d.B.argumentstructs.Erik.12: "So  it was inspired by the potato, so I think it's pretty fruity."
+AE_ID ES2008d.D.argumentstructs.Erik.15: "Yeah."
+AE_ID ES2008d.A.argumentstructs.Erik.14: "I think i it's kind of mangoey too."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.A.argumentstructs.Erik.14
+---------------------------------
+target=ES2008d.B.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.D.argumentstructs.Erik.16:
+"Yeah. I  okay, I'm giving it a one  the mango  put me over."
+
+Past dialogue turns:
+AE_ID ES2008d.D.argumentstructs.Erik.14: "Alright, so I think it it's"
+AE_ID ES2008d.B.argumentstructs.Erik.12: "So  it was inspired by the potato, so I think it's pretty fruity."
+AE_ID ES2008d.D.argumentstructs.Erik.15: "Yeah."
+AE_ID ES2008d.A.argumentstructs.Erik.14: "I think i it's kind of mangoey too."
+AE_ID ES2008d.B.argumentstructs.18: "Oh, mango that that"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.A.argumentstructs.Erik.14
+---------------------------------
+target=ES2008d.D.argumentstructs.Erik.16
+source=ES2008d.A.argumentstructs.Erik.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.C.argumentstructs.Erik.9:
+"Mangoey is better, yeah. I like mangoes."
+
+Past dialogue turns:
+AE_ID ES2008d.B.argumentstructs.Erik.12: "So  it was inspired by the potato, so I think it's pretty fruity."
+AE_ID ES2008d.D.argumentstructs.Erik.15: "Yeah."
+AE_ID ES2008d.A.argumentstructs.Erik.14: "I think i it's kind of mangoey too."
+AE_ID ES2008d.B.argumentstructs.18: "Oh, mango that that"
+AE_ID ES2008d.D.argumentstructs.Erik.16: "Yeah. I  okay, I'm giving it a one  the mango  put me over."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.A.argumentstructs.Erik.14
+---------------------------------
+target=ES2008d.C.argumentstructs.Erik.9
+source=ES2008d.A.argumentstructs.Erik.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.A.argumentstructs.Erik.15:
+"Yes."
+
+Past dialogue turns:
+AE_ID ES2008d.D.argumentstructs.Erik.15: "Yeah."
+AE_ID ES2008d.A.argumentstructs.Erik.14: "I think i it's kind of mangoey too."
+AE_ID ES2008d.B.argumentstructs.18: "Oh, mango that that"
+AE_ID ES2008d.D.argumentstructs.Erik.16: "Yeah. I  okay, I'm giving it a one  the mango  put me over."
+AE_ID ES2008d.C.argumentstructs.Erik.9: "Mangoey is better, yeah. I like mangoes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.B.argumentstructs.18
+---------------------------------
+target=ES2008d.A.argumentstructs.Erik.15
+source=ES2008d.C.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.A.argumentstructs.21:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2008d.A.argumentstructs.Erik.14: "I think i it's kind of mangoey too."
+AE_ID ES2008d.B.argumentstructs.18: "Oh, mango that that"
+AE_ID ES2008d.D.argumentstructs.Erik.16: "Yeah. I  okay, I'm giving it a one  the mango  put me over."
+AE_ID ES2008d.C.argumentstructs.Erik.9: "Mangoey is better, yeah. I like mangoes."
+AE_ID ES2008d.A.argumentstructs.Erik.15: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.A.argumentstructs.Erik.15
+---------------------------------
+target=ES2008d.A.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.B.argumentstructs.Erik.13:
+"That's a much more trendy than a potato  one."
+
+Past dialogue turns:
+AE_ID ES2008d.B.argumentstructs.18: "Oh, mango that that"
+AE_ID ES2008d.D.argumentstructs.Erik.16: "Yeah. I  okay, I'm giving it a one  the mango  put me over."
+AE_ID ES2008d.C.argumentstructs.Erik.9: "Mangoey is better, yeah. I like mangoes."
+AE_ID ES2008d.A.argumentstructs.Erik.15: "Yes."
+AE_ID ES2008d.A.argumentstructs.21: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.C.argumentstructs.Erik.9
+---------------------------------
+target=ES2008d.B.argumentstructs.Erik.13
+source=ES2008d.A.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.D.argumentstructs.Erik.17:
+"What are  what's everyone's numbers ?"
+
+Past dialogue turns:
+AE_ID ES2008d.D.argumentstructs.Erik.16: "Yeah. I  okay, I'm giving it a one  the mango  put me over."
+AE_ID ES2008d.C.argumentstructs.Erik.9: "Mangoey is better, yeah. I like mangoes."
+AE_ID ES2008d.A.argumentstructs.Erik.15: "Yes."
+AE_ID ES2008d.A.argumentstructs.21: "Mm."
+AE_ID ES2008d.B.argumentstructs.Erik.13: "That's a much more trendy than a potato  one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.D.argumentstructs.Erik.16
+---------------------------------
+target=ES2008d.D.argumentstructs.Erik.17
+source=ES2008d.D.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.C.argumentstructs.Erik.10:
+"Uh two."
+
+Past dialogue turns:
+AE_ID ES2008d.C.argumentstructs.Erik.9: "Mangoey is better, yeah. I like mangoes."
+AE_ID ES2008d.A.argumentstructs.Erik.15: "Yes."
+AE_ID ES2008d.A.argumentstructs.21: "Mm."
+AE_ID ES2008d.B.argumentstructs.Erik.13: "That's a much more trendy than a potato  one."
+AE_ID ES2008d.D.argumentstructs.Erik.17: "What are  what's everyone's numbers ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.D.argumentstructs.Erik.17
+---------------------------------
+target=ES2008d.C.argumentstructs.Erik.10
+source=ES2008d.D.argumentstructs.Erik.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008d.A.argumentstructs.Erik.16:
+"One."
+
+Past dialogue turns:
+AE_ID ES2008d.A.argumentstructs.Erik.15: "Yes."
+AE_ID ES2008d.A.argumentstructs.21: "Mm."
+AE_ID ES2008d.B.argumentstructs.Erik.13: "That's a much more trendy than a potato  one."
+AE_ID ES2008d.D.argumentstructs.Erik.17: "What are  what's everyone's numbers ?"
+AE_ID ES2008d.C.argumentstructs.Erik.10: "Uh two."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008d.C.argumentstructs.Erik.10
+---------------------------------
+target=ES2008d.A.argumentstructs.Erik.16
+source=ES2008d.D.argumentstructs.Erik.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2008d-ES2008d - Fruity notion.csv - True Judgement Ratio: 33.33%

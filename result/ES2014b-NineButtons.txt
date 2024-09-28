@@ -1,0 +1,762 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.C.argumentstructs.Rutger.1:
+"Yeah. And I don't really think that you need nine numbers. I mean how often do you use seven, eight and nine ? I think just one to six and then channel up and down should be enough."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2014b.C.argumentstructs.Rutger.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.A.argumentstructs.17:
+"Well b uh w"
+
+Past dialogue turns:
+AE_ID ES2014b.C.argumentstructs.Rutger.1: "Yeah. And I don't really think that you need nine numbers. I mean how often do you use seven, eight and nine ? I think just one to six and then channel up and down should be enough."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.C.argumentstructs.Rutger.1
+---------------------------------
+target=ES2014b.A.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.A.argumentstructs.Rutger.1:
+"Well th the on the   Well uh for for general television purposes obviously you have channels one to five at this point in time, and we'd have to have some room for uh future such channels. But but"
+
+Past dialogue turns:
+AE_ID ES2014b.C.argumentstructs.Rutger.1: "Yeah. And I don't really think that you need nine numbers. I mean how often do you use seven, eight and nine ? I think just one to six and then channel up and down should be enough."
+AE_ID ES2014b.A.argumentstructs.17: "Well b uh w"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.C.argumentstructs.Rutger.1
+---------------------------------
+target=ES2014b.A.argumentstructs.Rutger.1
+source=ES2014b.C.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.C.argumentstructs.Rutger.2:
+"Like how often do you hit nine ?"
+
+Past dialogue turns:
+AE_ID ES2014b.C.argumentstructs.Rutger.1: "Yeah. And I don't really think that you need nine numbers. I mean how often do you use seven, eight and nine ? I think just one to six and then channel up and down should be enough."
+AE_ID ES2014b.A.argumentstructs.17: "Well b uh w"
+AE_ID ES2014b.A.argumentstructs.Rutger.1: "Well th the on the   Well uh for for general television purposes obviously you have channels one to five at this point in time, and we'd have to have some room for uh future such channels. But but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.C.argumentstructs.Rutger.1
+---------------------------------
+target=ES2014b.C.argumentstructs.Rutger.2
+source=ES2014b.C.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.D.argumentstructs.Rutger.1:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2014b.C.argumentstructs.Rutger.1: "Yeah. And I don't really think that you need nine numbers. I mean how often do you use seven, eight and nine ? I think just one to six and then channel up and down should be enough."
+AE_ID ES2014b.A.argumentstructs.17: "Well b uh w"
+AE_ID ES2014b.A.argumentstructs.Rutger.1: "Well th the on the   Well uh for for general television purposes obviously you have channels one to five at this point in time, and we'd have to have some room for uh future such channels. But but"
+AE_ID ES2014b.C.argumentstructs.Rutger.2: "Like how often do you hit nine ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.C.argumentstructs.Rutger.2
+---------------------------------
+target=ES2014b.D.argumentstructs.Rutger.1
+source=ES2014b.C.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.B.argumentstructs.Rutger.1:
+"It's just people are used to seeing that, so if we didn't have them then they might think it's"
+
+Past dialogue turns:
+AE_ID ES2014b.C.argumentstructs.Rutger.1: "Yeah. And I don't really think that you need nine numbers. I mean how often do you use seven, eight and nine ? I think just one to six and then channel up and down should be enough."
+AE_ID ES2014b.A.argumentstructs.17: "Well b uh w"
+AE_ID ES2014b.A.argumentstructs.Rutger.1: "Well th the on the   Well uh for for general television purposes obviously you have channels one to five at this point in time, and we'd have to have some room for uh future such channels. But but"
+AE_ID ES2014b.C.argumentstructs.Rutger.2: "Like how often do you hit nine ?"
+AE_ID ES2014b.D.argumentstructs.Rutger.1: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.C.argumentstructs.Rutger.1
+---------------------------------
+target=ES2014b.B.argumentstructs.Rutger.1
+source=ES2014b.C.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.A.argumentstructs.18:
+"actual television channels do we have to uh prepare for ? I would have thought that uh"
+
+Past dialogue turns:
+AE_ID ES2014b.A.argumentstructs.17: "Well b uh w"
+AE_ID ES2014b.A.argumentstructs.Rutger.1: "Well th the on the   Well uh for for general television purposes obviously you have channels one to five at this point in time, and we'd have to have some room for uh future such channels. But but"
+AE_ID ES2014b.C.argumentstructs.Rutger.2: "Like how often do you hit nine ?"
+AE_ID ES2014b.D.argumentstructs.Rutger.1: "Mm-hmm."
+AE_ID ES2014b.B.argumentstructs.Rutger.1: "It's just people are used to seeing that, so if we didn't have them then they might think it's"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2014b.A.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.A.argumentstructs.Rutger.2:
+"it's forever expanding and at the moment we've got  although you've onl you've got the five standard, you've got the B_B_C_ have come up with a further six and uh there's uh I don't know exactly how many channels there are on uh when you take into account uh Sky and various other um various others."
+
+Past dialogue turns:
+AE_ID ES2014b.A.argumentstructs.Rutger.1: "Well th the on the   Well uh for for general television purposes obviously you have channels one to five at this point in time, and we'd have to have some room for uh future such channels. But but"
+AE_ID ES2014b.C.argumentstructs.Rutger.2: "Like how often do you hit nine ?"
+AE_ID ES2014b.D.argumentstructs.Rutger.1: "Mm-hmm."
+AE_ID ES2014b.B.argumentstructs.Rutger.1: "It's just people are used to seeing that, so if we didn't have them then they might think it's"
+AE_ID ES2014b.A.argumentstructs.18: "actual television channels do we have to uh prepare for ? I would have thought that uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2014b.A.argumentstructs.Rutger.2
+source=ES2014b.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.D.argumentstructs.Rutger.2:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2014b.C.argumentstructs.Rutger.2: "Like how often do you hit nine ?"
+AE_ID ES2014b.D.argumentstructs.Rutger.1: "Mm-hmm."
+AE_ID ES2014b.B.argumentstructs.Rutger.1: "It's just people are used to seeing that, so if we didn't have them then they might think it's"
+AE_ID ES2014b.A.argumentstructs.18: "actual television channels do we have to uh prepare for ? I would have thought that uh"
+AE_ID ES2014b.A.argumentstructs.Rutger.2: "it's forever expanding and at the moment we've got  although you've onl you've got the five standard, you've got the B_B_C_ have come up with a further six and uh there's uh I don't know exactly how many channels there are on uh when you take into account uh Sky and various other um various others."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.D.argumentstructs.Rutger.1
+---------------------------------
+target=ES2014b.D.argumentstructs.Rutger.2
+source=ES2014b.A.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.B.argumentstructs.16:
+"Hmm."
+
+Past dialogue turns:
+AE_ID ES2014b.D.argumentstructs.Rutger.1: "Mm-hmm."
+AE_ID ES2014b.B.argumentstructs.Rutger.1: "It's just people are used to seeing that, so if we didn't have them then they might think it's"
+AE_ID ES2014b.A.argumentstructs.18: "actual television channels do we have to uh prepare for ? I would have thought that uh"
+AE_ID ES2014b.A.argumentstructs.Rutger.2: "it's forever expanding and at the moment we've got  although you've onl you've got the five standard, you've got the B_B_C_ have come up with a further six and uh there's uh I don't know exactly how many channels there are on uh when you take into account uh Sky and various other um various others."
+AE_ID ES2014b.D.argumentstructs.Rutger.2: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.D.argumentstructs.Rutger.2
+---------------------------------
+target=ES2014b.B.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.A.argumentstructs.Rutger.3:
+"So I would've thought that we wouldn't, you know, rather  Okay, if the time of flicking from one to other, but presumably it'll take a second 'cause you have to be able to stop it. Maybe you could have a fast forward on the on the channels that w and then you could dispense with more otherwise. Y you'd want you'd want to get fairly quickly to the channel that you wanted."
+
+Past dialogue turns:
+AE_ID ES2014b.B.argumentstructs.Rutger.1: "It's just people are used to seeing that, so if we didn't have them then they might think it's"
+AE_ID ES2014b.A.argumentstructs.18: "actual television channels do we have to uh prepare for ? I would have thought that uh"
+AE_ID ES2014b.A.argumentstructs.Rutger.2: "it's forever expanding and at the moment we've got  although you've onl you've got the five standard, you've got the B_B_C_ have come up with a further six and uh there's uh I don't know exactly how many channels there are on uh when you take into account uh Sky and various other um various others."
+AE_ID ES2014b.D.argumentstructs.Rutger.2: "Mm-hmm."
+AE_ID ES2014b.B.argumentstructs.16: "Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.A.argumentstructs.18
+---------------------------------
+target=ES2014b.A.argumentstructs.Rutger.3
+source=ES2014b.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.C.argumentstructs.11:
+"Hmm."
+
+Past dialogue turns:
+AE_ID ES2014b.A.argumentstructs.18: "actual television channels do we have to uh prepare for ? I would have thought that uh"
+AE_ID ES2014b.A.argumentstructs.Rutger.2: "it's forever expanding and at the moment we've got  although you've onl you've got the five standard, you've got the B_B_C_ have come up with a further six and uh there's uh I don't know exactly how many channels there are on uh when you take into account uh Sky and various other um various others."
+AE_ID ES2014b.D.argumentstructs.Rutger.2: "Mm-hmm."
+AE_ID ES2014b.B.argumentstructs.16: "Hmm."
+AE_ID ES2014b.A.argumentstructs.Rutger.3: "So I would've thought that we wouldn't, you know, rather  Okay, if the time of flicking from one to other, but presumably it'll take a second 'cause you have to be able to stop it. Maybe you could have a fast forward on the on the channels that w and then you could dispense with more otherwise. Y you'd want you'd want to get fairly quickly to the channel that you wanted."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.B.argumentstructs.16
+---------------------------------
+target=ES2014b.C.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.C.argumentstructs.Rutger.4:
+"Um some remotes have kind of favourite options where if you always flick from channel one to channel six, um if that's a favourite you just like by-pass two to five."
+
+Past dialogue turns:
+AE_ID ES2014b.A.argumentstructs.Rutger.2: "it's forever expanding and at the moment we've got  although you've onl you've got the five standard, you've got the B_B_C_ have come up with a further six and uh there's uh I don't know exactly how many channels there are on uh when you take into account uh Sky and various other um various others."
+AE_ID ES2014b.D.argumentstructs.Rutger.2: "Mm-hmm."
+AE_ID ES2014b.B.argumentstructs.16: "Hmm."
+AE_ID ES2014b.A.argumentstructs.Rutger.3: "So I would've thought that we wouldn't, you know, rather  Okay, if the time of flicking from one to other, but presumably it'll take a second 'cause you have to be able to stop it. Maybe you could have a fast forward on the on the channels that w and then you could dispense with more otherwise. Y you'd want you'd want to get fairly quickly to the channel that you wanted."
+AE_ID ES2014b.C.argumentstructs.11: "Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.A.argumentstructs.Rutger.3
+---------------------------------
+target=ES2014b.C.argumentstructs.Rutger.4
+source=ES2014b.A.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.A.argumentstructs.19:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2014b.D.argumentstructs.Rutger.2: "Mm-hmm."
+AE_ID ES2014b.B.argumentstructs.16: "Hmm."
+AE_ID ES2014b.A.argumentstructs.Rutger.3: "So I would've thought that we wouldn't, you know, rather  Okay, if the time of flicking from one to other, but presumably it'll take a second 'cause you have to be able to stop it. Maybe you could have a fast forward on the on the channels that w and then you could dispense with more otherwise. Y you'd want you'd want to get fairly quickly to the channel that you wanted."
+AE_ID ES2014b.C.argumentstructs.11: "Hmm."
+AE_ID ES2014b.C.argumentstructs.Rutger.4: "Um some remotes have kind of favourite options where if you always flick from channel one to channel six, um if that's a favourite you just like by-pass two to five."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.D.argumentstructs.Rutger.2
+---------------------------------
+target=ES2014b.A.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.A.argumentstructs.Rutger.4:
+"Yeah, I s I suppose in a sense you could have um if you've got a hundred channels then if you had sort of an easy way of getting  rather than having to go one to a hundred, you could go one to one to ten, ten to twenty and then have a second button to get you to the actual channel you want and that would cut down your time. Anyway."
+
+Past dialogue turns:
+AE_ID ES2014b.B.argumentstructs.16: "Hmm."
+AE_ID ES2014b.A.argumentstructs.Rutger.3: "So I would've thought that we wouldn't, you know, rather  Okay, if the time of flicking from one to other, but presumably it'll take a second 'cause you have to be able to stop it. Maybe you could have a fast forward on the on the channels that w and then you could dispense with more otherwise. Y you'd want you'd want to get fairly quickly to the channel that you wanted."
+AE_ID ES2014b.C.argumentstructs.11: "Hmm."
+AE_ID ES2014b.C.argumentstructs.Rutger.4: "Um some remotes have kind of favourite options where if you always flick from channel one to channel six, um if that's a favourite you just like by-pass two to five."
+AE_ID ES2014b.A.argumentstructs.19: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.A.argumentstructs.Rutger.3
+---------------------------------
+target=ES2014b.A.argumentstructs.Rutger.4
+source=ES2014b.A.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.C.argumentstructs.12:
+"Hmm."
+
+Past dialogue turns:
+AE_ID ES2014b.A.argumentstructs.Rutger.3: "So I would've thought that we wouldn't, you know, rather  Okay, if the time of flicking from one to other, but presumably it'll take a second 'cause you have to be able to stop it. Maybe you could have a fast forward on the on the channels that w and then you could dispense with more otherwise. Y you'd want you'd want to get fairly quickly to the channel that you wanted."
+AE_ID ES2014b.C.argumentstructs.11: "Hmm."
+AE_ID ES2014b.C.argumentstructs.Rutger.4: "Um some remotes have kind of favourite options where if you always flick from channel one to channel six, um if that's a favourite you just like by-pass two to five."
+AE_ID ES2014b.A.argumentstructs.19: "Mm-hmm."
+AE_ID ES2014b.A.argumentstructs.Rutger.4: "Yeah, I s I suppose in a sense you could have um if you've got a hundred channels then if you had sort of an easy way of getting  rather than having to go one to a hundred, you could go one to one to ten, ten to twenty and then have a second button to get you to the actual channel you want and that would cut down your time. Anyway."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.C.argumentstructs.11
+---------------------------------
+target=ES2014b.C.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.C.argumentstructs.Rutger.5:
+"Mm. Um. But I think a lot of um like Cable and Sky and stuff, that would be tuned to one channel, and then you'd have another remote for all of those channels. Like to get to fifty five and the higher numbers"
+
+Past dialogue turns:
+AE_ID ES2014b.C.argumentstructs.11: "Hmm."
+AE_ID ES2014b.C.argumentstructs.Rutger.4: "Um some remotes have kind of favourite options where if you always flick from channel one to channel six, um if that's a favourite you just like by-pass two to five."
+AE_ID ES2014b.A.argumentstructs.19: "Mm-hmm."
+AE_ID ES2014b.A.argumentstructs.Rutger.4: "Yeah, I s I suppose in a sense you could have um if you've got a hundred channels then if you had sort of an easy way of getting  rather than having to go one to a hundred, you could go one to one to ten, ten to twenty and then have a second button to get you to the actual channel you want and that would cut down your time. Anyway."
+AE_ID ES2014b.C.argumentstructs.12: "Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.C.argumentstructs.Rutger.4
+---------------------------------
+target=ES2014b.C.argumentstructs.Rutger.5
+source=ES2014b.A.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.B.argumentstructs.Rutger.3:
+"Okay, yeah."
+
+Past dialogue turns:
+AE_ID ES2014b.C.argumentstructs.Rutger.4: "Um some remotes have kind of favourite options where if you always flick from channel one to channel six, um if that's a favourite you just like by-pass two to five."
+AE_ID ES2014b.A.argumentstructs.19: "Mm-hmm."
+AE_ID ES2014b.A.argumentstructs.Rutger.4: "Yeah, I s I suppose in a sense you could have um if you've got a hundred channels then if you had sort of an easy way of getting  rather than having to go one to a hundred, you could go one to one to ten, ten to twenty and then have a second button to get you to the actual channel you want and that would cut down your time. Anyway."
+AE_ID ES2014b.C.argumentstructs.12: "Hmm."
+AE_ID ES2014b.C.argumentstructs.Rutger.5: "Mm. Um. But I think a lot of um like Cable and Sky and stuff, that would be tuned to one channel, and then you'd have another remote for all of those channels. Like to get to fifty five and the higher numbers"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.C.argumentstructs.Rutger.4
+---------------------------------
+target=ES2014b.B.argumentstructs.Rutger.3
+source=ES2014b.C.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.A.argumentstructs.Rutger.5:
+"Whatever.  Okay. Okay. Limit the number of buttons, user friendly."
+
+Past dialogue turns:
+AE_ID ES2014b.A.argumentstructs.19: "Mm-hmm."
+AE_ID ES2014b.A.argumentstructs.Rutger.4: "Yeah, I s I suppose in a sense you could have um if you've got a hundred channels then if you had sort of an easy way of getting  rather than having to go one to a hundred, you could go one to one to ten, ten to twenty and then have a second button to get you to the actual channel you want and that would cut down your time. Anyway."
+AE_ID ES2014b.C.argumentstructs.12: "Hmm."
+AE_ID ES2014b.C.argumentstructs.Rutger.5: "Mm. Um. But I think a lot of um like Cable and Sky and stuff, that would be tuned to one channel, and then you'd have another remote for all of those channels. Like to get to fifty five and the higher numbers"
+AE_ID ES2014b.B.argumentstructs.Rutger.3: "Okay, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.A.argumentstructs.Rutger.4
+---------------------------------
+target=ES2014b.A.argumentstructs.Rutger.5
+source=ES2014b.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.C.argumentstructs.Rutger.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2014b.A.argumentstructs.Rutger.4: "Yeah, I s I suppose in a sense you could have um if you've got a hundred channels then if you had sort of an easy way of getting  rather than having to go one to a hundred, you could go one to one to ten, ten to twenty and then have a second button to get you to the actual channel you want and that would cut down your time. Anyway."
+AE_ID ES2014b.C.argumentstructs.12: "Hmm."
+AE_ID ES2014b.C.argumentstructs.Rutger.5: "Mm. Um. But I think a lot of um like Cable and Sky and stuff, that would be tuned to one channel, and then you'd have another remote for all of those channels. Like to get to fifty five and the higher numbers"
+AE_ID ES2014b.B.argumentstructs.Rutger.3: "Okay, yeah."
+AE_ID ES2014b.A.argumentstructs.Rutger.5: "Whatever.  Okay. Okay. Limit the number of buttons, user friendly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.B.argumentstructs.Rutger.3
+---------------------------------
+target=ES2014b.C.argumentstructs.Rutger.6
+source=ES2014b.A.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.C.argumentstructs.Rutger.7:
+"But I suppose nine's not really excessive. I suppose it does make a good pattern."
+
+Past dialogue turns:
+AE_ID ES2014b.C.argumentstructs.12: "Hmm."
+AE_ID ES2014b.C.argumentstructs.Rutger.5: "Mm. Um. But I think a lot of um like Cable and Sky and stuff, that would be tuned to one channel, and then you'd have another remote for all of those channels. Like to get to fifty five and the higher numbers"
+AE_ID ES2014b.B.argumentstructs.Rutger.3: "Okay, yeah."
+AE_ID ES2014b.A.argumentstructs.Rutger.5: "Whatever.  Okay. Okay. Limit the number of buttons, user friendly."
+AE_ID ES2014b.C.argumentstructs.Rutger.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.C.argumentstructs.Rutger.5
+---------------------------------
+target=ES2014b.C.argumentstructs.Rutger.7
+source=ES2014b.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.B.argumentstructs.Rutger.4:
+"I suppose with nine you've got the the like the last one which makes the tenth means you  uh it's like uh multiples you can put them together so you can make any number. So with that we'd kind of by-pass any problems with"
+
+Past dialogue turns:
+AE_ID ES2014b.C.argumentstructs.Rutger.5: "Mm. Um. But I think a lot of um like Cable and Sky and stuff, that would be tuned to one channel, and then you'd have another remote for all of those channels. Like to get to fifty five and the higher numbers"
+AE_ID ES2014b.B.argumentstructs.Rutger.3: "Okay, yeah."
+AE_ID ES2014b.A.argumentstructs.Rutger.5: "Whatever.  Okay. Okay. Limit the number of buttons, user friendly."
+AE_ID ES2014b.C.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2014b.C.argumentstructs.Rutger.7: "But I suppose nine's not really excessive. I suppose it does make a good pattern."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.C.argumentstructs.Rutger.7
+---------------------------------
+target=ES2014b.B.argumentstructs.Rutger.4
+source=ES2014b.C.argumentstructs.Rutger.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.A.argumentstructs.20:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2014b.B.argumentstructs.Rutger.3: "Okay, yeah."
+AE_ID ES2014b.A.argumentstructs.Rutger.5: "Whatever.  Okay. Okay. Limit the number of buttons, user friendly."
+AE_ID ES2014b.C.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2014b.C.argumentstructs.Rutger.7: "But I suppose nine's not really excessive. I suppose it does make a good pattern."
+AE_ID ES2014b.B.argumentstructs.Rutger.4: "I suppose with nine you've got the the like the last one which makes the tenth means you  uh it's like uh multiples you can put them together so you can make any number. So with that we'd kind of by-pass any problems with"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.B.argumentstructs.Rutger.3
+---------------------------------
+target=ES2014b.A.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.A.argumentstructs.Rutger.6:
+"Well that's true, yeah, you could get fifty by five and a zero or whatever, that that makes sense."
+
+Past dialogue turns:
+AE_ID ES2014b.A.argumentstructs.Rutger.5: "Whatever.  Okay. Okay. Limit the number of buttons, user friendly."
+AE_ID ES2014b.C.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2014b.C.argumentstructs.Rutger.7: "But I suppose nine's not really excessive. I suppose it does make a good pattern."
+AE_ID ES2014b.B.argumentstructs.Rutger.4: "I suppose with nine you've got the the like the last one which makes the tenth means you  uh it's like uh multiples you can put them together so you can make any number. So with that we'd kind of by-pass any problems with"
+AE_ID ES2014b.A.argumentstructs.20: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.B.argumentstructs.Rutger.4
+---------------------------------
+target=ES2014b.A.argumentstructs.Rutger.6
+source=ES2014b.B.argumentstructs.Rutger.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.B.argumentstructs.17:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2014b.C.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2014b.C.argumentstructs.Rutger.7: "But I suppose nine's not really excessive. I suppose it does make a good pattern."
+AE_ID ES2014b.B.argumentstructs.Rutger.4: "I suppose with nine you've got the the like the last one which makes the tenth means you  uh it's like uh multiples you can put them together so you can make any number. So with that we'd kind of by-pass any problems with"
+AE_ID ES2014b.A.argumentstructs.20: "Yeah."
+AE_ID ES2014b.A.argumentstructs.Rutger.6: "Well that's true, yeah, you could get fifty by five and a zero or whatever, that that makes sense."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.A.argumentstructs.20
+---------------------------------
+target=ES2014b.B.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.B.argumentstructs.Rutger.5:
+"Yeah. 'Cause that facilitates having all the numbers you could ever need."
+
+Past dialogue turns:
+AE_ID ES2014b.C.argumentstructs.Rutger.7: "But I suppose nine's not really excessive. I suppose it does make a good pattern."
+AE_ID ES2014b.B.argumentstructs.Rutger.4: "I suppose with nine you've got the the like the last one which makes the tenth means you  uh it's like uh multiples you can put them together so you can make any number. So with that we'd kind of by-pass any problems with"
+AE_ID ES2014b.A.argumentstructs.20: "Yeah."
+AE_ID ES2014b.A.argumentstructs.Rutger.6: "Well that's true, yeah, you could get fifty by five and a zero or whatever, that that makes sense."
+AE_ID ES2014b.B.argumentstructs.17: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.B.argumentstructs.Rutger.4
+---------------------------------
+target=ES2014b.B.argumentstructs.Rutger.5
+source=ES2014b.B.argumentstructs.Rutger.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.A.argumentstructs.Rutger.7:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2014b.B.argumentstructs.Rutger.4: "I suppose with nine you've got the the like the last one which makes the tenth means you  uh it's like uh multiples you can put them together so you can make any number. So with that we'd kind of by-pass any problems with"
+AE_ID ES2014b.A.argumentstructs.20: "Yeah."
+AE_ID ES2014b.A.argumentstructs.Rutger.6: "Well that's true, yeah, you could get fifty by five and a zero or whatever, that that makes sense."
+AE_ID ES2014b.B.argumentstructs.17: "Yeah."
+AE_ID ES2014b.B.argumentstructs.Rutger.5: "Yeah. 'Cause that facilitates having all the numbers you could ever need."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.A.argumentstructs.20
+---------------------------------
+target=ES2014b.A.argumentstructs.Rutger.7
+source=ES2014b.B.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.B.argumentstructs.18:
+"Um."
+
+Past dialogue turns:
+AE_ID ES2014b.A.argumentstructs.20: "Yeah."
+AE_ID ES2014b.A.argumentstructs.Rutger.6: "Well that's true, yeah, you could get fifty by five and a zero or whatever, that that makes sense."
+AE_ID ES2014b.B.argumentstructs.17: "Yeah."
+AE_ID ES2014b.B.argumentstructs.Rutger.5: "Yeah. 'Cause that facilitates having all the numbers you could ever need."
+AE_ID ES2014b.A.argumentstructs.Rutger.7: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.B.argumentstructs.17
+---------------------------------
+target=ES2014b.B.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.D.argumentstructs.17:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2014b.A.argumentstructs.Rutger.6: "Well that's true, yeah, you could get fifty by five and a zero or whatever, that that makes sense."
+AE_ID ES2014b.B.argumentstructs.17: "Yeah."
+AE_ID ES2014b.B.argumentstructs.Rutger.5: "Yeah. 'Cause that facilitates having all the numbers you could ever need."
+AE_ID ES2014b.A.argumentstructs.Rutger.7: "Yeah."
+AE_ID ES2014b.B.argumentstructs.18: "Um."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.A.argumentstructs.Rutger.6
+---------------------------------
+target=ES2014b.D.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.A.argumentstructs.21:
+"Does."
+
+Past dialogue turns:
+AE_ID ES2014b.B.argumentstructs.17: "Yeah."
+AE_ID ES2014b.B.argumentstructs.Rutger.5: "Yeah. 'Cause that facilitates having all the numbers you could ever need."
+AE_ID ES2014b.A.argumentstructs.Rutger.7: "Yeah."
+AE_ID ES2014b.B.argumentstructs.18: "Um."
+AE_ID ES2014b.D.argumentstructs.17: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.B.argumentstructs.17
+---------------------------------
+target=ES2014b.A.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014b.C.argumentstructs.Rutger.8:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2014b.B.argumentstructs.Rutger.5: "Yeah. 'Cause that facilitates having all the numbers you could ever need."
+AE_ID ES2014b.A.argumentstructs.Rutger.7: "Yeah."
+AE_ID ES2014b.B.argumentstructs.18: "Um."
+AE_ID ES2014b.D.argumentstructs.17: "Mm-hmm."
+AE_ID ES2014b.A.argumentstructs.21: "Does."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014b.B.argumentstructs.Rutger.5
+---------------------------------
+target=ES2014b.C.argumentstructs.Rutger.8
+source=ES2014b.B.argumentstructs.Rutger.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2014b-NineButtons.csv - True Judgement Ratio: 35.48%

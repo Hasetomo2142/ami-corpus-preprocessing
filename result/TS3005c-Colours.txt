@@ -1,0 +1,962 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.17:
+"No, colours are clear, shape is clear, material is clear."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.17
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.Daan.12:
+"Everybody think they can can work for that ?"
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.17: "No, colours are clear, shape is clear, material is clear."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.17
+---------------------------------
+target=TS3005c.A.argumentstructs.Daan.12
+source=TS3005c.D.argumentstructs.Daan.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.17:
+"Okay, what's the standard colour ?"
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.17: "No, colours are clear, shape is clear, material is clear."
+AE_ID TS3005c.A.argumentstructs.Daan.12: "Everybody think they can can work for that ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.17
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.17
+source=TS3005c.D.argumentstructs.Daan.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.18:
+"And a standard, yeah we don't  no we have different colour"
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.17: "No, colours are clear, shape is clear, material is clear."
+AE_ID TS3005c.A.argumentstructs.Daan.12: "Everybody think they can can work for that ?"
+AE_ID TS3005c.C.argumentstructs.Daan.17: "Okay, what's the standard colour ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.17
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.18
+source=TS3005c.A.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.Daan.13:
+"Is there a standard colour ?"
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.17: "No, colours are clear, shape is clear, material is clear."
+AE_ID TS3005c.A.argumentstructs.Daan.12: "Everybody think they can can work for that ?"
+AE_ID TS3005c.C.argumentstructs.Daan.17: "Okay, what's the standard colour ?"
+AE_ID TS3005c.D.argumentstructs.Daan.18: "And a standard, yeah we don't  no we have different colour"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.17
+---------------------------------
+target=TS3005c.A.argumentstructs.Daan.13
+source=TS3005c.C.argumentstructs.Daan.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.18:
+"I I You got you got different colours, but you should have a standard colour."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.17: "No, colours are clear, shape is clear, material is clear."
+AE_ID TS3005c.A.argumentstructs.Daan.12: "Everybody think they can can work for that ?"
+AE_ID TS3005c.C.argumentstructs.Daan.17: "Okay, what's the standard colour ?"
+AE_ID TS3005c.D.argumentstructs.Daan.18: "And a standard, yeah we don't  no we have different colour"
+AE_ID TS3005c.A.argumentstructs.Daan.13: "Is there a standard colour ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.17
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.18
+source=TS3005c.A.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.33:
+". How many colours are we going to"
+
+Past dialogue turns:
+AE_ID TS3005c.A.argumentstructs.Daan.12: "Everybody think they can can work for that ?"
+AE_ID TS3005c.C.argumentstructs.Daan.17: "Okay, what's the standard colour ?"
+AE_ID TS3005c.D.argumentstructs.Daan.18: "And a standard, yeah we don't  no we have different colour"
+AE_ID TS3005c.A.argumentstructs.Daan.13: "Is there a standard colour ?"
+AE_ID TS3005c.C.argumentstructs.Daan.18: "I I You got you got different colours, but you should have a standard colour."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.17
+---------------------------------
+target=TS3005c.D.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.B.argumentstructs.Daan.13:
+"You should you should have a black one because uh I think black is standard."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.17: "Okay, what's the standard colour ?"
+AE_ID TS3005c.D.argumentstructs.Daan.18: "And a standard, yeah we don't  no we have different colour"
+AE_ID TS3005c.A.argumentstructs.Daan.13: "Is there a standard colour ?"
+AE_ID TS3005c.C.argumentstructs.Daan.18: "I I You got you got different colours, but you should have a standard colour."
+AE_ID TS3005c.D.argumentstructs.33: ". How many colours are we going to"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.18
+---------------------------------
+target=TS3005c.B.argumentstructs.Daan.13
+source=TS3005c.C.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.19:
+"Black. Yeah, black I think is is the standard."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.18: "And a standard, yeah we don't  no we have different colour"
+AE_ID TS3005c.A.argumentstructs.Daan.13: "Is there a standard colour ?"
+AE_ID TS3005c.C.argumentstructs.Daan.18: "I I You got you got different colours, but you should have a standard colour."
+AE_ID TS3005c.D.argumentstructs.33: ". How many colours are we going to"
+AE_ID TS3005c.B.argumentstructs.Daan.13: "You should you should have a black one because uh I think black is standard."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.B.argumentstructs.Daan.13
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.19
+source=TS3005c.B.argumentstructs.Daan.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.19:
+"Black ? With the with the yellow uh"
+
+Past dialogue turns:
+AE_ID TS3005c.A.argumentstructs.Daan.13: "Is there a standard colour ?"
+AE_ID TS3005c.C.argumentstructs.Daan.18: "I I You got you got different colours, but you should have a standard colour."
+AE_ID TS3005c.D.argumentstructs.33: ". How many colours are we going to"
+AE_ID TS3005c.B.argumentstructs.Daan.13: "You should you should have a black one because uh I think black is standard."
+AE_ID TS3005c.D.argumentstructs.Daan.19: "Black. Yeah, black I think is is the standard."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.B.argumentstructs.Daan.13
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.19
+source=TS3005c.B.argumentstructs.Daan.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.20:
+"Dark grey, something like this this colour or something."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.18: "I I You got you got different colours, but you should have a standard colour."
+AE_ID TS3005c.D.argumentstructs.33: ". How many colours are we going to"
+AE_ID TS3005c.B.argumentstructs.Daan.13: "You should you should have a black one because uh I think black is standard."
+AE_ID TS3005c.D.argumentstructs.Daan.19: "Black. Yeah, black I think is is the standard."
+AE_ID TS3005c.C.argumentstructs.Daan.19: "Black ? With the with the yellow uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.19
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.20
+source=TS3005c.C.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.20:
+"Just a regular uh remote colour. And then have uh different covers uh to use."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.33: ". How many colours are we going to"
+AE_ID TS3005c.B.argumentstructs.Daan.13: "You should you should have a black one because uh I think black is standard."
+AE_ID TS3005c.D.argumentstructs.Daan.19: "Black. Yeah, black I think is is the standard."
+AE_ID TS3005c.C.argumentstructs.Daan.19: "Black ? With the with the yellow uh"
+AE_ID TS3005c.D.argumentstructs.Daan.20: "Dark grey, something like this this colour or something."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.33
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.20
+source=TS3005c.C.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.22:
+"Yeah like like yeah. Or or silver. I think it's better to have silver nowadays."
+
+Past dialogue turns:
+AE_ID TS3005c.B.argumentstructs.Daan.13: "You should you should have a black one because uh I think black is standard."
+AE_ID TS3005c.D.argumentstructs.Daan.19: "Black. Yeah, black I think is is the standard."
+AE_ID TS3005c.C.argumentstructs.Daan.19: "Black ? With the with the yellow uh"
+AE_ID TS3005c.D.argumentstructs.Daan.20: "Dark grey, something like this this colour or something."
+AE_ID TS3005c.C.argumentstructs.Daan.20: "Just a regular uh remote colour. And then have uh different covers uh to use."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.B.argumentstructs.Daan.13
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.22
+source=TS3005c.C.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.35:
+"Silver, yeah."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.19: "Black. Yeah, black I think is is the standard."
+AE_ID TS3005c.C.argumentstructs.Daan.19: "Black ? With the with the yellow uh"
+AE_ID TS3005c.D.argumentstructs.Daan.20: "Dark grey, something like this this colour or something."
+AE_ID TS3005c.C.argumentstructs.Daan.20: "Just a regular uh remote colour. And then have uh different covers uh to use."
+AE_ID TS3005c.D.argumentstructs.Daan.22: "Yeah like like yeah. Or or silver. I think it's better to have silver nowadays."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.22
+---------------------------------
+target=TS3005c.C.argumentstructs.35
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.23:
+"I think you see more silver than black."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.19: "Black ? With the with the yellow uh"
+AE_ID TS3005c.D.argumentstructs.Daan.20: "Dark grey, something like this this colour or something."
+AE_ID TS3005c.C.argumentstructs.Daan.20: "Just a regular uh remote colour. And then have uh different covers uh to use."
+AE_ID TS3005c.D.argumentstructs.Daan.22: "Yeah like like yeah. Or or silver. I think it's better to have silver nowadays."
+AE_ID TS3005c.C.argumentstructs.35: "Silver, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.22
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.23
+source=TS3005c.D.argumentstructs.Daan.22
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.24:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.20: "Dark grey, something like this this colour or something."
+AE_ID TS3005c.C.argumentstructs.Daan.20: "Just a regular uh remote colour. And then have uh different covers uh to use."
+AE_ID TS3005c.D.argumentstructs.Daan.22: "Yeah like like yeah. Or or silver. I think it's better to have silver nowadays."
+AE_ID TS3005c.C.argumentstructs.35: "Silver, yeah."
+AE_ID TS3005c.D.argumentstructs.Daan.23: "I think you see more silver than black."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.22
+---------------------------------
+target=TS3005c.A.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.21:
+"You see a lot of t uh silver televisions."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.20: "Just a regular uh remote colour. And then have uh different covers uh to use."
+AE_ID TS3005c.D.argumentstructs.Daan.22: "Yeah like like yeah. Or or silver. I think it's better to have silver nowadays."
+AE_ID TS3005c.C.argumentstructs.35: "Silver, yeah."
+AE_ID TS3005c.D.argumentstructs.Daan.23: "I think you see more silver than black."
+AE_ID TS3005c.A.argumentstructs.24: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.22
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.21
+source=TS3005c.D.argumentstructs.Daan.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.Daan.14:
+"But still silver and black are  well silver is new but also traditional, so uh"
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.22: "Yeah like like yeah. Or or silver. I think it's better to have silver nowadays."
+AE_ID TS3005c.C.argumentstructs.35: "Silver, yeah."
+AE_ID TS3005c.D.argumentstructs.Daan.23: "I think you see more silver than black."
+AE_ID TS3005c.A.argumentstructs.24: "Yeah."
+AE_ID TS3005c.C.argumentstructs.Daan.21: "You see a lot of t uh silver televisions."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.22
+---------------------------------
+target=TS3005c.A.argumentstructs.Daan.14
+source=TS3005c.D.argumentstructs.Daan.22
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.24:
+"Yeah the the silver black are our main colours. Yeah. I think we have silver, black and between those  is like I dunno s five colours between them or something."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.35: "Silver, yeah."
+AE_ID TS3005c.D.argumentstructs.Daan.23: "I think you see more silver than black."
+AE_ID TS3005c.A.argumentstructs.24: "Yeah."
+AE_ID TS3005c.C.argumentstructs.Daan.21: "You see a lot of t uh silver televisions."
+AE_ID TS3005c.A.argumentstructs.Daan.14: "But still silver and black are  well silver is new but also traditional, so uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.23
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.24
+source=TS3005c.C.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.Daan.15:
+"Yeah w what about a yellow thing, I mean it"
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.23: "I think you see more silver than black."
+AE_ID TS3005c.A.argumentstructs.24: "Yeah."
+AE_ID TS3005c.C.argumentstructs.Daan.21: "You see a lot of t uh silver televisions."
+AE_ID TS3005c.A.argumentstructs.Daan.14: "But still silver and black are  well silver is new but also traditional, so uh"
+AE_ID TS3005c.D.argumentstructs.Daan.24: "Yeah the the silver black are our main colours. Yeah. I think we have silver, black and between those  is like I dunno s five colours between them or something."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.24
+---------------------------------
+target=TS3005c.A.argumentstructs.Daan.15
+source=TS3005c.C.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.36:
+"Yeah y I think it's better to"
+
+Past dialogue turns:
+AE_ID TS3005c.A.argumentstructs.24: "Yeah."
+AE_ID TS3005c.C.argumentstructs.Daan.21: "You see a lot of t uh silver televisions."
+AE_ID TS3005c.A.argumentstructs.Daan.14: "But still silver and black are  well silver is new but also traditional, so uh"
+AE_ID TS3005c.D.argumentstructs.Daan.24: "Yeah the the silver black are our main colours. Yeah. I think we have silver, black and between those  is like I dunno s five colours between them or something."
+AE_ID TS3005c.A.argumentstructs.Daan.15: "Yeah w what about a yellow thing, I mean it"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.A.argumentstructs.24
+---------------------------------
+target=TS3005c.C.argumentstructs.36
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.25:
+"Yeah yeah yeah it'll be a banana yellow, we have."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.21: "You see a lot of t uh silver televisions."
+AE_ID TS3005c.A.argumentstructs.Daan.14: "But still silver and black are  well silver is new but also traditional, so uh"
+AE_ID TS3005c.D.argumentstructs.Daan.24: "Yeah the the silver black are our main colours. Yeah. I think we have silver, black and between those  is like I dunno s five colours between them or something."
+AE_ID TS3005c.A.argumentstructs.Daan.15: "Yeah w what about a yellow thing, I mean it"
+AE_ID TS3005c.C.argumentstructs.36: "Yeah y I think it's better to"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.A.argumentstructs.Daan.15
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.25
+source=TS3005c.A.argumentstructs.Daan.15
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.Daan.16:
+"could be ugly, but it's definitely fancy."
+
+Past dialogue turns:
+AE_ID TS3005c.A.argumentstructs.Daan.14: "But still silver and black are  well silver is new but also traditional, so uh"
+AE_ID TS3005c.D.argumentstructs.Daan.24: "Yeah the the silver black are our main colours. Yeah. I think we have silver, black and between those  is like I dunno s five colours between them or something."
+AE_ID TS3005c.A.argumentstructs.Daan.15: "Yeah w what about a yellow thing, I mean it"
+AE_ID TS3005c.C.argumentstructs.36: "Yeah y I think it's better to"
+AE_ID TS3005c.D.argumentstructs.Daan.25: "Yeah yeah yeah it'll be a banana yellow, we have."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.A.argumentstructs.Daan.15
+---------------------------------
+target=TS3005c.A.argumentstructs.Daan.16
+source=TS3005c.D.argumentstructs.Daan.25
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.34:
+"R red. Green, wood, brown. Yeah. True. Yeah, I understand."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.24: "Yeah the the silver black are our main colours. Yeah. I think we have silver, black and between those  is like I dunno s five colours between them or something."
+AE_ID TS3005c.A.argumentstructs.Daan.15: "Yeah w what about a yellow thing, I mean it"
+AE_ID TS3005c.C.argumentstructs.36: "Yeah y I think it's better to"
+AE_ID TS3005c.D.argumentstructs.Daan.25: "Yeah yeah yeah it'll be a banana yellow, we have."
+AE_ID TS3005c.A.argumentstructs.Daan.16: "could be ugly, but it's definitely fancy."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.25
+---------------------------------
+target=TS3005c.D.argumentstructs.34
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.22:
+"Yeah th yeah. That's right. But if you use uh silver, uh rubber s silver rubber isn't fancy."
+
+Past dialogue turns:
+AE_ID TS3005c.A.argumentstructs.Daan.15: "Yeah w what about a yellow thing, I mean it"
+AE_ID TS3005c.C.argumentstructs.36: "Yeah y I think it's better to"
+AE_ID TS3005c.D.argumentstructs.Daan.25: "Yeah yeah yeah it'll be a banana yellow, we have."
+AE_ID TS3005c.A.argumentstructs.Daan.16: "could be ugly, but it's definitely fancy."
+AE_ID TS3005c.D.argumentstructs.34: "R red. Green, wood, brown. Yeah. True. Yeah, I understand."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.25
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.22
+source=TS3005c.D.argumentstructs.Daan.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.B.argumentstructs.22:
+"But yeah. Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.36: "Yeah y I think it's better to"
+AE_ID TS3005c.D.argumentstructs.Daan.25: "Yeah yeah yeah it'll be a banana yellow, we have."
+AE_ID TS3005c.A.argumentstructs.Daan.16: "could be ugly, but it's definitely fancy."
+AE_ID TS3005c.D.argumentstructs.34: "R red. Green, wood, brown. Yeah. True. Yeah, I understand."
+AE_ID TS3005c.C.argumentstructs.Daan.22: "Yeah th yeah. That's right. But if you use uh silver, uh rubber s silver rubber isn't fancy."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.36
+---------------------------------
+target=TS3005c.B.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.23:
+"When you use titanium, silver is fancy, but when you use silver rubber, it isn't fancy. Silver has to shine, and rubber doesn't shine."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.25: "Yeah yeah yeah it'll be a banana yellow, we have."
+AE_ID TS3005c.A.argumentstructs.Daan.16: "could be ugly, but it's definitely fancy."
+AE_ID TS3005c.D.argumentstructs.34: "R red. Green, wood, brown. Yeah. True. Yeah, I understand."
+AE_ID TS3005c.C.argumentstructs.Daan.22: "Yeah th yeah. That's right. But if you use uh silver, uh rubber s silver rubber isn't fancy."
+AE_ID TS3005c.B.argumentstructs.22: "But yeah. Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.22
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.23
+source=TS3005c.C.argumentstructs.Daan.22
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.25:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID TS3005c.A.argumentstructs.Daan.16: "could be ugly, but it's definitely fancy."
+AE_ID TS3005c.D.argumentstructs.34: "R red. Green, wood, brown. Yeah. True. Yeah, I understand."
+AE_ID TS3005c.C.argumentstructs.Daan.22: "Yeah th yeah. That's right. But if you use uh silver, uh rubber s silver rubber isn't fancy."
+AE_ID TS3005c.B.argumentstructs.22: "But yeah. Yeah. Yeah."
+AE_ID TS3005c.C.argumentstructs.Daan.23: "When you use titanium, silver is fancy, but when you use silver rubber, it isn't fancy. Silver has to shine, and rubber doesn't shine."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.23
+---------------------------------
+target=TS3005c.A.argumentstructs.25
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.24:
+"Especially when it's made of soft rubber like this."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.34: "R red. Green, wood, brown. Yeah. True. Yeah, I understand."
+AE_ID TS3005c.C.argumentstructs.Daan.22: "Yeah th yeah. That's right. But if you use uh silver, uh rubber s silver rubber isn't fancy."
+AE_ID TS3005c.B.argumentstructs.22: "But yeah. Yeah. Yeah."
+AE_ID TS3005c.C.argumentstructs.Daan.23: "When you use titanium, silver is fancy, but when you use silver rubber, it isn't fancy. Silver has to shine, and rubber doesn't shine."
+AE_ID TS3005c.A.argumentstructs.25: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.23
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.24
+source=TS3005c.C.argumentstructs.Daan.23
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.Daan.17:
+"Yeah I would think about colours like uh red, yellow, green, blue, just"
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.22: "Yeah th yeah. That's right. But if you use uh silver, uh rubber s silver rubber isn't fancy."
+AE_ID TS3005c.B.argumentstructs.22: "But yeah. Yeah. Yeah."
+AE_ID TS3005c.C.argumentstructs.Daan.23: "When you use titanium, silver is fancy, but when you use silver rubber, it isn't fancy. Silver has to shine, and rubber doesn't shine."
+AE_ID TS3005c.A.argumentstructs.25: "Mm-hmm."
+AE_ID TS3005c.C.argumentstructs.Daan.24: "Especially when it's made of soft rubber like this."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.Daan.23
+---------------------------------
+target=TS3005c.A.argumentstructs.Daan.17
+source=TS3005c.C.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.D.argumentstructs.Daan.26:
+"Yeah o of course. The fruity colours and the autumn colours, like red and brown,  dark red and brown."
+
+Past dialogue turns:
+AE_ID TS3005c.B.argumentstructs.22: "But yeah. Yeah. Yeah."
+AE_ID TS3005c.C.argumentstructs.Daan.23: "When you use titanium, silver is fancy, but when you use silver rubber, it isn't fancy. Silver has to shine, and rubber doesn't shine."
+AE_ID TS3005c.A.argumentstructs.25: "Mm-hmm."
+AE_ID TS3005c.C.argumentstructs.Daan.24: "Especially when it's made of soft rubber like this."
+AE_ID TS3005c.A.argumentstructs.Daan.17: "Yeah I would think about colours like uh red, yellow, green, blue, just"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.A.argumentstructs.Daan.17
+---------------------------------
+target=TS3005c.D.argumentstructs.Daan.26
+source=TS3005c.A.argumentstructs.Daan.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.37:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.23: "When you use titanium, silver is fancy, but when you use silver rubber, it isn't fancy. Silver has to shine, and rubber doesn't shine."
+AE_ID TS3005c.A.argumentstructs.25: "Mm-hmm."
+AE_ID TS3005c.C.argumentstructs.Daan.24: "Especially when it's made of soft rubber like this."
+AE_ID TS3005c.A.argumentstructs.Daan.17: "Yeah I would think about colours like uh red, yellow, green, blue, just"
+AE_ID TS3005c.D.argumentstructs.Daan.26: "Yeah o of course. The fruity colours and the autumn colours, like red and brown,  dark red and brown."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.A.argumentstructs.Daan.17
+---------------------------------
+target=TS3005c.C.argumentstructs.37
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.Daan.25:
+"Fruity. Fruity loops."
+
+Past dialogue turns:
+AE_ID TS3005c.A.argumentstructs.25: "Mm-hmm."
+AE_ID TS3005c.C.argumentstructs.Daan.24: "Especially when it's made of soft rubber like this."
+AE_ID TS3005c.A.argumentstructs.Daan.17: "Yeah I would think about colours like uh red, yellow, green, blue, just"
+AE_ID TS3005c.D.argumentstructs.Daan.26: "Yeah o of course. The fruity colours and the autumn colours, like red and brown,  dark red and brown."
+AE_ID TS3005c.C.argumentstructs.37: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.26
+---------------------------------
+target=TS3005c.C.argumentstructs.Daan.25
+source=TS3005c.D.argumentstructs.Daan.26
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.26:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.24: "Especially when it's made of soft rubber like this."
+AE_ID TS3005c.A.argumentstructs.Daan.17: "Yeah I would think about colours like uh red, yellow, green, blue, just"
+AE_ID TS3005c.D.argumentstructs.Daan.26: "Yeah o of course. The fruity colours and the autumn colours, like red and brown,  dark red and brown."
+AE_ID TS3005c.C.argumentstructs.37: "Yeah."
+AE_ID TS3005c.C.argumentstructs.Daan.25: "Fruity. Fruity loops."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.37
+---------------------------------
+target=TS3005c.A.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.B.argumentstructs.Daan.14:
+"Just all kind of colour."
+
+Past dialogue turns:
+AE_ID TS3005c.A.argumentstructs.Daan.17: "Yeah I would think about colours like uh red, yellow, green, blue, just"
+AE_ID TS3005c.D.argumentstructs.Daan.26: "Yeah o of course. The fruity colours and the autumn colours, like red and brown,  dark red and brown."
+AE_ID TS3005c.C.argumentstructs.37: "Yeah."
+AE_ID TS3005c.C.argumentstructs.Daan.25: "Fruity. Fruity loops."
+AE_ID TS3005c.A.argumentstructs.26: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.A.argumentstructs.Daan.17
+---------------------------------
+target=TS3005c.B.argumentstructs.Daan.14
+source=TS3005c.D.argumentstructs.Daan.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.Daan.18:
+"Mm-hmm. Maroon. Yeah."
+
+Past dialogue turns:
+AE_ID TS3005c.D.argumentstructs.Daan.26: "Yeah o of course. The fruity colours and the autumn colours, like red and brown,  dark red and brown."
+AE_ID TS3005c.C.argumentstructs.37: "Yeah."
+AE_ID TS3005c.C.argumentstructs.Daan.25: "Fruity. Fruity loops."
+AE_ID TS3005c.A.argumentstructs.26: "Yeah."
+AE_ID TS3005c.B.argumentstructs.Daan.14: "Just all kind of colour."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.D.argumentstructs.Daan.26
+---------------------------------
+target=TS3005c.A.argumentstructs.Daan.18
+source=TS3005c.D.argumentstructs.Daan.26
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.B.argumentstructs.23:
+"Yeah. And and do we have to have a normal black one, or uh"
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.37: "Yeah."
+AE_ID TS3005c.C.argumentstructs.Daan.25: "Fruity. Fruity loops."
+AE_ID TS3005c.A.argumentstructs.26: "Yeah."
+AE_ID TS3005c.B.argumentstructs.Daan.14: "Just all kind of colour."
+AE_ID TS3005c.A.argumentstructs.Daan.18: "Mm-hmm. Maroon. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.37
+---------------------------------
+target=TS3005c.B.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.C.argumentstructs.38:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3005c.C.argumentstructs.Daan.25: "Fruity. Fruity loops."
+AE_ID TS3005c.A.argumentstructs.26: "Yeah."
+AE_ID TS3005c.B.argumentstructs.Daan.14: "Just all kind of colour."
+AE_ID TS3005c.A.argumentstructs.Daan.18: "Mm-hmm. Maroon. Yeah."
+AE_ID TS3005c.B.argumentstructs.23: "Yeah. And and do we have to have a normal black one, or uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3005c.C.argumentstructs.38
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3005c.A.argumentstructs.27:
+"Okay, so"
+
+Past dialogue turns:
+AE_ID TS3005c.A.argumentstructs.26: "Yeah."
+AE_ID TS3005c.B.argumentstructs.Daan.14: "Just all kind of colour."
+AE_ID TS3005c.A.argumentstructs.Daan.18: "Mm-hmm. Maroon. Yeah."
+AE_ID TS3005c.B.argumentstructs.23: "Yeah. And and do we have to have a normal black one, or uh"
+AE_ID TS3005c.C.argumentstructs.38: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3005c.C.argumentstructs.38
+---------------------------------
+target=TS3005c.A.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3005c-Colours.csv - True Judgement Ratio: 38.46%

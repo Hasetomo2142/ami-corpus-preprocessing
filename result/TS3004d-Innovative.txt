@@ -1,0 +1,687 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.Daan.5:
+"Oh. Okay. New features. Techno technological innovative ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3004d.D.argumentstructs.Daan.5
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.13:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.5: "Oh. Okay. New features. Techno technological innovative ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3004d.C.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.13:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.5: "Oh. Okay. New features. Techno technological innovative ?"
+AE_ID TS3004d.C.argumentstructs.13: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.13
+---------------------------------
+target=TS3004d.A.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.Daan.6:
+"The speech function and the colour. Colour."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.5: "Oh. Okay. New features. Techno technological innovative ?"
+AE_ID TS3004d.C.argumentstructs.13: "Yeah."
+AE_ID TS3004d.A.argumentstructs.13: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3004d.C.argumentstructs.Daan.6
+source=TS3004d.D.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.Daan.6:
+"The speech function is new. The scrollwheel and the slide. Uh I think the slide is pretty new."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.5: "Oh. Okay. New features. Techno technological innovative ?"
+AE_ID TS3004d.C.argumentstructs.13: "Yeah."
+AE_ID TS3004d.A.argumentstructs.13: "Okay."
+AE_ID TS3004d.C.argumentstructs.Daan.6: "The speech function and the colour. Colour."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.5
+---------------------------------
+target=TS3004d.D.argumentstructs.Daan.6
+source=TS3004d.D.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.Daan.8:
+"And the scrollwheel, backlights, slide."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.5: "Oh. Okay. New features. Techno technological innovative ?"
+AE_ID TS3004d.C.argumentstructs.13: "Yeah."
+AE_ID TS3004d.A.argumentstructs.13: "Okay."
+AE_ID TS3004d.C.argumentstructs.Daan.6: "The speech function and the colour. Colour."
+AE_ID TS3004d.D.argumentstructs.Daan.6: "The speech function is new. The scrollwheel and the slide. Uh I think the slide is pretty new."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.6
+---------------------------------
+target=TS3004d.B.argumentstructs.Daan.8
+source=TS3004d.D.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.Daan.6:
+"Slide is not n is is not new. No. I already have a"
+
+Past dialogue turns:
+AE_ID TS3004d.C.argumentstructs.13: "Yeah."
+AE_ID TS3004d.A.argumentstructs.13: "Okay."
+AE_ID TS3004d.C.argumentstructs.Daan.6: "The speech function and the colour. Colour."
+AE_ID TS3004d.D.argumentstructs.Daan.6: "The speech function is new. The scrollwheel and the slide. Uh I think the slide is pretty new."
+AE_ID TS3004d.B.argumentstructs.Daan.8: "And the scrollwheel, backlights, slide."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.6
+---------------------------------
+target=TS3004d.A.argumentstructs.Daan.6
+source=TS3004d.D.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.Daan.7:
+"Uh I only saw it in a telephone, not in an remote control."
+
+Past dialogue turns:
+AE_ID TS3004d.A.argumentstructs.13: "Okay."
+AE_ID TS3004d.C.argumentstructs.Daan.6: "The speech function and the colour. Colour."
+AE_ID TS3004d.D.argumentstructs.Daan.6: "The speech function is new. The scrollwheel and the slide. Uh I think the slide is pretty new."
+AE_ID TS3004d.B.argumentstructs.Daan.8: "And the scrollwheel, backlights, slide."
+AE_ID TS3004d.A.argumentstructs.Daan.6: "Slide is not n is is not new. No. I already have a"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.6
+---------------------------------
+target=TS3004d.D.argumentstructs.Daan.7
+source=TS3004d.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.Daan.7:
+"Uh I already have a V_C_R_ and it's about from nineteen eighty eight. And they all have a slide in it. So that's not new. Yeah."
+
+Past dialogue turns:
+AE_ID TS3004d.C.argumentstructs.Daan.6: "The speech function and the colour. Colour."
+AE_ID TS3004d.D.argumentstructs.Daan.6: "The speech function is new. The scrollwheel and the slide. Uh I think the slide is pretty new."
+AE_ID TS3004d.B.argumentstructs.Daan.8: "And the scrollwheel, backlights, slide."
+AE_ID TS3004d.A.argumentstructs.Daan.6: "Slide is not n is is not new. No. I already have a"
+AE_ID TS3004d.D.argumentstructs.Daan.7: "Uh I only saw it in a telephone, not in an remote control."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.A.argumentstructs.Daan.6
+---------------------------------
+target=TS3004d.A.argumentstructs.Daan.7
+source=TS3004d.A.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.12:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.6: "The speech function is new. The scrollwheel and the slide. Uh I think the slide is pretty new."
+AE_ID TS3004d.B.argumentstructs.Daan.8: "And the scrollwheel, backlights, slide."
+AE_ID TS3004d.A.argumentstructs.Daan.6: "Slide is not n is is not new. No. I already have a"
+AE_ID TS3004d.D.argumentstructs.Daan.7: "Uh I only saw it in a telephone, not in an remote control."
+AE_ID TS3004d.A.argumentstructs.Daan.7: "Uh I already have a V_C_R_ and it's about from nineteen eighty eight. And they all have a slide in it. So that's not new. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.A.argumentstructs.Daan.7
+---------------------------------
+target=TS3004d.D.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.Daan.9:
+"But also slide that buttons come out, as well ? Okay."
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.8: "And the scrollwheel, backlights, slide."
+AE_ID TS3004d.A.argumentstructs.Daan.6: "Slide is not n is is not new. No. I already have a"
+AE_ID TS3004d.D.argumentstructs.Daan.7: "Uh I only saw it in a telephone, not in an remote control."
+AE_ID TS3004d.A.argumentstructs.Daan.7: "Uh I already have a V_C_R_ and it's about from nineteen eighty eight. And they all have a slide in it. So that's not new. Yeah."
+AE_ID TS3004d.D.argumentstructs.12: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.8
+---------------------------------
+target=TS3004d.B.argumentstructs.Daan.9
+source=TS3004d.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.Daan.8:
+"Okay, and the the the lightning ? Is that new ? The lighting's new. Scrollwheel. Speech ?"
+
+Past dialogue turns:
+AE_ID TS3004d.A.argumentstructs.Daan.6: "Slide is not n is is not new. No. I already have a"
+AE_ID TS3004d.D.argumentstructs.Daan.7: "Uh I only saw it in a telephone, not in an remote control."
+AE_ID TS3004d.A.argumentstructs.Daan.7: "Uh I already have a V_C_R_ and it's about from nineteen eighty eight. And they all have a slide in it. So that's not new. Yeah."
+AE_ID TS3004d.D.argumentstructs.12: "Okay."
+AE_ID TS3004d.B.argumentstructs.Daan.9: "But also slide that buttons come out, as well ? Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.A.argumentstructs.Daan.6
+---------------------------------
+target=TS3004d.D.argumentstructs.Daan.8
+source=TS3004d.D.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.14:
+"Uh for a f"
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.7: "Uh I only saw it in a telephone, not in an remote control."
+AE_ID TS3004d.A.argumentstructs.Daan.7: "Uh I already have a V_C_R_ and it's about from nineteen eighty eight. And they all have a slide in it. So that's not new. Yeah."
+AE_ID TS3004d.D.argumentstructs.12: "Okay."
+AE_ID TS3004d.B.argumentstructs.Daan.9: "But also slide that buttons come out, as well ? Okay."
+AE_ID TS3004d.D.argumentstructs.Daan.8: "Okay, and the the the lightning ? Is that new ? The lighting's new. Scrollwheel. Speech ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.9
+---------------------------------
+target=TS3004d.A.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.Daan.7:
+"Mm it's pretty new, I think."
+
+Past dialogue turns:
+AE_ID TS3004d.A.argumentstructs.Daan.7: "Uh I already have a V_C_R_ and it's about from nineteen eighty eight. And they all have a slide in it. So that's not new. Yeah."
+AE_ID TS3004d.D.argumentstructs.12: "Okay."
+AE_ID TS3004d.B.argumentstructs.Daan.9: "But also slide that buttons come out, as well ? Okay."
+AE_ID TS3004d.D.argumentstructs.Daan.8: "Okay, and the the the lightning ? Is that new ? The lighting's new. Scrollwheel. Speech ?"
+AE_ID TS3004d.A.argumentstructs.14: "Uh for a f"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.A.argumentstructs.Daan.7
+---------------------------------
+target=TS3004d.C.argumentstructs.Daan.7
+source=TS3004d.D.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.14:
+"Yes."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.12: "Okay."
+AE_ID TS3004d.B.argumentstructs.Daan.9: "But also slide that buttons come out, as well ? Okay."
+AE_ID TS3004d.D.argumentstructs.Daan.8: "Okay, and the the the lightning ? Is that new ? The lighting's new. Scrollwheel. Speech ?"
+AE_ID TS3004d.A.argumentstructs.14: "Uh for a f"
+AE_ID TS3004d.C.argumentstructs.Daan.7: "Mm it's pretty new, I think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.12
+---------------------------------
+target=TS3004d.B.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.Daan.8:
+"Speech is new."
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.9: "But also slide that buttons come out, as well ? Okay."
+AE_ID TS3004d.D.argumentstructs.Daan.8: "Okay, and the the the lightning ? Is that new ? The lighting's new. Scrollwheel. Speech ?"
+AE_ID TS3004d.A.argumentstructs.14: "Uh for a f"
+AE_ID TS3004d.C.argumentstructs.Daan.7: "Mm it's pretty new, I think."
+AE_ID TS3004d.B.argumentstructs.14: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.8
+---------------------------------
+target=TS3004d.C.argumentstructs.Daan.8
+source=TS3004d.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.Daan.10:
+"Different colours, so"
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.8: "Okay, and the the the lightning ? Is that new ? The lighting's new. Scrollwheel. Speech ?"
+AE_ID TS3004d.A.argumentstructs.14: "Uh for a f"
+AE_ID TS3004d.C.argumentstructs.Daan.7: "Mm it's pretty new, I think."
+AE_ID TS3004d.B.argumentstructs.14: "Yes."
+AE_ID TS3004d.C.argumentstructs.Daan.8: "Speech is new."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.Daan.7
+---------------------------------
+target=TS3004d.B.argumentstructs.Daan.10
+source=TS3004d.D.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.Daan.9:
+"Yeah, different fronts for a remote control, I think that's new too."
+
+Past dialogue turns:
+AE_ID TS3004d.A.argumentstructs.14: "Uh for a f"
+AE_ID TS3004d.C.argumentstructs.Daan.7: "Mm it's pretty new, I think."
+AE_ID TS3004d.B.argumentstructs.14: "Yes."
+AE_ID TS3004d.C.argumentstructs.Daan.8: "Speech is new."
+AE_ID TS3004d.B.argumentstructs.Daan.10: "Different colours, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.Daan.7
+---------------------------------
+target=TS3004d.D.argumentstructs.Daan.9
+source=TS3004d.D.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.Daan.8:
+"There are no games on it, that's that's  It's not a one, it's a two again. But"
+
+Past dialogue turns:
+AE_ID TS3004d.C.argumentstructs.Daan.7: "Mm it's pretty new, I think."
+AE_ID TS3004d.B.argumentstructs.14: "Yes."
+AE_ID TS3004d.C.argumentstructs.Daan.8: "Speech is new."
+AE_ID TS3004d.B.argumentstructs.Daan.10: "Different colours, so"
+AE_ID TS3004d.D.argumentstructs.Daan.9: "Yeah, different fronts for a remote control, I think that's new too."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.Daan.8
+---------------------------------
+target=TS3004d.A.argumentstructs.Daan.8
+source=TS3004d.D.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.15:
+"And we didn't uh"
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.14: "Yes."
+AE_ID TS3004d.C.argumentstructs.Daan.8: "Speech is new."
+AE_ID TS3004d.B.argumentstructs.Daan.10: "Different colours, so"
+AE_ID TS3004d.D.argumentstructs.Daan.9: "Yeah, different fronts for a remote control, I think that's new too."
+AE_ID TS3004d.A.argumentstructs.Daan.8: "There are no games on it, that's that's  It's not a one, it's a two again. But"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.14
+---------------------------------
+target=TS3004d.B.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.Daan.11:
+"But then we also have the the home station. We are forgetting about that now, but"
+
+Past dialogue turns:
+AE_ID TS3004d.C.argumentstructs.Daan.8: "Speech is new."
+AE_ID TS3004d.B.argumentstructs.Daan.10: "Different colours, so"
+AE_ID TS3004d.D.argumentstructs.Daan.9: "Yeah, different fronts for a remote control, I think that's new too."
+AE_ID TS3004d.A.argumentstructs.Daan.8: "There are no games on it, that's that's  It's not a one, it's a two again. But"
+AE_ID TS3004d.B.argumentstructs.15: "And we didn't uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3004d.B.argumentstructs.Daan.11
+source=TS3004d.D.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.15:
+"If you have"
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.10: "Different colours, so"
+AE_ID TS3004d.D.argumentstructs.Daan.9: "Yeah, different fronts for a remote control, I think that's new too."
+AE_ID TS3004d.A.argumentstructs.Daan.8: "There are no games on it, that's that's  It's not a one, it's a two again. But"
+AE_ID TS3004d.B.argumentstructs.15: "And we didn't uh"
+AE_ID TS3004d.B.argumentstructs.Daan.11: "But then we also have the the home station. We are forgetting about that now, but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.11
+---------------------------------
+target=TS3004d.A.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.Daan.9:
+"Yeah. Oh yeah, that's right. Rechargeable."
+
+Past dialogue turns:
+AE_ID TS3004d.D.argumentstructs.Daan.9: "Yeah, different fronts for a remote control, I think that's new too."
+AE_ID TS3004d.A.argumentstructs.Daan.8: "There are no games on it, that's that's  It's not a one, it's a two again. But"
+AE_ID TS3004d.B.argumentstructs.15: "And we didn't uh"
+AE_ID TS3004d.B.argumentstructs.Daan.11: "But then we also have the the home station. We are forgetting about that now, but"
+AE_ID TS3004d.A.argumentstructs.15: "If you have"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.D.argumentstructs.Daan.9
+---------------------------------
+target=TS3004d.A.argumentstructs.Daan.9
+source=TS3004d.B.argumentstructs.Daan.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.Daan.12:
+"We don't recharge."
+
+Past dialogue turns:
+AE_ID TS3004d.A.argumentstructs.Daan.8: "There are no games on it, that's that's  It's not a one, it's a two again. But"
+AE_ID TS3004d.B.argumentstructs.15: "And we didn't uh"
+AE_ID TS3004d.B.argumentstructs.Daan.11: "But then we also have the the home station. We are forgetting about that now, but"
+AE_ID TS3004d.A.argumentstructs.15: "If you have"
+AE_ID TS3004d.A.argumentstructs.Daan.9: "Yeah. Oh yeah, that's right. Rechargeable."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.A.argumentstructs.Daan.9
+---------------------------------
+target=TS3004d.B.argumentstructs.Daan.12
+source=TS3004d.A.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.B.argumentstructs.16:
+"Okay. Yeah, it is. Uh untitled ? Yeah, it doesn't matter. Save. N"
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.15: "And we didn't uh"
+AE_ID TS3004d.B.argumentstructs.Daan.11: "But then we also have the the home station. We are forgetting about that now, but"
+AE_ID TS3004d.A.argumentstructs.15: "If you have"
+AE_ID TS3004d.A.argumentstructs.Daan.9: "Yeah. Oh yeah, that's right. Rechargeable."
+AE_ID TS3004d.B.argumentstructs.Daan.12: "We don't recharge."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.15
+---------------------------------
+target=TS3004d.B.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.C.argumentstructs.14:
+"No, I think it is. Okay. Mm two, I think."
+
+Past dialogue turns:
+AE_ID TS3004d.B.argumentstructs.Daan.11: "But then we also have the the home station. We are forgetting about that now, but"
+AE_ID TS3004d.A.argumentstructs.15: "If you have"
+AE_ID TS3004d.A.argumentstructs.Daan.9: "Yeah. Oh yeah, that's right. Rechargeable."
+AE_ID TS3004d.B.argumentstructs.Daan.12: "We don't recharge."
+AE_ID TS3004d.B.argumentstructs.16: "Okay. Yeah, it is. Uh untitled ? Yeah, it doesn't matter. Save. N"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.Daan.12
+---------------------------------
+target=TS3004d.C.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.D.argumentstructs.13:
+"the the seven, uh all the seven. No, we are not extraordinary new or something. Tha tha that"
+
+Past dialogue turns:
+AE_ID TS3004d.A.argumentstructs.15: "If you have"
+AE_ID TS3004d.A.argumentstructs.Daan.9: "Yeah. Oh yeah, that's right. Rechargeable."
+AE_ID TS3004d.B.argumentstructs.Daan.12: "We don't recharge."
+AE_ID TS3004d.B.argumentstructs.16: "Okay. Yeah, it is. Uh untitled ? Yeah, it doesn't matter. Save. N"
+AE_ID TS3004d.C.argumentstructs.14: "No, I think it is. Okay. Mm two, I think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.B.argumentstructs.16
+---------------------------------
+target=TS3004d.D.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3004d.A.argumentstructs.16:
+"No, just so it's still a two."
+
+Past dialogue turns:
+AE_ID TS3004d.A.argumentstructs.Daan.9: "Yeah. Oh yeah, that's right. Rechargeable."
+AE_ID TS3004d.B.argumentstructs.Daan.12: "We don't recharge."
+AE_ID TS3004d.B.argumentstructs.16: "Okay. Yeah, it is. Uh untitled ? Yeah, it doesn't matter. Save. N"
+AE_ID TS3004d.C.argumentstructs.14: "No, I think it is. Okay. Mm two, I think."
+AE_ID TS3004d.D.argumentstructs.13: "the the seven, uh all the seven. No, we are not extraordinary new or something. Tha tha that"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3004d.C.argumentstructs.14
+---------------------------------
+target=TS3004d.A.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3004d-Innovative.csv - True Judgement Ratio: 21.43%

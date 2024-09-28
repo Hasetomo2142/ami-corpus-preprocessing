@@ -1,0 +1,412 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.31:
+"it first seems a bit kind of uh niche, like only a few people would really want a banana, but what if it was kind of uh a stylised banana ? You know, rather than having it kind of you know yellow and really looking exactly like a banana, you could make it kind of silver. And um, you know to give you kind of the idea of a banana but without it looking you know completely"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1004c.B.argumentstructs.31
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.19:
+"kitsch.  For better  want of a better word you know ?"
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.31: "it first seems a bit kind of uh niche, like only a few people would really want a banana, but what if it was kind of uh a stylised banana ? You know, rather than having it kind of you know yellow and really looking exactly like a banana, you could make it kind of silver. And um, you know to give you kind of the idea of a banana but without it looking you know completely"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.31
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.10:
+"You think that yellow it's kitsch."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.31: "it first seems a bit kind of uh niche, like only a few people would really want a banana, but what if it was kind of uh a stylised banana ? You know, rather than having it kind of you know yellow and really looking exactly like a banana, you could make it kind of silver. And um, you know to give you kind of the idea of a banana but without it looking you know completely"
+AE_ID IS1004c.B.argumentstructs.Rutger.19: "kitsch.  For better  want of a better word you know ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.19
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.10
+source=IS1004c.B.argumentstructs.Rutger.19
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.C.argumentstructs.11:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.31: "it first seems a bit kind of uh niche, like only a few people would really want a banana, but what if it was kind of uh a stylised banana ? You know, rather than having it kind of you know yellow and really looking exactly like a banana, you could make it kind of silver. And um, you know to give you kind of the idea of a banana but without it looking you know completely"
+AE_ID IS1004c.B.argumentstructs.Rutger.19: "kitsch.  For better  want of a better word you know ?"
+AE_ID IS1004c.A.argumentstructs.Rutger.10: "You think that yellow it's kitsch."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.31
+---------------------------------
+target=IS1004c.C.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.20:
+"Well, you know, I don I don't know how many peop"
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.31: "it first seems a bit kind of uh niche, like only a few people would really want a banana, but what if it was kind of uh a stylised banana ? You know, rather than having it kind of you know yellow and really looking exactly like a banana, you could make it kind of silver. And um, you know to give you kind of the idea of a banana but without it looking you know completely"
+AE_ID IS1004c.B.argumentstructs.Rutger.19: "kitsch.  For better  want of a better word you know ?"
+AE_ID IS1004c.A.argumentstructs.Rutger.10: "You think that yellow it's kitsch."
+AE_ID IS1004c.C.argumentstructs.11: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.19
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.20
+source=IS1004c.B.argumentstructs.Rutger.19
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.11:
+"If you make something that looks like a banana it should have the colour of a banana."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.31: "it first seems a bit kind of uh niche, like only a few people would really want a banana, but what if it was kind of uh a stylised banana ? You know, rather than having it kind of you know yellow and really looking exactly like a banana, you could make it kind of silver. And um, you know to give you kind of the idea of a banana but without it looking you know completely"
+AE_ID IS1004c.B.argumentstructs.Rutger.19: "kitsch.  For better  want of a better word you know ?"
+AE_ID IS1004c.A.argumentstructs.Rutger.10: "You think that yellow it's kitsch."
+AE_ID IS1004c.C.argumentstructs.11: "Mm-hmm."
+AE_ID IS1004c.B.argumentstructs.Rutger.20: "Well, you know, I don I don't know how many peop"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.31
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.11
+source=IS1004c.B.argumentstructs.Rutger.19
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.30:
+"Yeah. No, I I"
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.19: "kitsch.  For better  want of a better word you know ?"
+AE_ID IS1004c.A.argumentstructs.Rutger.10: "You think that yellow it's kitsch."
+AE_ID IS1004c.C.argumentstructs.11: "Mm-hmm."
+AE_ID IS1004c.B.argumentstructs.Rutger.20: "Well, you know, I don I don't know how many peop"
+AE_ID IS1004c.A.argumentstructs.Rutger.11: "If you make something that looks like a banana it should have the colour of a banana."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.A.argumentstructs.Rutger.10
+---------------------------------
+target=IS1004c.D.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.C.argumentstructs.Rutger.5:
+"A  yeah, otherwise it'll be mis means you don't get b any feeling then. It's neither a banana nor a"
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.Rutger.10: "You think that yellow it's kitsch."
+AE_ID IS1004c.C.argumentstructs.11: "Mm-hmm."
+AE_ID IS1004c.B.argumentstructs.Rutger.20: "Well, you know, I don I don't know how many peop"
+AE_ID IS1004c.A.argumentstructs.Rutger.11: "If you make something that looks like a banana it should have the colour of a banana."
+AE_ID IS1004c.D.argumentstructs.30: "Yeah. No, I I"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.A.argumentstructs.Rutger.11
+---------------------------------
+target=IS1004c.C.argumentstructs.Rutger.5
+source=IS1004c.A.argumentstructs.Rutger.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.21:
+"Well they"
+
+Past dialogue turns:
+AE_ID IS1004c.C.argumentstructs.11: "Mm-hmm."
+AE_ID IS1004c.B.argumentstructs.Rutger.20: "Well, you know, I don I don't know how many peop"
+AE_ID IS1004c.A.argumentstructs.Rutger.11: "If you make something that looks like a banana it should have the colour of a banana."
+AE_ID IS1004c.D.argumentstructs.30: "Yeah. No, I I"
+AE_ID IS1004c.C.argumentstructs.Rutger.5: "A  yeah, otherwise it'll be mis means you don't get b any feeling then. It's neither a banana nor a"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.20
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.21
+source=IS1004c.A.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.16:
+"O otherwise"
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.20: "Well, you know, I don I don't know how many peop"
+AE_ID IS1004c.A.argumentstructs.Rutger.11: "If you make something that looks like a banana it should have the colour of a banana."
+AE_ID IS1004c.D.argumentstructs.30: "Yeah. No, I I"
+AE_ID IS1004c.C.argumentstructs.Rutger.5: "A  yeah, otherwise it'll be mis means you don't get b any feeling then. It's neither a banana nor a"
+AE_ID IS1004c.B.argumentstructs.Rutger.21: "Well they"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.C.argumentstructs.Rutger.5
+---------------------------------
+target=IS1004c.A.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.D.argumentstructs.Rutger.21:
+"Maybe li like that."
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.Rutger.11: "If you make something that looks like a banana it should have the colour of a banana."
+AE_ID IS1004c.D.argumentstructs.30: "Yeah. No, I I"
+AE_ID IS1004c.C.argumentstructs.Rutger.5: "A  yeah, otherwise it'll be mis means you don't get b any feeling then. It's neither a banana nor a"
+AE_ID IS1004c.B.argumentstructs.Rutger.21: "Well they"
+AE_ID IS1004c.A.argumentstructs.16: "O otherwise"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.21
+---------------------------------
+target=IS1004c.D.argumentstructs.Rutger.21
+source=IS1004c.A.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.25:
+"Yeah, like this colour this colour"
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.30: "Yeah. No, I I"
+AE_ID IS1004c.C.argumentstructs.Rutger.5: "A  yeah, otherwise it'll be mis means you don't get b any feeling then. It's neither a banana nor a"
+AE_ID IS1004c.B.argumentstructs.Rutger.21: "Well they"
+AE_ID IS1004c.A.argumentstructs.16: "O otherwise"
+AE_ID IS1004c.D.argumentstructs.Rutger.21: "Maybe li like that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.D.argumentstructs.Rutger.21
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.25
+source=IS1004c.D.argumentstructs.Rutger.21
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.26:
+"Maybe, you know, maybe  like still in the shape of a banana."
+
+Past dialogue turns:
+AE_ID IS1004c.C.argumentstructs.Rutger.5: "A  yeah, otherwise it'll be mis means you don't get b any feeling then. It's neither a banana nor a"
+AE_ID IS1004c.B.argumentstructs.Rutger.21: "Well they"
+AE_ID IS1004c.A.argumentstructs.16: "O otherwise"
+AE_ID IS1004c.D.argumentstructs.Rutger.21: "Maybe li like that."
+AE_ID IS1004c.B.argumentstructs.Rutger.25: "Yeah, like this colour this colour"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.C.argumentstructs.Rutger.5
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.26
+source=IS1004c.B.argumentstructs.Rutger.19
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.12:
+"Roughly."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.21: "Well they"
+AE_ID IS1004c.A.argumentstructs.16: "O otherwise"
+AE_ID IS1004c.D.argumentstructs.Rutger.21: "Maybe li like that."
+AE_ID IS1004c.B.argumentstructs.Rutger.25: "Yeah, like this colour this colour"
+AE_ID IS1004c.B.argumentstructs.Rutger.26: "Maybe, you know, maybe  like still in the shape of a banana."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.25
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.12
+source=IS1004c.B.argumentstructs.Rutger.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.23:
+"No, exactly."
+
+Past dialogue turns:
+AE_ID IS1004c.A.argumentstructs.16: "O otherwise"
+AE_ID IS1004c.D.argumentstructs.Rutger.21: "Maybe li like that."
+AE_ID IS1004c.B.argumentstructs.Rutger.25: "Yeah, like this colour this colour"
+AE_ID IS1004c.B.argumentstructs.Rutger.26: "Maybe, you know, maybe  like still in the shape of a banana."
+AE_ID IS1004c.A.argumentstructs.Rutger.12: "Roughly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.25
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.23
+source=IS1004c.A.argumentstructs.Rutger.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.B.argumentstructs.Rutger.24:
+"Exactly. Um, but you know, just maybe maybe not exactly the same texture as a banana and just kind of, you know  because the thing is it's gonna be a little bit difficult to make  um to give like the texture of a banana anyway and to k to have the exact shape. I think if you're gonna not be able to do it properly you may as well do it in a stylised way that just looks a bit more kind of, you know, twenty first century rather than sixties or seventies."
+
+Past dialogue turns:
+AE_ID IS1004c.D.argumentstructs.Rutger.21: "Maybe li like that."
+AE_ID IS1004c.B.argumentstructs.Rutger.25: "Yeah, like this colour this colour"
+AE_ID IS1004c.B.argumentstructs.Rutger.26: "Maybe, you know, maybe  like still in the shape of a banana."
+AE_ID IS1004c.A.argumentstructs.Rutger.12: "Roughly."
+AE_ID IS1004c.B.argumentstructs.Rutger.23: "No, exactly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.26
+---------------------------------
+target=IS1004c.B.argumentstructs.Rutger.24
+source=IS1004c.B.argumentstructs.Rutger.26
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1004c.A.argumentstructs.Rutger.13:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1004c.B.argumentstructs.Rutger.25: "Yeah, like this colour this colour"
+AE_ID IS1004c.B.argumentstructs.Rutger.26: "Maybe, you know, maybe  like still in the shape of a banana."
+AE_ID IS1004c.A.argumentstructs.Rutger.12: "Roughly."
+AE_ID IS1004c.B.argumentstructs.Rutger.23: "No, exactly."
+AE_ID IS1004c.B.argumentstructs.Rutger.24: "Exactly. Um, but you know, just maybe maybe not exactly the same texture as a banana and just kind of, you know  because the thing is it's gonna be a little bit difficult to make  um to give like the texture of a banana anyway and to k to have the exact shape. I think if you're gonna not be able to do it properly you may as well do it in a stylised way that just looks a bit more kind of, you know, twenty first century rather than sixties or seventies."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1004c.B.argumentstructs.Rutger.24
+---------------------------------
+target=IS1004c.A.argumentstructs.Rutger.13
+source=IS1004c.B.argumentstructs.Rutger.24
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1004c-Does it need to be a banana?.csv - True Judgement Ratio: 41.18%

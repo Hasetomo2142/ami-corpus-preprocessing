@@ -1,0 +1,737 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.31:
+"Okay. Okay"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2014c.A.argumentstructs.31
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.Rutger.1:
+"Yeah"
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.31: "Okay. Okay"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.A.argumentstructs.31
+---------------------------------
+target=ES2014c.D.argumentstructs.Rutger.1
+source=ES2014c.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.34:
+". Just"
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.31: "Okay. Okay"
+AE_ID ES2014c.D.argumentstructs.Rutger.1: "Yeah"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2014c.D.argumentstructs.34
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.Rutger.1:
+". So the speech recognition was  Are we going for speech recognition ? No ? 'Cause that required the advanced"
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.31: "Okay. Okay"
+AE_ID ES2014c.D.argumentstructs.Rutger.1: "Yeah"
+AE_ID ES2014c.D.argumentstructs.34: ". Just"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.D.argumentstructs.Rutger.1
+---------------------------------
+target=ES2014c.A.argumentstructs.Rutger.1
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.2:
+"Um I think it would be helpful to find it"
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.31: "Okay. Okay"
+AE_ID ES2014c.D.argumentstructs.Rutger.1: "Yeah"
+AE_ID ES2014c.D.argumentstructs.34: ". Just"
+AE_ID ES2014c.A.argumentstructs.Rutger.1: ". So the speech recognition was  Are we going for speech recognition ? No ? 'Cause that required the advanced"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.D.argumentstructs.Rutger.1
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.2
+source=ES2014c.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.3:
+", but I don't think it'd um"
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.31: "Okay. Okay"
+AE_ID ES2014c.D.argumentstructs.Rutger.1: "Yeah"
+AE_ID ES2014c.D.argumentstructs.34: ". Just"
+AE_ID ES2014c.A.argumentstructs.Rutger.1: ". So the speech recognition was  Are we going for speech recognition ? No ? 'Cause that required the advanced"
+AE_ID ES2014c.C.argumentstructs.Rutger.2: "Um I think it would be helpful to find it"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.2
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.3
+source=ES2014c.C.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.1:
+"Uh yeah"
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.Rutger.1: "Yeah"
+AE_ID ES2014c.D.argumentstructs.34: ". Just"
+AE_ID ES2014c.A.argumentstructs.Rutger.1: ". So the speech recognition was  Are we going for speech recognition ? No ? 'Cause that required the advanced"
+AE_ID ES2014c.C.argumentstructs.Rutger.2: "Um I think it would be helpful to find it"
+AE_ID ES2014c.C.argumentstructs.Rutger.3: ", but I don't think it'd um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.D.argumentstructs.Rutger.1
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.1
+source=ES2014c.C.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.2:
+"I think  did we decide it didn't affect the circuit board, it just affected"
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.34: ". Just"
+AE_ID ES2014c.A.argumentstructs.Rutger.1: ". So the speech recognition was  Are we going for speech recognition ? No ? 'Cause that required the advanced"
+AE_ID ES2014c.C.argumentstructs.Rutger.2: "Um I think it would be helpful to find it"
+AE_ID ES2014c.C.argumentstructs.Rutger.3: ", but I don't think it'd um"
+AE_ID ES2014c.B.argumentstructs.Rutger.1: "Uh yeah"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.1
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.2
+source=ES2014c.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.4:
+"Yeah, I think so."
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.Rutger.1: ". So the speech recognition was  Are we going for speech recognition ? No ? 'Cause that required the advanced"
+AE_ID ES2014c.C.argumentstructs.Rutger.2: "Um I think it would be helpful to find it"
+AE_ID ES2014c.C.argumentstructs.Rutger.3: ", but I don't think it'd um"
+AE_ID ES2014c.B.argumentstructs.Rutger.1: "Uh yeah"
+AE_ID ES2014c.B.argumentstructs.Rutger.2: "I think  did we decide it didn't affect the circuit board, it just affected"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.1
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.4
+source=ES2014c.B.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.Rutger.2:
+"Just just for the call and find thing."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.2: "Um I think it would be helpful to find it"
+AE_ID ES2014c.C.argumentstructs.Rutger.3: ", but I don't think it'd um"
+AE_ID ES2014c.B.argumentstructs.Rutger.1: "Uh yeah"
+AE_ID ES2014c.B.argumentstructs.Rutger.2: "I think  did we decide it didn't affect the circuit board, it just affected"
+AE_ID ES2014c.C.argumentstructs.Rutger.4: "Yeah, I think so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.2
+---------------------------------
+target=ES2014c.D.argumentstructs.Rutger.2
+source=ES2014c.B.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.3:
+"It was just"
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.3: ", but I don't think it'd um"
+AE_ID ES2014c.B.argumentstructs.Rutger.1: "Uh yeah"
+AE_ID ES2014c.B.argumentstructs.Rutger.2: "I think  did we decide it didn't affect the circuit board, it just affected"
+AE_ID ES2014c.C.argumentstructs.Rutger.4: "Yeah, I think so."
+AE_ID ES2014c.D.argumentstructs.Rutger.2: "Just just for the call and find thing."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.2
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.3
+source=ES2014c.D.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.Rutger.2:
+"I had speech recognition requires advanced req require"
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.Rutger.1: "Uh yeah"
+AE_ID ES2014c.B.argumentstructs.Rutger.2: "I think  did we decide it didn't affect the circuit board, it just affected"
+AE_ID ES2014c.C.argumentstructs.Rutger.4: "Yeah, I think so."
+AE_ID ES2014c.D.argumentstructs.Rutger.2: "Just just for the call and find thing."
+AE_ID ES2014c.B.argumentstructs.Rutger.3: "It was just"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.4
+---------------------------------
+target=ES2014c.A.argumentstructs.Rutger.2
+source=ES2014c.B.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.5:
+"Oh no th that's what that's what I thought"
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.Rutger.2: "I think  did we decide it didn't affect the circuit board, it just affected"
+AE_ID ES2014c.C.argumentstructs.Rutger.4: "Yeah, I think so."
+AE_ID ES2014c.D.argumentstructs.Rutger.2: "Just just for the call and find thing."
+AE_ID ES2014c.B.argumentstructs.Rutger.3: "It was just"
+AE_ID ES2014c.A.argumentstructs.Rutger.2: "I had speech recognition requires advanced req require"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.2
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.5
+source=ES2014c.B.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.6:
+", but maybe maybe it doesn't."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.4: "Yeah, I think so."
+AE_ID ES2014c.D.argumentstructs.Rutger.2: "Just just for the call and find thing."
+AE_ID ES2014c.B.argumentstructs.Rutger.3: "It was just"
+AE_ID ES2014c.A.argumentstructs.Rutger.2: "I had speech recognition requires advanced req require"
+AE_ID ES2014c.B.argumentstructs.Rutger.5: "Oh no th that's what that's what I thought"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.5
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.6
+source=ES2014c.B.argumentstructs.Rutger.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.7:
+"Um I think I might have got that wrong."
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.Rutger.2: "Just just for the call and find thing."
+AE_ID ES2014c.B.argumentstructs.Rutger.3: "It was just"
+AE_ID ES2014c.A.argumentstructs.Rutger.2: "I had speech recognition requires advanced req require"
+AE_ID ES2014c.B.argumentstructs.Rutger.5: "Oh no th that's what that's what I thought"
+AE_ID ES2014c.B.argumentstructs.Rutger.6: ", but maybe maybe it doesn't."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.6
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.7
+source=ES2014c.B.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.Rutger.3:
+"Oh. So okay. Speech recognition you reckon then is s simple. And so we would want it in as an extra because it doesn't appear to cost too much. Would that be"
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.Rutger.3: "It was just"
+AE_ID ES2014c.A.argumentstructs.Rutger.2: "I had speech recognition requires advanced req require"
+AE_ID ES2014c.B.argumentstructs.Rutger.5: "Oh no th that's what that's what I thought"
+AE_ID ES2014c.B.argumentstructs.Rutger.6: ", but maybe maybe it doesn't."
+AE_ID ES2014c.B.argumentstructs.Rutger.7: "Um I think I might have got that wrong."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.A.argumentstructs.Rutger.2
+---------------------------------
+target=ES2014c.A.argumentstructs.Rutger.3
+source=ES2014c.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.Rutger.3:
+"'Cause it's s it's separate isn't it, it's not part of the"
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.Rutger.2: "I had speech recognition requires advanced req require"
+AE_ID ES2014c.B.argumentstructs.Rutger.5: "Oh no th that's what that's what I thought"
+AE_ID ES2014c.B.argumentstructs.Rutger.6: ", but maybe maybe it doesn't."
+AE_ID ES2014c.B.argumentstructs.Rutger.7: "Um I think I might have got that wrong."
+AE_ID ES2014c.A.argumentstructs.Rutger.3: "Oh. So okay. Speech recognition you reckon then is s simple. And so we would want it in as an extra because it doesn't appear to cost too much. Would that be"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.A.argumentstructs.Rutger.3
+---------------------------------
+target=ES2014c.D.argumentstructs.Rutger.3
+source=ES2014c.A.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.8:
+"It's it's just an addition thing it's um yeah."
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.Rutger.5: "Oh no th that's what that's what I thought"
+AE_ID ES2014c.B.argumentstructs.Rutger.6: ", but maybe maybe it doesn't."
+AE_ID ES2014c.B.argumentstructs.Rutger.7: "Um I think I might have got that wrong."
+AE_ID ES2014c.A.argumentstructs.Rutger.3: "Oh. So okay. Speech recognition you reckon then is s simple. And so we would want it in as an extra because it doesn't appear to cost too much. Would that be"
+AE_ID ES2014c.D.argumentstructs.Rutger.3: "'Cause it's s it's separate isn't it, it's not part of the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.6
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.8
+source=ES2014c.D.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.38:
+"'Kay. 'Kay shall I pass on to you now ?"
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.Rutger.6: ", but maybe maybe it doesn't."
+AE_ID ES2014c.B.argumentstructs.Rutger.7: "Um I think I might have got that wrong."
+AE_ID ES2014c.A.argumentstructs.Rutger.3: "Oh. So okay. Speech recognition you reckon then is s simple. And so we would want it in as an extra because it doesn't appear to cost too much. Would that be"
+AE_ID ES2014c.D.argumentstructs.Rutger.3: "'Cause it's s it's separate isn't it, it's not part of the"
+AE_ID ES2014c.B.argumentstructs.Rutger.8: "It's it's just an addition thing it's um yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.8
+---------------------------------
+target=ES2014c.B.argumentstructs.38
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.35:
+"Mm-hmm. Yeah."
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.Rutger.7: "Um I think I might have got that wrong."
+AE_ID ES2014c.A.argumentstructs.Rutger.3: "Oh. So okay. Speech recognition you reckon then is s simple. And so we would want it in as an extra because it doesn't appear to cost too much. Would that be"
+AE_ID ES2014c.D.argumentstructs.Rutger.3: "'Cause it's s it's separate isn't it, it's not part of the"
+AE_ID ES2014c.B.argumentstructs.Rutger.8: "It's it's just an addition thing it's um yeah."
+AE_ID ES2014c.B.argumentstructs.38: "'Kay. 'Kay shall I pass on to you now ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.8
+---------------------------------
+target=ES2014c.D.argumentstructs.35
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.Rutger.4:
+"In fact, it wouldn't really cost anymore, would it ?"
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.Rutger.3: "Oh. So okay. Speech recognition you reckon then is s simple. And so we would want it in as an extra because it doesn't appear to cost too much. Would that be"
+AE_ID ES2014c.D.argumentstructs.Rutger.3: "'Cause it's s it's separate isn't it, it's not part of the"
+AE_ID ES2014c.B.argumentstructs.Rutger.8: "It's it's just an addition thing it's um yeah."
+AE_ID ES2014c.B.argumentstructs.38: "'Kay. 'Kay shall I pass on to you now ?"
+AE_ID ES2014c.D.argumentstructs.35: "Mm-hmm. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.A.argumentstructs.Rutger.3
+---------------------------------
+target=ES2014c.A.argumentstructs.Rutger.4
+source=ES2014c.A.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.30:
+"I'll just just check what it said. Actually I don't think it really says anything about the cost, but it says that it's already in the coffee machines, so"
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.Rutger.3: "'Cause it's s it's separate isn't it, it's not part of the"
+AE_ID ES2014c.B.argumentstructs.Rutger.8: "It's it's just an addition thing it's um yeah."
+AE_ID ES2014c.B.argumentstructs.38: "'Kay. 'Kay shall I pass on to you now ?"
+AE_ID ES2014c.D.argumentstructs.35: "Mm-hmm. Yeah."
+AE_ID ES2014c.A.argumentstructs.Rutger.4: "In fact, it wouldn't really cost anymore, would it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.A.argumentstructs.Rutger.4
+---------------------------------
+target=ES2014c.C.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.5:
+"like it's already kind of"
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.Rutger.8: "It's it's just an addition thing it's um yeah."
+AE_ID ES2014c.B.argumentstructs.38: "'Kay. 'Kay shall I pass on to you now ?"
+AE_ID ES2014c.D.argumentstructs.35: "Mm-hmm. Yeah."
+AE_ID ES2014c.A.argumentstructs.Rutger.4: "In fact, it wouldn't really cost anymore, would it ?"
+AE_ID ES2014c.C.argumentstructs.30: "I'll just just check what it said. Actually I don't think it really says anything about the cost, but it says that it's already in the coffee machines, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.30
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.5
+source=ES2014c.A.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.10:
+"I assume it would cost extra"
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.38: "'Kay. 'Kay shall I pass on to you now ?"
+AE_ID ES2014c.D.argumentstructs.35: "Mm-hmm. Yeah."
+AE_ID ES2014c.A.argumentstructs.Rutger.4: "In fact, it wouldn't really cost anymore, would it ?"
+AE_ID ES2014c.C.argumentstructs.30: "I'll just just check what it said. Actually I don't think it really says anything about the cost, but it says that it's already in the coffee machines, so"
+AE_ID ES2014c.C.argumentstructs.Rutger.5: "like it's already kind of"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.A.argumentstructs.Rutger.4
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.10
+source=ES2014c.A.argumentstructs.Rutger.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.39:
+", but"
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.35: "Mm-hmm. Yeah."
+AE_ID ES2014c.A.argumentstructs.Rutger.4: "In fact, it wouldn't really cost anymore, would it ?"
+AE_ID ES2014c.C.argumentstructs.30: "I'll just just check what it said. Actually I don't think it really says anything about the cost, but it says that it's already in the coffee machines, so"
+AE_ID ES2014c.C.argumentstructs.Rutger.5: "like it's already kind of"
+AE_ID ES2014c.B.argumentstructs.Rutger.10: "I assume it would cost extra"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.30
+---------------------------------
+target=ES2014c.B.argumentstructs.39
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.11:
+"Maybe we maybe we'll find out how much that does cost and have to decide slightly later"
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.Rutger.4: "In fact, it wouldn't really cost anymore, would it ?"
+AE_ID ES2014c.C.argumentstructs.30: "I'll just just check what it said. Actually I don't think it really says anything about the cost, but it says that it's already in the coffee machines, so"
+AE_ID ES2014c.C.argumentstructs.Rutger.5: "like it's already kind of"
+AE_ID ES2014c.B.argumentstructs.Rutger.10: "I assume it would cost extra"
+AE_ID ES2014c.B.argumentstructs.39: ", but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.10
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.11
+source=ES2014c.A.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.Rutger.5:
+"And then have to change all  change  everything at the last minute."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.30: "I'll just just check what it said. Actually I don't think it really says anything about the cost, but it says that it's already in the coffee machines, so"
+AE_ID ES2014c.C.argumentstructs.Rutger.5: "like it's already kind of"
+AE_ID ES2014c.B.argumentstructs.Rutger.10: "I assume it would cost extra"
+AE_ID ES2014c.B.argumentstructs.39: ", but"
+AE_ID ES2014c.B.argumentstructs.Rutger.11: "Maybe we maybe we'll find out how much that does cost and have to decide slightly later"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.11
+---------------------------------
+target=ES2014c.A.argumentstructs.Rutger.5
+source=ES2014c.B.argumentstructs.Rutger.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.40:
+"."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.5: "like it's already kind of"
+AE_ID ES2014c.B.argumentstructs.Rutger.10: "I assume it would cost extra"
+AE_ID ES2014c.B.argumentstructs.39: ", but"
+AE_ID ES2014c.B.argumentstructs.Rutger.11: "Maybe we maybe we'll find out how much that does cost and have to decide slightly later"
+AE_ID ES2014c.A.argumentstructs.Rutger.5: "And then have to change all  change  everything at the last minute."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.39
+---------------------------------
+target=ES2014c.B.argumentstructs.40
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.Rutger.6:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.Rutger.10: "I assume it would cost extra"
+AE_ID ES2014c.B.argumentstructs.39: ", but"
+AE_ID ES2014c.B.argumentstructs.Rutger.11: "Maybe we maybe we'll find out how much that does cost and have to decide slightly later"
+AE_ID ES2014c.A.argumentstructs.Rutger.5: "And then have to change all  change  everything at the last minute."
+AE_ID ES2014c.B.argumentstructs.40: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.11
+---------------------------------
+target=ES2014c.A.argumentstructs.Rutger.6
+source=ES2014c.B.argumentstructs.Rutger.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.32:
+"S"
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.39: ", but"
+AE_ID ES2014c.B.argumentstructs.Rutger.11: "Maybe we maybe we'll find out how much that does cost and have to decide slightly later"
+AE_ID ES2014c.A.argumentstructs.Rutger.5: "And then have to change all  change  everything at the last minute."
+AE_ID ES2014c.B.argumentstructs.40: "."
+AE_ID ES2014c.A.argumentstructs.Rutger.6: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.39
+---------------------------------
+target=ES2014c.A.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2014c-Speech Recognition?.csv - True Judgement Ratio: 33.33%

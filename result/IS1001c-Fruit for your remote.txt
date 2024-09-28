@@ -1,0 +1,612 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.9:
+"What kind of fr fruit would you like to to control your T_V_ with ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.9
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.34:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.9: "What kind of fr fruit would you like to to control your T_V_ with ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.9
+---------------------------------
+target=IS1001c.C.argumentstructs.34
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.26:
+"Odi"
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.9: "What kind of fr fruit would you like to to control your T_V_ with ?"
+AE_ID IS1001c.C.argumentstructs.34: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.9
+---------------------------------
+target=IS1001c.A.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.11:
+"Banana I think, it's a nice idea."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.9: "What kind of fr fruit would you like to to control your T_V_ with ?"
+AE_ID IS1001c.C.argumentstructs.34: "Mm."
+AE_ID IS1001c.A.argumentstructs.26: "Odi"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.9
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.11
+source=IS1001c.A.argumentstructs.Rutger.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.10:
+"Banana is also yellow so you you can't lost your remote control then."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.9: "What kind of fr fruit would you like to to control your T_V_ with ?"
+AE_ID IS1001c.C.argumentstructs.34: "Mm."
+AE_ID IS1001c.A.argumentstructs.26: "Odi"
+AE_ID IS1001c.B.argumentstructs.Rutger.11: "Banana I think, it's a nice idea."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.11
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.10
+source=IS1001c.B.argumentstructs.Rutger.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.21:
+"But"
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.9: "What kind of fr fruit would you like to to control your T_V_ with ?"
+AE_ID IS1001c.C.argumentstructs.34: "Mm."
+AE_ID IS1001c.A.argumentstructs.26: "Odi"
+AE_ID IS1001c.B.argumentstructs.Rutger.11: "Banana I think, it's a nice idea."
+AE_ID IS1001c.A.argumentstructs.Rutger.10: "Banana is also yellow so you you can't lost your remote control then."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.11
+---------------------------------
+target=IS1001c.B.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.D.argumentstructs.Rutger.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.34: "Mm."
+AE_ID IS1001c.A.argumentstructs.26: "Odi"
+AE_ID IS1001c.B.argumentstructs.Rutger.11: "Banana I think, it's a nice idea."
+AE_ID IS1001c.A.argumentstructs.Rutger.10: "Banana is also yellow so you you can't lost your remote control then."
+AE_ID IS1001c.B.argumentstructs.21: "But"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.11
+---------------------------------
+target=IS1001c.D.argumentstructs.Rutger.1
+source=IS1001c.A.argumentstructs.Rutger.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.12:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.26: "Odi"
+AE_ID IS1001c.B.argumentstructs.Rutger.11: "Banana I think, it's a nice idea."
+AE_ID IS1001c.A.argumentstructs.Rutger.10: "Banana is also yellow so you you can't lost your remote control then."
+AE_ID IS1001c.B.argumentstructs.21: "But"
+AE_ID IS1001c.D.argumentstructs.Rutger.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.D.argumentstructs.Rutger.1
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.12
+source=IS1001c.A.argumentstructs.Rutger.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.13:
+"You y you don't use the banana when the banana is curving like that, but when the banana is curving like that, with the wheel on the top and to control, and here you have a a push button to"
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.11: "Banana I think, it's a nice idea."
+AE_ID IS1001c.A.argumentstructs.Rutger.10: "Banana is also yellow so you you can't lost your remote control then."
+AE_ID IS1001c.B.argumentstructs.21: "But"
+AE_ID IS1001c.D.argumentstructs.Rutger.1: "Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.12: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.11
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.13
+source=IS1001c.B.argumentstructs.Rutger.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.35:
+"Two of the button, yeah. Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.10: "Banana is also yellow so you you can't lost your remote control then."
+AE_ID IS1001c.B.argumentstructs.21: "But"
+AE_ID IS1001c.D.argumentstructs.Rutger.1: "Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.12: "Yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.13: "You y you don't use the banana when the banana is curving like that, but when the banana is curving like that, with the wheel on the top and to control, and here you have a a push button to"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.21
+---------------------------------
+target=IS1001c.C.argumentstructs.35
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.13:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.21: "But"
+AE_ID IS1001c.D.argumentstructs.Rutger.1: "Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.12: "Yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.13: "You y you don't use the banana when the banana is curving like that, but when the banana is curving like that, with the wheel on the top and to control, and here you have a a push button to"
+AE_ID IS1001c.C.argumentstructs.35: "Two of the button, yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.D.argumentstructs.Rutger.1
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.13
+source=IS1001c.B.argumentstructs.Rutger.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.D.argumentstructs.Rutger.2:
+"But you don't have"
+
+Past dialogue turns:
+AE_ID IS1001c.D.argumentstructs.Rutger.1: "Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.12: "Yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.13: "You y you don't use the banana when the banana is curving like that, but when the banana is curving like that, with the wheel on the top and to control, and here you have a a push button to"
+AE_ID IS1001c.C.argumentstructs.35: "Two of the button, yeah. Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.13: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.13
+---------------------------------
+target=IS1001c.D.argumentstructs.Rutger.2
+source=IS1001c.B.argumentstructs.Rutger.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.11:
+"I think it's a good idea, yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.12: "Yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.13: "You y you don't use the banana when the banana is curving like that, but when the banana is curving like that, with the wheel on the top and to control, and here you have a a push button to"
+AE_ID IS1001c.C.argumentstructs.35: "Two of the button, yeah. Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.13: "Yeah."
+AE_ID IS1001c.D.argumentstructs.Rutger.2: "But you don't have"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.12
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.11
+source=IS1001c.B.argumentstructs.Rutger.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.14:
+"Yeah so you can just have uh just have this curve, yeah, and you move uh your hand here to press the buttons and then you move uh on the other side. So you can have it on on two sides and it'll be cool"
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.13: "You y you don't use the banana when the banana is curving like that, but when the banana is curving like that, with the wheel on the top and to control, and here you have a a push button to"
+AE_ID IS1001c.C.argumentstructs.35: "Two of the button, yeah. Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.13: "Yeah."
+AE_ID IS1001c.D.argumentstructs.Rutger.2: "But you don't have"
+AE_ID IS1001c.A.argumentstructs.Rutger.11: "I think it's a good idea, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.13
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.14
+source=IS1001c.B.argumentstructs.Rutger.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.27:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.35: "Two of the button, yeah. Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.13: "Yeah."
+AE_ID IS1001c.D.argumentstructs.Rutger.2: "But you don't have"
+AE_ID IS1001c.A.argumentstructs.Rutger.11: "I think it's a good idea, yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.14: "Yeah so you can just have uh just have this curve, yeah, and you move uh your hand here to press the buttons and then you move uh on the other side. So you can have it on on two sides and it'll be cool"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.35
+---------------------------------
+target=IS1001c.A.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.14:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.13: "Yeah."
+AE_ID IS1001c.D.argumentstructs.Rutger.2: "But you don't have"
+AE_ID IS1001c.A.argumentstructs.Rutger.11: "I think it's a good idea, yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.14: "Yeah so you can just have uh just have this curve, yeah, and you move uh your hand here to press the buttons and then you move uh on the other side. So you can have it on on two sides and it'll be cool"
+AE_ID IS1001c.A.argumentstructs.27: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.11
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.14
+source=IS1001c.C.argumentstructs.Rutger.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.15:
+", no ?"
+
+Past dialogue turns:
+AE_ID IS1001c.D.argumentstructs.Rutger.2: "But you don't have"
+AE_ID IS1001c.A.argumentstructs.Rutger.11: "I think it's a good idea, yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.14: "Yeah so you can just have uh just have this curve, yeah, and you move uh your hand here to press the buttons and then you move uh on the other side. So you can have it on on two sides and it'll be cool"
+AE_ID IS1001c.A.argumentstructs.27: "Yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.14: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.14
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.15
+source=IS1001c.C.argumentstructs.Rutger.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.12:
+"Yeah. I think it's a good design and it's innovative as well then. Maybe we can keep the banana. And it will be very easy to find."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.11: "I think it's a good idea, yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.14: "Yeah so you can just have uh just have this curve, yeah, and you move uh your hand here to press the buttons and then you move uh on the other side. So you can have it on on two sides and it'll be cool"
+AE_ID IS1001c.A.argumentstructs.27: "Yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.14: "Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.15: ", no ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.11
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.12
+source=IS1001c.C.argumentstructs.Rutger.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.16:
+"You can put also vibrator inside."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.14: "Yeah so you can just have uh just have this curve, yeah, and you move uh your hand here to press the buttons and then you move uh on the other side. So you can have it on on two sides and it'll be cool"
+AE_ID IS1001c.A.argumentstructs.27: "Yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.14: "Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.15: ", no ?"
+AE_ID IS1001c.A.argumentstructs.Rutger.12: "Yeah. I think it's a good design and it's innovative as well then. Maybe we can keep the banana. And it will be very easy to find."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.14
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.16
+source=IS1001c.A.argumentstructs.Rutger.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.15:
+"And everybody knows what is a banana. Basically. If you if you start with uh fancy fruits and fra s and tha"
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.27: "Yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.14: "Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.15: ", no ?"
+AE_ID IS1001c.A.argumentstructs.Rutger.12: "Yeah. I think it's a good design and it's innovative as well then. Maybe we can keep the banana. And it will be very easy to find."
+AE_ID IS1001c.C.argumentstructs.Rutger.16: "You can put also vibrator inside."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.12
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.15
+source=IS1001c.B.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.D.argumentstructs.Rutger.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.14: "Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.15: ", no ?"
+AE_ID IS1001c.A.argumentstructs.Rutger.12: "Yeah. I think it's a good design and it's innovative as well then. Maybe we can keep the banana. And it will be very easy to find."
+AE_ID IS1001c.C.argumentstructs.Rutger.16: "You can put also vibrator inside."
+AE_ID IS1001c.B.argumentstructs.Rutger.15: "And everybody knows what is a banana. Basically. If you if you start with uh fancy fruits and fra s and tha"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.14
+---------------------------------
+target=IS1001c.D.argumentstructs.Rutger.3
+source=IS1001c.B.argumentstructs.Rutger.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.17:
+"Ah-ha. You can also take into account the fact that the banana fits with the colour scheme of our company.  Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.15: ", no ?"
+AE_ID IS1001c.A.argumentstructs.Rutger.12: "Yeah. I think it's a good design and it's innovative as well then. Maybe we can keep the banana. And it will be very easy to find."
+AE_ID IS1001c.C.argumentstructs.Rutger.16: "You can put also vibrator inside."
+AE_ID IS1001c.B.argumentstructs.Rutger.15: "And everybody knows what is a banana. Basically. If you if you start with uh fancy fruits and fra s and tha"
+AE_ID IS1001c.D.argumentstructs.Rutger.3: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.12
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.17
+source=IS1001c.B.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.16:
+"Oh, yeah"
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.12: "Yeah. I think it's a good design and it's innovative as well then. Maybe we can keep the banana. And it will be very easy to find."
+AE_ID IS1001c.C.argumentstructs.Rutger.16: "You can put also vibrator inside."
+AE_ID IS1001c.B.argumentstructs.Rutger.15: "And everybody knows what is a banana. Basically. If you if you start with uh fancy fruits and fra s and tha"
+AE_ID IS1001c.D.argumentstructs.Rutger.3: "Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.17: "Ah-ha. You can also take into account the fact that the banana fits with the colour scheme of our company.  Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.12
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.16
+source=IS1001c.C.argumentstructs.Rutger.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.28:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.16: "You can put also vibrator inside."
+AE_ID IS1001c.B.argumentstructs.Rutger.15: "And everybody knows what is a banana. Basically. If you if you start with uh fancy fruits and fra s and tha"
+AE_ID IS1001c.D.argumentstructs.Rutger.3: "Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.17: "Ah-ha. You can also take into account the fact that the banana fits with the colour scheme of our company.  Yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.16: "Oh, yeah"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.17
+---------------------------------
+target=IS1001c.A.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.13:
+"Yeah it's really uh really a good point."
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.15: "And everybody knows what is a banana. Basically. If you if you start with uh fancy fruits and fra s and tha"
+AE_ID IS1001c.D.argumentstructs.Rutger.3: "Yeah."
+AE_ID IS1001c.C.argumentstructs.Rutger.17: "Ah-ha. You can also take into account the fact that the banana fits with the colour scheme of our company.  Yeah."
+AE_ID IS1001c.B.argumentstructs.Rutger.16: "Oh, yeah"
+AE_ID IS1001c.A.argumentstructs.28: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.17
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.13
+source=IS1001c.C.argumentstructs.Rutger.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1001c-Fruit for your remote.csv - True Judgement Ratio: 32.00%

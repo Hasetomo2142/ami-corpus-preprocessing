@@ -1,0 +1,462 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.Rutger.1:
+"What if we had what if we had not only um  say we went with the ball the ball function um,"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2016a.A.argumentstructs.Rutger.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.Rutger.3:
+"but maybe we give it sort of grips along the side s um to make it easier to hold on to. So you know um s so it's easier to hold onto that way"
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.1: "What if we had what if we had not only um  say we went with the ball the ball function um,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016a.A.argumentstructs.Rutger.3
+source=ES2016a.A.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.C.argumentstructs.Rutger.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.1: "What if we had what if we had not only um  say we went with the ball the ball function um,"
+AE_ID ES2016a.A.argumentstructs.Rutger.3: "but maybe we give it sort of grips along the side s um to make it easier to hold on to. So you know um s so it's easier to hold onto that way"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.A.argumentstructs.Rutger.3
+---------------------------------
+target=ES2016a.C.argumentstructs.Rutger.1
+source=ES2016a.A.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.Rutger.4:
+". Course that'll then remove some of our our ball. Unless this unless this part were raised, so say the cover flips over and covers that part."
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.1: "What if we had what if we had not only um  say we went with the ball the ball function um,"
+AE_ID ES2016a.A.argumentstructs.Rutger.3: "but maybe we give it sort of grips along the side s um to make it easier to hold on to. So you know um s so it's easier to hold onto that way"
+AE_ID ES2016a.C.argumentstructs.Rutger.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016a.A.argumentstructs.Rutger.4
+source=ES2016a.A.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.Rutger.5:
+"So the grip is"
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.1: "What if we had what if we had not only um  say we went with the ball the ball function um,"
+AE_ID ES2016a.A.argumentstructs.Rutger.3: "but maybe we give it sort of grips along the side s um to make it easier to hold on to. So you know um s so it's easier to hold onto that way"
+AE_ID ES2016a.C.argumentstructs.Rutger.1: "Yeah."
+AE_ID ES2016a.A.argumentstructs.Rutger.4: ". Course that'll then remove some of our our ball. Unless this unless this part were raised, so say the cover flips over and covers that part."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.A.argumentstructs.Rutger.3
+---------------------------------
+target=ES2016a.A.argumentstructs.Rutger.5
+source=ES2016a.A.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.Rutger.6:
+"No, that wouldn't work either um."
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.1: "What if we had what if we had not only um  say we went with the ball the ball function um,"
+AE_ID ES2016a.A.argumentstructs.Rutger.3: "but maybe we give it sort of grips along the side s um to make it easier to hold on to. So you know um s so it's easier to hold onto that way"
+AE_ID ES2016a.C.argumentstructs.Rutger.1: "Yeah."
+AE_ID ES2016a.A.argumentstructs.Rutger.4: ". Course that'll then remove some of our our ball. Unless this unless this part were raised, so say the cover flips over and covers that part."
+AE_ID ES2016a.A.argumentstructs.Rutger.5: "So the grip is"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.A.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016a.A.argumentstructs.Rutger.6
+source=ES2016a.A.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.Rutger.9:
+"But if we're gonna make it flat on the bottom, then that eliminates our ball anyways."
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.3: "but maybe we give it sort of grips along the side s um to make it easier to hold on to. So you know um s so it's easier to hold onto that way"
+AE_ID ES2016a.C.argumentstructs.Rutger.1: "Yeah."
+AE_ID ES2016a.A.argumentstructs.Rutger.4: ". Course that'll then remove some of our our ball. Unless this unless this part were raised, so say the cover flips over and covers that part."
+AE_ID ES2016a.A.argumentstructs.Rutger.5: "So the grip is"
+AE_ID ES2016a.A.argumentstructs.Rutger.6: "No, that wouldn't work either um."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.A.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016a.A.argumentstructs.Rutger.9
+source=ES2016a.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.Rutger.10:
+"So if it were flat on the bottom and then had the sorta grips on the side here I guess, um and then  flat uh"
+
+Past dialogue turns:
+AE_ID ES2016a.C.argumentstructs.Rutger.1: "Yeah."
+AE_ID ES2016a.A.argumentstructs.Rutger.4: ". Course that'll then remove some of our our ball. Unless this unless this part were raised, so say the cover flips over and covers that part."
+AE_ID ES2016a.A.argumentstructs.Rutger.5: "So the grip is"
+AE_ID ES2016a.A.argumentstructs.Rutger.6: "No, that wouldn't work either um."
+AE_ID ES2016a.A.argumentstructs.Rutger.9: "But if we're gonna make it flat on the bottom, then that eliminates our ball anyways."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.A.argumentstructs.Rutger.9
+---------------------------------
+target=ES2016a.A.argumentstructs.Rutger.10
+source=ES2016a.A.argumentstructs.Rutger.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.Rutger.11:
+"And then we have the problem with the hinge."
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.4: ". Course that'll then remove some of our our ball. Unless this unless this part were raised, so say the cover flips over and covers that part."
+AE_ID ES2016a.A.argumentstructs.Rutger.5: "So the grip is"
+AE_ID ES2016a.A.argumentstructs.Rutger.6: "No, that wouldn't work either um."
+AE_ID ES2016a.A.argumentstructs.Rutger.9: "But if we're gonna make it flat on the bottom, then that eliminates our ball anyways."
+AE_ID ES2016a.A.argumentstructs.Rutger.10: "So if it were flat on the bottom and then had the sorta grips on the side here I guess, um and then  flat uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.A.argumentstructs.Rutger.9
+---------------------------------
+target=ES2016a.A.argumentstructs.Rutger.11
+source=ES2016a.A.argumentstructs.Rutger.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.Rutger.12:
+"So if we're flat on the bottom, it's not gonna roll away, it'll stay where we want."
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.5: "So the grip is"
+AE_ID ES2016a.A.argumentstructs.Rutger.6: "No, that wouldn't work either um."
+AE_ID ES2016a.A.argumentstructs.Rutger.9: "But if we're gonna make it flat on the bottom, then that eliminates our ball anyways."
+AE_ID ES2016a.A.argumentstructs.Rutger.10: "So if it were flat on the bottom and then had the sorta grips on the side here I guess, um and then  flat uh"
+AE_ID ES2016a.A.argumentstructs.Rutger.11: "And then we have the problem with the hinge."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.A.argumentstructs.Rutger.10
+---------------------------------
+target=ES2016a.A.argumentstructs.Rutger.12
+source=ES2016a.A.argumentstructs.Rutger.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.B.argumentstructs.Rutger.1:
+"The question is also, I dunno, d do you really always want to open that thing when you have to use it ?"
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.6: "No, that wouldn't work either um."
+AE_ID ES2016a.A.argumentstructs.Rutger.9: "But if we're gonna make it flat on the bottom, then that eliminates our ball anyways."
+AE_ID ES2016a.A.argumentstructs.Rutger.10: "So if it were flat on the bottom and then had the sorta grips on the side here I guess, um and then  flat uh"
+AE_ID ES2016a.A.argumentstructs.Rutger.11: "And then we have the problem with the hinge."
+AE_ID ES2016a.A.argumentstructs.Rutger.12: "So if we're flat on the bottom, it's not gonna roll away, it'll stay where we want."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2016a.B.argumentstructs.Rutger.1
+source=ES2016a.A.argumentstructs.Rutger.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.Rutger.14:
+"Mm, that's true."
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.9: "But if we're gonna make it flat on the bottom, then that eliminates our ball anyways."
+AE_ID ES2016a.A.argumentstructs.Rutger.10: "So if it were flat on the bottom and then had the sorta grips on the side here I guess, um and then  flat uh"
+AE_ID ES2016a.A.argumentstructs.Rutger.11: "And then we have the problem with the hinge."
+AE_ID ES2016a.A.argumentstructs.Rutger.12: "So if we're flat on the bottom, it's not gonna roll away, it'll stay where we want."
+AE_ID ES2016a.B.argumentstructs.Rutger.1: "The question is also, I dunno, d do you really always want to open that thing when you have to use it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.A.argumentstructs.Rutger.12
+---------------------------------
+target=ES2016a.A.argumentstructs.Rutger.14
+source=ES2016a.B.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.B.argumentstructs.Rutger.2:
+"It's probably going to lie around opened all the time anyway,"
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.10: "So if it were flat on the bottom and then had the sorta grips on the side here I guess, um and then  flat uh"
+AE_ID ES2016a.A.argumentstructs.Rutger.11: "And then we have the problem with the hinge."
+AE_ID ES2016a.A.argumentstructs.Rutger.12: "So if we're flat on the bottom, it's not gonna roll away, it'll stay where we want."
+AE_ID ES2016a.B.argumentstructs.Rutger.1: "The question is also, I dunno, d do you really always want to open that thing when you have to use it ?"
+AE_ID ES2016a.A.argumentstructs.Rutger.14: "Mm, that's true."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.B.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016a.B.argumentstructs.Rutger.2
+source=ES2016a.B.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.B.argumentstructs.Rutger.4:
+"so I don't know if a lid is a good idea. From stabil stability point of view uh it certainly is, but also you have to face it and take into account the more of these things break by accident, uh the more we sell. So it's  don't make it too stable  uh."
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.11: "And then we have the problem with the hinge."
+AE_ID ES2016a.A.argumentstructs.Rutger.12: "So if we're flat on the bottom, it's not gonna roll away, it'll stay where we want."
+AE_ID ES2016a.B.argumentstructs.Rutger.1: "The question is also, I dunno, d do you really always want to open that thing when you have to use it ?"
+AE_ID ES2016a.A.argumentstructs.Rutger.14: "Mm, that's true."
+AE_ID ES2016a.B.argumentstructs.Rutger.2: "It's probably going to lie around opened all the time anyway,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.B.argumentstructs.Rutger.2
+---------------------------------
+target=ES2016a.B.argumentstructs.Rutger.4
+source=ES2016a.A.argumentstructs.Rutger.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.Rutger.16:
+"So we don't have it flip open. We just have a ball"
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.12: "So if we're flat on the bottom, it's not gonna roll away, it'll stay where we want."
+AE_ID ES2016a.B.argumentstructs.Rutger.1: "The question is also, I dunno, d do you really always want to open that thing when you have to use it ?"
+AE_ID ES2016a.A.argumentstructs.Rutger.14: "Mm, that's true."
+AE_ID ES2016a.B.argumentstructs.Rutger.2: "It's probably going to lie around opened all the time anyway,"
+AE_ID ES2016a.B.argumentstructs.Rutger.4: "so I don't know if a lid is a good idea. From stabil stability point of view uh it certainly is, but also you have to face it and take into account the more of these things break by accident, uh the more we sell. So it's  don't make it too stable  uh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.B.argumentstructs.Rutger.2
+---------------------------------
+target=ES2016a.A.argumentstructs.Rutger.16
+source=ES2016a.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.C.argumentstructs.Rutger.2:
+"But then maybe to go back to the to th s something along those things then."
+
+Past dialogue turns:
+AE_ID ES2016a.B.argumentstructs.Rutger.1: "The question is also, I dunno, d do you really always want to open that thing when you have to use it ?"
+AE_ID ES2016a.A.argumentstructs.Rutger.14: "Mm, that's true."
+AE_ID ES2016a.B.argumentstructs.Rutger.2: "It's probably going to lie around opened all the time anyway,"
+AE_ID ES2016a.B.argumentstructs.Rutger.4: "so I don't know if a lid is a good idea. From stabil stability point of view uh it certainly is, but also you have to face it and take into account the more of these things break by accident, uh the more we sell. So it's  don't make it too stable  uh."
+AE_ID ES2016a.A.argumentstructs.Rutger.16: "So we don't have it flip open. We just have a ball"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.B.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016a.C.argumentstructs.Rutger.2
+source=ES2016a.A.argumentstructs.Rutger.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.B.argumentstructs.Rutger.5:
+"To the other design."
+
+Past dialogue turns:
+AE_ID ES2016a.A.argumentstructs.Rutger.14: "Mm, that's true."
+AE_ID ES2016a.B.argumentstructs.Rutger.2: "It's probably going to lie around opened all the time anyway,"
+AE_ID ES2016a.B.argumentstructs.Rutger.4: "so I don't know if a lid is a good idea. From stabil stability point of view uh it certainly is, but also you have to face it and take into account the more of these things break by accident, uh the more we sell. So it's  don't make it too stable  uh."
+AE_ID ES2016a.A.argumentstructs.Rutger.16: "So we don't have it flip open. We just have a ball"
+AE_ID ES2016a.C.argumentstructs.Rutger.2: "But then maybe to go back to the to th s something along those things then."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.B.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016a.B.argumentstructs.Rutger.5
+source=ES2016a.C.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.Rutger.17:
+"Okay, so then we forget the ball.  It looks cool, but it's really not  it's not functional um."
+
+Past dialogue turns:
+AE_ID ES2016a.B.argumentstructs.Rutger.2: "It's probably going to lie around opened all the time anyway,"
+AE_ID ES2016a.B.argumentstructs.Rutger.4: "so I don't know if a lid is a good idea. From stabil stability point of view uh it certainly is, but also you have to face it and take into account the more of these things break by accident, uh the more we sell. So it's  don't make it too stable  uh."
+AE_ID ES2016a.A.argumentstructs.Rutger.16: "So we don't have it flip open. We just have a ball"
+AE_ID ES2016a.C.argumentstructs.Rutger.2: "But then maybe to go back to the to th s something along those things then."
+AE_ID ES2016a.B.argumentstructs.Rutger.5: "To the other design."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.A.argumentstructs.Rutger.16
+---------------------------------
+target=ES2016a.A.argumentstructs.Rutger.17
+source=ES2016a.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016a.A.argumentstructs.18:
+"So we've got our sort of keyboard kind. What if we flipped it around here, so that it were um"
+
+Past dialogue turns:
+AE_ID ES2016a.B.argumentstructs.Rutger.4: "so I don't know if a lid is a good idea. From stabil stability point of view uh it certainly is, but also you have to face it and take into account the more of these things break by accident, uh the more we sell. So it's  don't make it too stable  uh."
+AE_ID ES2016a.A.argumentstructs.Rutger.16: "So we don't have it flip open. We just have a ball"
+AE_ID ES2016a.C.argumentstructs.Rutger.2: "But then maybe to go back to the to th s something along those things then."
+AE_ID ES2016a.B.argumentstructs.Rutger.5: "To the other design."
+AE_ID ES2016a.A.argumentstructs.Rutger.17: "Okay, so then we forget the ball.  It looks cool, but it's really not  it's not functional um."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016a.A.argumentstructs.Rutger.17
+---------------------------------
+target=ES2016a.A.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2016a-Do we go with the ball?.csv - True Judgement Ratio: 26.32%

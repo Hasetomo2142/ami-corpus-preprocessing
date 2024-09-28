@@ -1,0 +1,662 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.Erik.7:
+"Yeah, if we ta if we take fifteen to thirty five, but that then does imply that we should try and incorporate voice recognition. Is that gonna have a  an implication for the technical specs ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2006b.C.argumentstructs.Erik.7
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.18:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.Erik.7: "Yeah, if we ta if we take fifteen to thirty five, but that then does imply that we should try and incorporate voice recognition. Is that gonna have a  an implication for the technical specs ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2006b.A.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.D.argumentstructs.Erik.4:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.Erik.7: "Yeah, if we ta if we take fifteen to thirty five, but that then does imply that we should try and incorporate voice recognition. Is that gonna have a  an implication for the technical specs ?"
+AE_ID ES2006b.A.argumentstructs.18: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2006b.D.argumentstructs.Erik.4
+source=ES2006b.C.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.Erik.6:
+"Um  I was having a a general outlook on um m most like sophisticated features, but voice recognition itself I'm not very sure about, because one of the p uh things that Cat pointed out was uh uh how do we go about implementing it ? Uh and uh"
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.Erik.7: "Yeah, if we ta if we take fifteen to thirty five, but that then does imply that we should try and incorporate voice recognition. Is that gonna have a  an implication for the technical specs ?"
+AE_ID ES2006b.A.argumentstructs.18: "Mm."
+AE_ID ES2006b.D.argumentstructs.Erik.4: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2006b.A.argumentstructs.Erik.6
+source=ES2006b.C.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.21:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.Erik.7: "Yeah, if we ta if we take fifteen to thirty five, but that then does imply that we should try and incorporate voice recognition. Is that gonna have a  an implication for the technical specs ?"
+AE_ID ES2006b.A.argumentstructs.18: "Mm."
+AE_ID ES2006b.D.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.6: "Um  I was having a a general outlook on um m most like sophisticated features, but voice recognition itself I'm not very sure about, because one of the p uh things that Cat pointed out was uh uh how do we go about implementing it ? Uh and uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2006b.C.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.Erik.9:
+"You do have it in your mobile phone though, don't you ? Because you have like  I mean every mobile phone now has like call this person and it calls them."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.Erik.7: "Yeah, if we ta if we take fifteen to thirty five, but that then does imply that we should try and incorporate voice recognition. Is that gonna have a  an implication for the technical specs ?"
+AE_ID ES2006b.A.argumentstructs.18: "Mm."
+AE_ID ES2006b.D.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.6: "Um  I was having a a general outlook on um m most like sophisticated features, but voice recognition itself I'm not very sure about, because one of the p uh things that Cat pointed out was uh uh how do we go about implementing it ? Uh and uh"
+AE_ID ES2006b.C.argumentstructs.21: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2006b.B.argumentstructs.Erik.9
+source=ES2006b.A.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.Erik.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.18: "Mm."
+AE_ID ES2006b.D.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.6: "Um  I was having a a general outlook on um m most like sophisticated features, but voice recognition itself I'm not very sure about, because one of the p uh things that Cat pointed out was uh uh how do we go about implementing it ? Uh and uh"
+AE_ID ES2006b.C.argumentstructs.21: "Mm-hmm."
+AE_ID ES2006b.B.argumentstructs.Erik.9: "You do have it in your mobile phone though, don't you ? Because you have like  I mean every mobile phone now has like call this person and it calls them."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2006b.C.argumentstructs.Erik.8
+source=ES2006b.B.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.Erik.7:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.D.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.6: "Um  I was having a a general outlook on um m most like sophisticated features, but voice recognition itself I'm not very sure about, because one of the p uh things that Cat pointed out was uh uh how do we go about implementing it ? Uh and uh"
+AE_ID ES2006b.C.argumentstructs.21: "Mm-hmm."
+AE_ID ES2006b.B.argumentstructs.Erik.9: "You do have it in your mobile phone though, don't you ? Because you have like  I mean every mobile phone now has like call this person and it calls them."
+AE_ID ES2006b.C.argumentstructs.Erik.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.8
+---------------------------------
+target=ES2006b.A.argumentstructs.Erik.7
+source=ES2006b.B.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.Erik.8:
+"But how frequently do we use it anyway and um uh h ho how good is it, you know uh voice recognition softwares are still quite uh"
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.6: "Um  I was having a a general outlook on um m most like sophisticated features, but voice recognition itself I'm not very sure about, because one of the p uh things that Cat pointed out was uh uh how do we go about implementing it ? Uh and uh"
+AE_ID ES2006b.C.argumentstructs.21: "Mm-hmm."
+AE_ID ES2006b.B.argumentstructs.Erik.9: "You do have it in your mobile phone though, don't you ? Because you have like  I mean every mobile phone now has like call this person and it calls them."
+AE_ID ES2006b.C.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.7: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.6
+---------------------------------
+target=ES2006b.A.argumentstructs.Erik.8
+source=ES2006b.B.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.D.argumentstructs.Erik.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.21: "Mm-hmm."
+AE_ID ES2006b.B.argumentstructs.Erik.9: "You do have it in your mobile phone though, don't you ? Because you have like  I mean every mobile phone now has like call this person and it calls them."
+AE_ID ES2006b.C.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.7: "Yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.8: "But how frequently do we use it anyway and um uh h ho how good is it, you know uh voice recognition softwares are still quite uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.21
+---------------------------------
+target=ES2006b.D.argumentstructs.Erik.5
+source=ES2006b.A.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.D.argumentstructs.10:
+"Yeah. An"
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.Erik.9: "You do have it in your mobile phone though, don't you ? Because you have like  I mean every mobile phone now has like call this person and it calls them."
+AE_ID ES2006b.C.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.7: "Yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.8: "But how frequently do we use it anyway and um uh h ho how good is it, you know uh voice recognition softwares are still quite uh"
+AE_ID ES2006b.D.argumentstructs.Erik.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.D.argumentstructs.Erik.5
+---------------------------------
+target=ES2006b.D.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.Erik.10:
+"I don't know."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.Erik.8: "Yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.7: "Yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.8: "But how frequently do we use it anyway and um uh h ho how good is it, you know uh voice recognition softwares are still quite uh"
+AE_ID ES2006b.D.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2006b.D.argumentstructs.10: "Yeah. An"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.8
+---------------------------------
+target=ES2006b.B.argumentstructs.Erik.10
+source=ES2006b.A.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.22:
+"but with a T_V_ remote it's gonna be quite limited if we're t saying the main things people want to do is on off channel five,"
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.7: "Yeah."
+AE_ID ES2006b.A.argumentstructs.Erik.8: "But how frequently do we use it anyway and um uh h ho how good is it, you know uh voice recognition softwares are still quite uh"
+AE_ID ES2006b.D.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2006b.D.argumentstructs.10: "Yeah. An"
+AE_ID ES2006b.B.argumentstructs.Erik.10: "I don't know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.8
+---------------------------------
+target=ES2006b.C.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.Erik.9:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.8: "But how frequently do we use it anyway and um uh h ho how good is it, you know uh voice recognition softwares are still quite uh"
+AE_ID ES2006b.D.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2006b.D.argumentstructs.10: "Yeah. An"
+AE_ID ES2006b.B.argumentstructs.Erik.10: "I don't know."
+AE_ID ES2006b.C.argumentstructs.22: "but with a T_V_ remote it's gonna be quite limited if we're t saying the main things people want to do is on off channel five,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.8
+---------------------------------
+target=ES2006b.A.argumentstructs.Erik.9
+source=ES2006b.C.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.D.argumentstructs.Erik.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.D.argumentstructs.Erik.5: "Yeah."
+AE_ID ES2006b.D.argumentstructs.10: "Yeah. An"
+AE_ID ES2006b.B.argumentstructs.Erik.10: "I don't know."
+AE_ID ES2006b.C.argumentstructs.22: "but with a T_V_ remote it's gonna be quite limited if we're t saying the main things people want to do is on off channel five,"
+AE_ID ES2006b.A.argumentstructs.Erik.9: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.D.argumentstructs.Erik.5
+---------------------------------
+target=ES2006b.D.argumentstructs.Erik.6
+source=ES2006b.C.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.Erik.11:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.D.argumentstructs.10: "Yeah. An"
+AE_ID ES2006b.B.argumentstructs.Erik.10: "I don't know."
+AE_ID ES2006b.C.argumentstructs.22: "but with a T_V_ remote it's gonna be quite limited if we're t saying the main things people want to do is on off channel five,"
+AE_ID ES2006b.A.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2006b.D.argumentstructs.Erik.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.D.argumentstructs.10
+---------------------------------
+target=ES2006b.B.argumentstructs.Erik.11
+source=ES2006b.C.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.19:
+"Right. Right. Okay. O"
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.Erik.10: "I don't know."
+AE_ID ES2006b.C.argumentstructs.22: "but with a T_V_ remote it's gonna be quite limited if we're t saying the main things people want to do is on off channel five,"
+AE_ID ES2006b.A.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2006b.D.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2006b.B.argumentstructs.Erik.11: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.10
+---------------------------------
+target=ES2006b.A.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.Erik.9:
+"louder, tha that should be relatively simple."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.22: "but with a T_V_ remote it's gonna be quite limited if we're t saying the main things people want to do is on off channel five,"
+AE_ID ES2006b.A.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2006b.D.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2006b.B.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2006b.A.argumentstructs.19: "Right. Right. Okay. O"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.22
+---------------------------------
+target=ES2006b.C.argumentstructs.Erik.9
+source=ES2006b.A.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.19:
+"S so"
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.9: "Yeah."
+AE_ID ES2006b.D.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2006b.B.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2006b.A.argumentstructs.19: "Right. Right. Okay. O"
+AE_ID ES2006b.C.argumentstructs.Erik.9: "louder, tha that should be relatively simple."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.19
+---------------------------------
+target=ES2006b.B.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.B.argumentstructs.Erik.12:
+"y you'd maybe need a code word. Do you know what I mean ? So like when you say change, except that's  being said quite a lot on T_V_, so maybe like, you know, remote. I mean how often do people say remote on T_V_ ? Although I only watch Charmed, so really  I wouldn't know but like so you'd just say remote five, you know, remote ten, remote one two nine."
+
+Past dialogue turns:
+AE_ID ES2006b.D.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2006b.B.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2006b.A.argumentstructs.19: "Right. Right. Okay. O"
+AE_ID ES2006b.C.argumentstructs.Erik.9: "louder, tha that should be relatively simple."
+AE_ID ES2006b.B.argumentstructs.19: "S so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.11
+---------------------------------
+target=ES2006b.B.argumentstructs.Erik.12
+source=ES2006b.C.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.Erik.10:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2006b.A.argumentstructs.19: "Right. Right. Okay. O"
+AE_ID ES2006b.C.argumentstructs.Erik.9: "louder, tha that should be relatively simple."
+AE_ID ES2006b.B.argumentstructs.19: "S so"
+AE_ID ES2006b.B.argumentstructs.Erik.12: "y you'd maybe need a code word. Do you know what I mean ? So like when you say change, except that's  being said quite a lot on T_V_, so maybe like, you know, remote. I mean how often do people say remote on T_V_ ? Although I only watch Charmed, so really  I wouldn't know but like so you'd just say remote five, you know, remote ten, remote one two nine."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.19
+---------------------------------
+target=ES2006b.A.argumentstructs.Erik.10
+source=ES2006b.B.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.23:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.19: "Right. Right. Okay. O"
+AE_ID ES2006b.C.argumentstructs.Erik.9: "louder, tha that should be relatively simple."
+AE_ID ES2006b.B.argumentstructs.19: "S so"
+AE_ID ES2006b.B.argumentstructs.Erik.12: "y you'd maybe need a code word. Do you know what I mean ? So like when you say change, except that's  being said quite a lot on T_V_, so maybe like, you know, remote. I mean how often do people say remote on T_V_ ? Although I only watch Charmed, so really  I wouldn't know but like so you'd just say remote five, you know, remote ten, remote one two nine."
+AE_ID ES2006b.A.argumentstructs.Erik.10: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.19
+---------------------------------
+target=ES2006b.C.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.Erik.10:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.Erik.9: "louder, tha that should be relatively simple."
+AE_ID ES2006b.B.argumentstructs.19: "S so"
+AE_ID ES2006b.B.argumentstructs.Erik.12: "y you'd maybe need a code word. Do you know what I mean ? So like when you say change, except that's  being said quite a lot on T_V_, so maybe like, you know, remote. I mean how often do people say remote on T_V_ ? Although I only watch Charmed, so really  I wouldn't know but like so you'd just say remote five, you know, remote ten, remote one two nine."
+AE_ID ES2006b.A.argumentstructs.Erik.10: "Right."
+AE_ID ES2006b.C.argumentstructs.23: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2006b.C.argumentstructs.Erik.10
+source=ES2006b.B.argumentstructs.Erik.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.20:
+"Right. Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.19: "S so"
+AE_ID ES2006b.B.argumentstructs.Erik.12: "y you'd maybe need a code word. Do you know what I mean ? So like when you say change, except that's  being said quite a lot on T_V_, so maybe like, you know, remote. I mean how often do people say remote on T_V_ ? Although I only watch Charmed, so really  I wouldn't know but like so you'd just say remote five, you know, remote ten, remote one two nine."
+AE_ID ES2006b.A.argumentstructs.Erik.10: "Right."
+AE_ID ES2006b.C.argumentstructs.23: "Mm."
+AE_ID ES2006b.C.argumentstructs.Erik.10: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.10
+---------------------------------
+target=ES2006b.A.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.C.argumentstructs.24:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2006b.B.argumentstructs.Erik.12: "y you'd maybe need a code word. Do you know what I mean ? So like when you say change, except that's  being said quite a lot on T_V_, so maybe like, you know, remote. I mean how often do people say remote on T_V_ ? Although I only watch Charmed, so really  I wouldn't know but like so you'd just say remote five, you know, remote ten, remote one two nine."
+AE_ID ES2006b.A.argumentstructs.Erik.10: "Right."
+AE_ID ES2006b.C.argumentstructs.23: "Mm."
+AE_ID ES2006b.C.argumentstructs.Erik.10: "Yeah."
+AE_ID ES2006b.A.argumentstructs.20: "Right. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.23
+---------------------------------
+target=ES2006b.C.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.A.argumentstructs.Erik.11:
+"Okay, so it seems like a feasible thing to implement uh for for a limited  yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.A.argumentstructs.Erik.10: "Right."
+AE_ID ES2006b.C.argumentstructs.23: "Mm."
+AE_ID ES2006b.C.argumentstructs.Erik.10: "Yeah."
+AE_ID ES2006b.A.argumentstructs.20: "Right. Yeah."
+AE_ID ES2006b.C.argumentstructs.24: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.A.argumentstructs.Erik.10
+---------------------------------
+target=ES2006b.A.argumentstructs.Erik.11
+source=ES2006b.B.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2006b.D.argumentstructs.Erik.7:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2006b.C.argumentstructs.23: "Mm."
+AE_ID ES2006b.C.argumentstructs.Erik.10: "Yeah."
+AE_ID ES2006b.A.argumentstructs.20: "Right. Yeah."
+AE_ID ES2006b.C.argumentstructs.24: "Mm-hmm."
+AE_ID ES2006b.A.argumentstructs.Erik.11: "Okay, so it seems like a feasible thing to implement uh for for a limited  yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2006b.C.argumentstructs.Erik.10
+---------------------------------
+target=ES2006b.D.argumentstructs.Erik.7
+source=ES2006b.A.argumentstructs.Erik.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2006b-ES2006b - Voice recognition.csv - True Judgement Ratio: 18.52%

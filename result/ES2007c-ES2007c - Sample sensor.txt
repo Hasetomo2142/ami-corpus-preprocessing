@@ -1,0 +1,637 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.Erik.3:
+"What about the just developed uh sample sensor ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007c.D.argumentstructs.Erik.3
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.C.argumentstructs.Erik.5:
+"I think push-buttons is"
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.3: "What about the just developed uh sample sensor ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2007c.C.argumentstructs.Erik.5
+source=ES2007c.D.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.8:
+"What about what ?"
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.3: "What about the just developed uh sample sensor ?"
+AE_ID ES2007c.C.argumentstructs.Erik.5: "I think push-buttons is"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.8
+source=ES2007c.D.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.Erik.4:
+"G there, the sample sensor, sample speaker thing."
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.3: "What about the just developed uh sample sensor ?"
+AE_ID ES2007c.C.argumentstructs.Erik.5: "I think push-buttons is"
+AE_ID ES2007c.A.argumentstructs.Erik.8: "What about what ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2007c.D.argumentstructs.Erik.4
+source=ES2007c.A.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.B.argumentstructs.27:
+"Well"
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.3: "What about the just developed uh sample sensor ?"
+AE_ID ES2007c.C.argumentstructs.Erik.5: "I think push-buttons is"
+AE_ID ES2007c.A.argumentstructs.Erik.8: "What about what ?"
+AE_ID ES2007c.D.argumentstructs.Erik.4: "G there, the sample sensor, sample speaker thing."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007c.B.argumentstructs.27
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.9:
+"Well, what do we need a speaker for in a remote control unit ?"
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.3: "What about the just developed uh sample sensor ?"
+AE_ID ES2007c.C.argumentstructs.Erik.5: "I think push-buttons is"
+AE_ID ES2007c.A.argumentstructs.Erik.8: "What about what ?"
+AE_ID ES2007c.D.argumentstructs.Erik.4: "G there, the sample sensor, sample speaker thing."
+AE_ID ES2007c.B.argumentstructs.27: "Well"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.9
+source=ES2007c.D.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.Erik.5:
+"Mm, I dunno."
+
+Past dialogue turns:
+AE_ID ES2007c.C.argumentstructs.Erik.5: "I think push-buttons is"
+AE_ID ES2007c.A.argumentstructs.Erik.8: "What about what ?"
+AE_ID ES2007c.D.argumentstructs.Erik.4: "G there, the sample sensor, sample speaker thing."
+AE_ID ES2007c.B.argumentstructs.27: "Well"
+AE_ID ES2007c.A.argumentstructs.Erik.9: "Well, what do we need a speaker for in a remote control unit ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.9
+---------------------------------
+target=ES2007c.D.argumentstructs.Erik.5
+source=ES2007c.A.argumentstructs.Erik.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.B.argumentstructs.Erik.12:
+"It'd be it'd be cool, but they are saying they've just developed it, I'm just guessing. But it's gonna be the most expensive option, probably and"
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.8: "What about what ?"
+AE_ID ES2007c.D.argumentstructs.Erik.4: "G there, the sample sensor, sample speaker thing."
+AE_ID ES2007c.B.argumentstructs.27: "Well"
+AE_ID ES2007c.A.argumentstructs.Erik.9: "Well, what do we need a speaker for in a remote control unit ?"
+AE_ID ES2007c.D.argumentstructs.Erik.5: "Mm, I dunno."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.9
+---------------------------------
+target=ES2007c.B.argumentstructs.Erik.12
+source=ES2007c.A.argumentstructs.Erik.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.30:
+"Channel two."
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.4: "G there, the sample sensor, sample speaker thing."
+AE_ID ES2007c.B.argumentstructs.27: "Well"
+AE_ID ES2007c.A.argumentstructs.Erik.9: "Well, what do we need a speaker for in a remote control unit ?"
+AE_ID ES2007c.D.argumentstructs.Erik.5: "Mm, I dunno."
+AE_ID ES2007c.B.argumentstructs.Erik.12: "It'd be it'd be cool, but they are saying they've just developed it, I'm just guessing. But it's gonna be the most expensive option, probably and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.9
+---------------------------------
+target=ES2007c.D.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.C.argumentstructs.Erik.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007c.B.argumentstructs.27: "Well"
+AE_ID ES2007c.A.argumentstructs.Erik.9: "Well, what do we need a speaker for in a remote control unit ?"
+AE_ID ES2007c.D.argumentstructs.Erik.5: "Mm, I dunno."
+AE_ID ES2007c.B.argumentstructs.Erik.12: "It'd be it'd be cool, but they are saying they've just developed it, I'm just guessing. But it's gonna be the most expensive option, probably and"
+AE_ID ES2007c.D.argumentstructs.30: "Channel two."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.B.argumentstructs.27
+---------------------------------
+target=ES2007c.C.argumentstructs.Erik.6
+source=ES2007c.B.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.33:
+"S"
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.9: "Well, what do we need a speaker for in a remote control unit ?"
+AE_ID ES2007c.D.argumentstructs.Erik.5: "Mm, I dunno."
+AE_ID ES2007c.B.argumentstructs.Erik.12: "It'd be it'd be cool, but they are saying they've just developed it, I'm just guessing. But it's gonna be the most expensive option, probably and"
+AE_ID ES2007c.D.argumentstructs.30: "Channel two."
+AE_ID ES2007c.C.argumentstructs.Erik.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2007c.A.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.C.argumentstructs.Erik.7:
+"Th the the  speech recognition um option is  it doesn't seem really very promising for us uh, 'cause uh"
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.5: "Mm, I dunno."
+AE_ID ES2007c.B.argumentstructs.Erik.12: "It'd be it'd be cool, but they are saying they've just developed it, I'm just guessing. But it's gonna be the most expensive option, probably and"
+AE_ID ES2007c.D.argumentstructs.30: "Channel two."
+AE_ID ES2007c.C.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2007c.A.argumentstructs.33: "S"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2007c.C.argumentstructs.Erik.7
+source=ES2007c.B.argumentstructs.Erik.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.10:
+"Yeah. It's not something that we wanna t go into with this product."
+
+Past dialogue turns:
+AE_ID ES2007c.B.argumentstructs.Erik.12: "It'd be it'd be cool, but they are saying they've just developed it, I'm just guessing. But it's gonna be the most expensive option, probably and"
+AE_ID ES2007c.D.argumentstructs.30: "Channel two."
+AE_ID ES2007c.C.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2007c.A.argumentstructs.33: "S"
+AE_ID ES2007c.C.argumentstructs.Erik.7: "Th the the  speech recognition um option is  it doesn't seem really very promising for us uh, 'cause uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.10
+source=ES2007c.C.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.C.argumentstructs.20:
+"The yeah the example that they're already using it for is with the coffee machine, where, basically, you can program a sample wi um"
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.30: "Channel two."
+AE_ID ES2007c.C.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2007c.A.argumentstructs.33: "S"
+AE_ID ES2007c.C.argumentstructs.Erik.7: "Th the the  speech recognition um option is  it doesn't seem really very promising for us uh, 'cause uh"
+AE_ID ES2007c.A.argumentstructs.Erik.10: "Yeah. It's not something that we wanna t go into with this product."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2007c.C.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.C.argumentstructs.Erik.8:
+"That when you say something it will give a response, and you program the response as well. Just uh clips of tha that you record yourself. So you can program your coffee-maker that when you say, good morning, to it it says, hello Rick, or whatever. But, I mean, it's not  it would be one thing if it was speech recognition where you say something and it turns the T_V_ on like, turn the T_V_ on, and i turns  comes on, but it's not that. It just gives you a it just gives you a verbal response. So, yeah, I mean, like what's the point of saying, Hello remote, I mean, hello, how how are you ?  Yeah, if you're really lonely, it is it's"
+
+Past dialogue turns:
+AE_ID ES2007c.C.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2007c.A.argumentstructs.33: "S"
+AE_ID ES2007c.C.argumentstructs.Erik.7: "Th the the  speech recognition um option is  it doesn't seem really very promising for us uh, 'cause uh"
+AE_ID ES2007c.A.argumentstructs.Erik.10: "Yeah. It's not something that we wanna t go into with this product."
+AE_ID ES2007c.C.argumentstructs.20: "The yeah the example that they're already using it for is with the coffee machine, where, basically, you can program a sample wi um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.C.argumentstructs.20
+---------------------------------
+target=ES2007c.C.argumentstructs.Erik.8
+source=ES2007c.C.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.11:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.33: "S"
+AE_ID ES2007c.C.argumentstructs.Erik.7: "Th the the  speech recognition um option is  it doesn't seem really very promising for us uh, 'cause uh"
+AE_ID ES2007c.A.argumentstructs.Erik.10: "Yeah. It's not something that we wanna t go into with this product."
+AE_ID ES2007c.C.argumentstructs.20: "The yeah the example that they're already using it for is with the coffee machine, where, basically, you can program a sample wi um"
+AE_ID ES2007c.C.argumentstructs.Erik.8: "That when you say something it will give a response, and you program the response as well. Just uh clips of tha that you record yourself. So you can program your coffee-maker that when you say, good morning, to it it says, hello Rick, or whatever. But, I mean, it's not  it would be one thing if it was speech recognition where you say something and it turns the T_V_ on like, turn the T_V_ on, and i turns  comes on, but it's not that. It just gives you a it just gives you a verbal response. So, yeah, I mean, like what's the point of saying, Hello remote, I mean, hello, how how are you ?  Yeah, if you're really lonely, it is it's"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.10
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.11
+source=ES2007c.C.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.Erik.7:
+"Oh, it just gives an answer."
+
+Past dialogue turns:
+AE_ID ES2007c.C.argumentstructs.Erik.7: "Th the the  speech recognition um option is  it doesn't seem really very promising for us uh, 'cause uh"
+AE_ID ES2007c.A.argumentstructs.Erik.10: "Yeah. It's not something that we wanna t go into with this product."
+AE_ID ES2007c.C.argumentstructs.20: "The yeah the example that they're already using it for is with the coffee machine, where, basically, you can program a sample wi um"
+AE_ID ES2007c.C.argumentstructs.Erik.8: "That when you say something it will give a response, and you program the response as well. Just uh clips of tha that you record yourself. So you can program your coffee-maker that when you say, good morning, to it it says, hello Rick, or whatever. But, I mean, it's not  it would be one thing if it was speech recognition where you say something and it turns the T_V_ on like, turn the T_V_ on, and i turns  comes on, but it's not that. It just gives you a it just gives you a verbal response. So, yeah, I mean, like what's the point of saying, Hello remote, I mean, hello, how how are you ?  Yeah, if you're really lonely, it is it's"
+AE_ID ES2007c.A.argumentstructs.Erik.11: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.C.argumentstructs.Erik.8
+---------------------------------
+target=ES2007c.D.argumentstructs.Erik.7
+source=ES2007c.C.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.12:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.10: "Yeah. It's not something that we wanna t go into with this product."
+AE_ID ES2007c.C.argumentstructs.20: "The yeah the example that they're already using it for is with the coffee machine, where, basically, you can program a sample wi um"
+AE_ID ES2007c.C.argumentstructs.Erik.8: "That when you say something it will give a response, and you program the response as well. Just uh clips of tha that you record yourself. So you can program your coffee-maker that when you say, good morning, to it it says, hello Rick, or whatever. But, I mean, it's not  it would be one thing if it was speech recognition where you say something and it turns the T_V_ on like, turn the T_V_ on, and i turns  comes on, but it's not that. It just gives you a it just gives you a verbal response. So, yeah, I mean, like what's the point of saying, Hello remote, I mean, hello, how how are you ?  Yeah, if you're really lonely, it is it's"
+AE_ID ES2007c.A.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2007c.D.argumentstructs.Erik.7: "Oh, it just gives an answer."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.11
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.12
+source=ES2007c.D.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.34:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007c.C.argumentstructs.20: "The yeah the example that they're already using it for is with the coffee machine, where, basically, you can program a sample wi um"
+AE_ID ES2007c.C.argumentstructs.Erik.8: "That when you say something it will give a response, and you program the response as well. Just uh clips of tha that you record yourself. So you can program your coffee-maker that when you say, good morning, to it it says, hello Rick, or whatever. But, I mean, it's not  it would be one thing if it was speech recognition where you say something and it turns the T_V_ on like, turn the T_V_ on, and i turns  comes on, but it's not that. It just gives you a it just gives you a verbal response. So, yeah, I mean, like what's the point of saying, Hello remote, I mean, hello, how how are you ?  Yeah, if you're really lonely, it is it's"
+AE_ID ES2007c.A.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2007c.D.argumentstructs.Erik.7: "Oh, it just gives an answer."
+AE_ID ES2007c.A.argumentstructs.Erik.12: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.11
+---------------------------------
+target=ES2007c.A.argumentstructs.34
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.31:
+"when they said"
+
+Past dialogue turns:
+AE_ID ES2007c.C.argumentstructs.Erik.8: "That when you say something it will give a response, and you program the response as well. Just uh clips of tha that you record yourself. So you can program your coffee-maker that when you say, good morning, to it it says, hello Rick, or whatever. But, I mean, it's not  it would be one thing if it was speech recognition where you say something and it turns the T_V_ on like, turn the T_V_ on, and i turns  comes on, but it's not that. It just gives you a it just gives you a verbal response. So, yeah, I mean, like what's the point of saying, Hello remote, I mean, hello, how how are you ?  Yeah, if you're really lonely, it is it's"
+AE_ID ES2007c.A.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2007c.D.argumentstructs.Erik.7: "Oh, it just gives an answer."
+AE_ID ES2007c.A.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2007c.A.argumentstructs.34: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.C.argumentstructs.Erik.8
+---------------------------------
+target=ES2007c.D.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.B.argumentstructs.28:
+"Just if you are really lonely, maybe."
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.11: "Yeah."
+AE_ID ES2007c.D.argumentstructs.Erik.7: "Oh, it just gives an answer."
+AE_ID ES2007c.A.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2007c.A.argumentstructs.34: "Yeah."
+AE_ID ES2007c.D.argumentstructs.31: "when they said"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007c.B.argumentstructs.28
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.Erik.8:
+"I thought when they said, voice recognition, they meant um like, channel five, and it will change. Like you talk to it. Can I have channel five ? Oh, then  forget about it. Oh right okay."
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.7: "Oh, it just gives an answer."
+AE_ID ES2007c.A.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2007c.A.argumentstructs.34: "Yeah."
+AE_ID ES2007c.D.argumentstructs.31: "when they said"
+AE_ID ES2007c.B.argumentstructs.28: "Just if you are really lonely, maybe."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.31
+---------------------------------
+target=ES2007c.D.argumentstructs.Erik.8
+source=ES2007c.D.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.B.argumentstructs.Erik.13:
+"Channel five. And then it switches on."
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.12: "Yeah."
+AE_ID ES2007c.A.argumentstructs.34: "Yeah."
+AE_ID ES2007c.D.argumentstructs.31: "when they said"
+AE_ID ES2007c.B.argumentstructs.28: "Just if you are really lonely, maybe."
+AE_ID ES2007c.D.argumentstructs.Erik.8: "I thought when they said, voice recognition, they meant um like, channel five, and it will change. Like you talk to it. Can I have channel five ? Oh, then  forget about it. Oh right okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.8
+---------------------------------
+target=ES2007c.B.argumentstructs.Erik.13
+source=ES2007c.D.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.C.argumentstructs.Erik.9:
+"No, tha that w that w that would be more promising. It it's just a remote that talks to you. Uh.  I mean to certain cues."
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.34: "Yeah."
+AE_ID ES2007c.D.argumentstructs.31: "when they said"
+AE_ID ES2007c.B.argumentstructs.28: "Just if you are really lonely, maybe."
+AE_ID ES2007c.D.argumentstructs.Erik.8: "I thought when they said, voice recognition, they meant um like, channel five, and it will change. Like you talk to it. Can I have channel five ? Oh, then  forget about it. Oh right okay."
+AE_ID ES2007c.B.argumentstructs.Erik.13: "Channel five. And then it switches on."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.8
+---------------------------------
+target=ES2007c.C.argumentstructs.Erik.9
+source=ES2007c.D.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.13:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.31: "when they said"
+AE_ID ES2007c.B.argumentstructs.28: "Just if you are really lonely, maybe."
+AE_ID ES2007c.D.argumentstructs.Erik.8: "I thought when they said, voice recognition, they meant um like, channel five, and it will change. Like you talk to it. Can I have channel five ? Oh, then  forget about it. Oh right okay."
+AE_ID ES2007c.B.argumentstructs.Erik.13: "Channel five. And then it switches on."
+AE_ID ES2007c.C.argumentstructs.Erik.9: "No, tha that w that w that would be more promising. It it's just a remote that talks to you. Uh.  I mean to certain cues."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.8
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.13
+source=ES2007c.C.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.35:
+"Yeah. Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID ES2007c.B.argumentstructs.28: "Just if you are really lonely, maybe."
+AE_ID ES2007c.D.argumentstructs.Erik.8: "I thought when they said, voice recognition, they meant um like, channel five, and it will change. Like you talk to it. Can I have channel five ? Oh, then  forget about it. Oh right okay."
+AE_ID ES2007c.B.argumentstructs.Erik.13: "Channel five. And then it switches on."
+AE_ID ES2007c.C.argumentstructs.Erik.9: "No, tha that w that w that would be more promising. It it's just a remote that talks to you. Uh.  I mean to certain cues."
+AE_ID ES2007c.A.argumentstructs.Erik.13: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.13
+---------------------------------
+target=ES2007c.A.argumentstructs.35
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2007c-ES2007c - Sample sensor.csv - True Judgement Ratio: 50.00%

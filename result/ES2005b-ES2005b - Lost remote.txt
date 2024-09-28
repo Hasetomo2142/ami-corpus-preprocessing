@@ -1,0 +1,637 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.D.argumentstructs.Erik.1:
+"Well what about  this might get a bit too expensive actually, but what about um something that's built into the T_V_ um that you can press and it'll send out a little signal you know like the ones that we can't hear or  something um that that will activate the remote control starts to beep."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2005b.D.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.C.argumentstructs.Erik.1:
+"Ah, that's a good idea."
+
+Past dialogue turns:
+AE_ID ES2005b.D.argumentstructs.Erik.1: "Well what about  this might get a bit too expensive actually, but what about um something that's built into the T_V_ um that you can press and it'll send out a little signal you know like the ones that we can't hear or  something um that that will activate the remote control starts to beep."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2005b.C.argumentstructs.Erik.1
+source=ES2005b.D.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.A.argumentstructs.Erik.1:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2005b.D.argumentstructs.Erik.1: "Well what about  this might get a bit too expensive actually, but what about um something that's built into the T_V_ um that you can press and it'll send out a little signal you know like the ones that we can't hear or  something um that that will activate the remote control starts to beep."
+AE_ID ES2005b.C.argumentstructs.Erik.1: "Ah, that's a good idea."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2005b.A.argumentstructs.Erik.1
+source=ES2005b.D.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.C.argumentstructs.7:
+"So like a kind of backwards remote from the telly."
+
+Past dialogue turns:
+AE_ID ES2005b.D.argumentstructs.Erik.1: "Well what about  this might get a bit too expensive actually, but what about um something that's built into the T_V_ um that you can press and it'll send out a little signal you know like the ones that we can't hear or  something um that that will activate the remote control starts to beep."
+AE_ID ES2005b.C.argumentstructs.Erik.1: "Ah, that's a good idea."
+AE_ID ES2005b.A.argumentstructs.Erik.1: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2005b.C.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.D.argumentstructs.6:
+"If you find if y Yeah. Mm"
+
+Past dialogue turns:
+AE_ID ES2005b.D.argumentstructs.Erik.1: "Well what about  this might get a bit too expensive actually, but what about um something that's built into the T_V_ um that you can press and it'll send out a little signal you know like the ones that we can't hear or  something um that that will activate the remote control starts to beep."
+AE_ID ES2005b.C.argumentstructs.Erik.1: "Ah, that's a good idea."
+AE_ID ES2005b.A.argumentstructs.Erik.1: "Right."
+AE_ID ES2005b.C.argumentstructs.7: "So like a kind of backwards remote from the telly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.C.argumentstructs.7
+---------------------------------
+target=ES2005b.D.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.A.argumentstructs.Erik.2:
+"Right and then it would do just you know, uh subtractive kind of cancellation of the noise. What you could do then would be you have uh  a remote controlled by the T_V_ speaker, or not a remo I'm sorry, a microphone by the T_V_ speaker and a transmitter there that sends back to your remote, 'cause you can't um expect uh the the television manufacturers to to put that feature into their T_V_s."
+
+Past dialogue turns:
+AE_ID ES2005b.D.argumentstructs.Erik.1: "Well what about  this might get a bit too expensive actually, but what about um something that's built into the T_V_ um that you can press and it'll send out a little signal you know like the ones that we can't hear or  something um that that will activate the remote control starts to beep."
+AE_ID ES2005b.C.argumentstructs.Erik.1: "Ah, that's a good idea."
+AE_ID ES2005b.A.argumentstructs.Erik.1: "Right."
+AE_ID ES2005b.C.argumentstructs.7: "So like a kind of backwards remote from the telly."
+AE_ID ES2005b.D.argumentstructs.6: "If you find if y Yeah. Mm"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2005b.A.argumentstructs.Erik.2
+source=ES2005b.D.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.D.argumentstructs.Erik.2:
+". Yeah, that's the only thing, yeah."
+
+Past dialogue turns:
+AE_ID ES2005b.C.argumentstructs.Erik.1: "Ah, that's a good idea."
+AE_ID ES2005b.A.argumentstructs.Erik.1: "Right."
+AE_ID ES2005b.C.argumentstructs.7: "So like a kind of backwards remote from the telly."
+AE_ID ES2005b.D.argumentstructs.6: "If you find if y Yeah. Mm"
+AE_ID ES2005b.A.argumentstructs.Erik.2: "Right and then it would do just you know, uh subtractive kind of cancellation of the noise. What you could do then would be you have uh  a remote controlled by the T_V_ speaker, or not a remo I'm sorry, a microphone by the T_V_ speaker and a transmitter there that sends back to your remote, 'cause you can't um expect uh the the television manufacturers to to put that feature into their T_V_s."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2005b.D.argumentstructs.Erik.2
+source=ES2005b.A.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.A.argumentstructs.Erik.3:
+"But yeah, then you have like the little se separate module by the T_V_ speaker"
+
+Past dialogue turns:
+AE_ID ES2005b.A.argumentstructs.Erik.1: "Right."
+AE_ID ES2005b.C.argumentstructs.7: "So like a kind of backwards remote from the telly."
+AE_ID ES2005b.D.argumentstructs.6: "If you find if y Yeah. Mm"
+AE_ID ES2005b.A.argumentstructs.Erik.2: "Right and then it would do just you know, uh subtractive kind of cancellation of the noise. What you could do then would be you have uh  a remote controlled by the T_V_ speaker, or not a remo I'm sorry, a microphone by the T_V_ speaker and a transmitter there that sends back to your remote, 'cause you can't um expect uh the the television manufacturers to to put that feature into their T_V_s."
+AE_ID ES2005b.D.argumentstructs.Erik.2: ". Yeah, that's the only thing, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2005b.A.argumentstructs.Erik.3
+source=ES2005b.A.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.C.argumentstructs.Erik.2:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2005b.C.argumentstructs.7: "So like a kind of backwards remote from the telly."
+AE_ID ES2005b.D.argumentstructs.6: "If you find if y Yeah. Mm"
+AE_ID ES2005b.A.argumentstructs.Erik.2: "Right and then it would do just you know, uh subtractive kind of cancellation of the noise. What you could do then would be you have uh  a remote controlled by the T_V_ speaker, or not a remo I'm sorry, a microphone by the T_V_ speaker and a transmitter there that sends back to your remote, 'cause you can't um expect uh the the television manufacturers to to put that feature into their T_V_s."
+AE_ID ES2005b.D.argumentstructs.Erik.2: ". Yeah, that's the only thing, yeah."
+AE_ID ES2005b.A.argumentstructs.Erik.3: "But yeah, then you have like the little se separate module by the T_V_ speaker"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2005b.C.argumentstructs.Erik.2
+source=ES2005b.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.C.argumentstructs.Erik.3:
+"That we should just stick on, yeah."
+
+Past dialogue turns:
+AE_ID ES2005b.D.argumentstructs.6: "If you find if y Yeah. Mm"
+AE_ID ES2005b.A.argumentstructs.Erik.2: "Right and then it would do just you know, uh subtractive kind of cancellation of the noise. What you could do then would be you have uh  a remote controlled by the T_V_ speaker, or not a remo I'm sorry, a microphone by the T_V_ speaker and a transmitter there that sends back to your remote, 'cause you can't um expect uh the the television manufacturers to to put that feature into their T_V_s."
+AE_ID ES2005b.D.argumentstructs.Erik.2: ". Yeah, that's the only thing, yeah."
+AE_ID ES2005b.A.argumentstructs.Erik.3: "But yeah, then you have like the little se separate module by the T_V_ speaker"
+AE_ID ES2005b.C.argumentstructs.Erik.2: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2005b.C.argumentstructs.Erik.3
+source=ES2005b.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.D.argumentstructs.Erik.3:
+"That comes with our remote control. Yeah."
+
+Past dialogue turns:
+AE_ID ES2005b.A.argumentstructs.Erik.2: "Right and then it would do just you know, uh subtractive kind of cancellation of the noise. What you could do then would be you have uh  a remote controlled by the T_V_ speaker, or not a remo I'm sorry, a microphone by the T_V_ speaker and a transmitter there that sends back to your remote, 'cause you can't um expect uh the the television manufacturers to to put that feature into their T_V_s."
+AE_ID ES2005b.D.argumentstructs.Erik.2: ". Yeah, that's the only thing, yeah."
+AE_ID ES2005b.A.argumentstructs.Erik.3: "But yeah, then you have like the little se separate module by the T_V_ speaker"
+AE_ID ES2005b.C.argumentstructs.Erik.2: "Right."
+AE_ID ES2005b.C.argumentstructs.Erik.3: "That we should just stick on, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2005b.D.argumentstructs.Erik.3
+source=ES2005b.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.A.argumentstructs.9:
+"which"
+
+Past dialogue turns:
+AE_ID ES2005b.D.argumentstructs.Erik.2: ". Yeah, that's the only thing, yeah."
+AE_ID ES2005b.A.argumentstructs.Erik.3: "But yeah, then you have like the little se separate module by the T_V_ speaker"
+AE_ID ES2005b.C.argumentstructs.Erik.2: "Right."
+AE_ID ES2005b.C.argumentstructs.Erik.3: "That we should just stick on, yeah."
+AE_ID ES2005b.D.argumentstructs.Erik.3: "That comes with our remote control. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2005b.A.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.A.argumentstructs.Erik.4:
+"Right, and then the remote control would know um what's being produced by the television."
+
+Past dialogue turns:
+AE_ID ES2005b.A.argumentstructs.Erik.3: "But yeah, then you have like the little se separate module by the T_V_ speaker"
+AE_ID ES2005b.C.argumentstructs.Erik.2: "Right."
+AE_ID ES2005b.C.argumentstructs.Erik.3: "That we should just stick on, yeah."
+AE_ID ES2005b.D.argumentstructs.Erik.3: "That comes with our remote control. Yeah."
+AE_ID ES2005b.A.argumentstructs.9: "which"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2005b.A.argumentstructs.Erik.4
+source=ES2005b.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.C.argumentstructs.Erik.4:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005b.C.argumentstructs.Erik.2: "Right."
+AE_ID ES2005b.C.argumentstructs.Erik.3: "That we should just stick on, yeah."
+AE_ID ES2005b.D.argumentstructs.Erik.3: "That comes with our remote control. Yeah."
+AE_ID ES2005b.A.argumentstructs.9: "which"
+AE_ID ES2005b.A.argumentstructs.Erik.4: "Right, and then the remote control would know um what's being produced by the television."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2005b.C.argumentstructs.Erik.4
+source=ES2005b.A.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.C.argumentstructs.Erik.5:
+"And that's a sort of basic R_F_ kind of frequency so it'll be cheap."
+
+Past dialogue turns:
+AE_ID ES2005b.C.argumentstructs.Erik.3: "That we should just stick on, yeah."
+AE_ID ES2005b.D.argumentstructs.Erik.3: "That comes with our remote control. Yeah."
+AE_ID ES2005b.A.argumentstructs.9: "which"
+AE_ID ES2005b.A.argumentstructs.Erik.4: "Right, and then the remote control would know um what's being produced by the television."
+AE_ID ES2005b.C.argumentstructs.Erik.4: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2005b.C.argumentstructs.Erik.5
+source=ES2005b.A.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.A.argumentstructs.Erik.5:
+"Right, right."
+
+Past dialogue turns:
+AE_ID ES2005b.D.argumentstructs.Erik.3: "That comes with our remote control. Yeah."
+AE_ID ES2005b.A.argumentstructs.9: "which"
+AE_ID ES2005b.A.argumentstructs.Erik.4: "Right, and then the remote control would know um what's being produced by the television."
+AE_ID ES2005b.C.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2005b.C.argumentstructs.Erik.5: "And that's a sort of basic R_F_ kind of frequency so it'll be cheap."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2005b.A.argumentstructs.Erik.5
+source=ES2005b.C.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.D.argumentstructs.7:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2005b.A.argumentstructs.9: "which"
+AE_ID ES2005b.A.argumentstructs.Erik.4: "Right, and then the remote control would know um what's being produced by the television."
+AE_ID ES2005b.C.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2005b.C.argumentstructs.Erik.5: "And that's a sort of basic R_F_ kind of frequency so it'll be cheap."
+AE_ID ES2005b.A.argumentstructs.Erik.5: "Right, right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.A.argumentstructs.Erik.5
+---------------------------------
+target=ES2005b.D.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.A.argumentstructs.Erik.6:
+"Right, right. Um.  Yeah that's certainly possible then"
+
+Past dialogue turns:
+AE_ID ES2005b.A.argumentstructs.Erik.4: "Right, and then the remote control would know um what's being produced by the television."
+AE_ID ES2005b.C.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2005b.C.argumentstructs.Erik.5: "And that's a sort of basic R_F_ kind of frequency so it'll be cheap."
+AE_ID ES2005b.A.argumentstructs.Erik.5: "Right, right."
+AE_ID ES2005b.D.argumentstructs.7: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.A.argumentstructs.Erik.5
+---------------------------------
+target=ES2005b.A.argumentstructs.Erik.6
+source=ES2005b.C.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.A.argumentstructs.10:
+"an"
+
+Past dialogue turns:
+AE_ID ES2005b.C.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2005b.C.argumentstructs.Erik.5: "And that's a sort of basic R_F_ kind of frequency so it'll be cheap."
+AE_ID ES2005b.A.argumentstructs.Erik.5: "Right, right."
+AE_ID ES2005b.D.argumentstructs.7: "Mm-hmm."
+AE_ID ES2005b.A.argumentstructs.Erik.6: "Right, right. Um.  Yeah that's certainly possible then"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.A.argumentstructs.Erik.6
+---------------------------------
+target=ES2005b.A.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.A.argumentstructs.Erik.7:
+"another thing was about this losing the remote and trying to find it again. If you do have this sorta speech interface to it, you don't even need to find it. You just say you know, um whatever you whatever you want the remote for, you know to change the channel or to uh turn the T_V_ on and off, you just shout your command to it and it would do it for you if it's within you know, within hearing range. And uh you know it could be somewhere in the room y that you've no idea where it is and it would still do its job."
+
+Past dialogue turns:
+AE_ID ES2005b.C.argumentstructs.Erik.5: "And that's a sort of basic R_F_ kind of frequency so it'll be cheap."
+AE_ID ES2005b.A.argumentstructs.Erik.5: "Right, right."
+AE_ID ES2005b.D.argumentstructs.7: "Mm-hmm."
+AE_ID ES2005b.A.argumentstructs.Erik.6: "Right, right. Um.  Yeah that's certainly possible then"
+AE_ID ES2005b.A.argumentstructs.10: "an"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.A.argumentstructs.Erik.6
+---------------------------------
+target=ES2005b.A.argumentstructs.Erik.7
+source=ES2005b.D.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.C.argumentstructs.8:
+"Uh-huh."
+
+Past dialogue turns:
+AE_ID ES2005b.A.argumentstructs.Erik.5: "Right, right."
+AE_ID ES2005b.D.argumentstructs.7: "Mm-hmm."
+AE_ID ES2005b.A.argumentstructs.Erik.6: "Right, right. Um.  Yeah that's certainly possible then"
+AE_ID ES2005b.A.argumentstructs.10: "an"
+AE_ID ES2005b.A.argumentstructs.Erik.7: "another thing was about this losing the remote and trying to find it again. If you do have this sorta speech interface to it, you don't even need to find it. You just say you know, um whatever you whatever you want the remote for, you know to change the channel or to uh turn the T_V_ on and off, you just shout your command to it and it would do it for you if it's within you know, within hearing range. And uh you know it could be somewhere in the room y that you've no idea where it is and it would still do its job."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.D.argumentstructs.7
+---------------------------------
+target=ES2005b.C.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.D.argumentstructs.Erik.4:
+"That could also be built into the T_V_ though, which might make our remote control a bit obsolete."
+
+Past dialogue turns:
+AE_ID ES2005b.D.argumentstructs.7: "Mm-hmm."
+AE_ID ES2005b.A.argumentstructs.Erik.6: "Right, right. Um.  Yeah that's certainly possible then"
+AE_ID ES2005b.A.argumentstructs.10: "an"
+AE_ID ES2005b.A.argumentstructs.Erik.7: "another thing was about this losing the remote and trying to find it again. If you do have this sorta speech interface to it, you don't even need to find it. You just say you know, um whatever you whatever you want the remote for, you know to change the channel or to uh turn the T_V_ on and off, you just shout your command to it and it would do it for you if it's within you know, within hearing range. And uh you know it could be somewhere in the room y that you've no idea where it is and it would still do its job."
+AE_ID ES2005b.C.argumentstructs.8: "Uh-huh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2005b.D.argumentstructs.Erik.4
+source=ES2005b.A.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.C.argumentstructs.Erik.6:
+"Yeah.  It might do us out of a job."
+
+Past dialogue turns:
+AE_ID ES2005b.A.argumentstructs.Erik.6: "Right, right. Um.  Yeah that's certainly possible then"
+AE_ID ES2005b.A.argumentstructs.10: "an"
+AE_ID ES2005b.A.argumentstructs.Erik.7: "another thing was about this losing the remote and trying to find it again. If you do have this sorta speech interface to it, you don't even need to find it. You just say you know, um whatever you whatever you want the remote for, you know to change the channel or to uh turn the T_V_ on and off, you just shout your command to it and it would do it for you if it's within you know, within hearing range. And uh you know it could be somewhere in the room y that you've no idea where it is and it would still do its job."
+AE_ID ES2005b.C.argumentstructs.8: "Uh-huh."
+AE_ID ES2005b.D.argumentstructs.Erik.4: "That could also be built into the T_V_ though, which might make our remote control a bit obsolete."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2005b.C.argumentstructs.Erik.6
+source=ES2005b.D.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.A.argumentstructs.Erik.8:
+"Well, hopefully we're uh we're ahead of the curve."
+
+Past dialogue turns:
+AE_ID ES2005b.A.argumentstructs.10: "an"
+AE_ID ES2005b.A.argumentstructs.Erik.7: "another thing was about this losing the remote and trying to find it again. If you do have this sorta speech interface to it, you don't even need to find it. You just say you know, um whatever you whatever you want the remote for, you know to change the channel or to uh turn the T_V_ on and off, you just shout your command to it and it would do it for you if it's within you know, within hearing range. And uh you know it could be somewhere in the room y that you've no idea where it is and it would still do its job."
+AE_ID ES2005b.C.argumentstructs.8: "Uh-huh."
+AE_ID ES2005b.D.argumentstructs.Erik.4: "That could also be built into the T_V_ though, which might make our remote control a bit obsolete."
+AE_ID ES2005b.C.argumentstructs.Erik.6: "Yeah.  It might do us out of a job."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2005b.A.argumentstructs.Erik.8
+source=ES2005b.C.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.D.argumentstructs.Erik.5:
+"Yeah, okay."
+
+Past dialogue turns:
+AE_ID ES2005b.A.argumentstructs.Erik.7: "another thing was about this losing the remote and trying to find it again. If you do have this sorta speech interface to it, you don't even need to find it. You just say you know, um whatever you whatever you want the remote for, you know to change the channel or to uh turn the T_V_ on and off, you just shout your command to it and it would do it for you if it's within you know, within hearing range. And uh you know it could be somewhere in the room y that you've no idea where it is and it would still do its job."
+AE_ID ES2005b.C.argumentstructs.8: "Uh-huh."
+AE_ID ES2005b.D.argumentstructs.Erik.4: "That could also be built into the T_V_ though, which might make our remote control a bit obsolete."
+AE_ID ES2005b.C.argumentstructs.Erik.6: "Yeah.  It might do us out of a job."
+AE_ID ES2005b.A.argumentstructs.Erik.8: "Well, hopefully we're uh we're ahead of the curve."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2005b.D.argumentstructs.Erik.5
+source=ES2005b.A.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005b.C.argumentstructs.9:
+"Um"
+
+Past dialogue turns:
+AE_ID ES2005b.C.argumentstructs.8: "Uh-huh."
+AE_ID ES2005b.D.argumentstructs.Erik.4: "That could also be built into the T_V_ though, which might make our remote control a bit obsolete."
+AE_ID ES2005b.C.argumentstructs.Erik.6: "Yeah.  It might do us out of a job."
+AE_ID ES2005b.A.argumentstructs.Erik.8: "Well, hopefully we're uh we're ahead of the curve."
+AE_ID ES2005b.D.argumentstructs.Erik.5: "Yeah, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005b.C.argumentstructs.8
+---------------------------------
+target=ES2005b.C.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2005b-ES2005b - Lost remote.csv - True Judgement Ratio: 30.77%

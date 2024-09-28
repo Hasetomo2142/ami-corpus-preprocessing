@@ -1,0 +1,2437 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.1:
+"No no we have  you have designed two products now, one is with L_C_D_ and without L_C_D_."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.0
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.1
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.16:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.1: "No no we have  you have designed two products now, one is with L_C_D_ and without L_C_D_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1007d.A.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.28:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.1: "No no we have  you have designed two products now, one is with L_C_D_ and without L_C_D_."
+AE_ID IS1007d.A.argumentstructs.16: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.16
+---------------------------------
+target=IS1007d.B.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.25:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.1: "No no we have  you have designed two products now, one is with L_C_D_ and without L_C_D_."
+AE_ID IS1007d.A.argumentstructs.16: "Yeah."
+AE_ID IS1007d.B.argumentstructs.28: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.16
+---------------------------------
+target=IS1007d.C.argumentstructs.25
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.1:
+"But who will give the scoring uh we ourself or or a third party ?"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.1: "No no we have  you have designed two products now, one is with L_C_D_ and without L_C_D_."
+AE_ID IS1007d.A.argumentstructs.16: "Yeah."
+AE_ID IS1007d.B.argumentstructs.28: "Yeah."
+AE_ID IS1007d.C.argumentstructs.25: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.1
+source=IS1007d.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.1:
+"You."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.1: "No no we have  you have designed two products now, one is with L_C_D_ and without L_C_D_."
+AE_ID IS1007d.A.argumentstructs.16: "Yeah."
+AE_ID IS1007d.B.argumentstructs.28: "Yeah."
+AE_ID IS1007d.C.argumentstructs.25: "Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.1: "But who will give the scoring uh we ourself or or a third party ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.1
+source=IS1007d.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.2:
+"According to you, no according to you designers, how will feel  does it uh with L_C_D_ and without L_C_D_ ?"
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.16: "Yeah."
+AE_ID IS1007d.B.argumentstructs.28: "Yeah."
+AE_ID IS1007d.C.argumentstructs.25: "Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.1: "But who will give the scoring uh we ourself or or a third party ?"
+AE_ID IS1007d.A.argumentstructs.Daan.1: "You."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.2
+source=IS1007d.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.29:
+"Mm. Mm. Mm."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.28: "Yeah."
+AE_ID IS1007d.C.argumentstructs.25: "Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.1: "But who will give the scoring uh we ourself or or a third party ?"
+AE_ID IS1007d.A.argumentstructs.Daan.1: "You."
+AE_ID IS1007d.D.argumentstructs.Daan.2: "According to you, no according to you designers, how will feel  does it uh with L_C_D_ and without L_C_D_ ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.28
+---------------------------------
+target=IS1007d.B.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.3:
+"Okay let us make this L_ and without L_C_D_."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.25: "Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.1: "But who will give the scoring uh we ourself or or a third party ?"
+AE_ID IS1007d.A.argumentstructs.Daan.1: "You."
+AE_ID IS1007d.D.argumentstructs.Daan.2: "According to you, no according to you designers, how will feel  does it uh with L_C_D_ and without L_C_D_ ?"
+AE_ID IS1007d.B.argumentstructs.29: "Mm. Mm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.2
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.3
+source=IS1007d.D.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.4:
+"On on this scale the L_C_D_ remote control. How do you look  how does it look ? D is it very fancy or doesn't look much fancy ?"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.1: "But who will give the scoring uh we ourself or or a third party ?"
+AE_ID IS1007d.A.argumentstructs.Daan.1: "You."
+AE_ID IS1007d.D.argumentstructs.Daan.2: "According to you, no according to you designers, how will feel  does it uh with L_C_D_ and without L_C_D_ ?"
+AE_ID IS1007d.B.argumentstructs.29: "Mm. Mm. Mm."
+AE_ID IS1007d.D.argumentstructs.Daan.3: "Okay let us make this L_ and without L_C_D_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.4
+source=IS1007d.D.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.1:
+"Well it doesn't look much fancy I'll I'll say three or four."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.1: "You."
+AE_ID IS1007d.D.argumentstructs.Daan.2: "According to you, no according to you designers, how will feel  does it uh with L_C_D_ and without L_C_D_ ?"
+AE_ID IS1007d.B.argumentstructs.29: "Mm. Mm. Mm."
+AE_ID IS1007d.D.argumentstructs.Daan.3: "Okay let us make this L_ and without L_C_D_."
+AE_ID IS1007d.D.argumentstructs.Daan.4: "On on this scale the L_C_D_ remote control. How do you look  how does it look ? D is it very fancy or doesn't look much fancy ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.4
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.1
+source=IS1007d.D.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.5:
+"And you both agree for that ?"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.2: "According to you, no according to you designers, how will feel  does it uh with L_C_D_ and without L_C_D_ ?"
+AE_ID IS1007d.B.argumentstructs.29: "Mm. Mm. Mm."
+AE_ID IS1007d.D.argumentstructs.Daan.3: "Okay let us make this L_ and without L_C_D_."
+AE_ID IS1007d.D.argumentstructs.Daan.4: "On on this scale the L_C_D_ remote control. How do you look  how does it look ? D is it very fancy or doesn't look much fancy ?"
+AE_ID IS1007d.C.argumentstructs.Daan.1: "Well it doesn't look much fancy I'll I'll say three or four."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.5
+source=IS1007d.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.2:
+"I think we can improve on the design. Som someone um commented this is like a the stone age uh   design. Um we have been focused all all this  time on the  on the technical aspect, functional aspect, but also the simplicity. As for the design maybe we c should hire a designer to help. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.29: "Mm. Mm. Mm."
+AE_ID IS1007d.D.argumentstructs.Daan.3: "Okay let us make this L_ and without L_C_D_."
+AE_ID IS1007d.D.argumentstructs.Daan.4: "On on this scale the L_C_D_ remote control. How do you look  how does it look ? D is it very fancy or doesn't look much fancy ?"
+AE_ID IS1007d.C.argumentstructs.Daan.1: "Well it doesn't look much fancy I'll I'll say three or four."
+AE_ID IS1007d.D.argumentstructs.Daan.5: "And you both agree for that ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.2
+source=IS1007d.D.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.26:
+"Technical aspects."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.3: "Okay let us make this L_ and without L_C_D_."
+AE_ID IS1007d.D.argumentstructs.Daan.4: "On on this scale the L_C_D_ remote control. How do you look  how does it look ? D is it very fancy or doesn't look much fancy ?"
+AE_ID IS1007d.C.argumentstructs.Daan.1: "Well it doesn't look much fancy I'll I'll say three or four."
+AE_ID IS1007d.D.argumentstructs.Daan.5: "And you both agree for that ?"
+AE_ID IS1007d.B.argumentstructs.Daan.2: "I think we can improve on the design. Som someone um commented this is like a the stone age uh   design. Um we have been focused all all this  time on the  on the technical aspect, functional aspect, but also the simplicity. As for the design maybe we c should hire a designer to help. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.2
+---------------------------------
+target=IS1007d.C.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.7:
+"So I take three on  with L_C_D_ ?"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.4: "On on this scale the L_C_D_ remote control. How do you look  how does it look ? D is it very fancy or doesn't look much fancy ?"
+AE_ID IS1007d.C.argumentstructs.Daan.1: "Well it doesn't look much fancy I'll I'll say three or four."
+AE_ID IS1007d.D.argumentstructs.Daan.5: "And you both agree for that ?"
+AE_ID IS1007d.B.argumentstructs.Daan.2: "I think we can improve on the design. Som someone um commented this is like a the stone age uh   design. Um we have been focused all all this  time on the  on the technical aspect, functional aspect, but also the simplicity. As for the design maybe we c should hire a designer to help. Yeah."
+AE_ID IS1007d.C.argumentstructs.26: "Technical aspects."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.7
+source=IS1007d.B.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.2:
+"Yeah a three."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.1: "Well it doesn't look much fancy I'll I'll say three or four."
+AE_ID IS1007d.D.argumentstructs.Daan.5: "And you both agree for that ?"
+AE_ID IS1007d.B.argumentstructs.Daan.2: "I think we can improve on the design. Som someone um commented this is like a the stone age uh   design. Um we have been focused all all this  time on the  on the technical aspect, functional aspect, but also the simplicity. As for the design maybe we c should hire a designer to help. Yeah."
+AE_ID IS1007d.C.argumentstructs.26: "Technical aspects."
+AE_ID IS1007d.D.argumentstructs.Daan.7: "So I take three on  with L_C_D_ ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.2
+source=IS1007d.D.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.8:
+"So without L_C_D_ how would you rate it ?"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.5: "And you both agree for that ?"
+AE_ID IS1007d.B.argumentstructs.Daan.2: "I think we can improve on the design. Som someone um commented this is like a the stone age uh   design. Um we have been focused all all this  time on the  on the technical aspect, functional aspect, but also the simplicity. As for the design maybe we c should hire a designer to help. Yeah."
+AE_ID IS1007d.C.argumentstructs.26: "Technical aspects."
+AE_ID IS1007d.D.argumentstructs.Daan.7: "So I take three on  with L_C_D_ ?"
+AE_ID IS1007d.C.argumentstructs.Daan.2: "Yeah a three."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.7
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.8
+source=IS1007d.D.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.3:
+"Uh four. I think it's it's uh more easy to make f fancy things when it's not complicated so"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.2: "I think we can improve on the design. Som someone um commented this is like a the stone age uh   design. Um we have been focused all all this  time on the  on the technical aspect, functional aspect, but also the simplicity. As for the design maybe we c should hire a designer to help. Yeah."
+AE_ID IS1007d.C.argumentstructs.26: "Technical aspects."
+AE_ID IS1007d.D.argumentstructs.Daan.7: "So I take three on  with L_C_D_ ?"
+AE_ID IS1007d.C.argumentstructs.Daan.2: "Yeah a three."
+AE_ID IS1007d.D.argumentstructs.Daan.8: "So without L_C_D_ how would you rate it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.2
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.3
+source=IS1007d.D.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.38:
+"Four."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.26: "Technical aspects."
+AE_ID IS1007d.D.argumentstructs.Daan.7: "So I take three on  with L_C_D_ ?"
+AE_ID IS1007d.C.argumentstructs.Daan.2: "Yeah a three."
+AE_ID IS1007d.D.argumentstructs.Daan.8: "So without L_C_D_ how would you rate it ?"
+AE_ID IS1007d.C.argumentstructs.Daan.3: "Uh four. I think it's it's uh more easy to make f fancy things when it's not complicated so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1007d.D.argumentstructs.38
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.4:
+"removing the L_C_D_ um gives us a li more liberty to to have a fancy look."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.7: "So I take three on  with L_C_D_ ?"
+AE_ID IS1007d.C.argumentstructs.Daan.2: "Yeah a three."
+AE_ID IS1007d.D.argumentstructs.Daan.8: "So without L_C_D_ how would you rate it ?"
+AE_ID IS1007d.C.argumentstructs.Daan.3: "Uh four. I think it's it's uh more easy to make f fancy things when it's not complicated so"
+AE_ID IS1007d.D.argumentstructs.38: "Four."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.8
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.4
+source=IS1007d.C.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.9:
+"And in the sense of innovativeness, with L_C_D_."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.2: "Yeah a three."
+AE_ID IS1007d.D.argumentstructs.Daan.8: "So without L_C_D_ how would you rate it ?"
+AE_ID IS1007d.C.argumentstructs.Daan.3: "Uh four. I think it's it's uh more easy to make f fancy things when it's not complicated so"
+AE_ID IS1007d.D.argumentstructs.38: "Four."
+AE_ID IS1007d.C.argumentstructs.Daan.4: "removing the L_C_D_ um gives us a li more liberty to to have a fancy look."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.8
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.9
+source=IS1007d.D.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.5:
+"Well it's it's the same for both so  I will give a five, six."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.8: "So without L_C_D_ how would you rate it ?"
+AE_ID IS1007d.C.argumentstructs.Daan.3: "Uh four. I think it's it's uh more easy to make f fancy things when it's not complicated so"
+AE_ID IS1007d.D.argumentstructs.38: "Four."
+AE_ID IS1007d.C.argumentstructs.Daan.4: "removing the L_C_D_ um gives us a li more liberty to to have a fancy look."
+AE_ID IS1007d.D.argumentstructs.Daan.9: "And in the sense of innovativeness, with L_C_D_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.8
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.5
+source=IS1007d.D.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.30:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.3: "Uh four. I think it's it's uh more easy to make f fancy things when it's not complicated so"
+AE_ID IS1007d.D.argumentstructs.38: "Four."
+AE_ID IS1007d.C.argumentstructs.Daan.4: "removing the L_C_D_ um gives us a li more liberty to to have a fancy look."
+AE_ID IS1007d.D.argumentstructs.Daan.9: "And in the sense of innovativeness, with L_C_D_."
+AE_ID IS1007d.C.argumentstructs.Daan.5: "Well it's it's the same for both so  I will give a five, six."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1007d.B.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.10:
+"Five with L_C_D_ and"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.38: "Four."
+AE_ID IS1007d.C.argumentstructs.Daan.4: "removing the L_C_D_ um gives us a li more liberty to to have a fancy look."
+AE_ID IS1007d.D.argumentstructs.Daan.9: "And in the sense of innovativeness, with L_C_D_."
+AE_ID IS1007d.C.argumentstructs.Daan.5: "Well it's it's the same for both so  I will give a five, six."
+AE_ID IS1007d.B.argumentstructs.30: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.9
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.10
+source=IS1007d.D.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.6:
+"Well five also uh  Norman please."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.4: "removing the L_C_D_ um gives us a li more liberty to to have a fancy look."
+AE_ID IS1007d.D.argumentstructs.Daan.9: "And in the sense of innovativeness, with L_C_D_."
+AE_ID IS1007d.C.argumentstructs.Daan.5: "Well it's it's the same for both so  I will give a five, six."
+AE_ID IS1007d.B.argumentstructs.30: "Mm."
+AE_ID IS1007d.D.argumentstructs.Daan.10: "Five with L_C_D_ and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.5
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.6
+source=IS1007d.D.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.3:
+"Yeah  from the innovation aspect I feel that uh what is most innovative"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.9: "And in the sense of innovativeness, with L_C_D_."
+AE_ID IS1007d.C.argumentstructs.Daan.5: "Well it's it's the same for both so  I will give a five, six."
+AE_ID IS1007d.B.argumentstructs.30: "Mm."
+AE_ID IS1007d.D.argumentstructs.Daan.10: "Five with L_C_D_ and"
+AE_ID IS1007d.C.argumentstructs.Daan.6: "Well five also uh  Norman please."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.9
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.3
+source=IS1007d.D.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.4:
+"of our prototype compared to the existing prototypes that we saw l in the last meeting is that um  the retrieval of T_V_ programmes by content, because uh that is really innovative, and for now  and another innovation we have is simplicity and  simplicity, few buttons, we've uh"
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.5: "Well it's it's the same for both so  I will give a five, six."
+AE_ID IS1007d.B.argumentstructs.30: "Mm."
+AE_ID IS1007d.D.argumentstructs.Daan.10: "Five with L_C_D_ and"
+AE_ID IS1007d.C.argumentstructs.Daan.6: "Well five also uh  Norman please."
+AE_ID IS1007d.B.argumentstructs.Daan.3: "Yeah  from the innovation aspect I feel that uh what is most innovative"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.3
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.4
+source=IS1007d.B.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.7:
+"With lot of functionalities."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.30: "Mm."
+AE_ID IS1007d.D.argumentstructs.Daan.10: "Five with L_C_D_ and"
+AE_ID IS1007d.C.argumentstructs.Daan.6: "Well five also uh  Norman please."
+AE_ID IS1007d.B.argumentstructs.Daan.3: "Yeah  from the innovation aspect I feel that uh what is most innovative"
+AE_ID IS1007d.B.argumentstructs.Daan.4: "of our prototype compared to the existing prototypes that we saw l in the last meeting is that um  the retrieval of T_V_ programmes by content, because uh that is really innovative, and for now  and another innovation we have is simplicity and  simplicity, few buttons, we've uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.7
+source=IS1007d.B.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.5:
+"A lot of functionalities. So that is uh that is uh for both th"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.10: "Five with L_C_D_ and"
+AE_ID IS1007d.C.argumentstructs.Daan.6: "Well five also uh  Norman please."
+AE_ID IS1007d.B.argumentstructs.Daan.3: "Yeah  from the innovation aspect I feel that uh what is most innovative"
+AE_ID IS1007d.B.argumentstructs.Daan.4: "of our prototype compared to the existing prototypes that we saw l in the last meeting is that um  the retrieval of T_V_ programmes by content, because uh that is really innovative, and for now  and another innovation we have is simplicity and  simplicity, few buttons, we've uh"
+AE_ID IS1007d.C.argumentstructs.Daan.7: "With lot of functionalities."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.7
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.5
+source=IS1007d.B.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.11:
+"So without L_C_D_ ?"
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.6: "Well five also uh  Norman please."
+AE_ID IS1007d.B.argumentstructs.Daan.3: "Yeah  from the innovation aspect I feel that uh what is most innovative"
+AE_ID IS1007d.B.argumentstructs.Daan.4: "of our prototype compared to the existing prototypes that we saw l in the last meeting is that um  the retrieval of T_V_ programmes by content, because uh that is really innovative, and for now  and another innovation we have is simplicity and  simplicity, few buttons, we've uh"
+AE_ID IS1007d.C.argumentstructs.Daan.7: "With lot of functionalities."
+AE_ID IS1007d.B.argumentstructs.Daan.5: "A lot of functionalities. So that is uh that is uh for both th"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.11
+source=IS1007d.B.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.6:
+"Our gi I think that the our our product is uh has the best in all  well this is a biased judgement  because we designed them."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.3: "Yeah  from the innovation aspect I feel that uh what is most innovative"
+AE_ID IS1007d.B.argumentstructs.Daan.4: "of our prototype compared to the existing prototypes that we saw l in the last meeting is that um  the retrieval of T_V_ programmes by content, because uh that is really innovative, and for now  and another innovation we have is simplicity and  simplicity, few buttons, we've uh"
+AE_ID IS1007d.C.argumentstructs.Daan.7: "With lot of functionalities."
+AE_ID IS1007d.B.argumentstructs.Daan.5: "A lot of functionalities. So that is uh that is uh for both th"
+AE_ID IS1007d.D.argumentstructs.Daan.11: "So without L_C_D_ ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.6
+source=IS1007d.D.argumentstructs.Daan.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.12:
+"No no according to design aspect we want to know how would you feel the innovativeness ?"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.4: "of our prototype compared to the existing prototypes that we saw l in the last meeting is that um  the retrieval of T_V_ programmes by content, because uh that is really innovative, and for now  and another innovation we have is simplicity and  simplicity, few buttons, we've uh"
+AE_ID IS1007d.C.argumentstructs.Daan.7: "With lot of functionalities."
+AE_ID IS1007d.B.argumentstructs.Daan.5: "A lot of functionalities. So that is uh that is uh for both th"
+AE_ID IS1007d.D.argumentstructs.Daan.11: "So without L_C_D_ ?"
+AE_ID IS1007d.B.argumentstructs.Daan.6: "Our gi I think that the our our product is uh has the best in all  well this is a biased judgement  because we designed them."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.12
+source=IS1007d.D.argumentstructs.Daan.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.7:
+"Yeah.  Uh the innovation is v is very high I think."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.7: "With lot of functionalities."
+AE_ID IS1007d.B.argumentstructs.Daan.5: "A lot of functionalities. So that is uh that is uh for both th"
+AE_ID IS1007d.D.argumentstructs.Daan.11: "So without L_C_D_ ?"
+AE_ID IS1007d.B.argumentstructs.Daan.6: "Our gi I think that the our our product is uh has the best in all  well this is a biased judgement  because we designed them."
+AE_ID IS1007d.D.argumentstructs.Daan.12: "No no according to design aspect we want to know how would you feel the innovativeness ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.12
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.7
+source=IS1007d.D.argumentstructs.Daan.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.13:
+"With L_C_D_. And without L_C_D_ ?"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.5: "A lot of functionalities. So that is uh that is uh for both th"
+AE_ID IS1007d.D.argumentstructs.Daan.11: "So without L_C_D_ ?"
+AE_ID IS1007d.B.argumentstructs.Daan.6: "Our gi I think that the our our product is uh has the best in all  well this is a biased judgement  because we designed them."
+AE_ID IS1007d.D.argumentstructs.Daan.12: "No no according to design aspect we want to know how would you feel the innovativeness ?"
+AE_ID IS1007d.B.argumentstructs.Daan.7: "Yeah.  Uh the innovation is v is very high I think."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.11
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.13
+source=IS1007d.B.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.17:
+"For L_C_D_."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.11: "So without L_C_D_ ?"
+AE_ID IS1007d.B.argumentstructs.Daan.6: "Our gi I think that the our our product is uh has the best in all  well this is a biased judgement  because we designed them."
+AE_ID IS1007d.D.argumentstructs.Daan.12: "No no according to design aspect we want to know how would you feel the innovativeness ?"
+AE_ID IS1007d.B.argumentstructs.Daan.7: "Yeah.  Uh the innovation is v is very high I think."
+AE_ID IS1007d.D.argumentstructs.Daan.13: "With L_C_D_. And without L_C_D_ ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.13
+---------------------------------
+target=IS1007d.A.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.8:
+"Both."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.6: "Our gi I think that the our our product is uh has the best in all  well this is a biased judgement  because we designed them."
+AE_ID IS1007d.D.argumentstructs.Daan.12: "No no according to design aspect we want to know how would you feel the innovativeness ?"
+AE_ID IS1007d.B.argumentstructs.Daan.7: "Yeah.  Uh the innovation is v is very high I think."
+AE_ID IS1007d.D.argumentstructs.Daan.13: "With L_C_D_. And without L_C_D_ ?"
+AE_ID IS1007d.A.argumentstructs.17: "For L_C_D_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.13
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.8
+source=IS1007d.D.argumentstructs.Daan.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.8:
+"Mm for both it's the the same innovations."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.12: "No no according to design aspect we want to know how would you feel the innovativeness ?"
+AE_ID IS1007d.B.argumentstructs.Daan.7: "Yeah.  Uh the innovation is v is very high I think."
+AE_ID IS1007d.D.argumentstructs.Daan.13: "With L_C_D_. And without L_C_D_ ?"
+AE_ID IS1007d.A.argumentstructs.17: "For L_C_D_."
+AE_ID IS1007d.B.argumentstructs.Daan.8: "Both."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.7
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.8
+source=IS1007d.D.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.31:
+"For both."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.7: "Yeah.  Uh the innovation is v is very high I think."
+AE_ID IS1007d.D.argumentstructs.Daan.13: "With L_C_D_. And without L_C_D_ ?"
+AE_ID IS1007d.A.argumentstructs.17: "For L_C_D_."
+AE_ID IS1007d.B.argumentstructs.Daan.8: "Both."
+AE_ID IS1007d.C.argumentstructs.Daan.8: "Mm for both it's the the same innovations."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.8
+---------------------------------
+target=IS1007d.B.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.9:
+"It's the same innovation. So maybe I can put six to seven."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.13: "With L_C_D_. And without L_C_D_ ?"
+AE_ID IS1007d.A.argumentstructs.17: "For L_C_D_."
+AE_ID IS1007d.B.argumentstructs.Daan.8: "Both."
+AE_ID IS1007d.C.argumentstructs.Daan.8: "Mm for both it's the the same innovations."
+AE_ID IS1007d.B.argumentstructs.31: "For both."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.8
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.9
+source=IS1007d.B.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.39:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.17: "For L_C_D_."
+AE_ID IS1007d.B.argumentstructs.Daan.8: "Both."
+AE_ID IS1007d.C.argumentstructs.Daan.8: "Mm for both it's the the same innovations."
+AE_ID IS1007d.B.argumentstructs.31: "For both."
+AE_ID IS1007d.B.argumentstructs.Daan.9: "It's the same innovation. So maybe I can put six to seven."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.9
+---------------------------------
+target=IS1007d.D.argumentstructs.39
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.9:
+"six, let's go for six."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.8: "Both."
+AE_ID IS1007d.C.argumentstructs.Daan.8: "Mm for both it's the the same innovations."
+AE_ID IS1007d.B.argumentstructs.31: "For both."
+AE_ID IS1007d.B.argumentstructs.Daan.9: "It's the same innovation. So maybe I can put six to seven."
+AE_ID IS1007d.D.argumentstructs.39: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.9
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.9
+source=IS1007d.B.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.2:
+"Without L_C_D_."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.8: "Mm for both it's the the same innovations."
+AE_ID IS1007d.B.argumentstructs.31: "For both."
+AE_ID IS1007d.B.argumentstructs.Daan.9: "It's the same innovation. So maybe I can put six to seven."
+AE_ID IS1007d.D.argumentstructs.39: "Okay."
+AE_ID IS1007d.C.argumentstructs.Daan.9: "six, let's go for six."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.9
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.2
+source=IS1007d.C.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.10:
+"Both"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.31: "For both."
+AE_ID IS1007d.B.argumentstructs.Daan.9: "It's the same innovation. So maybe I can put six to seven."
+AE_ID IS1007d.D.argumentstructs.39: "Okay."
+AE_ID IS1007d.C.argumentstructs.Daan.9: "six, let's go for six."
+AE_ID IS1007d.A.argumentstructs.Daan.2: "Without L_C_D_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.31
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.10
+source=IS1007d.A.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.32:
+". Mm."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.9: "It's the same innovation. So maybe I can put six to seven."
+AE_ID IS1007d.D.argumentstructs.39: "Okay."
+AE_ID IS1007d.C.argumentstructs.Daan.9: "six, let's go for six."
+AE_ID IS1007d.A.argumentstructs.Daan.2: "Without L_C_D_."
+AE_ID IS1007d.B.argumentstructs.Daan.10: "Both"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.10
+---------------------------------
+target=IS1007d.B.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.14:
+"No actually uh to make it with L_C_D_ you make more efforts. So I  there is high innovativeness included if you make it with L_C_D_ y then when it is without L_C_D_ there is not much innovativeness. So we can't go"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.39: "Okay."
+AE_ID IS1007d.C.argumentstructs.Daan.9: "six, let's go for six."
+AE_ID IS1007d.A.argumentstructs.Daan.2: "Without L_C_D_."
+AE_ID IS1007d.B.argumentstructs.Daan.10: "Both"
+AE_ID IS1007d.B.argumentstructs.32: ". Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.2
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.14
+source=IS1007d.B.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.18:
+"Uh no innovative yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.9: "six, let's go for six."
+AE_ID IS1007d.A.argumentstructs.Daan.2: "Without L_C_D_."
+AE_ID IS1007d.B.argumentstructs.Daan.10: "Both"
+AE_ID IS1007d.B.argumentstructs.32: ". Mm."
+AE_ID IS1007d.D.argumentstructs.Daan.14: "No actually uh to make it with L_C_D_ you make more efforts. So I  there is high innovativeness included if you make it with L_C_D_ y then when it is without L_C_D_ there is not much innovativeness. So we can't go"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.14
+---------------------------------
+target=IS1007d.A.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.11:
+"Uh uh uh there w there was a there was a issue here is that what are what is the display on the L_C_D_ ?"
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.2: "Without L_C_D_."
+AE_ID IS1007d.B.argumentstructs.Daan.10: "Both"
+AE_ID IS1007d.B.argumentstructs.32: ". Mm."
+AE_ID IS1007d.D.argumentstructs.Daan.14: "No actually uh to make it with L_C_D_ you make more efforts. So I  there is high innovativeness included if you make it with L_C_D_ y then when it is without L_C_D_ there is not much innovativeness. So we can't go"
+AE_ID IS1007d.A.argumentstructs.18: "Uh no innovative yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.2
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.11
+source=IS1007d.D.argumentstructs.Daan.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.12:
+"We haven't really uh determined  what are  actually actually it's good to have a L_C_D_ but what are we gonna display on a L_C_D_ ?"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.10: "Both"
+AE_ID IS1007d.B.argumentstructs.32: ". Mm."
+AE_ID IS1007d.D.argumentstructs.Daan.14: "No actually uh to make it with L_C_D_ you make more efforts. So I  there is high innovativeness included if you make it with L_C_D_ y then when it is without L_C_D_ there is not much innovativeness. So we can't go"
+AE_ID IS1007d.A.argumentstructs.18: "Uh no innovative yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.11: "Uh uh uh there w there was a there was a issue here is that what are what is the display on the L_C_D_ ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.11
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.12
+source=IS1007d.B.argumentstructs.Daan.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.27:
+"Talk about"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.32: ". Mm."
+AE_ID IS1007d.D.argumentstructs.Daan.14: "No actually uh to make it with L_C_D_ you make more efforts. So I  there is high innovativeness included if you make it with L_C_D_ y then when it is without L_C_D_ there is not much innovativeness. So we can't go"
+AE_ID IS1007d.A.argumentstructs.18: "Uh no innovative yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.11: "Uh uh uh there w there was a there was a issue here is that what are what is the display on the L_C_D_ ?"
+AE_ID IS1007d.B.argumentstructs.Daan.12: "We haven't really uh determined  what are  actually actually it's good to have a L_C_D_ but what are we gonna display on a L_C_D_ ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.14
+---------------------------------
+target=IS1007d.C.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.15:
+"I mean that what you are sayin that's what the design"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.14: "No actually uh to make it with L_C_D_ you make more efforts. So I  there is high innovativeness included if you make it with L_C_D_ y then when it is without L_C_D_ there is not much innovativeness. So we can't go"
+AE_ID IS1007d.A.argumentstructs.18: "Uh no innovative yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.11: "Uh uh uh there w there was a there was a issue here is that what are what is the display on the L_C_D_ ?"
+AE_ID IS1007d.B.argumentstructs.Daan.12: "We haven't really uh determined  what are  actually actually it's good to have a L_C_D_ but what are we gonna display on a L_C_D_ ?"
+AE_ID IS1007d.C.argumentstructs.27: "Talk about"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.14
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.15
+source=IS1007d.B.argumentstructs.Daan.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.16:
+"No it's like this, I mean on the L_C_D_, according to what I understand from your model is, you have a joystick here, and you have L_C_D_, you just press your joystick, you get here a programme. Uh then"
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.18: "Uh no innovative yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.11: "Uh uh uh there w there was a there was a issue here is that what are what is the display on the L_C_D_ ?"
+AE_ID IS1007d.B.argumentstructs.Daan.12: "We haven't really uh determined  what are  actually actually it's good to have a L_C_D_ but what are we gonna display on a L_C_D_ ?"
+AE_ID IS1007d.C.argumentstructs.27: "Talk about"
+AE_ID IS1007d.D.argumentstructs.Daan.15: "I mean that what you are sayin that's what the design"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.11
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.16
+source=IS1007d.D.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.3:
+"So let's remove it."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.11: "Uh uh uh there w there was a there was a issue here is that what are what is the display on the L_C_D_ ?"
+AE_ID IS1007d.B.argumentstructs.Daan.12: "We haven't really uh determined  what are  actually actually it's good to have a L_C_D_ but what are we gonna display on a L_C_D_ ?"
+AE_ID IS1007d.C.argumentstructs.27: "Talk about"
+AE_ID IS1007d.D.argumentstructs.Daan.15: "I mean that what you are sayin that's what the design"
+AE_ID IS1007d.D.argumentstructs.Daan.16: "No it's like this, I mean on the L_C_D_, according to what I understand from your model is, you have a joystick here, and you have L_C_D_, you just press your joystick, you get here a programme. Uh then"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID IS1007d.B.argumentstructs.Daan.12
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.3
+source=IS1007d.B.argumentstructs.Daan.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.33:
+"Yeah ? Yeah. Yeah but"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.12: "We haven't really uh determined  what are  actually actually it's good to have a L_C_D_ but what are we gonna display on a L_C_D_ ?"
+AE_ID IS1007d.C.argumentstructs.27: "Talk about"
+AE_ID IS1007d.D.argumentstructs.Daan.15: "I mean that what you are sayin that's what the design"
+AE_ID IS1007d.D.argumentstructs.Daan.16: "No it's like this, I mean on the L_C_D_, according to what I understand from your model is, you have a joystick here, and you have L_C_D_, you just press your joystick, you get here a programme. Uh then"
+AE_ID IS1007d.A.argumentstructs.Daan.3: "So let's remove it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.12
+---------------------------------
+target=IS1007d.B.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.10:
+"Yeah but you have the same programme on the T_V_ screen."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.27: "Talk about"
+AE_ID IS1007d.D.argumentstructs.Daan.15: "I mean that what you are sayin that's what the design"
+AE_ID IS1007d.D.argumentstructs.Daan.16: "No it's like this, I mean on the L_C_D_, according to what I understand from your model is, you have a joystick here, and you have L_C_D_, you just press your joystick, you get here a programme. Uh then"
+AE_ID IS1007d.A.argumentstructs.Daan.3: "So let's remove it."
+AE_ID IS1007d.B.argumentstructs.33: "Yeah ? Yeah. Yeah but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.33
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.10
+source=IS1007d.D.argumentstructs.Daan.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.19:
+"But"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.15: "I mean that what you are sayin that's what the design"
+AE_ID IS1007d.D.argumentstructs.Daan.16: "No it's like this, I mean on the L_C_D_, according to what I understand from your model is, you have a joystick here, and you have L_C_D_, you just press your joystick, you get here a programme. Uh then"
+AE_ID IS1007d.A.argumentstructs.Daan.3: "So let's remove it."
+AE_ID IS1007d.B.argumentstructs.33: "Yeah ? Yeah. Yeah but"
+AE_ID IS1007d.C.argumentstructs.Daan.10: "Yeah but you have the same programme on the T_V_ screen."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.33
+---------------------------------
+target=IS1007d.A.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.13:
+"Yes exactly."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.16: "No it's like this, I mean on the L_C_D_, according to what I understand from your model is, you have a joystick here, and you have L_C_D_, you just press your joystick, you get here a programme. Uh then"
+AE_ID IS1007d.A.argumentstructs.Daan.3: "So let's remove it."
+AE_ID IS1007d.B.argumentstructs.33: "Yeah ? Yeah. Yeah but"
+AE_ID IS1007d.C.argumentstructs.Daan.10: "Yeah but you have the same programme on the T_V_ screen."
+AE_ID IS1007d.A.argumentstructs.19: "But"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.16
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.13
+source=IS1007d.C.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.4:
+"This is the problem."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.3: "So let's remove it."
+AE_ID IS1007d.B.argumentstructs.33: "Yeah ? Yeah. Yeah but"
+AE_ID IS1007d.C.argumentstructs.Daan.10: "Yeah but you have the same programme on the T_V_ screen."
+AE_ID IS1007d.A.argumentstructs.19: "But"
+AE_ID IS1007d.B.argumentstructs.Daan.13: "Yes exactly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.3
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.4
+source=IS1007d.C.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.17:
+"No on the T_V_ you don't it doesn't display on the T_V_ now."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.33: "Yeah ? Yeah. Yeah but"
+AE_ID IS1007d.C.argumentstructs.Daan.10: "Yeah but you have the same programme on the T_V_ screen."
+AE_ID IS1007d.A.argumentstructs.19: "But"
+AE_ID IS1007d.B.argumentstructs.Daan.13: "Yes exactly."
+AE_ID IS1007d.A.argumentstructs.Daan.4: "This is the problem."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.10
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.17
+source=IS1007d.C.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.11:
+"If you have the L_C_D_, but if n"
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.10: "Yeah but you have the same programme on the T_V_ screen."
+AE_ID IS1007d.A.argumentstructs.19: "But"
+AE_ID IS1007d.B.argumentstructs.Daan.13: "Yes exactly."
+AE_ID IS1007d.A.argumentstructs.Daan.4: "This is the problem."
+AE_ID IS1007d.D.argumentstructs.Daan.17: "No on the T_V_ you don't it doesn't display on the T_V_ now."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.10
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.11
+source=IS1007d.C.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.18:
+"L_C_D_ ? Then uh there is no meaning in having it on the T_V_. Or then again you have a channels, volume and all the stuff and what a"
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.19: "But"
+AE_ID IS1007d.B.argumentstructs.Daan.13: "Yes exactly."
+AE_ID IS1007d.A.argumentstructs.Daan.4: "This is the problem."
+AE_ID IS1007d.D.argumentstructs.Daan.17: "No on the T_V_ you don't it doesn't display on the T_V_ now."
+AE_ID IS1007d.C.argumentstructs.Daan.11: "If you have the L_C_D_, but if n"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.17
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.18
+source=IS1007d.C.argumentstructs.Daan.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.28:
+"Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.13: "Yes exactly."
+AE_ID IS1007d.A.argumentstructs.Daan.4: "This is the problem."
+AE_ID IS1007d.D.argumentstructs.Daan.17: "No on the T_V_ you don't it doesn't display on the T_V_ now."
+AE_ID IS1007d.C.argumentstructs.Daan.11: "If you have the L_C_D_, but if n"
+AE_ID IS1007d.D.argumentstructs.Daan.18: "L_C_D_ ? Then uh there is no meaning in having it on the T_V_. Or then again you have a channels, volume and all the stuff and what a"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.13
+---------------------------------
+target=IS1007d.C.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.14:
+"But you cannot display all on a L_C_D_."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.4: "This is the problem."
+AE_ID IS1007d.D.argumentstructs.Daan.17: "No on the T_V_ you don't it doesn't display on the T_V_ now."
+AE_ID IS1007d.C.argumentstructs.Daan.11: "If you have the L_C_D_, but if n"
+AE_ID IS1007d.D.argumentstructs.Daan.18: "L_C_D_ ? Then uh there is no meaning in having it on the T_V_. Or then again you have a channels, volume and all the stuff and what a"
+AE_ID IS1007d.C.argumentstructs.28: "Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.17
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.14
+source=IS1007d.D.argumentstructs.Daan.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.19:
+"I mean that depends upon your design, so"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.17: "No on the T_V_ you don't it doesn't display on the T_V_ now."
+AE_ID IS1007d.C.argumentstructs.Daan.11: "If you have the L_C_D_, but if n"
+AE_ID IS1007d.D.argumentstructs.Daan.18: "L_C_D_ ? Then uh there is no meaning in having it on the T_V_. Or then again you have a channels, volume and all the stuff and what a"
+AE_ID IS1007d.C.argumentstructs.28: "Yeah. Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.14: "But you cannot display all on a L_C_D_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.18
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.19
+source=IS1007d.D.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.15:
+"Anyway for for the users who who who opt for L_C_D_"
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.11: "If you have the L_C_D_, but if n"
+AE_ID IS1007d.D.argumentstructs.Daan.18: "L_C_D_ ? Then uh there is no meaning in having it on the T_V_. Or then again you have a channels, volume and all the stuff and what a"
+AE_ID IS1007d.C.argumentstructs.28: "Yeah. Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.14: "But you cannot display all on a L_C_D_."
+AE_ID IS1007d.D.argumentstructs.Daan.19: "I mean that depends upon your design, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.14
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.15
+source=IS1007d.B.argumentstructs.Daan.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.16:
+"we'll give them the give them the L_C_D_, we give what the customer uh wants, right."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.18: "L_C_D_ ? Then uh there is no meaning in having it on the T_V_. Or then again you have a channels, volume and all the stuff and what a"
+AE_ID IS1007d.C.argumentstructs.28: "Yeah. Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.14: "But you cannot display all on a L_C_D_."
+AE_ID IS1007d.D.argumentstructs.Daan.19: "I mean that depends upon your design, so"
+AE_ID IS1007d.B.argumentstructs.Daan.15: "Anyway for for the users who who who opt for L_C_D_"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.14
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.16
+source=IS1007d.B.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.40:
+"I mean"
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.28: "Yeah. Yeah."
+AE_ID IS1007d.B.argumentstructs.Daan.14: "But you cannot display all on a L_C_D_."
+AE_ID IS1007d.D.argumentstructs.Daan.19: "I mean that depends upon your design, so"
+AE_ID IS1007d.B.argumentstructs.Daan.15: "Anyway for for the users who who who opt for L_C_D_"
+AE_ID IS1007d.B.argumentstructs.Daan.16: "we'll give them the give them the L_C_D_, we give what the customer uh wants, right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.19
+---------------------------------
+target=IS1007d.D.argumentstructs.40
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.20:
+"So without L_C_D_ you want to put it fi the same level of innovativeness ?"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.14: "But you cannot display all on a L_C_D_."
+AE_ID IS1007d.D.argumentstructs.Daan.19: "I mean that depends upon your design, so"
+AE_ID IS1007d.B.argumentstructs.Daan.15: "Anyway for for the users who who who opt for L_C_D_"
+AE_ID IS1007d.B.argumentstructs.Daan.16: "we'll give them the give them the L_C_D_, we give what the customer uh wants, right."
+AE_ID IS1007d.D.argumentstructs.40: "I mean"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.15
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.20
+source=IS1007d.B.argumentstructs.Daan.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.21:
+"And which  do you recommend e easy to use, with L_C_D_ or without L_C_D_ ?"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.19: "I mean that depends upon your design, so"
+AE_ID IS1007d.B.argumentstructs.Daan.15: "Anyway for for the users who who who opt for L_C_D_"
+AE_ID IS1007d.B.argumentstructs.Daan.16: "we'll give them the give them the L_C_D_, we give what the customer uh wants, right."
+AE_ID IS1007d.D.argumentstructs.40: "I mean"
+AE_ID IS1007d.D.argumentstructs.Daan.20: "So without L_C_D_ you want to put it fi the same level of innovativeness ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.15
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.21
+source=IS1007d.D.argumentstructs.Daan.20
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.12:
+"Well I think both are really easy to use because there are few button buttons, and uh well t p the menu are clear, well-organised, so"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.15: "Anyway for for the users who who who opt for L_C_D_"
+AE_ID IS1007d.B.argumentstructs.Daan.16: "we'll give them the give them the L_C_D_, we give what the customer uh wants, right."
+AE_ID IS1007d.D.argumentstructs.40: "I mean"
+AE_ID IS1007d.D.argumentstructs.Daan.20: "So without L_C_D_ you want to put it fi the same level of innovativeness ?"
+AE_ID IS1007d.D.argumentstructs.Daan.21: "And which  do you recommend e easy to use, with L_C_D_ or without L_C_D_ ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.21
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.12
+source=IS1007d.D.argumentstructs.Daan.21
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.13:
+"Well with little knowing of the technology you can you can easily use the product so I will give a six for the easy to use."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.16: "we'll give them the give them the L_C_D_, we give what the customer uh wants, right."
+AE_ID IS1007d.D.argumentstructs.40: "I mean"
+AE_ID IS1007d.D.argumentstructs.Daan.20: "So without L_C_D_ you want to put it fi the same level of innovativeness ?"
+AE_ID IS1007d.D.argumentstructs.Daan.21: "And which  do you recommend e easy to use, with L_C_D_ or without L_C_D_ ?"
+AE_ID IS1007d.C.argumentstructs.Daan.12: "Well I think both are really easy to use because there are few button buttons, and uh well t p the menu are clear, well-organised, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.12
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.13
+source=IS1007d.C.argumentstructs.Daan.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.5:
+"No it's just if I I see the the f the rate I think it's better to do it without L_C_D_."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.40: "I mean"
+AE_ID IS1007d.D.argumentstructs.Daan.20: "So without L_C_D_ you want to put it fi the same level of innovativeness ?"
+AE_ID IS1007d.D.argumentstructs.Daan.21: "And which  do you recommend e easy to use, with L_C_D_ or without L_C_D_ ?"
+AE_ID IS1007d.C.argumentstructs.Daan.12: "Well I think both are really easy to use because there are few button buttons, and uh well t p the menu are clear, well-organised, so"
+AE_ID IS1007d.C.argumentstructs.Daan.13: "Well with little knowing of the technology you can you can easily use the product so I will give a six for the easy to use."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.21
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.5
+source=IS1007d.C.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.6:
+"Because that's with L_C_D_ just will increase the price, and I thi i they have the same rate so without L_C_D_ it will be"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.20: "So without L_C_D_ you want to put it fi the same level of innovativeness ?"
+AE_ID IS1007d.D.argumentstructs.Daan.21: "And which  do you recommend e easy to use, with L_C_D_ or without L_C_D_ ?"
+AE_ID IS1007d.C.argumentstructs.Daan.12: "Well I think both are really easy to use because there are few button buttons, and uh well t p the menu are clear, well-organised, so"
+AE_ID IS1007d.C.argumentstructs.Daan.13: "Well with little knowing of the technology you can you can easily use the product so I will give a six for the easy to use."
+AE_ID IS1007d.A.argumentstructs.Daan.5: "No it's just if I I see the the f the rate I think it's better to do it without L_C_D_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.5
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.6
+source=IS1007d.A.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.41:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.21: "And which  do you recommend e easy to use, with L_C_D_ or without L_C_D_ ?"
+AE_ID IS1007d.C.argumentstructs.Daan.12: "Well I think both are really easy to use because there are few button buttons, and uh well t p the menu are clear, well-organised, so"
+AE_ID IS1007d.C.argumentstructs.Daan.13: "Well with little knowing of the technology you can you can easily use the product so I will give a six for the easy to use."
+AE_ID IS1007d.A.argumentstructs.Daan.5: "No it's just if I I see the the f the rate I think it's better to do it without L_C_D_."
+AE_ID IS1007d.A.argumentstructs.Daan.6: "Because that's with L_C_D_ just will increase the price, and I thi i they have the same rate so without L_C_D_ it will be"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.21
+---------------------------------
+target=IS1007d.D.argumentstructs.41
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.22:
+"Or we can just go back to the previous slide uh where we ha we have a few updates. So I mean in the product design you could just amend it to make some few changes according to fruit and vegetable or a spongy touch without L_C_D_ and without speech recognition. Even then our product is going to be very good. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.12: "Well I think both are really easy to use because there are few button buttons, and uh well t p the menu are clear, well-organised, so"
+AE_ID IS1007d.C.argumentstructs.Daan.13: "Well with little knowing of the technology you can you can easily use the product so I will give a six for the easy to use."
+AE_ID IS1007d.A.argumentstructs.Daan.5: "No it's just if I I see the the f the rate I think it's better to do it without L_C_D_."
+AE_ID IS1007d.A.argumentstructs.Daan.6: "Because that's with L_C_D_ just will increase the price, and I thi i they have the same rate so without L_C_D_ it will be"
+AE_ID IS1007d.D.argumentstructs.41: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.5
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.22
+source=IS1007d.A.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.14:
+"Yeah, it's cheaper to produce."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.13: "Well with little knowing of the technology you can you can easily use the product so I will give a six for the easy to use."
+AE_ID IS1007d.A.argumentstructs.Daan.5: "No it's just if I I see the the f the rate I think it's better to do it without L_C_D_."
+AE_ID IS1007d.A.argumentstructs.Daan.6: "Because that's with L_C_D_ just will increase the price, and I thi i they have the same rate so without L_C_D_ it will be"
+AE_ID IS1007d.D.argumentstructs.41: "Yeah."
+AE_ID IS1007d.D.argumentstructs.Daan.22: "Or we can just go back to the previous slide uh where we ha we have a few updates. So I mean in the product design you could just amend it to make some few changes according to fruit and vegetable or a spongy touch without L_C_D_ and without speech recognition. Even then our product is going to be very good. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.6
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.14
+source=IS1007d.D.argumentstructs.Daan.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.34:
+"S"
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.5: "No it's just if I I see the the f the rate I think it's better to do it without L_C_D_."
+AE_ID IS1007d.A.argumentstructs.Daan.6: "Because that's with L_C_D_ just will increase the price, and I thi i they have the same rate so without L_C_D_ it will be"
+AE_ID IS1007d.D.argumentstructs.41: "Yeah."
+AE_ID IS1007d.D.argumentstructs.Daan.22: "Or we can just go back to the previous slide uh where we ha we have a few updates. So I mean in the product design you could just amend it to make some few changes according to fruit and vegetable or a spongy touch without L_C_D_ and without speech recognition. Even then our product is going to be very good. Yeah."
+AE_ID IS1007d.C.argumentstructs.Daan.14: "Yeah, it's cheaper to produce."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.5
+---------------------------------
+target=IS1007d.B.argumentstructs.34
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.15:
+"And uh if the the  well if we have less technology we have more liberty to uh for the shape and uh things like that so"
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.6: "Because that's with L_C_D_ just will increase the price, and I thi i they have the same rate so without L_C_D_ it will be"
+AE_ID IS1007d.D.argumentstructs.41: "Yeah."
+AE_ID IS1007d.D.argumentstructs.Daan.22: "Or we can just go back to the previous slide uh where we ha we have a few updates. So I mean in the product design you could just amend it to make some few changes according to fruit and vegetable or a spongy touch without L_C_D_ and without speech recognition. Even then our product is going to be very good. Yeah."
+AE_ID IS1007d.C.argumentstructs.Daan.14: "Yeah, it's cheaper to produce."
+AE_ID IS1007d.B.argumentstructs.34: "S"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.14
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.15
+source=IS1007d.D.argumentstructs.Daan.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.23:
+"Yeah that's right."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.41: "Yeah."
+AE_ID IS1007d.D.argumentstructs.Daan.22: "Or we can just go back to the previous slide uh where we ha we have a few updates. So I mean in the product design you could just amend it to make some few changes according to fruit and vegetable or a spongy touch without L_C_D_ and without speech recognition. Even then our product is going to be very good. Yeah."
+AE_ID IS1007d.C.argumentstructs.Daan.14: "Yeah, it's cheaper to produce."
+AE_ID IS1007d.B.argumentstructs.34: "S"
+AE_ID IS1007d.C.argumentstructs.Daan.15: "And uh if the the  well if we have less technology we have more liberty to uh for the shape and uh things like that so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.22
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.23
+source=IS1007d.C.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.17:
+"Yeah. I have another thing to say about the easy to use aspect. I think the easy to use uh aspect is different for different people. For the young generation easy to use may be very complicated because uh they w they wants lot of controls with lots of buttons. For kids they want simply the  s similarit for the old people they want simplicity, so that's why  we have the parental module."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.22: "Or we can just go back to the previous slide uh where we ha we have a few updates. So I mean in the product design you could just amend it to make some few changes according to fruit and vegetable or a spongy touch without L_C_D_ and without speech recognition. Even then our product is going to be very good. Yeah."
+AE_ID IS1007d.C.argumentstructs.Daan.14: "Yeah, it's cheaper to produce."
+AE_ID IS1007d.B.argumentstructs.34: "S"
+AE_ID IS1007d.C.argumentstructs.Daan.15: "And uh if the the  well if we have less technology we have more liberty to uh for the shape and uh things like that so"
+AE_ID IS1007d.D.argumentstructs.Daan.23: "Yeah that's right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.22
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.17
+source=IS1007d.C.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.29:
+"Yep. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.14: "Yeah, it's cheaper to produce."
+AE_ID IS1007d.B.argumentstructs.34: "S"
+AE_ID IS1007d.C.argumentstructs.Daan.15: "And uh if the the  well if we have less technology we have more liberty to uh for the shape and uh things like that so"
+AE_ID IS1007d.D.argumentstructs.Daan.23: "Yeah that's right."
+AE_ID IS1007d.B.argumentstructs.Daan.17: "Yeah. I have another thing to say about the easy to use aspect. I think the easy to use uh aspect is different for different people. For the young generation easy to use may be very complicated because uh they w they wants lot of controls with lots of buttons. For kids they want simply the  s similarit for the old people they want simplicity, so that's why  we have the parental module."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.15
+---------------------------------
+target=IS1007d.C.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.20:
+"Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.34: "S"
+AE_ID IS1007d.C.argumentstructs.Daan.15: "And uh if the the  well if we have less technology we have more liberty to uh for the shape and uh things like that so"
+AE_ID IS1007d.D.argumentstructs.Daan.23: "Yeah that's right."
+AE_ID IS1007d.B.argumentstructs.Daan.17: "Yeah. I have another thing to say about the easy to use aspect. I think the easy to use uh aspect is different for different people. For the young generation easy to use may be very complicated because uh they w they wants lot of controls with lots of buttons. For kids they want simply the  s similarit for the old people they want simplicity, so that's why  we have the parental module."
+AE_ID IS1007d.C.argumentstructs.29: "Yep. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.29
+---------------------------------
+target=IS1007d.A.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.24:
+"Yeah yeah that's right."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.15: "And uh if the the  well if we have less technology we have more liberty to uh for the shape and uh things like that so"
+AE_ID IS1007d.D.argumentstructs.Daan.23: "Yeah that's right."
+AE_ID IS1007d.B.argumentstructs.Daan.17: "Yeah. I have another thing to say about the easy to use aspect. I think the easy to use uh aspect is different for different people. For the young generation easy to use may be very complicated because uh they w they wants lot of controls with lots of buttons. For kids they want simply the  s similarit for the old people they want simplicity, so that's why  we have the parental module."
+AE_ID IS1007d.C.argumentstructs.29: "Yep. Yeah."
+AE_ID IS1007d.A.argumentstructs.20: "Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.23
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.24
+source=IS1007d.B.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.18:
+"Uh we can ha have  build a more complex design if if they want it, but but uh what I'm trying to say here is that the um  we have different sets of buttons for different kinds of people. So in terms of easy to use I think it's very user customisable. User customisation is very important yeah. Yeah so"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.23: "Yeah that's right."
+AE_ID IS1007d.B.argumentstructs.Daan.17: "Yeah. I have another thing to say about the easy to use aspect. I think the easy to use uh aspect is different for different people. For the young generation easy to use may be very complicated because uh they w they wants lot of controls with lots of buttons. For kids they want simply the  s similarit for the old people they want simplicity, so that's why  we have the parental module."
+AE_ID IS1007d.C.argumentstructs.29: "Yep. Yeah."
+AE_ID IS1007d.A.argumentstructs.20: "Mm-hmm. Mm-hmm."
+AE_ID IS1007d.D.argumentstructs.Daan.24: "Yeah yeah that's right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.17
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.18
+source=IS1007d.B.argumentstructs.Daan.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.25:
+"So without L_C_D_ I just take it five ?"
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.17: "Yeah. I have another thing to say about the easy to use aspect. I think the easy to use uh aspect is different for different people. For the young generation easy to use may be very complicated because uh they w they wants lot of controls with lots of buttons. For kids they want simply the  s similarit for the old people they want simplicity, so that's why  we have the parental module."
+AE_ID IS1007d.C.argumentstructs.29: "Yep. Yeah."
+AE_ID IS1007d.A.argumentstructs.20: "Mm-hmm. Mm-hmm."
+AE_ID IS1007d.D.argumentstructs.Daan.24: "Yeah yeah that's right."
+AE_ID IS1007d.B.argumentstructs.Daan.18: "Uh we can ha have  build a more complex design if if they want it, but but uh what I'm trying to say here is that the um  we have different sets of buttons for different kinds of people. So in terms of easy to use I think it's very user customisable. User customisation is very important yeah. Yeah so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.24
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.25
+source=IS1007d.D.argumentstructs.Daan.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.16:
+"Six."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.29: "Yep. Yeah."
+AE_ID IS1007d.A.argumentstructs.20: "Mm-hmm. Mm-hmm."
+AE_ID IS1007d.D.argumentstructs.Daan.24: "Yeah yeah that's right."
+AE_ID IS1007d.B.argumentstructs.Daan.18: "Uh we can ha have  build a more complex design if if they want it, but but uh what I'm trying to say here is that the um  we have different sets of buttons for different kinds of people. So in terms of easy to use I think it's very user customisable. User customisation is very important yeah. Yeah so"
+AE_ID IS1007d.D.argumentstructs.Daan.25: "So without L_C_D_ I just take it five ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.25
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.16
+source=IS1007d.D.argumentstructs.Daan.25
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.35:
+"W uh"
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.20: "Mm-hmm. Mm-hmm."
+AE_ID IS1007d.D.argumentstructs.Daan.24: "Yeah yeah that's right."
+AE_ID IS1007d.B.argumentstructs.Daan.18: "Uh we can ha have  build a more complex design if if they want it, but but uh what I'm trying to say here is that the um  we have different sets of buttons for different kinds of people. So in terms of easy to use I think it's very user customisable. User customisation is very important yeah. Yeah so"
+AE_ID IS1007d.D.argumentstructs.Daan.25: "So without L_C_D_ I just take it five ?"
+AE_ID IS1007d.C.argumentstructs.Daan.16: "Six."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.Daan.18
+---------------------------------
+target=IS1007d.B.argumentstructs.35
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.26:
+"Or you want it to be six ?"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.24: "Yeah yeah that's right."
+AE_ID IS1007d.B.argumentstructs.Daan.18: "Uh we can ha have  build a more complex design if if they want it, but but uh what I'm trying to say here is that the um  we have different sets of buttons for different kinds of people. So in terms of easy to use I think it's very user customisable. User customisation is very important yeah. Yeah so"
+AE_ID IS1007d.D.argumentstructs.Daan.25: "So without L_C_D_ I just take it five ?"
+AE_ID IS1007d.C.argumentstructs.Daan.16: "Six."
+AE_ID IS1007d.B.argumentstructs.35: "W uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.25
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.26
+source=IS1007d.C.argumentstructs.Daan.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.17:
+"Um six."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.18: "Uh we can ha have  build a more complex design if if they want it, but but uh what I'm trying to say here is that the um  we have different sets of buttons for different kinds of people. So in terms of easy to use I think it's very user customisable. User customisation is very important yeah. Yeah so"
+AE_ID IS1007d.D.argumentstructs.Daan.25: "So without L_C_D_ I just take it five ?"
+AE_ID IS1007d.C.argumentstructs.Daan.16: "Six."
+AE_ID IS1007d.B.argumentstructs.35: "W uh"
+AE_ID IS1007d.D.argumentstructs.Daan.26: "Or you want it to be six ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.16
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.17
+source=IS1007d.D.argumentstructs.Daan.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.Daan.19:
+"I think it's the same."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.25: "So without L_C_D_ I just take it five ?"
+AE_ID IS1007d.C.argumentstructs.Daan.16: "Six."
+AE_ID IS1007d.B.argumentstructs.35: "W uh"
+AE_ID IS1007d.D.argumentstructs.Daan.26: "Or you want it to be six ?"
+AE_ID IS1007d.C.argumentstructs.Daan.17: "Um six."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.17
+---------------------------------
+target=IS1007d.B.argumentstructs.Daan.19
+source=IS1007d.D.argumentstructs.Daan.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.B.argumentstructs.36:
+"Yeah. Yeah. Mm. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.16: "Six."
+AE_ID IS1007d.B.argumentstructs.35: "W uh"
+AE_ID IS1007d.D.argumentstructs.Daan.26: "Or you want it to be six ?"
+AE_ID IS1007d.C.argumentstructs.Daan.17: "Um six."
+AE_ID IS1007d.B.argumentstructs.Daan.19: "I think it's the same."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.B.argumentstructs.35
+---------------------------------
+target=IS1007d.B.argumentstructs.36
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.18:
+"Yes as you say, with better uh   yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.35: "W uh"
+AE_ID IS1007d.D.argumentstructs.Daan.26: "Or you want it to be six ?"
+AE_ID IS1007d.C.argumentstructs.Daan.17: "Um six."
+AE_ID IS1007d.B.argumentstructs.Daan.19: "I think it's the same."
+AE_ID IS1007d.B.argumentstructs.36: "Yeah. Yeah. Mm. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.17
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.18
+source=IS1007d.B.argumentstructs.Daan.19
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.Daan.7:
+"Without L_C_D_."
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.26: "Or you want it to be six ?"
+AE_ID IS1007d.C.argumentstructs.Daan.17: "Um six."
+AE_ID IS1007d.B.argumentstructs.Daan.19: "I think it's the same."
+AE_ID IS1007d.B.argumentstructs.36: "Yeah. Yeah. Mm. Yeah."
+AE_ID IS1007d.C.argumentstructs.Daan.18: "Yes as you say, with better uh   yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.17
+---------------------------------
+target=IS1007d.A.argumentstructs.Daan.7
+source=IS1007d.D.argumentstructs.Daan.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.27:
+"S s oh I think it's better to have this without L_C_D_"
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.17: "Um six."
+AE_ID IS1007d.B.argumentstructs.Daan.19: "I think it's the same."
+AE_ID IS1007d.B.argumentstructs.36: "Yeah. Yeah. Mm. Yeah."
+AE_ID IS1007d.C.argumentstructs.Daan.18: "Yes as you say, with better uh   yeah."
+AE_ID IS1007d.A.argumentstructs.Daan.7: "Without L_C_D_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.7
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.27
+source=IS1007d.A.argumentstructs.Daan.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.42:
+"."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.Daan.19: "I think it's the same."
+AE_ID IS1007d.B.argumentstructs.36: "Yeah. Yeah. Mm. Yeah."
+AE_ID IS1007d.C.argumentstructs.Daan.18: "Yes as you say, with better uh   yeah."
+AE_ID IS1007d.A.argumentstructs.Daan.7: "Without L_C_D_."
+AE_ID IS1007d.D.argumentstructs.Daan.27: "S s oh I think it's better to have this without L_C_D_"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.27
+---------------------------------
+target=IS1007d.D.argumentstructs.42
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.19:
+"And to improve the the look."
+
+Past dialogue turns:
+AE_ID IS1007d.B.argumentstructs.36: "Yeah. Yeah. Mm. Yeah."
+AE_ID IS1007d.C.argumentstructs.Daan.18: "Yes as you say, with better uh   yeah."
+AE_ID IS1007d.A.argumentstructs.Daan.7: "Without L_C_D_."
+AE_ID IS1007d.D.argumentstructs.Daan.27: "S s oh I think it's better to have this without L_C_D_"
+AE_ID IS1007d.D.argumentstructs.42: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.18
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.19
+source=IS1007d.D.argumentstructs.Daan.27
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.D.argumentstructs.Daan.28:
+"As our Programme Manager s Pro Project Manager says that without L_C_D_ it is going to reduce the cost also, and it's going to be much simpler to use."
+
+Past dialogue turns:
+AE_ID IS1007d.C.argumentstructs.Daan.18: "Yes as you say, with better uh   yeah."
+AE_ID IS1007d.A.argumentstructs.Daan.7: "Without L_C_D_."
+AE_ID IS1007d.D.argumentstructs.Daan.27: "S s oh I think it's better to have this without L_C_D_"
+AE_ID IS1007d.D.argumentstructs.42: "."
+AE_ID IS1007d.C.argumentstructs.Daan.19: "And to improve the the look."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.A.argumentstructs.Daan.7
+---------------------------------
+target=IS1007d.D.argumentstructs.Daan.28
+source=IS1007d.D.argumentstructs.Daan.27
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.A.argumentstructs.21:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007d.A.argumentstructs.Daan.7: "Without L_C_D_."
+AE_ID IS1007d.D.argumentstructs.Daan.27: "S s oh I think it's better to have this without L_C_D_"
+AE_ID IS1007d.D.argumentstructs.42: "."
+AE_ID IS1007d.C.argumentstructs.Daan.19: "And to improve the the look."
+AE_ID IS1007d.D.argumentstructs.Daan.28: "As our Programme Manager s Pro Project Manager says that without L_C_D_ it is going to reduce the cost also, and it's going to be much simpler to use."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.D.argumentstructs.Daan.27
+---------------------------------
+target=IS1007d.A.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007d.C.argumentstructs.Daan.20:
+"Yes and to give us more liberty to have a fancy look so"
+
+Past dialogue turns:
+AE_ID IS1007d.D.argumentstructs.Daan.27: "S s oh I think it's better to have this without L_C_D_"
+AE_ID IS1007d.D.argumentstructs.42: "."
+AE_ID IS1007d.C.argumentstructs.Daan.19: "And to improve the the look."
+AE_ID IS1007d.D.argumentstructs.Daan.28: "As our Programme Manager s Pro Project Manager says that without L_C_D_ it is going to reduce the cost also, and it's going to be much simpler to use."
+AE_ID IS1007d.A.argumentstructs.21: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007d.C.argumentstructs.Daan.19
+---------------------------------
+target=IS1007d.C.argumentstructs.Daan.20
+source=IS1007d.D.argumentstructs.Daan.27
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1007d-With or without LCD.csv - True Judgement Ratio: 26.53%

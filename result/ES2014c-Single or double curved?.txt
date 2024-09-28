@@ -1,0 +1,887 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.21:
+"Uh we haven't really talked about uh the curvature of the case. There's flat, there's single-curved and there's double-curved."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.21
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.52:
+"Um. Mayb"
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.21: "Uh we haven't really talked about uh the curvature of the case. There's flat, there's single-curved and there's double-curved."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.21
+---------------------------------
+target=ES2014c.B.argumentstructs.52
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.22:
+"I'm not exactly sure what these things look like."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.21: "Uh we haven't really talked about uh the curvature of the case. There's flat, there's single-curved and there's double-curved."
+AE_ID ES2014c.B.argumentstructs.52: "Um. Mayb"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.21
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.22
+source=ES2014c.C.argumentstructs.Rutger.21
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.33:
+"Maybe curves give it like the slightly more aesthetic feel ?"
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.21: "Uh we haven't really talked about uh the curvature of the case. There's flat, there's single-curved and there's double-curved."
+AE_ID ES2014c.B.argumentstructs.52: "Um. Mayb"
+AE_ID ES2014c.C.argumentstructs.Rutger.22: "I'm not exactly sure what these things look like."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.21
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.33
+source=ES2014c.C.argumentstructs.Rutger.21
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.34:
+"But the double curve wouldn't require us to perform miracles with the Plasticine."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.21: "Uh we haven't really talked about uh the curvature of the case. There's flat, there's single-curved and there's double-curved."
+AE_ID ES2014c.B.argumentstructs.52: "Um. Mayb"
+AE_ID ES2014c.C.argumentstructs.Rutger.22: "I'm not exactly sure what these things look like."
+AE_ID ES2014c.B.argumentstructs.Rutger.33: "Maybe curves give it like the slightly more aesthetic feel ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.21
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.34
+source=ES2014c.B.argumentstructs.Rutger.33
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.Rutger.27:
+"When you say d when you say double-curved, what what exactly does that mean ?"
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.21: "Uh we haven't really talked about uh the curvature of the case. There's flat, there's single-curved and there's double-curved."
+AE_ID ES2014c.B.argumentstructs.52: "Um. Mayb"
+AE_ID ES2014c.C.argumentstructs.Rutger.22: "I'm not exactly sure what these things look like."
+AE_ID ES2014c.B.argumentstructs.Rutger.33: "Maybe curves give it like the slightly more aesthetic feel ?"
+AE_ID ES2014c.B.argumentstructs.Rutger.34: "But the double curve wouldn't require us to perform miracles with the Plasticine."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.21
+---------------------------------
+target=ES2014c.D.argumentstructs.Rutger.27
+source=ES2014c.C.argumentstructs.Rutger.21
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.49:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.52: "Um. Mayb"
+AE_ID ES2014c.C.argumentstructs.Rutger.22: "I'm not exactly sure what these things look like."
+AE_ID ES2014c.B.argumentstructs.Rutger.33: "Maybe curves give it like the slightly more aesthetic feel ?"
+AE_ID ES2014c.B.argumentstructs.Rutger.34: "But the double curve wouldn't require us to perform miracles with the Plasticine."
+AE_ID ES2014c.D.argumentstructs.Rutger.27: "When you say d when you say double-curved, what what exactly does that mean ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.D.argumentstructs.Rutger.27
+---------------------------------
+target=ES2014c.D.argumentstructs.49
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.38:
+"Um I'll show you"
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.22: "I'm not exactly sure what these things look like."
+AE_ID ES2014c.B.argumentstructs.Rutger.33: "Maybe curves give it like the slightly more aesthetic feel ?"
+AE_ID ES2014c.B.argumentstructs.Rutger.34: "But the double curve wouldn't require us to perform miracles with the Plasticine."
+AE_ID ES2014c.D.argumentstructs.Rutger.27: "When you say d when you say double-curved, what what exactly does that mean ?"
+AE_ID ES2014c.D.argumentstructs.49: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.D.argumentstructs.Rutger.27
+---------------------------------
+target=ES2014c.C.argumentstructs.38
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.23:
+"the remotes that I've got."
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.Rutger.33: "Maybe curves give it like the slightly more aesthetic feel ?"
+AE_ID ES2014c.B.argumentstructs.Rutger.34: "But the double curve wouldn't require us to perform miracles with the Plasticine."
+AE_ID ES2014c.D.argumentstructs.Rutger.27: "When you say d when you say double-curved, what what exactly does that mean ?"
+AE_ID ES2014c.D.argumentstructs.49: "Okay."
+AE_ID ES2014c.C.argumentstructs.38: "Um I'll show you"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.23
+source=ES2014c.D.argumentstructs.Rutger.27
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.39:
+"Let's just get that bigger."
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.Rutger.34: "But the double curve wouldn't require us to perform miracles with the Plasticine."
+AE_ID ES2014c.D.argumentstructs.Rutger.27: "When you say d when you say double-curved, what what exactly does that mean ?"
+AE_ID ES2014c.D.argumentstructs.49: "Okay."
+AE_ID ES2014c.C.argumentstructs.38: "Um I'll show you"
+AE_ID ES2014c.C.argumentstructs.Rutger.23: "the remotes that I've got."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.38
+---------------------------------
+target=ES2014c.C.argumentstructs.39
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.24:
+"See how uh the one  Oh I'm not plugged in, am I ?  That doesn't help.  Shall I just turn it round for time ?"
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.Rutger.27: "When you say d when you say double-curved, what what exactly does that mean ?"
+AE_ID ES2014c.D.argumentstructs.49: "Okay."
+AE_ID ES2014c.C.argumentstructs.38: "Um I'll show you"
+AE_ID ES2014c.C.argumentstructs.Rutger.23: "the remotes that I've got."
+AE_ID ES2014c.C.argumentstructs.39: "Let's just get that bigger."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.23
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.24
+source=ES2014c.C.argumentstructs.Rutger.23
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.Rutger.28:
+"No you're not connected to me anymore."
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.49: "Okay."
+AE_ID ES2014c.C.argumentstructs.38: "Um I'll show you"
+AE_ID ES2014c.C.argumentstructs.Rutger.23: "the remotes that I've got."
+AE_ID ES2014c.C.argumentstructs.39: "Let's just get that bigger."
+AE_ID ES2014c.C.argumentstructs.Rutger.24: "See how uh the one  Oh I'm not plugged in, am I ?  That doesn't help.  Shall I just turn it round for time ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.24
+---------------------------------
+target=ES2014c.D.argumentstructs.Rutger.28
+source=ES2014c.C.argumentstructs.Rutger.24
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.Rutger.26:
+"One one thing to cons one thing to consider is that in some ways you want um  by having a fairly standard case it means they can all fit together on top of each other therefore for storage purposes in shops and the like and it makes it easier that you can  if you can store them up on top of each other. Whereas if you do um fancy things with it, you then gotta put it in a ca a a packaging box that that does that. And the cost of packaging could be quite important vis-a-vis the total cost of the product."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.38: "Um I'll show you"
+AE_ID ES2014c.C.argumentstructs.Rutger.23: "the remotes that I've got."
+AE_ID ES2014c.C.argumentstructs.39: "Let's just get that bigger."
+AE_ID ES2014c.C.argumentstructs.Rutger.24: "See how uh the one  Oh I'm not plugged in, am I ?  That doesn't help.  Shall I just turn it round for time ?"
+AE_ID ES2014c.D.argumentstructs.Rutger.28: "No you're not connected to me anymore."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.23
+---------------------------------
+target=ES2014c.A.argumentstructs.Rutger.26
+source=ES2014c.C.argumentstructs.Rutger.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.50:
+"That should come up."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.23: "the remotes that I've got."
+AE_ID ES2014c.C.argumentstructs.39: "Let's just get that bigger."
+AE_ID ES2014c.C.argumentstructs.Rutger.24: "See how uh the one  Oh I'm not plugged in, am I ?  That doesn't help.  Shall I just turn it round for time ?"
+AE_ID ES2014c.D.argumentstructs.Rutger.28: "No you're not connected to me anymore."
+AE_ID ES2014c.A.argumentstructs.Rutger.26: "One one thing to cons one thing to consider is that in some ways you want um  by having a fairly standard case it means they can all fit together on top of each other therefore for storage purposes in shops and the like and it makes it easier that you can  if you can store them up on top of each other. Whereas if you do um fancy things with it, you then gotta put it in a ca a a packaging box that that does that. And the cost of packaging could be quite important vis-a-vis the total cost of the product."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.24
+---------------------------------
+target=ES2014c.D.argumentstructs.50
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.Rutger.29:
+"Mm"
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.39: "Let's just get that bigger."
+AE_ID ES2014c.C.argumentstructs.Rutger.24: "See how uh the one  Oh I'm not plugged in, am I ?  That doesn't help.  Shall I just turn it round for time ?"
+AE_ID ES2014c.D.argumentstructs.Rutger.28: "No you're not connected to me anymore."
+AE_ID ES2014c.A.argumentstructs.Rutger.26: "One one thing to cons one thing to consider is that in some ways you want um  by having a fairly standard case it means they can all fit together on top of each other therefore for storage purposes in shops and the like and it makes it easier that you can  if you can store them up on top of each other. Whereas if you do um fancy things with it, you then gotta put it in a ca a a packaging box that that does that. And the cost of packaging could be quite important vis-a-vis the total cost of the product."
+AE_ID ES2014c.D.argumentstructs.50: "That should come up."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2014c.D.argumentstructs.Rutger.29
+source=ES2014c.A.argumentstructs.Rutger.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.53:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.24: "See how uh the one  Oh I'm not plugged in, am I ?  That doesn't help.  Shall I just turn it round for time ?"
+AE_ID ES2014c.D.argumentstructs.Rutger.28: "No you're not connected to me anymore."
+AE_ID ES2014c.A.argumentstructs.Rutger.26: "One one thing to cons one thing to consider is that in some ways you want um  by having a fairly standard case it means they can all fit together on top of each other therefore for storage purposes in shops and the like and it makes it easier that you can  if you can store them up on top of each other. Whereas if you do um fancy things with it, you then gotta put it in a ca a a packaging box that that does that. And the cost of packaging could be quite important vis-a-vis the total cost of the product."
+AE_ID ES2014c.D.argumentstructs.50: "That should come up."
+AE_ID ES2014c.D.argumentstructs.Rutger.29: "Mm"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.D.argumentstructs.Rutger.29
+---------------------------------
+target=ES2014c.B.argumentstructs.53
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.51:
+"."
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.Rutger.28: "No you're not connected to me anymore."
+AE_ID ES2014c.A.argumentstructs.Rutger.26: "One one thing to cons one thing to consider is that in some ways you want um  by having a fairly standard case it means they can all fit together on top of each other therefore for storage purposes in shops and the like and it makes it easier that you can  if you can store them up on top of each other. Whereas if you do um fancy things with it, you then gotta put it in a ca a a packaging box that that does that. And the cost of packaging could be quite important vis-a-vis the total cost of the product."
+AE_ID ES2014c.D.argumentstructs.50: "That should come up."
+AE_ID ES2014c.D.argumentstructs.Rutger.29: "Mm"
+AE_ID ES2014c.B.argumentstructs.53: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.D.argumentstructs.50
+---------------------------------
+target=ES2014c.D.argumentstructs.51
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.35:
+"Yeah yeah. So shall we go through quickly and just work out what we've decide on, if we have to kind of"
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.Rutger.26: "One one thing to cons one thing to consider is that in some ways you want um  by having a fairly standard case it means they can all fit together on top of each other therefore for storage purposes in shops and the like and it makes it easier that you can  if you can store them up on top of each other. Whereas if you do um fancy things with it, you then gotta put it in a ca a a packaging box that that does that. And the cost of packaging could be quite important vis-a-vis the total cost of the product."
+AE_ID ES2014c.D.argumentstructs.50: "That should come up."
+AE_ID ES2014c.D.argumentstructs.Rutger.29: "Mm"
+AE_ID ES2014c.B.argumentstructs.53: "Mm-hmm."
+AE_ID ES2014c.D.argumentstructs.51: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.A.argumentstructs.Rutger.26
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.35
+source=ES2014c.C.argumentstructs.Rutger.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.Rutger.30:
+"Mm-hmm"
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.50: "That should come up."
+AE_ID ES2014c.D.argumentstructs.Rutger.29: "Mm"
+AE_ID ES2014c.B.argumentstructs.53: "Mm-hmm."
+AE_ID ES2014c.D.argumentstructs.51: "."
+AE_ID ES2014c.B.argumentstructs.Rutger.35: "Yeah yeah. So shall we go through quickly and just work out what we've decide on, if we have to kind of"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.D.argumentstructs.Rutger.29
+---------------------------------
+target=ES2014c.D.argumentstructs.Rutger.30
+source=ES2014c.B.argumentstructs.Rutger.35
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.25:
+"Hmm."
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.Rutger.29: "Mm"
+AE_ID ES2014c.B.argumentstructs.53: "Mm-hmm."
+AE_ID ES2014c.D.argumentstructs.51: "."
+AE_ID ES2014c.B.argumentstructs.Rutger.35: "Yeah yeah. So shall we go through quickly and just work out what we've decide on, if we have to kind of"
+AE_ID ES2014c.D.argumentstructs.Rutger.30: "Mm-hmm"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.D.argumentstructs.Rutger.30
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.25
+source=ES2014c.B.argumentstructs.Rutger.35
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.52:
+". Yeah. Right."
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.53: "Mm-hmm."
+AE_ID ES2014c.D.argumentstructs.51: "."
+AE_ID ES2014c.B.argumentstructs.Rutger.35: "Yeah yeah. So shall we go through quickly and just work out what we've decide on, if we have to kind of"
+AE_ID ES2014c.D.argumentstructs.Rutger.30: "Mm-hmm"
+AE_ID ES2014c.C.argumentstructs.Rutger.25: "Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.35
+---------------------------------
+target=ES2014c.D.argumentstructs.52
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.26:
+"Um it's not very clear up there, but you can see some of them have got kind of bulges, like the second one and the end one uh where there's a curve there. I'm not exactl I don't know if a double curve is maybe it comes up slightly, or ?"
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.51: "."
+AE_ID ES2014c.B.argumentstructs.Rutger.35: "Yeah yeah. So shall we go through quickly and just work out what we've decide on, if we have to kind of"
+AE_ID ES2014c.D.argumentstructs.Rutger.30: "Mm-hmm"
+AE_ID ES2014c.C.argumentstructs.Rutger.25: "Hmm."
+AE_ID ES2014c.D.argumentstructs.52: ". Yeah. Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.25
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.26
+source=ES2014c.C.argumentstructs.Rutger.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.38:
+"No."
+
+Past dialogue turns:
+AE_ID ES2014c.B.argumentstructs.Rutger.35: "Yeah yeah. So shall we go through quickly and just work out what we've decide on, if we have to kind of"
+AE_ID ES2014c.D.argumentstructs.Rutger.30: "Mm-hmm"
+AE_ID ES2014c.C.argumentstructs.Rutger.25: "Hmm."
+AE_ID ES2014c.D.argumentstructs.52: ". Yeah. Right."
+AE_ID ES2014c.C.argumentstructs.Rutger.26: "Um it's not very clear up there, but you can see some of them have got kind of bulges, like the second one and the end one uh where there's a curve there. I'm not exactl I don't know if a double curve is maybe it comes up slightly, or ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.35
+---------------------------------
+target=ES2014c.A.argumentstructs.38
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.Rutger.27:
+"Mm yep."
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.Rutger.30: "Mm-hmm"
+AE_ID ES2014c.C.argumentstructs.Rutger.25: "Hmm."
+AE_ID ES2014c.D.argumentstructs.52: ". Yeah. Right."
+AE_ID ES2014c.C.argumentstructs.Rutger.26: "Um it's not very clear up there, but you can see some of them have got kind of bulges, like the second one and the end one uh where there's a curve there. I'm not exactl I don't know if a double curve is maybe it comes up slightly, or ?"
+AE_ID ES2014c.A.argumentstructs.38: "No."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.D.argumentstructs.Rutger.30
+---------------------------------
+target=ES2014c.A.argumentstructs.Rutger.27
+source=ES2014c.C.argumentstructs.Rutger.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.Rutger.31:
+"That's what I was trying to work out."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.25: "Hmm."
+AE_ID ES2014c.D.argumentstructs.52: ". Yeah. Right."
+AE_ID ES2014c.C.argumentstructs.Rutger.26: "Um it's not very clear up there, but you can see some of them have got kind of bulges, like the second one and the end one uh where there's a curve there. I'm not exactl I don't know if a double curve is maybe it comes up slightly, or ?"
+AE_ID ES2014c.A.argumentstructs.38: "No."
+AE_ID ES2014c.A.argumentstructs.Rutger.27: "Mm yep."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.26
+---------------------------------
+target=ES2014c.D.argumentstructs.Rutger.31
+source=ES2014c.C.argumentstructs.Rutger.26
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.27:
+"But um it is a kinda sleeker look if you've got curves in there."
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.52: ". Yeah. Right."
+AE_ID ES2014c.C.argumentstructs.Rutger.26: "Um it's not very clear up there, but you can see some of them have got kind of bulges, like the second one and the end one uh where there's a curve there. I'm not exactl I don't know if a double curve is maybe it comes up slightly, or ?"
+AE_ID ES2014c.A.argumentstructs.38: "No."
+AE_ID ES2014c.A.argumentstructs.Rutger.27: "Mm yep."
+AE_ID ES2014c.D.argumentstructs.Rutger.31: "That's what I was trying to work out."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.26
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.27
+source=ES2014c.C.argumentstructs.Rutger.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.Rutger.28:
+"Oh right."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.26: "Um it's not very clear up there, but you can see some of them have got kind of bulges, like the second one and the end one uh where there's a curve there. I'm not exactl I don't know if a double curve is maybe it comes up slightly, or ?"
+AE_ID ES2014c.A.argumentstructs.38: "No."
+AE_ID ES2014c.A.argumentstructs.Rutger.27: "Mm yep."
+AE_ID ES2014c.D.argumentstructs.Rutger.31: "That's what I was trying to work out."
+AE_ID ES2014c.C.argumentstructs.Rutger.27: "But um it is a kinda sleeker look if you've got curves in there."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.27
+---------------------------------
+target=ES2014c.A.argumentstructs.Rutger.28
+source=ES2014c.C.argumentstructs.Rutger.27
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.53:
+"Shall we"
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.38: "No."
+AE_ID ES2014c.A.argumentstructs.Rutger.27: "Mm yep."
+AE_ID ES2014c.D.argumentstructs.Rutger.31: "That's what I was trying to work out."
+AE_ID ES2014c.C.argumentstructs.Rutger.27: "But um it is a kinda sleeker look if you've got curves in there."
+AE_ID ES2014c.A.argumentstructs.Rutger.28: "Oh right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.D.argumentstructs.Rutger.31
+---------------------------------
+target=ES2014c.D.argumentstructs.53
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.Rutger.29:
+"S so do you wanna go for curves, more curves ? We're meant to be f we're meant to be finishing this meeting in about a minute or so."
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.Rutger.27: "Mm yep."
+AE_ID ES2014c.D.argumentstructs.Rutger.31: "That's what I was trying to work out."
+AE_ID ES2014c.C.argumentstructs.Rutger.27: "But um it is a kinda sleeker look if you've got curves in there."
+AE_ID ES2014c.A.argumentstructs.Rutger.28: "Oh right."
+AE_ID ES2014c.D.argumentstructs.53: "Shall we"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.27
+---------------------------------
+target=ES2014c.A.argumentstructs.Rutger.29
+source=ES2014c.C.argumentstructs.Rutger.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.28:
+"Definitely a single, maybe a double."
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.Rutger.31: "That's what I was trying to work out."
+AE_ID ES2014c.C.argumentstructs.Rutger.27: "But um it is a kinda sleeker look if you've got curves in there."
+AE_ID ES2014c.A.argumentstructs.Rutger.28: "Oh right."
+AE_ID ES2014c.D.argumentstructs.53: "Shall we"
+AE_ID ES2014c.A.argumentstructs.Rutger.29: "S so do you wanna go for curves, more curves ? We're meant to be f we're meant to be finishing this meeting in about a minute or so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.A.argumentstructs.Rutger.29
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.28
+source=ES2014c.A.argumentstructs.Rutger.29
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.Rutger.32:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.27: "But um it is a kinda sleeker look if you've got curves in there."
+AE_ID ES2014c.A.argumentstructs.Rutger.28: "Oh right."
+AE_ID ES2014c.D.argumentstructs.53: "Shall we"
+AE_ID ES2014c.A.argumentstructs.Rutger.29: "S so do you wanna go for curves, more curves ? We're meant to be f we're meant to be finishing this meeting in about a minute or so."
+AE_ID ES2014c.C.argumentstructs.Rutger.28: "Definitely a single, maybe a double."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.A.argumentstructs.Rutger.29
+---------------------------------
+target=ES2014c.D.argumentstructs.Rutger.32
+source=ES2014c.C.argumentstructs.Rutger.28
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.36:
+"'Kay, so shall we quickly"
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.Rutger.28: "Oh right."
+AE_ID ES2014c.D.argumentstructs.53: "Shall we"
+AE_ID ES2014c.A.argumentstructs.Rutger.29: "S so do you wanna go for curves, more curves ? We're meant to be f we're meant to be finishing this meeting in about a minute or so."
+AE_ID ES2014c.C.argumentstructs.Rutger.28: "Definitely a single, maybe a double."
+AE_ID ES2014c.D.argumentstructs.Rutger.32: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.D.argumentstructs.53
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.36
+source=ES2014c.C.argumentstructs.Rutger.28
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.C.argumentstructs.Rutger.29:
+"Shall we go for single curve, just to compromise ?"
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.53: "Shall we"
+AE_ID ES2014c.A.argumentstructs.Rutger.29: "S so do you wanna go for curves, more curves ? We're meant to be f we're meant to be finishing this meeting in about a minute or so."
+AE_ID ES2014c.C.argumentstructs.Rutger.28: "Definitely a single, maybe a double."
+AE_ID ES2014c.D.argumentstructs.Rutger.32: "Yeah."
+AE_ID ES2014c.B.argumentstructs.Rutger.36: "'Kay, so shall we quickly"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.28
+---------------------------------
+target=ES2014c.C.argumentstructs.Rutger.29
+source=ES2014c.C.argumentstructs.Rutger.28
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.B.argumentstructs.Rutger.37:
+"We'll go for single curve, yeah. Single curve."
+
+Past dialogue turns:
+AE_ID ES2014c.A.argumentstructs.Rutger.29: "S so do you wanna go for curves, more curves ? We're meant to be f we're meant to be finishing this meeting in about a minute or so."
+AE_ID ES2014c.C.argumentstructs.Rutger.28: "Definitely a single, maybe a double."
+AE_ID ES2014c.D.argumentstructs.Rutger.32: "Yeah."
+AE_ID ES2014c.B.argumentstructs.Rutger.36: "'Kay, so shall we quickly"
+AE_ID ES2014c.C.argumentstructs.Rutger.29: "Shall we go for single curve, just to compromise ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.29
+---------------------------------
+target=ES2014c.B.argumentstructs.Rutger.37
+source=ES2014c.C.argumentstructs.Rutger.29
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.D.argumentstructs.Rutger.33:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2014c.C.argumentstructs.Rutger.28: "Definitely a single, maybe a double."
+AE_ID ES2014c.D.argumentstructs.Rutger.32: "Yeah."
+AE_ID ES2014c.B.argumentstructs.Rutger.36: "'Kay, so shall we quickly"
+AE_ID ES2014c.C.argumentstructs.Rutger.29: "Shall we go for single curve, just to compromise ?"
+AE_ID ES2014c.B.argumentstructs.Rutger.37: "We'll go for single curve, yeah. Single curve."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.B.argumentstructs.Rutger.37
+---------------------------------
+target=ES2014c.D.argumentstructs.Rutger.33
+source=ES2014c.C.argumentstructs.Rutger.29
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2014c.A.argumentstructs.Rutger.30:
+"Okay, curved or double curved ? So it's single curved."
+
+Past dialogue turns:
+AE_ID ES2014c.D.argumentstructs.Rutger.32: "Yeah."
+AE_ID ES2014c.B.argumentstructs.Rutger.36: "'Kay, so shall we quickly"
+AE_ID ES2014c.C.argumentstructs.Rutger.29: "Shall we go for single curve, just to compromise ?"
+AE_ID ES2014c.B.argumentstructs.Rutger.37: "We'll go for single curve, yeah. Single curve."
+AE_ID ES2014c.D.argumentstructs.Rutger.33: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2014c.C.argumentstructs.Rutger.29
+---------------------------------
+target=ES2014c.A.argumentstructs.Rutger.30
+source=ES2014c.C.argumentstructs.Rutger.29
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2014c-Single or double curved?.csv - True Judgement Ratio: 33.33%

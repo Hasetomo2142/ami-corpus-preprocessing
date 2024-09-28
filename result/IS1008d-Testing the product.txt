@@ -1,0 +1,1087 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.Daan.10:
+"I think we pretty much covered everything."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1008d.D.argumentstructs.Daan.10
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.30:
+"Okay, so then uh"
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.10: "I think we pretty much covered everything."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.D.argumentstructs.Daan.10
+---------------------------------
+target=IS1008d.A.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.12:
+"Did you have something ?"
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.10: "I think we pretty much covered everything."
+AE_ID IS1008d.A.argumentstructs.30: "Okay, so then uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.D.argumentstructs.Daan.10
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.12
+source=IS1008d.D.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.Daan.10:
+"Well I was just wondering about if we're gonna do a product evaluation then what about time for redesign if the users come back and tell us no this is bad, this is bad, we want this done differently."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.10: "I think we pretty much covered everything."
+AE_ID IS1008d.A.argumentstructs.30: "Okay, so then uh"
+AE_ID IS1008d.B.argumentstructs.Daan.12: "Did you have something ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.12
+---------------------------------
+target=IS1008d.C.argumentstructs.Daan.10
+source=IS1008d.B.argumentstructs.Daan.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.13:
+"Okay uh, let's take like this. Let's proceed with this model, okay, for the for the marketing direction, okay. So no more changes will be made, okay, in this  the basic design"
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.10: "I think we pretty much covered everything."
+AE_ID IS1008d.A.argumentstructs.30: "Okay, so then uh"
+AE_ID IS1008d.B.argumentstructs.Daan.12: "Did you have something ?"
+AE_ID IS1008d.C.argumentstructs.Daan.10: "Well I was just wondering about if we're gonna do a product evaluation then what about time for redesign if the users come back and tell us no this is bad, this is bad, we want this done differently."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.10
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.13
+source=IS1008d.C.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.31:
+"."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.10: "I think we pretty much covered everything."
+AE_ID IS1008d.A.argumentstructs.30: "Okay, so then uh"
+AE_ID IS1008d.B.argumentstructs.Daan.12: "Did you have something ?"
+AE_ID IS1008d.C.argumentstructs.Daan.10: "Well I was just wondering about if we're gonna do a product evaluation then what about time for redesign if the users come back and tell us no this is bad, this is bad, we want this done differently."
+AE_ID IS1008d.A.argumentstructs.Daan.13: "Okay uh, let's take like this. Let's proceed with this model, okay, for the for the marketing direction, okay. So no more changes will be made, okay, in this  the basic design"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.30
+---------------------------------
+target=IS1008d.A.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.14:
+"Okay ? So we will introduce m this model and uh let's introduce in the market and let's take the feedback from the customers, then we can uh go for the"
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.30: "Okay, so then uh"
+AE_ID IS1008d.B.argumentstructs.Daan.12: "Did you have something ?"
+AE_ID IS1008d.C.argumentstructs.Daan.10: "Well I was just wondering about if we're gonna do a product evaluation then what about time for redesign if the users come back and tell us no this is bad, this is bad, we want this done differently."
+AE_ID IS1008d.A.argumentstructs.Daan.13: "Okay uh, let's take like this. Let's proceed with this model, okay, for the for the marketing direction, okay. So no more changes will be made, okay, in this  the basic design"
+AE_ID IS1008d.A.argumentstructs.31: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.10
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.14
+source=IS1008d.A.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.15:
+"second generation."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.12: "Did you have something ?"
+AE_ID IS1008d.C.argumentstructs.Daan.10: "Well I was just wondering about if we're gonna do a product evaluation then what about time for redesign if the users come back and tell us no this is bad, this is bad, we want this done differently."
+AE_ID IS1008d.A.argumentstructs.Daan.13: "Okay uh, let's take like this. Let's proceed with this model, okay, for the for the marketing direction, okay. So no more changes will be made, okay, in this  the basic design"
+AE_ID IS1008d.A.argumentstructs.31: "."
+AE_ID IS1008d.A.argumentstructs.Daan.14: "Okay ? So we will introduce m this model and uh let's introduce in the market and let's take the feedback from the customers, then we can uh go for the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.14
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.15
+source=IS1008d.A.argumentstructs.Daan.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.16:
+"Okay. There's no end, there's not limit. Every every custom"
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.Daan.10: "Well I was just wondering about if we're gonna do a product evaluation then what about time for redesign if the users come back and tell us no this is bad, this is bad, we want this done differently."
+AE_ID IS1008d.A.argumentstructs.Daan.13: "Okay uh, let's take like this. Let's proceed with this model, okay, for the for the marketing direction, okay. So no more changes will be made, okay, in this  the basic design"
+AE_ID IS1008d.A.argumentstructs.31: "."
+AE_ID IS1008d.A.argumentstructs.Daan.14: "Okay ? So we will introduce m this model and uh let's introduce in the market and let's take the feedback from the customers, then we can uh go for the"
+AE_ID IS1008d.A.argumentstructs.Daan.15: "second generation."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.14
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.16
+source=IS1008d.A.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.Daan.11:
+"The problem is there might not be a second generation if the first generation flops for some silly reason that we haven't thought of."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.13: "Okay uh, let's take like this. Let's proceed with this model, okay, for the for the marketing direction, okay. So no more changes will be made, okay, in this  the basic design"
+AE_ID IS1008d.A.argumentstructs.31: "."
+AE_ID IS1008d.A.argumentstructs.Daan.14: "Okay ? So we will introduce m this model and uh let's introduce in the market and let's take the feedback from the customers, then we can uh go for the"
+AE_ID IS1008d.A.argumentstructs.Daan.15: "second generation."
+AE_ID IS1008d.A.argumentstructs.Daan.16: "Okay. There's no end, there's not limit. Every every custom"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.15
+---------------------------------
+target=IS1008d.C.argumentstructs.Daan.11
+source=IS1008d.A.argumentstructs.Daan.15
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.Daan.11:
+"Well, then it may not be."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.31: "."
+AE_ID IS1008d.A.argumentstructs.Daan.14: "Okay ? So we will introduce m this model and uh let's introduce in the market and let's take the feedback from the customers, then we can uh go for the"
+AE_ID IS1008d.A.argumentstructs.Daan.15: "second generation."
+AE_ID IS1008d.A.argumentstructs.Daan.16: "Okay. There's no end, there's not limit. Every every custom"
+AE_ID IS1008d.C.argumentstructs.Daan.11: "The problem is there might not be a second generation if the first generation flops for some silly reason that we haven't thought of."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.11
+---------------------------------
+target=IS1008d.D.argumentstructs.Daan.11
+source=IS1008d.C.argumentstructs.Daan.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.32:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.14: "Okay ? So we will introduce m this model and uh let's introduce in the market and let's take the feedback from the customers, then we can uh go for the"
+AE_ID IS1008d.A.argumentstructs.Daan.15: "second generation."
+AE_ID IS1008d.A.argumentstructs.Daan.16: "Okay. There's no end, there's not limit. Every every custom"
+AE_ID IS1008d.C.argumentstructs.Daan.11: "The problem is there might not be a second generation if the first generation flops for some silly reason that we haven't thought of."
+AE_ID IS1008d.D.argumentstructs.Daan.11: "Well, then it may not be."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.14
+---------------------------------
+target=IS1008d.A.argumentstructs.32
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.17:
+"Well, every customer, okay, they have their own ideas, they have their own test, okay, so there's no end, there's no limit"
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.15: "second generation."
+AE_ID IS1008d.A.argumentstructs.Daan.16: "Okay. There's no end, there's not limit. Every every custom"
+AE_ID IS1008d.C.argumentstructs.Daan.11: "The problem is there might not be a second generation if the first generation flops for some silly reason that we haven't thought of."
+AE_ID IS1008d.D.argumentstructs.Daan.11: "Well, then it may not be."
+AE_ID IS1008d.A.argumentstructs.32: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.16
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.17
+source=IS1008d.C.argumentstructs.Daan.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.Daan.12:
+"Like people don't like wood."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.16: "Okay. There's no end, there's not limit. Every every custom"
+AE_ID IS1008d.C.argumentstructs.Daan.11: "The problem is there might not be a second generation if the first generation flops for some silly reason that we haven't thought of."
+AE_ID IS1008d.D.argumentstructs.Daan.11: "Well, then it may not be."
+AE_ID IS1008d.A.argumentstructs.32: "Okay."
+AE_ID IS1008d.A.argumentstructs.Daan.17: "Well, every customer, okay, they have their own ideas, they have their own test, okay, so there's no end, there's no limit"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1008d.D.argumentstructs.Daan.12
+source=IS1008d.A.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.33:
+"."
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.Daan.11: "The problem is there might not be a second generation if the first generation flops for some silly reason that we haven't thought of."
+AE_ID IS1008d.D.argumentstructs.Daan.11: "Well, then it may not be."
+AE_ID IS1008d.A.argumentstructs.32: "Okay."
+AE_ID IS1008d.A.argumentstructs.Daan.17: "Well, every customer, okay, they have their own ideas, they have their own test, okay, so there's no end, there's no limit"
+AE_ID IS1008d.D.argumentstructs.Daan.12: "Like people don't like wood."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.11
+---------------------------------
+target=IS1008d.A.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.Daan.12:
+"No, but there's a difference between releasing a product that has been minimally tested and fine-tuned to suit a general range of requirements versus releasing a product that we think will work but we don't really have anything to back it up."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.11: "Well, then it may not be."
+AE_ID IS1008d.A.argumentstructs.32: "Okay."
+AE_ID IS1008d.A.argumentstructs.Daan.17: "Well, every customer, okay, they have their own ideas, they have their own test, okay, so there's no end, there's no limit"
+AE_ID IS1008d.D.argumentstructs.Daan.12: "Like people don't like wood."
+AE_ID IS1008d.A.argumentstructs.33: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.D.argumentstructs.Daan.11
+---------------------------------
+target=IS1008d.C.argumentstructs.Daan.12
+source=IS1008d.A.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.16:
+"very specific. Hmm."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.32: "Okay."
+AE_ID IS1008d.A.argumentstructs.Daan.17: "Well, every customer, okay, they have their own ideas, they have their own test, okay, so there's no end, there's no limit"
+AE_ID IS1008d.D.argumentstructs.Daan.12: "Like people don't like wood."
+AE_ID IS1008d.A.argumentstructs.33: "."
+AE_ID IS1008d.C.argumentstructs.Daan.12: "No, but there's a difference between releasing a product that has been minimally tested and fine-tuned to suit a general range of requirements versus releasing a product that we think will work but we don't really have anything to back it up."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.17
+---------------------------------
+target=IS1008d.D.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.18:
+"Yeah, so that's the reason you are here for uh the design, okay, I hope you made a good design."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.17: "Well, every customer, okay, they have their own ideas, they have their own test, okay, so there's no end, there's no limit"
+AE_ID IS1008d.D.argumentstructs.Daan.12: "Like people don't like wood."
+AE_ID IS1008d.A.argumentstructs.33: "."
+AE_ID IS1008d.C.argumentstructs.Daan.12: "No, but there's a difference between releasing a product that has been minimally tested and fine-tuned to suit a general range of requirements versus releasing a product that we think will work but we don't really have anything to back it up."
+AE_ID IS1008d.D.argumentstructs.16: "very specific. Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.17
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.18
+source=IS1008d.C.argumentstructs.Daan.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.Daan.13:
+"Yes, but I'm not everybody. I mean the whole point of user evaluation is to see what real people need. We have our own motivations in mind, we have our own ideas in mind, but that doesn't mean that that's what's gonna sell."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.12: "Like people don't like wood."
+AE_ID IS1008d.A.argumentstructs.33: "."
+AE_ID IS1008d.C.argumentstructs.Daan.12: "No, but there's a difference between releasing a product that has been minimally tested and fine-tuned to suit a general range of requirements versus releasing a product that we think will work but we don't really have anything to back it up."
+AE_ID IS1008d.D.argumentstructs.16: "very specific. Hmm."
+AE_ID IS1008d.A.argumentstructs.Daan.18: "Yeah, so that's the reason you are here for uh the design, okay, I hope you made a good design."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.12
+---------------------------------
+target=IS1008d.C.argumentstructs.Daan.13
+source=IS1008d.A.argumentstructs.Daan.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.19:
+"Yeah, but uh see, we ought to take a few considerations, okay, one is the price consideration, one is future consideration, okay, like uh you can eat uh  you can all eat more chi I can eat more chilli, okay, so i it's a depends on the individual taste, you know, so we have we have to balance somewhere."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.33: "."
+AE_ID IS1008d.C.argumentstructs.Daan.12: "No, but there's a difference between releasing a product that has been minimally tested and fine-tuned to suit a general range of requirements versus releasing a product that we think will work but we don't really have anything to back it up."
+AE_ID IS1008d.D.argumentstructs.16: "very specific. Hmm."
+AE_ID IS1008d.A.argumentstructs.Daan.18: "Yeah, so that's the reason you are here for uh the design, okay, I hope you made a good design."
+AE_ID IS1008d.C.argumentstructs.Daan.13: "Yes, but I'm not everybody. I mean the whole point of user evaluation is to see what real people need. We have our own motivations in mind, we have our own ideas in mind, but that doesn't mean that that's what's gonna sell."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.13
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.19
+source=IS1008d.C.argumentstructs.Daan.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.Daan.14:
+"Yeah, of course. I'm just trying to point out that I think that your evaluation and redesign turnaround time is too short  well you have no redesign  not you personally, but in the project we have no redesign time and"
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.Daan.12: "No, but there's a difference between releasing a product that has been minimally tested and fine-tuned to suit a general range of requirements versus releasing a product that we think will work but we don't really have anything to back it up."
+AE_ID IS1008d.D.argumentstructs.16: "very specific. Hmm."
+AE_ID IS1008d.A.argumentstructs.Daan.18: "Yeah, so that's the reason you are here for uh the design, okay, I hope you made a good design."
+AE_ID IS1008d.C.argumentstructs.Daan.13: "Yes, but I'm not everybody. I mean the whole point of user evaluation is to see what real people need. We have our own motivations in mind, we have our own ideas in mind, but that doesn't mean that that's what's gonna sell."
+AE_ID IS1008d.A.argumentstructs.Daan.19: "Yeah, but uh see, we ought to take a few considerations, okay, one is the price consideration, one is future consideration, okay, like uh you can eat uh  you can all eat more chi I can eat more chilli, okay, so i it's a depends on the individual taste, you know, so we have we have to balance somewhere."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.12
+---------------------------------
+target=IS1008d.C.argumentstructs.Daan.14
+source=IS1008d.C.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.34:
+"Yes. Yeah."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.16: "very specific. Hmm."
+AE_ID IS1008d.A.argumentstructs.Daan.18: "Yeah, so that's the reason you are here for uh the design, okay, I hope you made a good design."
+AE_ID IS1008d.C.argumentstructs.Daan.13: "Yes, but I'm not everybody. I mean the whole point of user evaluation is to see what real people need. We have our own motivations in mind, we have our own ideas in mind, but that doesn't mean that that's what's gonna sell."
+AE_ID IS1008d.A.argumentstructs.Daan.19: "Yeah, but uh see, we ought to take a few considerations, okay, one is the price consideration, one is future consideration, okay, like uh you can eat uh  you can all eat more chi I can eat more chilli, okay, so i it's a depends on the individual taste, you know, so we have we have to balance somewhere."
+AE_ID IS1008d.C.argumentstructs.Daan.14: "Yeah, of course. I'm just trying to point out that I think that your evaluation and redesign turnaround time is too short  well you have no redesign  not you personally, but in the project we have no redesign time and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.18
+---------------------------------
+target=IS1008d.A.argumentstructs.34
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.25:
+"um"
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.18: "Yeah, so that's the reason you are here for uh the design, okay, I hope you made a good design."
+AE_ID IS1008d.C.argumentstructs.Daan.13: "Yes, but I'm not everybody. I mean the whole point of user evaluation is to see what real people need. We have our own motivations in mind, we have our own ideas in mind, but that doesn't mean that that's what's gonna sell."
+AE_ID IS1008d.A.argumentstructs.Daan.19: "Yeah, but uh see, we ought to take a few considerations, okay, one is the price consideration, one is future consideration, okay, like uh you can eat uh  you can all eat more chi I can eat more chilli, okay, so i it's a depends on the individual taste, you know, so we have we have to balance somewhere."
+AE_ID IS1008d.C.argumentstructs.Daan.14: "Yeah, of course. I'm just trying to point out that I think that your evaluation and redesign turnaround time is too short  well you have no redesign  not you personally, but in the project we have no redesign time and"
+AE_ID IS1008d.A.argumentstructs.34: "Yes. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.18
+---------------------------------
+target=IS1008d.B.argumentstructs.25
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.13:
+"Ed, d do you know what season of the year or time of the year is the most important for T_V_ remote control sales ?"
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.Daan.13: "Yes, but I'm not everybody. I mean the whole point of user evaluation is to see what real people need. We have our own motivations in mind, we have our own ideas in mind, but that doesn't mean that that's what's gonna sell."
+AE_ID IS1008d.A.argumentstructs.Daan.19: "Yeah, but uh see, we ought to take a few considerations, okay, one is the price consideration, one is future consideration, okay, like uh you can eat uh  you can all eat more chi I can eat more chilli, okay, so i it's a depends on the individual taste, you know, so we have we have to balance somewhere."
+AE_ID IS1008d.C.argumentstructs.Daan.14: "Yeah, of course. I'm just trying to point out that I think that your evaluation and redesign turnaround time is too short  well you have no redesign  not you personally, but in the project we have no redesign time and"
+AE_ID IS1008d.A.argumentstructs.34: "Yes. Yeah."
+AE_ID IS1008d.B.argumentstructs.25: "um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.C.argumentstructs.Daan.13
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.13
+source=IS1008d.C.argumentstructs.Daan.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.14:
+"Would it be the Christmas season by any chance ? Sports season"
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.19: "Yeah, but uh see, we ought to take a few considerations, okay, one is the price consideration, one is future consideration, okay, like uh you can eat uh  you can all eat more chi I can eat more chilli, okay, so i it's a depends on the individual taste, you know, so we have we have to balance somewhere."
+AE_ID IS1008d.C.argumentstructs.Daan.14: "Yeah, of course. I'm just trying to point out that I think that your evaluation and redesign turnaround time is too short  well you have no redesign  not you personally, but in the project we have no redesign time and"
+AE_ID IS1008d.A.argumentstructs.34: "Yes. Yeah."
+AE_ID IS1008d.B.argumentstructs.25: "um"
+AE_ID IS1008d.B.argumentstructs.Daan.13: "Ed, d do you know what season of the year or time of the year is the most important for T_V_ remote control sales ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.13
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.14
+source=IS1008d.B.argumentstructs.Daan.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.20:
+"The sports time."
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.Daan.14: "Yeah, of course. I'm just trying to point out that I think that your evaluation and redesign turnaround time is too short  well you have no redesign  not you personally, but in the project we have no redesign time and"
+AE_ID IS1008d.A.argumentstructs.34: "Yes. Yeah."
+AE_ID IS1008d.B.argumentstructs.25: "um"
+AE_ID IS1008d.B.argumentstructs.Daan.13: "Ed, d do you know what season of the year or time of the year is the most important for T_V_ remote control sales ?"
+AE_ID IS1008d.B.argumentstructs.Daan.14: "Would it be the Christmas season by any chance ? Sports season"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.14
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.20
+source=IS1008d.B.argumentstructs.Daan.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.26:
+"."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.34: "Yes. Yeah."
+AE_ID IS1008d.B.argumentstructs.25: "um"
+AE_ID IS1008d.B.argumentstructs.Daan.13: "Ed, d do you know what season of the year or time of the year is the most important for T_V_ remote control sales ?"
+AE_ID IS1008d.B.argumentstructs.Daan.14: "Would it be the Christmas season by any chance ? Sports season"
+AE_ID IS1008d.A.argumentstructs.Daan.20: "The sports time."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.34
+---------------------------------
+target=IS1008d.B.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.Daan.13:
+"Right before the Eur  the World Cup.  World soccer. World Cup soccer, they need those things that they have their hands g occupied and they need to be able to talk to the con remote control."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.25: "um"
+AE_ID IS1008d.B.argumentstructs.Daan.13: "Ed, d do you know what season of the year or time of the year is the most important for T_V_ remote control sales ?"
+AE_ID IS1008d.B.argumentstructs.Daan.14: "Would it be the Christmas season by any chance ? Sports season"
+AE_ID IS1008d.A.argumentstructs.Daan.20: "The sports time."
+AE_ID IS1008d.B.argumentstructs.26: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.14
+---------------------------------
+target=IS1008d.D.argumentstructs.Daan.13
+source=IS1008d.B.argumentstructs.Daan.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.15:
+"Which sport season ?"
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.13: "Ed, d do you know what season of the year or time of the year is the most important for T_V_ remote control sales ?"
+AE_ID IS1008d.B.argumentstructs.Daan.14: "Would it be the Christmas season by any chance ? Sports season"
+AE_ID IS1008d.A.argumentstructs.Daan.20: "The sports time."
+AE_ID IS1008d.B.argumentstructs.26: "."
+AE_ID IS1008d.D.argumentstructs.Daan.13: "Right before the Eur  the World Cup.  World soccer. World Cup soccer, they need those things that they have their hands g occupied and they need to be able to talk to the con remote control."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.14
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.15
+source=IS1008d.B.argumentstructs.Daan.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.21:
+"Football."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.14: "Would it be the Christmas season by any chance ? Sports season"
+AE_ID IS1008d.A.argumentstructs.Daan.20: "The sports time."
+AE_ID IS1008d.B.argumentstructs.26: "."
+AE_ID IS1008d.D.argumentstructs.Daan.13: "Right before the Eur  the World Cup.  World soccer. World Cup soccer, they need those things that they have their hands g occupied and they need to be able to talk to the con remote control."
+AE_ID IS1008d.B.argumentstructs.Daan.15: "Which sport season ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.20
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.21
+source=IS1008d.B.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.24:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.20: "The sports time."
+AE_ID IS1008d.B.argumentstructs.26: "."
+AE_ID IS1008d.D.argumentstructs.Daan.13: "Right before the Eur  the World Cup.  World soccer. World Cup soccer, they need those things that they have their hands g occupied and they need to be able to talk to the con remote control."
+AE_ID IS1008d.B.argumentstructs.Daan.15: "Which sport season ?"
+AE_ID IS1008d.A.argumentstructs.Daan.21: "Football."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.21
+---------------------------------
+target=IS1008d.C.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.27:
+"so maybe what"
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.26: "."
+AE_ID IS1008d.D.argumentstructs.Daan.13: "Right before the Eur  the World Cup.  World soccer. World Cup soccer, they need those things that they have their hands g occupied and they need to be able to talk to the con remote control."
+AE_ID IS1008d.B.argumentstructs.Daan.15: "Which sport season ?"
+AE_ID IS1008d.A.argumentstructs.Daan.21: "Football."
+AE_ID IS1008d.C.argumentstructs.24: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.26
+---------------------------------
+target=IS1008d.B.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.35:
+"Football. Yes. Yes. Yes. Research. Yep. Yes."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.13: "Right before the Eur  the World Cup.  World soccer. World Cup soccer, they need those things that they have their hands g occupied and they need to be able to talk to the con remote control."
+AE_ID IS1008d.B.argumentstructs.Daan.15: "Which sport season ?"
+AE_ID IS1008d.A.argumentstructs.Daan.21: "Football."
+AE_ID IS1008d.C.argumentstructs.24: "Yeah."
+AE_ID IS1008d.B.argumentstructs.27: "so maybe what"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.21
+---------------------------------
+target=IS1008d.A.argumentstructs.35
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.16:
+"So I think what we need to do is perhaps to synchronise the final  the the launch of a user-tested device with some  special event. And and then um  so that gives us a little more time perhaps then we anticipated, because I don't know when the World Cup is, but I'm sure there's gonna be one."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.15: "Which sport season ?"
+AE_ID IS1008d.A.argumentstructs.Daan.21: "Football."
+AE_ID IS1008d.C.argumentstructs.24: "Yeah."
+AE_ID IS1008d.B.argumentstructs.27: "so maybe what"
+AE_ID IS1008d.A.argumentstructs.35: "Football. Yes. Yes. Yes. Research. Yep. Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.A.argumentstructs.Daan.21
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.16
+source=IS1008d.B.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.Daan.15:
+"Yeah, that's a good idea."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.Daan.21: "Football."
+AE_ID IS1008d.C.argumentstructs.24: "Yeah."
+AE_ID IS1008d.B.argumentstructs.27: "so maybe what"
+AE_ID IS1008d.A.argumentstructs.35: "Football. Yes. Yes. Yes. Research. Yep. Yes."
+AE_ID IS1008d.B.argumentstructs.Daan.16: "So I think what we need to do is perhaps to synchronise the final  the the launch of a user-tested device with some  special event. And and then um  so that gives us a little more time perhaps then we anticipated, because I don't know when the World Cup is, but I'm sure there's gonna be one."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.16
+---------------------------------
+target=IS1008d.C.argumentstructs.Daan.15
+source=IS1008d.B.argumentstructs.Daan.16
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.D.argumentstructs.Daan.14:
+"Or any major sports."
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.24: "Yeah."
+AE_ID IS1008d.B.argumentstructs.27: "so maybe what"
+AE_ID IS1008d.A.argumentstructs.35: "Football. Yes. Yes. Yes. Research. Yep. Yes."
+AE_ID IS1008d.B.argumentstructs.Daan.16: "So I think what we need to do is perhaps to synchronise the final  the the launch of a user-tested device with some  special event. And and then um  so that gives us a little more time perhaps then we anticipated, because I don't know when the World Cup is, but I'm sure there's gonna be one."
+AE_ID IS1008d.C.argumentstructs.Daan.15: "Yeah, that's a good idea."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.16
+---------------------------------
+target=IS1008d.D.argumentstructs.Daan.14
+source=IS1008d.B.argumentstructs.Daan.16
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.17:
+"Or another  m major sports event. Probably not the um the football games coming up the end of January. I think that might be a little too aggressive um, but, so, I'm just ig uh pointing out a uh a strategy to uh do some additional user testing pri and then to launch um at a a major sports event or uh perhaps to uh also"
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.27: "so maybe what"
+AE_ID IS1008d.A.argumentstructs.35: "Football. Yes. Yes. Yes. Research. Yep. Yes."
+AE_ID IS1008d.B.argumentstructs.Daan.16: "So I think what we need to do is perhaps to synchronise the final  the the launch of a user-tested device with some  special event. And and then um  so that gives us a little more time perhaps then we anticipated, because I don't know when the World Cup is, but I'm sure there's gonna be one."
+AE_ID IS1008d.C.argumentstructs.Daan.15: "Yeah, that's a good idea."
+AE_ID IS1008d.D.argumentstructs.Daan.14: "Or any major sports."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.16
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.17
+source=IS1008d.D.argumentstructs.Daan.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.25:
+"Yeah. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1008d.A.argumentstructs.35: "Football. Yes. Yes. Yes. Research. Yep. Yes."
+AE_ID IS1008d.B.argumentstructs.Daan.16: "So I think what we need to do is perhaps to synchronise the final  the the launch of a user-tested device with some  special event. And and then um  so that gives us a little more time perhaps then we anticipated, because I don't know when the World Cup is, but I'm sure there's gonna be one."
+AE_ID IS1008d.C.argumentstructs.Daan.15: "Yeah, that's a good idea."
+AE_ID IS1008d.D.argumentstructs.Daan.14: "Or any major sports."
+AE_ID IS1008d.B.argumentstructs.Daan.17: "Or another  m major sports event. Probably not the um the football games coming up the end of January. I think that might be a little too aggressive um, but, so, I'm just ig uh pointing out a uh a strategy to uh do some additional user testing pri and then to launch um at a a major sports event or uh perhaps to uh also"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.16
+---------------------------------
+target=IS1008d.C.argumentstructs.25
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.Daan.16:
+"That's actually good place to advertise it too."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.16: "So I think what we need to do is perhaps to synchronise the final  the the launch of a user-tested device with some  special event. And and then um  so that gives us a little more time perhaps then we anticipated, because I don't know when the World Cup is, but I'm sure there's gonna be one."
+AE_ID IS1008d.C.argumentstructs.Daan.15: "Yeah, that's a good idea."
+AE_ID IS1008d.D.argumentstructs.Daan.14: "Or any major sports."
+AE_ID IS1008d.B.argumentstructs.Daan.17: "Or another  m major sports event. Probably not the um the football games coming up the end of January. I think that might be a little too aggressive um, but, so, I'm just ig uh pointing out a uh a strategy to uh do some additional user testing pri and then to launch um at a a major sports event or uh perhaps to uh also"
+AE_ID IS1008d.C.argumentstructs.25: "Yeah. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.17
+---------------------------------
+target=IS1008d.C.argumentstructs.Daan.16
+source=IS1008d.B.argumentstructs.Daan.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.18:
+"And to work with motion pictures.  There might be some motion pictures that are coming out um  that are coming out on D_V_D_ that uh they need to have a m special remote control to work with it, so we could maybe work out a campaign with uh with Sony Pictures for example. Maybe some management has got uh relationships there we can leverage."
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.Daan.15: "Yeah, that's a good idea."
+AE_ID IS1008d.D.argumentstructs.Daan.14: "Or any major sports."
+AE_ID IS1008d.B.argumentstructs.Daan.17: "Or another  m major sports event. Probably not the um the football games coming up the end of January. I think that might be a little too aggressive um, but, so, I'm just ig uh pointing out a uh a strategy to uh do some additional user testing pri and then to launch um at a a major sports event or uh perhaps to uh also"
+AE_ID IS1008d.C.argumentstructs.25: "Yeah. Mm-hmm."
+AE_ID IS1008d.C.argumentstructs.Daan.16: "That's actually good place to advertise it too."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.17
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.18
+source=IS1008d.B.argumentstructs.Daan.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.26:
+"Yeah. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1008d.D.argumentstructs.Daan.14: "Or any major sports."
+AE_ID IS1008d.B.argumentstructs.Daan.17: "Or another  m major sports event. Probably not the um the football games coming up the end of January. I think that might be a little too aggressive um, but, so, I'm just ig uh pointing out a uh a strategy to uh do some additional user testing pri and then to launch um at a a major sports event or uh perhaps to uh also"
+AE_ID IS1008d.C.argumentstructs.25: "Yeah. Mm-hmm."
+AE_ID IS1008d.C.argumentstructs.Daan.16: "That's actually good place to advertise it too."
+AE_ID IS1008d.B.argumentstructs.Daan.18: "And to work with motion pictures.  There might be some motion pictures that are coming out um  that are coming out on D_V_D_ that uh they need to have a m special remote control to work with it, so we could maybe work out a campaign with uh with Sony Pictures for example. Maybe some management has got uh relationships there we can leverage."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID IS1008d.C.argumentstructs.25
+---------------------------------
+target=IS1008d.C.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.A.argumentstructs.Daan.23:
+"Yes, the  that of course uh I will convince the management to do that, okay."
+
+Past dialogue turns:
+AE_ID IS1008d.B.argumentstructs.Daan.17: "Or another  m major sports event. Probably not the um the football games coming up the end of January. I think that might be a little too aggressive um, but, so, I'm just ig uh pointing out a uh a strategy to uh do some additional user testing pri and then to launch um at a a major sports event or uh perhaps to uh also"
+AE_ID IS1008d.C.argumentstructs.25: "Yeah. Mm-hmm."
+AE_ID IS1008d.C.argumentstructs.Daan.16: "That's actually good place to advertise it too."
+AE_ID IS1008d.B.argumentstructs.Daan.18: "And to work with motion pictures.  There might be some motion pictures that are coming out um  that are coming out on D_V_D_ that uh they need to have a m special remote control to work with it, so we could maybe work out a campaign with uh with Sony Pictures for example. Maybe some management has got uh relationships there we can leverage."
+AE_ID IS1008d.C.argumentstructs.26: "Yeah. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.18
+---------------------------------
+target=IS1008d.A.argumentstructs.Daan.23
+source=IS1008d.B.argumentstructs.Daan.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.B.argumentstructs.Daan.19:
+"That's great."
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.25: "Yeah. Mm-hmm."
+AE_ID IS1008d.C.argumentstructs.Daan.16: "That's actually good place to advertise it too."
+AE_ID IS1008d.B.argumentstructs.Daan.18: "And to work with motion pictures.  There might be some motion pictures that are coming out um  that are coming out on D_V_D_ that uh they need to have a m special remote control to work with it, so we could maybe work out a campaign with uh with Sony Pictures for example. Maybe some management has got uh relationships there we can leverage."
+AE_ID IS1008d.C.argumentstructs.26: "Yeah. Mm-hmm."
+AE_ID IS1008d.A.argumentstructs.Daan.23: "Yes, the  that of course uh I will convince the management to do that, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.18
+---------------------------------
+target=IS1008d.B.argumentstructs.Daan.19
+source=IS1008d.A.argumentstructs.Daan.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008d.C.argumentstructs.Daan.17:
+"It's just something to to keep in mind, 'cause it's really really important. A lot of products have gone out there without being properly user-tested and completely flopped, when in fact it gets re-released a few years down the line with proper testing and it takes off like crazy."
+
+Past dialogue turns:
+AE_ID IS1008d.C.argumentstructs.Daan.16: "That's actually good place to advertise it too."
+AE_ID IS1008d.B.argumentstructs.Daan.18: "And to work with motion pictures.  There might be some motion pictures that are coming out um  that are coming out on D_V_D_ that uh they need to have a m special remote control to work with it, so we could maybe work out a campaign with uh with Sony Pictures for example. Maybe some management has got uh relationships there we can leverage."
+AE_ID IS1008d.C.argumentstructs.26: "Yeah. Mm-hmm."
+AE_ID IS1008d.A.argumentstructs.Daan.23: "Yes, the  that of course uh I will convince the management to do that, okay."
+AE_ID IS1008d.B.argumentstructs.Daan.19: "That's great."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008d.B.argumentstructs.Daan.18
+---------------------------------
+target=IS1008d.C.argumentstructs.Daan.17
+source=IS1008d.C.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1008d-Testing the product.csv - True Judgement Ratio: 36.36%

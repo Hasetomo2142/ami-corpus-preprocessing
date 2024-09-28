@@ -1,0 +1,337 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.Daan.5:
+"Yeah, so I talk about the problem. And then I I look at the user manual they are a hundred pages thick, so we don't want that.  So I propose the easy to use uh prototype. You can navigate on T_V_ screen and we can  the user's preference and we need to have the T_V_ connected to internet so we end  in order to access the T_V_ programmes by X_M_L_ and we need some  to do some preprocessing. From the technical aspect, the processing should be done on the T_V_ set than on the  on the remote controller, right ?  And then we  the speech recognition as uh Harry says we may just put in  we may K_I_V_."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1007b.B.argumentstructs.Daan.5
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.A.argumentstructs.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.Daan.5: "Yeah, so I talk about the problem. And then I I look at the user manual they are a hundred pages thick, so we don't want that.  So I propose the easy to use uh prototype. You can navigate on T_V_ screen and we can  the user's preference and we need to have the T_V_ connected to internet so we end  in order to access the T_V_ programmes by X_M_L_ and we need some  to do some preprocessing. From the technical aspect, the processing should be done on the T_V_ set than on the  on the remote controller, right ?  And then we  the speech recognition as uh Harry says we may just put in  we may K_I_V_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1007b.A.argumentstructs.3
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.A.argumentstructs.Daan.1:
+"What do you mean by the pa pa processing will be done on the T_V_"
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.Daan.5: "Yeah, so I talk about the problem. And then I I look at the user manual they are a hundred pages thick, so we don't want that.  So I propose the easy to use uh prototype. You can navigate on T_V_ screen and we can  the user's preference and we need to have the T_V_ connected to internet so we end  in order to access the T_V_ programmes by X_M_L_ and we need some  to do some preprocessing. From the technical aspect, the processing should be done on the T_V_ set than on the  on the remote controller, right ?  And then we  the speech recognition as uh Harry says we may just put in  we may K_I_V_."
+AE_ID IS1007b.A.argumentstructs.3: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1007b.A.argumentstructs.Daan.1
+source=IS1007b.B.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.Daan.6:
+"Yeah, all the processing is done  the T_V_ is a compu has some processing power the"
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.Daan.5: "Yeah, so I talk about the problem. And then I I look at the user manual they are a hundred pages thick, so we don't want that.  So I propose the easy to use uh prototype. You can navigate on T_V_ screen and we can  the user's preference and we need to have the T_V_ connected to internet so we end  in order to access the T_V_ programmes by X_M_L_ and we need some  to do some preprocessing. From the technical aspect, the processing should be done on the T_V_ set than on the  on the remote controller, right ?  And then we  the speech recognition as uh Harry says we may just put in  we may K_I_V_."
+AE_ID IS1007b.A.argumentstructs.3: "Yeah."
+AE_ID IS1007b.A.argumentstructs.Daan.1: "What do you mean by the pa pa processing will be done on the T_V_"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1007b.B.argumentstructs.Daan.6
+source=IS1007b.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.A.argumentstructs.4:
+"than the"
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.Daan.5: "Yeah, so I talk about the problem. And then I I look at the user manual they are a hundred pages thick, so we don't want that.  So I propose the easy to use uh prototype. You can navigate on T_V_ screen and we can  the user's preference and we need to have the T_V_ connected to internet so we end  in order to access the T_V_ programmes by X_M_L_ and we need some  to do some preprocessing. From the technical aspect, the processing should be done on the T_V_ set than on the  on the remote controller, right ?  And then we  the speech recognition as uh Harry says we may just put in  we may K_I_V_."
+AE_ID IS1007b.A.argumentstructs.3: "Yeah."
+AE_ID IS1007b.A.argumentstructs.Daan.1: "What do you mean by the pa pa processing will be done on the T_V_"
+AE_ID IS1007b.B.argumentstructs.Daan.6: "Yeah, all the processing is done  the T_V_ is a compu has some processing power the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1007b.A.argumentstructs.4
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.C.argumentstructs.9:
+"So we have to t We have to sell a T_V_ with the remote control too."
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.Daan.5: "Yeah, so I talk about the problem. And then I I look at the user manual they are a hundred pages thick, so we don't want that.  So I propose the easy to use uh prototype. You can navigate on T_V_ screen and we can  the user's preference and we need to have the T_V_ connected to internet so we end  in order to access the T_V_ programmes by X_M_L_ and we need some  to do some preprocessing. From the technical aspect, the processing should be done on the T_V_ set than on the  on the remote controller, right ?  And then we  the speech recognition as uh Harry says we may just put in  we may K_I_V_."
+AE_ID IS1007b.A.argumentstructs.3: "Yeah."
+AE_ID IS1007b.A.argumentstructs.Daan.1: "What do you mean by the pa pa processing will be done on the T_V_"
+AE_ID IS1007b.B.argumentstructs.Daan.6: "Yeah, all the processing is done  the T_V_ is a compu has some processing power the"
+AE_ID IS1007b.A.argumentstructs.4: "than the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1007b.C.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.A.argumentstructs.Daan.2:
+"So we should have specific T_V_ ? Or ? We can use this."
+
+Past dialogue turns:
+AE_ID IS1007b.A.argumentstructs.3: "Yeah."
+AE_ID IS1007b.A.argumentstructs.Daan.1: "What do you mean by the pa pa processing will be done on the T_V_"
+AE_ID IS1007b.B.argumentstructs.Daan.6: "Yeah, all the processing is done  the T_V_ is a compu has some processing power the"
+AE_ID IS1007b.A.argumentstructs.4: "than the"
+AE_ID IS1007b.C.argumentstructs.9: "So we have to t We have to sell a T_V_ with the remote control too."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1007b.A.argumentstructs.Daan.2
+source=IS1007b.B.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.12:
+"okay. Yeah. Okay. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007b.A.argumentstructs.Daan.1: "What do you mean by the pa pa processing will be done on the T_V_"
+AE_ID IS1007b.B.argumentstructs.Daan.6: "Yeah, all the processing is done  the T_V_ is a compu has some processing power the"
+AE_ID IS1007b.A.argumentstructs.4: "than the"
+AE_ID IS1007b.C.argumentstructs.9: "So we have to t We have to sell a T_V_ with the remote control too."
+AE_ID IS1007b.A.argumentstructs.Daan.2: "So we should have specific T_V_ ? Or ? We can use this."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.B.argumentstructs.Daan.6
+---------------------------------
+target=IS1007b.B.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.D.argumentstructs.6:
+"Yeah, not the T_V_s. Yeah."
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.Daan.6: "Yeah, all the processing is done  the T_V_ is a compu has some processing power the"
+AE_ID IS1007b.A.argumentstructs.4: "than the"
+AE_ID IS1007b.C.argumentstructs.9: "So we have to t We have to sell a T_V_ with the remote control too."
+AE_ID IS1007b.A.argumentstructs.Daan.2: "So we should have specific T_V_ ? Or ? We can use this."
+AE_ID IS1007b.B.argumentstructs.12: "okay. Yeah. Okay. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.B.argumentstructs.Daan.6
+---------------------------------
+target=IS1007b.D.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.C.argumentstructs.Daan.7:
+"I think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that and we can try t to get this information on to the remote control to to do the processing on the remote control because"
+
+Past dialogue turns:
+AE_ID IS1007b.A.argumentstructs.4: "than the"
+AE_ID IS1007b.C.argumentstructs.9: "So we have to t We have to sell a T_V_ with the remote control too."
+AE_ID IS1007b.A.argumentstructs.Daan.2: "So we should have specific T_V_ ? Or ? We can use this."
+AE_ID IS1007b.B.argumentstructs.12: "okay. Yeah. Okay. Yeah."
+AE_ID IS1007b.D.argumentstructs.6: "Yeah, not the T_V_s. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.9
+---------------------------------
+target=IS1007b.C.argumentstructs.Daan.7
+source=IS1007b.A.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.Daan.7:
+"Okay. So i the processing on on the remote controller  so it can u be used in any T_V_, any conventional T_V_ sets ?"
+
+Past dialogue turns:
+AE_ID IS1007b.C.argumentstructs.9: "So we have to t We have to sell a T_V_ with the remote control too."
+AE_ID IS1007b.A.argumentstructs.Daan.2: "So we should have specific T_V_ ? Or ? We can use this."
+AE_ID IS1007b.B.argumentstructs.12: "okay. Yeah. Okay. Yeah."
+AE_ID IS1007b.D.argumentstructs.6: "Yeah, not the T_V_s. Yeah."
+AE_ID IS1007b.C.argumentstructs.Daan.7: "I think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that and we can try t to get this information on to the remote control to to do the processing on the remote control because"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.C.argumentstructs.9
+---------------------------------
+target=IS1007b.B.argumentstructs.Daan.7
+source=IS1007b.C.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.D.argumentstructs.Daan.3:
+"Yeah, that's right."
+
+Past dialogue turns:
+AE_ID IS1007b.A.argumentstructs.Daan.2: "So we should have specific T_V_ ? Or ? We can use this."
+AE_ID IS1007b.B.argumentstructs.12: "okay. Yeah. Okay. Yeah."
+AE_ID IS1007b.D.argumentstructs.6: "Yeah, not the T_V_s. Yeah."
+AE_ID IS1007b.C.argumentstructs.Daan.7: "I think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that and we can try t to get this information on to the remote control to to do the processing on the remote control because"
+AE_ID IS1007b.B.argumentstructs.Daan.7: "Okay. So i the processing on on the remote controller  so it can u be used in any T_V_, any conventional T_V_ sets ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.D.argumentstructs.6
+---------------------------------
+target=IS1007b.D.argumentstructs.Daan.3
+source=IS1007b.B.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.A.argumentstructs.5:
+". Yeah."
+
+Past dialogue turns:
+AE_ID IS1007b.B.argumentstructs.12: "okay. Yeah. Okay. Yeah."
+AE_ID IS1007b.D.argumentstructs.6: "Yeah, not the T_V_s. Yeah."
+AE_ID IS1007b.C.argumentstructs.Daan.7: "I think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that and we can try t to get this information on to the remote control to to do the processing on the remote control because"
+AE_ID IS1007b.B.argumentstructs.Daan.7: "Okay. So i the processing on on the remote controller  so it can u be used in any T_V_, any conventional T_V_ sets ?"
+AE_ID IS1007b.D.argumentstructs.Daan.3: "Yeah, that's right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.D.argumentstructs.6
+---------------------------------
+target=IS1007b.A.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007b.B.argumentstructs.13:
+"Mm. Okay."
+
+Past dialogue turns:
+AE_ID IS1007b.D.argumentstructs.6: "Yeah, not the T_V_s. Yeah."
+AE_ID IS1007b.C.argumentstructs.Daan.7: "I think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that and we can try t to get this information on to the remote control to to do the processing on the remote control because"
+AE_ID IS1007b.B.argumentstructs.Daan.7: "Okay. So i the processing on on the remote controller  so it can u be used in any T_V_, any conventional T_V_ sets ?"
+AE_ID IS1007b.D.argumentstructs.Daan.3: "Yeah, that's right."
+AE_ID IS1007b.A.argumentstructs.5: ". Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007b.D.argumentstructs.6
+---------------------------------
+target=IS1007b.B.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1007b-Program information.csv - True Judgement Ratio: 14.29%

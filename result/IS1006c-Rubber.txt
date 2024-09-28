@@ -1,0 +1,337 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.C.argumentstructs.Daan.1:
+"So, we want to go for simple push buttons because it need a simple chip and it's really lesser  uh re really less expensive compared to L_C_D_ which are uh which needs advanced chip technology and it's more expensive, since we want to put some other features such as speech recognition we want to reduce uh cost."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.C.argumentstructs.Daan.0
+---------------------------------
+target=IS1006c.C.argumentstructs.Daan.1
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.B.argumentstructs.11:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1006c.C.argumentstructs.Daan.1: "So, we want to go for simple push buttons because it need a simple chip and it's really lesser  uh re really less expensive compared to L_C_D_ which are uh which needs advanced chip technology and it's more expensive, since we want to put some other features such as speech recognition we want to reduce uh cost."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1006c.B.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.A.argumentstructs.Daan.1:
+"Um I want to know why it b uh just uh sorry but for the point before uh why not the rubber, if it is something that it seems to be light."
+
+Past dialogue turns:
+AE_ID IS1006c.C.argumentstructs.Daan.1: "So, we want to go for simple push buttons because it need a simple chip and it's really lesser  uh re really less expensive compared to L_C_D_ which are uh which needs advanced chip technology and it's more expensive, since we want to put some other features such as speech recognition we want to reduce uh cost."
+AE_ID IS1006c.B.argumentstructs.11: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1006c.A.argumentstructs.Daan.1
+source=IS1006c.C.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.D.argumentstructs.Daan.1:
+"The cost."
+
+Past dialogue turns:
+AE_ID IS1006c.C.argumentstructs.Daan.1: "So, we want to go for simple push buttons because it need a simple chip and it's really lesser  uh re really less expensive compared to L_C_D_ which are uh which needs advanced chip technology and it's more expensive, since we want to put some other features such as speech recognition we want to reduce uh cost."
+AE_ID IS1006c.B.argumentstructs.11: "Mm-hmm."
+AE_ID IS1006c.A.argumentstructs.Daan.1: "Um I want to know why it b uh just uh sorry but for the point before uh why not the rubber, if it is something that it seems to be light."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1006c.D.argumentstructs.Daan.1
+source=IS1006c.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.C.argumentstructs.16:
+"Uh"
+
+Past dialogue turns:
+AE_ID IS1006c.C.argumentstructs.Daan.1: "So, we want to go for simple push buttons because it need a simple chip and it's really lesser  uh re really less expensive compared to L_C_D_ which are uh which needs advanced chip technology and it's more expensive, since we want to put some other features such as speech recognition we want to reduce uh cost."
+AE_ID IS1006c.B.argumentstructs.11: "Mm-hmm."
+AE_ID IS1006c.A.argumentstructs.Daan.1: "Um I want to know why it b uh just uh sorry but for the point before uh why not the rubber, if it is something that it seems to be light."
+AE_ID IS1006c.D.argumentstructs.Daan.1: "The cost."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1006c.C.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.C.argumentstructs.Daan.2:
+"And also like in  if you put a  it's be difficult to do all the moulding of buttons and these things and"
+
+Past dialogue turns:
+AE_ID IS1006c.C.argumentstructs.Daan.1: "So, we want to go for simple push buttons because it need a simple chip and it's really lesser  uh re really less expensive compared to L_C_D_ which are uh which needs advanced chip technology and it's more expensive, since we want to put some other features such as speech recognition we want to reduce uh cost."
+AE_ID IS1006c.B.argumentstructs.11: "Mm-hmm."
+AE_ID IS1006c.A.argumentstructs.Daan.1: "Um I want to know why it b uh just uh sorry but for the point before uh why not the rubber, if it is something that it seems to be light."
+AE_ID IS1006c.D.argumentstructs.Daan.1: "The cost."
+AE_ID IS1006c.C.argumentstructs.16: "Uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.C.argumentstructs.Daan.1
+---------------------------------
+target=IS1006c.C.argumentstructs.Daan.2
+source=IS1006c.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.A.argumentstructs.Daan.2:
+"Okay. You m titanium it's more uh"
+
+Past dialogue turns:
+AE_ID IS1006c.B.argumentstructs.11: "Mm-hmm."
+AE_ID IS1006c.A.argumentstructs.Daan.1: "Um I want to know why it b uh just uh sorry but for the point before uh why not the rubber, if it is something that it seems to be light."
+AE_ID IS1006c.D.argumentstructs.Daan.1: "The cost."
+AE_ID IS1006c.C.argumentstructs.16: "Uh"
+AE_ID IS1006c.C.argumentstructs.Daan.2: "And also like in  if you put a  it's be difficult to do all the moulding of buttons and these things and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1006c.A.argumentstructs.Daan.2
+source=IS1006c.C.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.C.argumentstructs.17:
+"Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID IS1006c.A.argumentstructs.Daan.1: "Um I want to know why it b uh just uh sorry but for the point before uh why not the rubber, if it is something that it seems to be light."
+AE_ID IS1006c.D.argumentstructs.Daan.1: "The cost."
+AE_ID IS1006c.C.argumentstructs.16: "Uh"
+AE_ID IS1006c.C.argumentstructs.Daan.2: "And also like in  if you put a  it's be difficult to do all the moulding of buttons and these things and"
+AE_ID IS1006c.A.argumentstructs.Daan.2: "Okay. You m titanium it's more uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.C.argumentstructs.16
+---------------------------------
+target=IS1006c.C.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.B.argumentstructs.Daan.1:
+"W we can use something like you know  the whole body's titanium but there are some rubber or I dunno some rubber parts like to make it feel better and to you know"
+
+Past dialogue turns:
+AE_ID IS1006c.D.argumentstructs.Daan.1: "The cost."
+AE_ID IS1006c.C.argumentstructs.16: "Uh"
+AE_ID IS1006c.C.argumentstructs.Daan.2: "And also like in  if you put a  it's be difficult to do all the moulding of buttons and these things and"
+AE_ID IS1006c.A.argumentstructs.Daan.2: "Okay. You m titanium it's more uh"
+AE_ID IS1006c.C.argumentstructs.17: "Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.C.argumentstructs.Daan.2
+---------------------------------
+target=IS1006c.B.argumentstructs.Daan.1
+source=IS1006c.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.D.argumentstructs.14:
+"Mm like this ? Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1006c.C.argumentstructs.16: "Uh"
+AE_ID IS1006c.C.argumentstructs.Daan.2: "And also like in  if you put a  it's be difficult to do all the moulding of buttons and these things and"
+AE_ID IS1006c.A.argumentstructs.Daan.2: "Okay. You m titanium it's more uh"
+AE_ID IS1006c.C.argumentstructs.17: "Yeah. Yeah."
+AE_ID IS1006c.B.argumentstructs.Daan.1: "W we can use something like you know  the whole body's titanium but there are some rubber or I dunno some rubber parts like to make it feel better and to you know"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.C.argumentstructs.17
+---------------------------------
+target=IS1006c.D.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.C.argumentstructs.Daan.3:
+"Like in cell phones recently these  you can  with the rubber in four directions and  yeah. But full assembly"
+
+Past dialogue turns:
+AE_ID IS1006c.C.argumentstructs.Daan.2: "And also like in  if you put a  it's be difficult to do all the moulding of buttons and these things and"
+AE_ID IS1006c.A.argumentstructs.Daan.2: "Okay. You m titanium it's more uh"
+AE_ID IS1006c.C.argumentstructs.17: "Yeah. Yeah."
+AE_ID IS1006c.B.argumentstructs.Daan.1: "W we can use something like you know  the whole body's titanium but there are some rubber or I dunno some rubber parts like to make it feel better and to you know"
+AE_ID IS1006c.D.argumentstructs.14: "Mm like this ? Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1006c.C.argumentstructs.Daan.3
+source=IS1006c.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.A.argumentstructs.11:
+"Uh-huh. Okay."
+
+Past dialogue turns:
+AE_ID IS1006c.A.argumentstructs.Daan.2: "Okay. You m titanium it's more uh"
+AE_ID IS1006c.C.argumentstructs.17: "Yeah. Yeah."
+AE_ID IS1006c.B.argumentstructs.Daan.1: "W we can use something like you know  the whole body's titanium but there are some rubber or I dunno some rubber parts like to make it feel better and to you know"
+AE_ID IS1006c.D.argumentstructs.14: "Mm like this ? Mm-hmm."
+AE_ID IS1006c.C.argumentstructs.Daan.3: "Like in cell phones recently these  you can  with the rubber in four directions and  yeah. But full assembly"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1006c.A.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.B.argumentstructs.12:
+"Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID IS1006c.C.argumentstructs.17: "Yeah. Yeah."
+AE_ID IS1006c.B.argumentstructs.Daan.1: "W we can use something like you know  the whole body's titanium but there are some rubber or I dunno some rubber parts like to make it feel better and to you know"
+AE_ID IS1006c.D.argumentstructs.14: "Mm like this ? Mm-hmm."
+AE_ID IS1006c.C.argumentstructs.Daan.3: "Like in cell phones recently these  you can  with the rubber in four directions and  yeah. But full assembly"
+AE_ID IS1006c.A.argumentstructs.11: "Uh-huh. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.C.argumentstructs.17
+---------------------------------
+target=IS1006c.B.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006c.C.argumentstructs.Daan.4:
+"We'll use mainly for titanium  rubber is expensive and also it's bit difficult to do all the shapes uh. And this push buttons  we we would like to use push buttons instead of L_C_D_s and so we want to mo I mean we're  we want to put speech recognition so we want to reduce price on this technology and so that we can have enough space or enough money for"
+
+Past dialogue turns:
+AE_ID IS1006c.B.argumentstructs.Daan.1: "W we can use something like you know  the whole body's titanium but there are some rubber or I dunno some rubber parts like to make it feel better and to you know"
+AE_ID IS1006c.D.argumentstructs.14: "Mm like this ? Mm-hmm."
+AE_ID IS1006c.C.argumentstructs.Daan.3: "Like in cell phones recently these  you can  with the rubber in four directions and  yeah. But full assembly"
+AE_ID IS1006c.A.argumentstructs.11: "Uh-huh. Okay."
+AE_ID IS1006c.B.argumentstructs.12: "Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006c.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1006c.C.argumentstructs.Daan.4
+source=IS1006c.A.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1006c-Rubber.csv - True Judgement Ratio: 14.29%

@@ -1,0 +1,587 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.D.argumentstructs.Daan.3:
+"So for instance if I want to go to  directly to channel twenty five, how would I do  can I do that with this ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1006b.D.argumentstructs.Daan.3
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.B.argumentstructs.8:
+"Uh twenty five. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1006b.D.argumentstructs.Daan.3: "So for instance if I want to go to  directly to channel twenty five, how would I do  can I do that with this ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1006b.B.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.D.argumentstructs.Daan.4:
+"Yeah mm let's say I am uh on channel eight now. You know these days we have hundreds of channels, that's not so easy to go just next next next when you have hundreds of channels. Or is it ?"
+
+Past dialogue turns:
+AE_ID IS1006b.D.argumentstructs.Daan.3: "So for instance if I want to go to  directly to channel twenty five, how would I do  can I do that with this ?"
+AE_ID IS1006b.B.argumentstructs.8: "Uh twenty five. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1006b.D.argumentstructs.Daan.4
+source=IS1006b.D.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.B.argumentstructs.Daan.4:
+"In fact I would propose another solution. Basically you use just four or five channels, right ? Yeah. So uh set up your T_V_ set like channels that you use they're one, two, three and five, and you will never have to go to a twenty fives channel."
+
+Past dialogue turns:
+AE_ID IS1006b.D.argumentstructs.Daan.3: "So for instance if I want to go to  directly to channel twenty five, how would I do  can I do that with this ?"
+AE_ID IS1006b.B.argumentstructs.8: "Uh twenty five. Mm-hmm."
+AE_ID IS1006b.D.argumentstructs.Daan.4: "Yeah mm let's say I am uh on channel eight now. You know these days we have hundreds of channels, that's not so easy to go just next next next when you have hundreds of channels. Or is it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.D.argumentstructs.Daan.3
+---------------------------------
+target=IS1006b.B.argumentstructs.Daan.4
+source=IS1006b.D.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.D.argumentstructs.Daan.5:
+"Most people  yeah. In fact in in one uh remote control that I've seen, instead of doing that d you could just say these are the cha ch channel three, twenty eight, forty eight and uh sixty four are those that I want to by cycled with my next button. I uh"
+
+Past dialogue turns:
+AE_ID IS1006b.D.argumentstructs.Daan.3: "So for instance if I want to go to  directly to channel twenty five, how would I do  can I do that with this ?"
+AE_ID IS1006b.B.argumentstructs.8: "Uh twenty five. Mm-hmm."
+AE_ID IS1006b.D.argumentstructs.Daan.4: "Yeah mm let's say I am uh on channel eight now. You know these days we have hundreds of channels, that's not so easy to go just next next next when you have hundreds of channels. Or is it ?"
+AE_ID IS1006b.B.argumentstructs.Daan.4: "In fact I would propose another solution. Basically you use just four or five channels, right ? Yeah. So uh set up your T_V_ set like channels that you use they're one, two, three and five, and you will never have to go to a twenty fives channel."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.D.argumentstructs.Daan.4
+---------------------------------
+target=IS1006b.D.argumentstructs.Daan.5
+source=IS1006b.B.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.A.argumentstructs.6:
+"Yeah it's it's the same solution, I think. Hmm."
+
+Past dialogue turns:
+AE_ID IS1006b.D.argumentstructs.Daan.3: "So for instance if I want to go to  directly to channel twenty five, how would I do  can I do that with this ?"
+AE_ID IS1006b.B.argumentstructs.8: "Uh twenty five. Mm-hmm."
+AE_ID IS1006b.D.argumentstructs.Daan.4: "Yeah mm let's say I am uh on channel eight now. You know these days we have hundreds of channels, that's not so easy to go just next next next when you have hundreds of channels. Or is it ?"
+AE_ID IS1006b.B.argumentstructs.Daan.4: "In fact I would propose another solution. Basically you use just four or five channels, right ? Yeah. So uh set up your T_V_ set like channels that you use they're one, two, three and five, and you will never have to go to a twenty fives channel."
+AE_ID IS1006b.D.argumentstructs.Daan.5: "Most people  yeah. In fact in in one uh remote control that I've seen, instead of doing that d you could just say these are the cha ch channel three, twenty eight, forty eight and uh sixty four are those that I want to by cycled with my next button. I uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.B.argumentstructs.8
+---------------------------------
+target=IS1006b.A.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.C.argumentstructs.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1006b.B.argumentstructs.8: "Uh twenty five. Mm-hmm."
+AE_ID IS1006b.D.argumentstructs.Daan.4: "Yeah mm let's say I am uh on channel eight now. You know these days we have hundreds of channels, that's not so easy to go just next next next when you have hundreds of channels. Or is it ?"
+AE_ID IS1006b.B.argumentstructs.Daan.4: "In fact I would propose another solution. Basically you use just four or five channels, right ? Yeah. So uh set up your T_V_ set like channels that you use they're one, two, three and five, and you will never have to go to a twenty fives channel."
+AE_ID IS1006b.D.argumentstructs.Daan.5: "Most people  yeah. In fact in in one uh remote control that I've seen, instead of doing that d you could just say these are the cha ch channel three, twenty eight, forty eight and uh sixty four are those that I want to by cycled with my next button. I uh"
+AE_ID IS1006b.A.argumentstructs.6: "Yeah it's it's the same solution, I think. Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.A.argumentstructs.6
+---------------------------------
+target=IS1006b.C.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.D.argumentstructs.10:
+"B yeah."
+
+Past dialogue turns:
+AE_ID IS1006b.D.argumentstructs.Daan.4: "Yeah mm let's say I am uh on channel eight now. You know these days we have hundreds of channels, that's not so easy to go just next next next when you have hundreds of channels. Or is it ?"
+AE_ID IS1006b.B.argumentstructs.Daan.4: "In fact I would propose another solution. Basically you use just four or five channels, right ? Yeah. So uh set up your T_V_ set like channels that you use they're one, two, three and five, and you will never have to go to a twenty fives channel."
+AE_ID IS1006b.D.argumentstructs.Daan.5: "Most people  yeah. In fact in in one uh remote control that I've seen, instead of doing that d you could just say these are the cha ch channel three, twenty eight, forty eight and uh sixty four are those that I want to by cycled with my next button. I uh"
+AE_ID IS1006b.A.argumentstructs.6: "Yeah it's it's the same solution, I think. Hmm."
+AE_ID IS1006b.C.argumentstructs.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.D.argumentstructs.Daan.4
+---------------------------------
+target=IS1006b.D.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.C.argumentstructs.Daan.1:
+"But even we can have some uh L_C_D_ display, like you can uh de you can just button the number and then it go t because"
+
+Past dialogue turns:
+AE_ID IS1006b.B.argumentstructs.Daan.4: "In fact I would propose another solution. Basically you use just four or five channels, right ? Yeah. So uh set up your T_V_ set like channels that you use they're one, two, three and five, and you will never have to go to a twenty fives channel."
+AE_ID IS1006b.D.argumentstructs.Daan.5: "Most people  yeah. In fact in in one uh remote control that I've seen, instead of doing that d you could just say these are the cha ch channel three, twenty eight, forty eight and uh sixty four are those that I want to by cycled with my next button. I uh"
+AE_ID IS1006b.A.argumentstructs.6: "Yeah it's it's the same solution, I think. Hmm."
+AE_ID IS1006b.C.argumentstructs.5: "Yeah."
+AE_ID IS1006b.D.argumentstructs.10: "B yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1006b.C.argumentstructs.Daan.1
+source=IS1006b.D.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.D.argumentstructs.Daan.6:
+"Go to channel twenty five. One thing is that as I said in my presentation people really do like to z zap. So even if they are only watching four or five channels, I think they want to zap out of the one hundred channels, just because this is one kind of thing they do, zapping."
+
+Past dialogue turns:
+AE_ID IS1006b.D.argumentstructs.Daan.5: "Most people  yeah. In fact in in one uh remote control that I've seen, instead of doing that d you could just say these are the cha ch channel three, twenty eight, forty eight and uh sixty four are those that I want to by cycled with my next button. I uh"
+AE_ID IS1006b.A.argumentstructs.6: "Yeah it's it's the same solution, I think. Hmm."
+AE_ID IS1006b.C.argumentstructs.5: "Yeah."
+AE_ID IS1006b.D.argumentstructs.10: "B yeah."
+AE_ID IS1006b.C.argumentstructs.Daan.1: "But even we can have some uh L_C_D_ display, like you can uh de you can just button the number and then it go t because"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.D.argumentstructs.Daan.5
+---------------------------------
+target=IS1006b.D.argumentstructs.Daan.6
+source=IS1006b.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.B.argumentstructs.9:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1006b.A.argumentstructs.6: "Yeah it's it's the same solution, I think. Hmm."
+AE_ID IS1006b.C.argumentstructs.5: "Yeah."
+AE_ID IS1006b.D.argumentstructs.10: "B yeah."
+AE_ID IS1006b.C.argumentstructs.Daan.1: "But even we can have some uh L_C_D_ display, like you can uh de you can just button the number and then it go t because"
+AE_ID IS1006b.D.argumentstructs.Daan.6: "Go to channel twenty five. One thing is that as I said in my presentation people really do like to z zap. So even if they are only watching four or five channels, I think they want to zap out of the one hundred channels, just because this is one kind of thing they do, zapping."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.A.argumentstructs.6
+---------------------------------
+target=IS1006b.B.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.C.argumentstructs.6:
+"Yeah. Yeah. Yeah. Yeah.. Yeah."
+
+Past dialogue turns:
+AE_ID IS1006b.C.argumentstructs.5: "Yeah."
+AE_ID IS1006b.D.argumentstructs.10: "B yeah."
+AE_ID IS1006b.C.argumentstructs.Daan.1: "But even we can have some uh L_C_D_ display, like you can uh de you can just button the number and then it go t because"
+AE_ID IS1006b.D.argumentstructs.Daan.6: "Go to channel twenty five. One thing is that as I said in my presentation people really do like to z zap. So even if they are only watching four or five channels, I think they want to zap out of the one hundred channels, just because this is one kind of thing they do, zapping."
+AE_ID IS1006b.B.argumentstructs.9: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.C.argumentstructs.5
+---------------------------------
+target=IS1006b.C.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.A.argumentstructs.Daan.3:
+"Yeah uh on zap it's only next next next next next, yeah."
+
+Past dialogue turns:
+AE_ID IS1006b.D.argumentstructs.10: "B yeah."
+AE_ID IS1006b.C.argumentstructs.Daan.1: "But even we can have some uh L_C_D_ display, like you can uh de you can just button the number and then it go t because"
+AE_ID IS1006b.D.argumentstructs.Daan.6: "Go to channel twenty five. One thing is that as I said in my presentation people really do like to z zap. So even if they are only watching four or five channels, I think they want to zap out of the one hundred channels, just because this is one kind of thing they do, zapping."
+AE_ID IS1006b.B.argumentstructs.9: "Mm-hmm."
+AE_ID IS1006b.C.argumentstructs.6: "Yeah. Yeah. Yeah. Yeah.. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.D.argumentstructs.Daan.6
+---------------------------------
+target=IS1006b.A.argumentstructs.Daan.3
+source=IS1006b.D.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.B.argumentstructs.Daan.6:
+"Mm. We got these buttons here. Next next. Or say this can be back."
+
+Past dialogue turns:
+AE_ID IS1006b.C.argumentstructs.Daan.1: "But even we can have some uh L_C_D_ display, like you can uh de you can just button the number and then it go t because"
+AE_ID IS1006b.D.argumentstructs.Daan.6: "Go to channel twenty five. One thing is that as I said in my presentation people really do like to z zap. So even if they are only watching four or five channels, I think they want to zap out of the one hundred channels, just because this is one kind of thing they do, zapping."
+AE_ID IS1006b.B.argumentstructs.9: "Mm-hmm."
+AE_ID IS1006b.C.argumentstructs.6: "Yeah. Yeah. Yeah. Yeah.. Yeah."
+AE_ID IS1006b.A.argumentstructs.Daan.3: "Yeah uh on zap it's only next next next next next, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.A.argumentstructs.Daan.3
+---------------------------------
+target=IS1006b.B.argumentstructs.Daan.6
+source=IS1006b.A.argumentstructs.Daan.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.A.argumentstructs.7:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1006b.D.argumentstructs.Daan.6: "Go to channel twenty five. One thing is that as I said in my presentation people really do like to z zap. So even if they are only watching four or five channels, I think they want to zap out of the one hundred channels, just because this is one kind of thing they do, zapping."
+AE_ID IS1006b.B.argumentstructs.9: "Mm-hmm."
+AE_ID IS1006b.C.argumentstructs.6: "Yeah. Yeah. Yeah. Yeah.. Yeah."
+AE_ID IS1006b.A.argumentstructs.Daan.3: "Yeah uh on zap it's only next next next next next, yeah."
+AE_ID IS1006b.B.argumentstructs.Daan.6: "Mm. We got these buttons here. Next next. Or say this can be back."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.B.argumentstructs.9
+---------------------------------
+target=IS1006b.A.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.C.argumentstructs.Daan.2:
+"But otherwise like we can put some display on numbers and then they can just press  suppose two five they just press two and five and then"
+
+Past dialogue turns:
+AE_ID IS1006b.B.argumentstructs.9: "Mm-hmm."
+AE_ID IS1006b.C.argumentstructs.6: "Yeah. Yeah. Yeah. Yeah.. Yeah."
+AE_ID IS1006b.A.argumentstructs.Daan.3: "Yeah uh on zap it's only next next next next next, yeah."
+AE_ID IS1006b.B.argumentstructs.Daan.6: "Mm. We got these buttons here. Next next. Or say this can be back."
+AE_ID IS1006b.A.argumentstructs.7: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.A.argumentstructs.Daan.3
+---------------------------------
+target=IS1006b.C.argumentstructs.Daan.2
+source=IS1006b.C.argumentstructs.Daan.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.C.argumentstructs.7:
+"Yeah. Yeah. Yeah, yeah. Yeah, yeah."
+
+Past dialogue turns:
+AE_ID IS1006b.C.argumentstructs.6: "Yeah. Yeah. Yeah. Yeah.. Yeah."
+AE_ID IS1006b.A.argumentstructs.Daan.3: "Yeah uh on zap it's only next next next next next, yeah."
+AE_ID IS1006b.B.argumentstructs.Daan.6: "Mm. We got these buttons here. Next next. Or say this can be back."
+AE_ID IS1006b.A.argumentstructs.7: "Mm-hmm."
+AE_ID IS1006b.C.argumentstructs.Daan.2: "But otherwise like we can put some display on numbers and then they can just press  suppose two five they just press two and five and then"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.C.argumentstructs.6
+---------------------------------
+target=IS1006b.C.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.A.argumentstructs.Daan.2:
+"Maybe we can make uh different modes for each button and you can change mode  zapping mode or"
+
+Past dialogue turns:
+AE_ID IS1006b.A.argumentstructs.Daan.3: "Yeah uh on zap it's only next next next next next, yeah."
+AE_ID IS1006b.B.argumentstructs.Daan.6: "Mm. We got these buttons here. Next next. Or say this can be back."
+AE_ID IS1006b.A.argumentstructs.7: "Mm-hmm."
+AE_ID IS1006b.C.argumentstructs.Daan.2: "But otherwise like we can put some display on numbers and then they can just press  suppose two five they just press two and five and then"
+AE_ID IS1006b.C.argumentstructs.7: "Yeah. Yeah. Yeah, yeah. Yeah, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.A.argumentstructs.Daan.3
+---------------------------------
+target=IS1006b.A.argumentstructs.Daan.2
+source=IS1006b.D.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.A.argumentstructs.8:
+"uh current chan Yeah. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1006b.B.argumentstructs.Daan.6: "Mm. We got these buttons here. Next next. Or say this can be back."
+AE_ID IS1006b.A.argumentstructs.7: "Mm-hmm."
+AE_ID IS1006b.C.argumentstructs.Daan.2: "But otherwise like we can put some display on numbers and then they can just press  suppose two five they just press two and five and then"
+AE_ID IS1006b.C.argumentstructs.7: "Yeah. Yeah. Yeah, yeah. Yeah, yeah."
+AE_ID IS1006b.A.argumentstructs.Daan.2: "Maybe we can make uh different modes for each button and you can change mode  zapping mode or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.A.argumentstructs.7
+---------------------------------
+target=IS1006b.A.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.C.argumentstructs.Daan.3:
+"Yeah but since we are focusing only on T_V_ remote controls so we can have more functions for T_V_ uh if you want to go for a universal then we ought to limit for functions for each of our devices."
+
+Past dialogue turns:
+AE_ID IS1006b.A.argumentstructs.7: "Mm-hmm."
+AE_ID IS1006b.C.argumentstructs.Daan.2: "But otherwise like we can put some display on numbers and then they can just press  suppose two five they just press two and five and then"
+AE_ID IS1006b.C.argumentstructs.7: "Yeah. Yeah. Yeah, yeah. Yeah, yeah."
+AE_ID IS1006b.A.argumentstructs.Daan.2: "Maybe we can make uh different modes for each button and you can change mode  zapping mode or"
+AE_ID IS1006b.A.argumentstructs.8: "uh current chan Yeah. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.C.argumentstructs.Daan.2
+---------------------------------
+target=IS1006b.C.argumentstructs.Daan.3
+source=IS1006b.A.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.D.argumentstructs.11:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1006b.C.argumentstructs.Daan.2: "But otherwise like we can put some display on numbers and then they can just press  suppose two five they just press two and five and then"
+AE_ID IS1006b.C.argumentstructs.7: "Yeah. Yeah. Yeah, yeah. Yeah, yeah."
+AE_ID IS1006b.A.argumentstructs.Daan.2: "Maybe we can make uh different modes for each button and you can change mode  zapping mode or"
+AE_ID IS1006b.A.argumentstructs.8: "uh current chan Yeah. Mm-hmm."
+AE_ID IS1006b.C.argumentstructs.Daan.3: "Yeah but since we are focusing only on T_V_ remote controls so we can have more functions for T_V_ uh if you want to go for a universal then we ought to limit for functions for each of our devices."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.C.argumentstructs.7
+---------------------------------
+target=IS1006b.D.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.B.argumentstructs.Daan.5:
+"Could we carry out some research if we w really need this, like how many people really need to go to channel number twenty five and then to sixty four ?"
+
+Past dialogue turns:
+AE_ID IS1006b.C.argumentstructs.7: "Yeah. Yeah. Yeah, yeah. Yeah, yeah."
+AE_ID IS1006b.A.argumentstructs.Daan.2: "Maybe we can make uh different modes for each button and you can change mode  zapping mode or"
+AE_ID IS1006b.A.argumentstructs.8: "uh current chan Yeah. Mm-hmm."
+AE_ID IS1006b.C.argumentstructs.Daan.3: "Yeah but since we are focusing only on T_V_ remote controls so we can have more functions for T_V_ uh if you want to go for a universal then we ought to limit for functions for each of our devices."
+AE_ID IS1006b.D.argumentstructs.11: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.C.argumentstructs.7
+---------------------------------
+target=IS1006b.B.argumentstructs.Daan.5
+source=IS1006b.D.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.D.argumentstructs.Daan.7:
+"Well I could could uh have a look at that  maybe.  I'll check in my department if there's someone specialist in that."
+
+Past dialogue turns:
+AE_ID IS1006b.A.argumentstructs.Daan.2: "Maybe we can make uh different modes for each button and you can change mode  zapping mode or"
+AE_ID IS1006b.A.argumentstructs.8: "uh current chan Yeah. Mm-hmm."
+AE_ID IS1006b.C.argumentstructs.Daan.3: "Yeah but since we are focusing only on T_V_ remote controls so we can have more functions for T_V_ uh if you want to go for a universal then we ought to limit for functions for each of our devices."
+AE_ID IS1006b.D.argumentstructs.11: "Okay."
+AE_ID IS1006b.B.argumentstructs.Daan.5: "Could we carry out some research if we w really need this, like how many people really need to go to channel number twenty five and then to sixty four ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.C.argumentstructs.Daan.3
+---------------------------------
+target=IS1006b.D.argumentstructs.Daan.7
+source=IS1006b.B.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1006b.B.argumentstructs.10:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1006b.A.argumentstructs.8: "uh current chan Yeah. Mm-hmm."
+AE_ID IS1006b.C.argumentstructs.Daan.3: "Yeah but since we are focusing only on T_V_ remote controls so we can have more functions for T_V_ uh if you want to go for a universal then we ought to limit for functions for each of our devices."
+AE_ID IS1006b.D.argumentstructs.11: "Okay."
+AE_ID IS1006b.B.argumentstructs.Daan.5: "Could we carry out some research if we w really need this, like how many people really need to go to channel number twenty five and then to sixty four ?"
+AE_ID IS1006b.D.argumentstructs.Daan.7: "Well I could could uh have a look at that  maybe.  I'll check in my department if there's someone specialist in that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1006b.D.argumentstructs.11
+---------------------------------
+target=IS1006b.B.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1006b-Changing channels.csv - True Judgement Ratio: 16.67%

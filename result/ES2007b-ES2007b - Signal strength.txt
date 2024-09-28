@@ -1,0 +1,637 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.C.argumentstructs.Erik.1:
+"One question I have, and I don't know how much control we have over this is um, as far as the infra-red signal, do we have control over, you know, how far away you can be from the receiving unit, the the T_V_, and still have it be operational ? I mean, maybe we want one with a strong signal stream."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007b.C.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.Erik.1:
+"How far away is your television ?"
+
+Past dialogue turns:
+AE_ID ES2007b.C.argumentstructs.Erik.1: "One question I have, and I don't know how much control we have over this is um, as far as the infra-red signal, do we have control over, you know, how far away you can be from the receiving unit, the the T_V_, and still have it be operational ? I mean, maybe we want one with a strong signal stream."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2007b.A.argumentstructs.Erik.1
+source=ES2007b.C.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.B.argumentstructs.Erik.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007b.C.argumentstructs.Erik.1: "One question I have, and I don't know how much control we have over this is um, as far as the infra-red signal, do we have control over, you know, how far away you can be from the receiving unit, the the T_V_, and still have it be operational ? I mean, maybe we want one with a strong signal stream."
+AE_ID ES2007b.A.argumentstructs.Erik.1: "How far away is your television ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2007b.B.argumentstructs.Erik.1
+source=ES2007b.C.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.Erik.2:
+"It's never gonna be more than it's never gonna be, you kno unless you've got a T_V_ the size of a football pitch, it's not  doesn't have to go that far, does it ? Doesn't have to go through a wall, because you're not gonna be looking through a wall."
+
+Past dialogue turns:
+AE_ID ES2007b.C.argumentstructs.Erik.1: "One question I have, and I don't know how much control we have over this is um, as far as the infra-red signal, do we have control over, you know, how far away you can be from the receiving unit, the the T_V_, and still have it be operational ? I mean, maybe we want one with a strong signal stream."
+AE_ID ES2007b.A.argumentstructs.Erik.1: "How far away is your television ?"
+AE_ID ES2007b.B.argumentstructs.Erik.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2007b.A.argumentstructs.Erik.2
+source=ES2007b.A.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.C.argumentstructs.8:
+"Uh"
+
+Past dialogue turns:
+AE_ID ES2007b.C.argumentstructs.Erik.1: "One question I have, and I don't know how much control we have over this is um, as far as the infra-red signal, do we have control over, you know, how far away you can be from the receiving unit, the the T_V_, and still have it be operational ? I mean, maybe we want one with a strong signal stream."
+AE_ID ES2007b.A.argumentstructs.Erik.1: "How far away is your television ?"
+AE_ID ES2007b.B.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2007b.A.argumentstructs.Erik.2: "It's never gonna be more than it's never gonna be, you kno unless you've got a T_V_ the size of a football pitch, it's not  doesn't have to go that far, does it ? Doesn't have to go through a wall, because you're not gonna be looking through a wall."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2007b.C.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.B.argumentstructs.9:
+"Well, the thing is uh you you don't"
+
+Past dialogue turns:
+AE_ID ES2007b.C.argumentstructs.Erik.1: "One question I have, and I don't know how much control we have over this is um, as far as the infra-red signal, do we have control over, you know, how far away you can be from the receiving unit, the the T_V_, and still have it be operational ? I mean, maybe we want one with a strong signal stream."
+AE_ID ES2007b.A.argumentstructs.Erik.1: "How far away is your television ?"
+AE_ID ES2007b.B.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2007b.A.argumentstructs.Erik.2: "It's never gonna be more than it's never gonna be, you kno unless you've got a T_V_ the size of a football pitch, it's not  doesn't have to go that far, does it ? Doesn't have to go through a wall, because you're not gonna be looking through a wall."
+AE_ID ES2007b.C.argumentstructs.8: "Uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2007b.B.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.D.argumentstructs.Erik.1:
+"Yeah, but if like you're on the phone in the other room and you need turn television off or something and you don't really want to go into the  put the telephone down, and go into the other room."
+
+Past dialogue turns:
+AE_ID ES2007b.A.argumentstructs.Erik.1: "How far away is your television ?"
+AE_ID ES2007b.B.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2007b.A.argumentstructs.Erik.2: "It's never gonna be more than it's never gonna be, you kno unless you've got a T_V_ the size of a football pitch, it's not  doesn't have to go that far, does it ? Doesn't have to go through a wall, because you're not gonna be looking through a wall."
+AE_ID ES2007b.C.argumentstructs.8: "Uh"
+AE_ID ES2007b.B.argumentstructs.9: "Well, the thing is uh you you don't"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2007b.D.argumentstructs.Erik.1
+source=ES2007b.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.C.argumentstructs.Erik.2:
+"That's true."
+
+Past dialogue turns:
+AE_ID ES2007b.B.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2007b.A.argumentstructs.Erik.2: "It's never gonna be more than it's never gonna be, you kno unless you've got a T_V_ the size of a football pitch, it's not  doesn't have to go that far, does it ? Doesn't have to go through a wall, because you're not gonna be looking through a wall."
+AE_ID ES2007b.C.argumentstructs.8: "Uh"
+AE_ID ES2007b.B.argumentstructs.9: "Well, the thing is uh you you don't"
+AE_ID ES2007b.D.argumentstructs.Erik.1: "Yeah, but if like you're on the phone in the other room and you need turn television off or something and you don't really want to go into the  put the telephone down, and go into the other room."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2007b.C.argumentstructs.Erik.2
+source=ES2007b.D.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.B.argumentstructs.Erik.2:
+"Well, we can make the the signal strong enough to go through walls if if you fancy it."
+
+Past dialogue turns:
+AE_ID ES2007b.A.argumentstructs.Erik.2: "It's never gonna be more than it's never gonna be, you kno unless you've got a T_V_ the size of a football pitch, it's not  doesn't have to go that far, does it ? Doesn't have to go through a wall, because you're not gonna be looking through a wall."
+AE_ID ES2007b.C.argumentstructs.8: "Uh"
+AE_ID ES2007b.B.argumentstructs.9: "Well, the thing is uh you you don't"
+AE_ID ES2007b.D.argumentstructs.Erik.1: "Yeah, but if like you're on the phone in the other room and you need turn television off or something and you don't really want to go into the  put the telephone down, and go into the other room."
+AE_ID ES2007b.C.argumentstructs.Erik.2: "That's true."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2007b.B.argumentstructs.Erik.2
+source=ES2007b.C.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.B.argumentstructs.10:
+"I didn't think about that but"
+
+Past dialogue turns:
+AE_ID ES2007b.C.argumentstructs.8: "Uh"
+AE_ID ES2007b.B.argumentstructs.9: "Well, the thing is uh you you don't"
+AE_ID ES2007b.D.argumentstructs.Erik.1: "Yeah, but if like you're on the phone in the other room and you need turn television off or something and you don't really want to go into the  put the telephone down, and go into the other room."
+AE_ID ES2007b.C.argumentstructs.Erik.2: "That's true."
+AE_ID ES2007b.B.argumentstructs.Erik.2: "Well, we can make the the signal strong enough to go through walls if if you fancy it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2007b.B.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.D.argumentstructs.Erik.2:
+"How about Bluetooth ?"
+
+Past dialogue turns:
+AE_ID ES2007b.B.argumentstructs.9: "Well, the thing is uh you you don't"
+AE_ID ES2007b.D.argumentstructs.Erik.1: "Yeah, but if like you're on the phone in the other room and you need turn television off or something and you don't really want to go into the  put the telephone down, and go into the other room."
+AE_ID ES2007b.C.argumentstructs.Erik.2: "That's true."
+AE_ID ES2007b.B.argumentstructs.Erik.2: "Well, we can make the the signal strong enough to go through walls if if you fancy it."
+AE_ID ES2007b.B.argumentstructs.10: "I didn't think about that but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2007b.D.argumentstructs.Erik.2
+source=ES2007b.C.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.D.argumentstructs.13:
+"Instead of using infra-red,"
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.Erik.1: "Yeah, but if like you're on the phone in the other room and you need turn television off or something and you don't really want to go into the  put the telephone down, and go into the other room."
+AE_ID ES2007b.C.argumentstructs.Erik.2: "That's true."
+AE_ID ES2007b.B.argumentstructs.Erik.2: "Well, we can make the the signal strong enough to go through walls if if you fancy it."
+AE_ID ES2007b.B.argumentstructs.10: "I didn't think about that but"
+AE_ID ES2007b.D.argumentstructs.Erik.2: "How about Bluetooth ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2007b.D.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.D.argumentstructs.Erik.3:
+"use Bluetooth."
+
+Past dialogue turns:
+AE_ID ES2007b.C.argumentstructs.Erik.2: "That's true."
+AE_ID ES2007b.B.argumentstructs.Erik.2: "Well, we can make the the signal strong enough to go through walls if if you fancy it."
+AE_ID ES2007b.B.argumentstructs.10: "I didn't think about that but"
+AE_ID ES2007b.D.argumentstructs.Erik.2: "How about Bluetooth ?"
+AE_ID ES2007b.D.argumentstructs.13: "Instead of using infra-red,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2007b.D.argumentstructs.Erik.3
+source=ES2007b.D.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.B.argumentstructs.Erik.3:
+"Why not ?"
+
+Past dialogue turns:
+AE_ID ES2007b.B.argumentstructs.Erik.2: "Well, we can make the the signal strong enough to go through walls if if you fancy it."
+AE_ID ES2007b.B.argumentstructs.10: "I didn't think about that but"
+AE_ID ES2007b.D.argumentstructs.Erik.2: "How about Bluetooth ?"
+AE_ID ES2007b.D.argumentstructs.13: "Instead of using infra-red,"
+AE_ID ES2007b.D.argumentstructs.Erik.3: "use Bluetooth."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2007b.B.argumentstructs.Erik.3
+source=ES2007b.D.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.D.argumentstructs.Erik.4:
+"Isn't that a better signal ?"
+
+Past dialogue turns:
+AE_ID ES2007b.B.argumentstructs.10: "I didn't think about that but"
+AE_ID ES2007b.D.argumentstructs.Erik.2: "How about Bluetooth ?"
+AE_ID ES2007b.D.argumentstructs.13: "Instead of using infra-red,"
+AE_ID ES2007b.D.argumentstructs.Erik.3: "use Bluetooth."
+AE_ID ES2007b.B.argumentstructs.Erik.3: "Why not ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2007b.D.argumentstructs.Erik.4
+source=ES2007b.D.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.B.argumentstructs.Erik.4:
+"I just think that it's it's gonna cost more and I'm I'm not sure it's  you're gonna use it."
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.Erik.2: "How about Bluetooth ?"
+AE_ID ES2007b.D.argumentstructs.13: "Instead of using infra-red,"
+AE_ID ES2007b.D.argumentstructs.Erik.3: "use Bluetooth."
+AE_ID ES2007b.B.argumentstructs.Erik.3: "Why not ?"
+AE_ID ES2007b.D.argumentstructs.Erik.4: "Isn't that a better signal ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2007b.B.argumentstructs.Erik.4
+source=ES2007b.D.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.Erik.3:
+"Yeah, yeah I d it sounds like you  you w don't wanna overcomplicate things. You know we don't need it."
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.13: "Instead of using infra-red,"
+AE_ID ES2007b.D.argumentstructs.Erik.3: "use Bluetooth."
+AE_ID ES2007b.B.argumentstructs.Erik.3: "Why not ?"
+AE_ID ES2007b.D.argumentstructs.Erik.4: "Isn't that a better signal ?"
+AE_ID ES2007b.B.argumentstructs.Erik.4: "I just think that it's it's gonna cost more and I'm I'm not sure it's  you're gonna use it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2007b.A.argumentstructs.Erik.3
+source=ES2007b.B.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.D.argumentstructs.14:
+". Mm."
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.Erik.3: "use Bluetooth."
+AE_ID ES2007b.B.argumentstructs.Erik.3: "Why not ?"
+AE_ID ES2007b.D.argumentstructs.Erik.4: "Isn't that a better signal ?"
+AE_ID ES2007b.B.argumentstructs.Erik.4: "I just think that it's it's gonna cost more and I'm I'm not sure it's  you're gonna use it."
+AE_ID ES2007b.A.argumentstructs.Erik.3: "Yeah, yeah I d it sounds like you  you w don't wanna overcomplicate things. You know we don't need it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2007b.D.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.B.argumentstructs.Erik.5:
+"It's a fancy idea uh it's quite nice, but then I don't th I dunno, either you  if you wanna watch the telly you're in the room, you are gonna"
+
+Past dialogue turns:
+AE_ID ES2007b.B.argumentstructs.Erik.3: "Why not ?"
+AE_ID ES2007b.D.argumentstructs.Erik.4: "Isn't that a better signal ?"
+AE_ID ES2007b.B.argumentstructs.Erik.4: "I just think that it's it's gonna cost more and I'm I'm not sure it's  you're gonna use it."
+AE_ID ES2007b.A.argumentstructs.Erik.3: "Yeah, yeah I d it sounds like you  you w don't wanna overcomplicate things. You know we don't need it."
+AE_ID ES2007b.D.argumentstructs.14: ". Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2007b.B.argumentstructs.Erik.5
+source=ES2007b.D.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.Erik.4:
+"Yeah, exactly. Basically, we're we're desi we're designing and marketing a television remote control unit. We're not w w w w designing something that you can plug in a headset to and and you know connect to your laptop computer and stuff. It's uh"
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.Erik.4: "Isn't that a better signal ?"
+AE_ID ES2007b.B.argumentstructs.Erik.4: "I just think that it's it's gonna cost more and I'm I'm not sure it's  you're gonna use it."
+AE_ID ES2007b.A.argumentstructs.Erik.3: "Yeah, yeah I d it sounds like you  you w don't wanna overcomplicate things. You know we don't need it."
+AE_ID ES2007b.D.argumentstructs.14: ". Mm."
+AE_ID ES2007b.B.argumentstructs.Erik.5: "It's a fancy idea uh it's quite nice, but then I don't th I dunno, either you  if you wanna watch the telly you're in the room, you are gonna"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2007b.A.argumentstructs.Erik.4
+source=ES2007b.B.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.B.argumentstructs.11:
+"But"
+
+Past dialogue turns:
+AE_ID ES2007b.B.argumentstructs.Erik.4: "I just think that it's it's gonna cost more and I'm I'm not sure it's  you're gonna use it."
+AE_ID ES2007b.A.argumentstructs.Erik.3: "Yeah, yeah I d it sounds like you  you w don't wanna overcomplicate things. You know we don't need it."
+AE_ID ES2007b.D.argumentstructs.14: ". Mm."
+AE_ID ES2007b.B.argumentstructs.Erik.5: "It's a fancy idea uh it's quite nice, but then I don't th I dunno, either you  if you wanna watch the telly you're in the room, you are gonna"
+AE_ID ES2007b.A.argumentstructs.Erik.4: "Yeah, exactly. Basically, we're we're desi we're designing and marketing a television remote control unit. We're not w w w w designing something that you can plug in a headset to and and you know connect to your laptop computer and stuff. It's uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2007b.B.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.B.argumentstructs.Erik.7:
+"Oh, we can we can keep the idea if you i"
+
+Past dialogue turns:
+AE_ID ES2007b.A.argumentstructs.Erik.3: "Yeah, yeah I d it sounds like you  you w don't wanna overcomplicate things. You know we don't need it."
+AE_ID ES2007b.D.argumentstructs.14: ". Mm."
+AE_ID ES2007b.B.argumentstructs.Erik.5: "It's a fancy idea uh it's quite nice, but then I don't th I dunno, either you  if you wanna watch the telly you're in the room, you are gonna"
+AE_ID ES2007b.A.argumentstructs.Erik.4: "Yeah, exactly. Basically, we're we're desi we're designing and marketing a television remote control unit. We're not w w w w designing something that you can plug in a headset to and and you know connect to your laptop computer and stuff. It's uh"
+AE_ID ES2007b.B.argumentstructs.11: "But"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2007b.B.argumentstructs.Erik.7
+source=ES2007b.B.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.B.argumentstructs.Erik.6:
+"We can see at a later stage, maybe, I don't"
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.14: ". Mm."
+AE_ID ES2007b.B.argumentstructs.Erik.5: "It's a fancy idea uh it's quite nice, but then I don't th I dunno, either you  if you wanna watch the telly you're in the room, you are gonna"
+AE_ID ES2007b.A.argumentstructs.Erik.4: "Yeah, exactly. Basically, we're we're desi we're designing and marketing a television remote control unit. We're not w w w w designing something that you can plug in a headset to and and you know connect to your laptop computer and stuff. It's uh"
+AE_ID ES2007b.B.argumentstructs.11: "But"
+AE_ID ES2007b.B.argumentstructs.Erik.7: "Oh, we can we can keep the idea if you i"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2007b.B.argumentstructs.Erik.6
+source=ES2007b.B.argumentstructs.Erik.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.D.argumentstructs.Erik.5:
+"'S just an idea."
+
+Past dialogue turns:
+AE_ID ES2007b.B.argumentstructs.Erik.5: "It's a fancy idea uh it's quite nice, but then I don't th I dunno, either you  if you wanna watch the telly you're in the room, you are gonna"
+AE_ID ES2007b.A.argumentstructs.Erik.4: "Yeah, exactly. Basically, we're we're desi we're designing and marketing a television remote control unit. We're not w w w w designing something that you can plug in a headset to and and you know connect to your laptop computer and stuff. It's uh"
+AE_ID ES2007b.B.argumentstructs.11: "But"
+AE_ID ES2007b.B.argumentstructs.Erik.7: "Oh, we can we can keep the idea if you i"
+AE_ID ES2007b.B.argumentstructs.Erik.6: "We can see at a later stage, maybe, I don't"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2007b.D.argumentstructs.Erik.5
+source=ES2007b.B.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.Erik.5:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2007b.A.argumentstructs.Erik.4: "Yeah, exactly. Basically, we're we're desi we're designing and marketing a television remote control unit. We're not w w w w designing something that you can plug in a headset to and and you know connect to your laptop computer and stuff. It's uh"
+AE_ID ES2007b.B.argumentstructs.11: "But"
+AE_ID ES2007b.B.argumentstructs.Erik.7: "Oh, we can we can keep the idea if you i"
+AE_ID ES2007b.B.argumentstructs.Erik.6: "We can see at a later stage, maybe, I don't"
+AE_ID ES2007b.D.argumentstructs.Erik.5: "'S just an idea."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2007b.A.argumentstructs.Erik.5
+source=ES2007b.D.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.20:
+"Right, well done, Catherine. Um Gab Gabriel let's uh let's hear from you on on on such things."
+
+Past dialogue turns:
+AE_ID ES2007b.B.argumentstructs.11: "But"
+AE_ID ES2007b.B.argumentstructs.Erik.7: "Oh, we can we can keep the idea if you i"
+AE_ID ES2007b.B.argumentstructs.Erik.6: "We can see at a later stage, maybe, I don't"
+AE_ID ES2007b.D.argumentstructs.Erik.5: "'S just an idea."
+AE_ID ES2007b.A.argumentstructs.Erik.5: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007b.A.argumentstructs.20
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2007b-ES2007b - Signal strength.csv - True Judgement Ratio: 19.23%

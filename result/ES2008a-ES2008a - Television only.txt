@@ -1,0 +1,337 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.C.argumentstructs.Erik.2:
+"Can I ask, are we designing a remote control for a television only um, and if if this device is just to be used for the television would we even technically be possible to include video recorder functions on it ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2008a.C.argumentstructs.Erik.2
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.A.argumentstructs.6:
+"Good question."
+
+Past dialogue turns:
+AE_ID ES2008a.C.argumentstructs.Erik.2: "Can I ask, are we designing a remote control for a television only um, and if if this device is just to be used for the television would we even technically be possible to include video recorder functions on it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2008a.A.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.A.argumentstructs.Erik.3:
+"I don't know that yet."
+
+Past dialogue turns:
+AE_ID ES2008a.C.argumentstructs.Erik.2: "Can I ask, are we designing a remote control for a television only um, and if if this device is just to be used for the television would we even technically be possible to include video recorder functions on it ?"
+AE_ID ES2008a.A.argumentstructs.6: "Good question."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2008a.A.argumentstructs.Erik.3
+source=ES2008a.C.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.C.argumentstructs.Erik.3:
+"Um or should we just stick to just stick to having television television related buttons on it ?"
+
+Past dialogue turns:
+AE_ID ES2008a.C.argumentstructs.Erik.2: "Can I ask, are we designing a remote control for a television only um, and if if this device is just to be used for the television would we even technically be possible to include video recorder functions on it ?"
+AE_ID ES2008a.A.argumentstructs.6: "Good question."
+AE_ID ES2008a.A.argumentstructs.Erik.3: "I don't know that yet."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2008a.C.argumentstructs.Erik.3
+source=ES2008a.C.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.B.argumentstructs.12:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2008a.C.argumentstructs.Erik.2: "Can I ask, are we designing a remote control for a television only um, and if if this device is just to be used for the television would we even technically be possible to include video recorder functions on it ?"
+AE_ID ES2008a.A.argumentstructs.6: "Good question."
+AE_ID ES2008a.A.argumentstructs.Erik.3: "I don't know that yet."
+AE_ID ES2008a.C.argumentstructs.Erik.3: "Um or should we just stick to just stick to having television television related buttons on it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2008a.B.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.D.argumentstructs.5:
+"Mm-hmm hmm."
+
+Past dialogue turns:
+AE_ID ES2008a.C.argumentstructs.Erik.2: "Can I ask, are we designing a remote control for a television only um, and if if this device is just to be used for the television would we even technically be possible to include video recorder functions on it ?"
+AE_ID ES2008a.A.argumentstructs.6: "Good question."
+AE_ID ES2008a.A.argumentstructs.Erik.3: "I don't know that yet."
+AE_ID ES2008a.C.argumentstructs.Erik.3: "Um or should we just stick to just stick to having television television related buttons on it ?"
+AE_ID ES2008a.B.argumentstructs.12: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.A.argumentstructs.6
+---------------------------------
+target=ES2008a.D.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.A.argumentstructs.7:
+"I'll look into that. If I can. Mm."
+
+Past dialogue turns:
+AE_ID ES2008a.A.argumentstructs.6: "Good question."
+AE_ID ES2008a.A.argumentstructs.Erik.3: "I don't know that yet."
+AE_ID ES2008a.C.argumentstructs.Erik.3: "Um or should we just stick to just stick to having television television related buttons on it ?"
+AE_ID ES2008a.B.argumentstructs.12: "Mm."
+AE_ID ES2008a.D.argumentstructs.5: "Mm-hmm hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.A.argumentstructs.6
+---------------------------------
+target=ES2008a.A.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.D.argumentstructs.Erik.2:
+"I think it's just T_V_, I mean, if it  if we're taking it just  new product a new television remote control that's not like  doesn't say."
+
+Past dialogue turns:
+AE_ID ES2008a.A.argumentstructs.Erik.3: "I don't know that yet."
+AE_ID ES2008a.C.argumentstructs.Erik.3: "Um or should we just stick to just stick to having television television related buttons on it ?"
+AE_ID ES2008a.B.argumentstructs.12: "Mm."
+AE_ID ES2008a.D.argumentstructs.5: "Mm-hmm hmm."
+AE_ID ES2008a.A.argumentstructs.7: "I'll look into that. If I can. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2008a.D.argumentstructs.Erik.2
+source=ES2008a.C.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.B.argumentstructs.Erik.6:
+"Mm yeah."
+
+Past dialogue turns:
+AE_ID ES2008a.C.argumentstructs.Erik.3: "Um or should we just stick to just stick to having television television related buttons on it ?"
+AE_ID ES2008a.B.argumentstructs.12: "Mm."
+AE_ID ES2008a.D.argumentstructs.5: "Mm-hmm hmm."
+AE_ID ES2008a.A.argumentstructs.7: "I'll look into that. If I can. Mm."
+AE_ID ES2008a.D.argumentstructs.Erik.2: "I think it's just T_V_, I mean, if it  if we're taking it just  new product a new television remote control that's not like  doesn't say."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.B.argumentstructs.12
+---------------------------------
+target=ES2008a.B.argumentstructs.Erik.6
+source=ES2008a.D.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.D.argumentstructs.Erik.3:
+"You know, things might be more advanced than that."
+
+Past dialogue turns:
+AE_ID ES2008a.B.argumentstructs.12: "Mm."
+AE_ID ES2008a.D.argumentstructs.5: "Mm-hmm hmm."
+AE_ID ES2008a.A.argumentstructs.7: "I'll look into that. If I can. Mm."
+AE_ID ES2008a.D.argumentstructs.Erik.2: "I think it's just T_V_, I mean, if it  if we're taking it just  new product a new television remote control that's not like  doesn't say."
+AE_ID ES2008a.B.argumentstructs.Erik.6: "Mm yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2008a.D.argumentstructs.Erik.3
+source=ES2008a.D.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.C.argumentstructs.Erik.4:
+"So we should  maybe we should assume that i t it's just a television that we're wanting to control."
+
+Past dialogue turns:
+AE_ID ES2008a.D.argumentstructs.5: "Mm-hmm hmm."
+AE_ID ES2008a.A.argumentstructs.7: "I'll look into that. If I can. Mm."
+AE_ID ES2008a.D.argumentstructs.Erik.2: "I think it's just T_V_, I mean, if it  if we're taking it just  new product a new television remote control that's not like  doesn't say."
+AE_ID ES2008a.B.argumentstructs.Erik.6: "Mm yeah."
+AE_ID ES2008a.D.argumentstructs.Erik.3: "You know, things might be more advanced than that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2008a.C.argumentstructs.Erik.4
+source=ES2008a.D.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.C.argumentstructs.Erik.5:
+"Well, I mean I suppose it would be nice to have  playing and record and stop buttons on it for the video recorder as well I I don't know if that works technologically or not."
+
+Past dialogue turns:
+AE_ID ES2008a.A.argumentstructs.7: "I'll look into that. If I can. Mm."
+AE_ID ES2008a.D.argumentstructs.Erik.2: "I think it's just T_V_, I mean, if it  if we're taking it just  new product a new television remote control that's not like  doesn't say."
+AE_ID ES2008a.B.argumentstructs.Erik.6: "Mm yeah."
+AE_ID ES2008a.D.argumentstructs.Erik.3: "You know, things might be more advanced than that."
+AE_ID ES2008a.C.argumentstructs.Erik.4: "So we should  maybe we should assume that i t it's just a television that we're wanting to control."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2008a.C.argumentstructs.Erik.5
+source=ES2008a.C.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.B.argumentstructs.Erik.7:
+"Yes. I guess we have to define what what we're aiming for. If it's just a television then that  it's a bit simpler, 'cause there's less buttons that would even need to be on it."
+
+Past dialogue turns:
+AE_ID ES2008a.D.argumentstructs.Erik.2: "I think it's just T_V_, I mean, if it  if we're taking it just  new product a new television remote control that's not like  doesn't say."
+AE_ID ES2008a.B.argumentstructs.Erik.6: "Mm yeah."
+AE_ID ES2008a.D.argumentstructs.Erik.3: "You know, things might be more advanced than that."
+AE_ID ES2008a.C.argumentstructs.Erik.4: "So we should  maybe we should assume that i t it's just a television that we're wanting to control."
+AE_ID ES2008a.C.argumentstructs.Erik.5: "Well, I mean I suppose it would be nice to have  playing and record and stop buttons on it for the video recorder as well I I don't know if that works technologically or not."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2008a.B.argumentstructs.Erik.7
+source=ES2008a.C.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008a.C.argumentstructs.Erik.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2008a.B.argumentstructs.Erik.6: "Mm yeah."
+AE_ID ES2008a.D.argumentstructs.Erik.3: "You know, things might be more advanced than that."
+AE_ID ES2008a.C.argumentstructs.Erik.4: "So we should  maybe we should assume that i t it's just a television that we're wanting to control."
+AE_ID ES2008a.C.argumentstructs.Erik.5: "Well, I mean I suppose it would be nice to have  playing and record and stop buttons on it for the video recorder as well I I don't know if that works technologically or not."
+AE_ID ES2008a.B.argumentstructs.Erik.7: "Yes. I guess we have to define what what we're aiming for. If it's just a television then that  it's a bit simpler, 'cause there's less buttons that would even need to be on it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008a.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2008a.C.argumentstructs.Erik.6
+source=ES2008a.B.argumentstructs.Erik.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2008a-ES2008a - Television only.csv - True Judgement Ratio: 57.14%

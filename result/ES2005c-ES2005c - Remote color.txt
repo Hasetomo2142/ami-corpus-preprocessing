@@ -1,0 +1,487 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.10:
+"and the colour is yellow, right ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.10
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.16:
+"Yeah, y  yellow incorporated, yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.10: "and the colour is yellow, right ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.10
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.16
+source=ES2005c.A.argumentstructs.Erik.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.13:
+"Or at least incorporating, yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.10: "and the colour is yellow, right ?"
+AE_ID ES2005c.D.argumentstructs.Erik.16: "Yeah, y  yellow incorporated, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.16
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.13
+source=ES2005c.A.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.11:
+"Yellow, okay."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.10: "and the colour is yellow, right ?"
+AE_ID ES2005c.D.argumentstructs.Erik.16: "Yeah, y  yellow incorporated, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.13: "Or at least incorporating, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.10
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.11
+source=ES2005c.C.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.30:
+"Um. Mm' kay."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.10: "and the colour is yellow, right ?"
+AE_ID ES2005c.D.argumentstructs.Erik.16: "Yeah, y  yellow incorporated, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.13: "Or at least incorporating, yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.11: "Yellow, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.11
+---------------------------------
+target=ES2005c.A.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.45:
+"I mean I forgot i we're sort of uh"
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.10: "and the colour is yellow, right ?"
+AE_ID ES2005c.D.argumentstructs.Erik.16: "Yeah, y  yellow incorporated, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.13: "Or at least incorporating, yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.11: "Yellow, okay."
+AE_ID ES2005c.A.argumentstructs.30: "Um. Mm' kay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.30
+---------------------------------
+target=ES2005c.C.argumentstructs.45
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.14:
+"I don't know what other standard silver kind of"
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.16: "Yeah, y  yellow incorporated, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.13: "Or at least incorporating, yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.11: "Yellow, okay."
+AE_ID ES2005c.A.argumentstructs.30: "Um. Mm' kay."
+AE_ID ES2005c.C.argumentstructs.45: "I mean I forgot i we're sort of uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.11
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.14
+source=ES2005c.A.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.47:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.13: "Or at least incorporating, yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.11: "Yellow, okay."
+AE_ID ES2005c.A.argumentstructs.30: "Um. Mm' kay."
+AE_ID ES2005c.C.argumentstructs.45: "I mean I forgot i we're sort of uh"
+AE_ID ES2005c.C.argumentstructs.Erik.14: "I don't know what other standard silver kind of"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.14
+---------------------------------
+target=ES2005c.D.argumentstructs.47
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.17:
+"Yeah, the buttons w like, 'cause there's gonna be the the cover the the rubber or the plastic casing and then the buttons in probably two different colours or i if we're having buttons actually,"
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.11: "Yellow, okay."
+AE_ID ES2005c.A.argumentstructs.30: "Um. Mm' kay."
+AE_ID ES2005c.C.argumentstructs.45: "I mean I forgot i we're sort of uh"
+AE_ID ES2005c.C.argumentstructs.Erik.14: "I don't know what other standard silver kind of"
+AE_ID ES2005c.D.argumentstructs.47: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.11
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.17
+source=ES2005c.C.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.46:
+"Mm-hmm. Um."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.30: "Um. Mm' kay."
+AE_ID ES2005c.C.argumentstructs.45: "I mean I forgot i we're sort of uh"
+AE_ID ES2005c.C.argumentstructs.Erik.14: "I don't know what other standard silver kind of"
+AE_ID ES2005c.D.argumentstructs.47: "Mm."
+AE_ID ES2005c.D.argumentstructs.Erik.17: "Yeah, the buttons w like, 'cause there's gonna be the the cover the the rubber or the plastic casing and then the buttons in probably two different colours or i if we're having buttons actually,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.45
+---------------------------------
+target=ES2005c.C.argumentstructs.46
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.12:
+"So yellow for the body, and then what colour for the buttons ?"
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.45: "I mean I forgot i we're sort of uh"
+AE_ID ES2005c.C.argumentstructs.Erik.14: "I don't know what other standard silver kind of"
+AE_ID ES2005c.D.argumentstructs.47: "Mm."
+AE_ID ES2005c.D.argumentstructs.Erik.17: "Yeah, the buttons w like, 'cause there's gonna be the the cover the the rubber or the plastic casing and then the buttons in probably two different colours or i if we're having buttons actually,"
+AE_ID ES2005c.C.argumentstructs.46: "Mm-hmm. Um."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.17
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.12
+source=ES2005c.D.argumentstructs.Erik.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.48:
+"I don"
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.14: "I don't know what other standard silver kind of"
+AE_ID ES2005c.D.argumentstructs.47: "Mm."
+AE_ID ES2005c.D.argumentstructs.Erik.17: "Yeah, the buttons w like, 'cause there's gonna be the the cover the the rubber or the plastic casing and then the buttons in probably two different colours or i if we're having buttons actually,"
+AE_ID ES2005c.C.argumentstructs.46: "Mm-hmm. Um."
+AE_ID ES2005c.A.argumentstructs.Erik.12: "So yellow for the body, and then what colour for the buttons ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.47
+---------------------------------
+target=ES2005c.D.argumentstructs.48
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.15:
+"Um I quite like the multi-coloured buttons myself."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.47: "Mm."
+AE_ID ES2005c.D.argumentstructs.Erik.17: "Yeah, the buttons w like, 'cause there's gonna be the the cover the the rubber or the plastic casing and then the buttons in probably two different colours or i if we're having buttons actually,"
+AE_ID ES2005c.C.argumentstructs.46: "Mm-hmm. Um."
+AE_ID ES2005c.A.argumentstructs.Erik.12: "So yellow for the body, and then what colour for the buttons ?"
+AE_ID ES2005c.D.argumentstructs.48: "I don"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.12
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.15
+source=ES2005c.A.argumentstructs.Erik.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.18:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.17: "Yeah, the buttons w like, 'cause there's gonna be the the cover the the rubber or the plastic casing and then the buttons in probably two different colours or i if we're having buttons actually,"
+AE_ID ES2005c.C.argumentstructs.46: "Mm-hmm. Um."
+AE_ID ES2005c.A.argumentstructs.Erik.12: "So yellow for the body, and then what colour for the buttons ?"
+AE_ID ES2005c.D.argumentstructs.48: "I don"
+AE_ID ES2005c.C.argumentstructs.Erik.15: "Um I quite like the multi-coloured buttons myself."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.17
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.18
+source=ES2005c.C.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.13:
+"So multi-coloured buttons."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.46: "Mm-hmm. Um."
+AE_ID ES2005c.A.argumentstructs.Erik.12: "So yellow for the body, and then what colour for the buttons ?"
+AE_ID ES2005c.D.argumentstructs.48: "I don"
+AE_ID ES2005c.C.argumentstructs.Erik.15: "Um I quite like the multi-coloured buttons myself."
+AE_ID ES2005c.D.argumentstructs.Erik.18: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.12
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.13
+source=ES2005c.D.argumentstructs.Erik.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.19:
+"You do have ones like um play  could be green or on and off is red, and stuff like that, yeah."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.12: "So yellow for the body, and then what colour for the buttons ?"
+AE_ID ES2005c.D.argumentstructs.48: "I don"
+AE_ID ES2005c.C.argumentstructs.Erik.15: "Um I quite like the multi-coloured buttons myself."
+AE_ID ES2005c.D.argumentstructs.Erik.18: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.13: "So multi-coloured buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.12
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.19
+source=ES2005c.A.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.C.argumentstructs.Erik.16:
+"Yeah or yeah a limit uh maybe even just a limited multi-colour so it it doesn't look too childish, perhaps."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.48: "I don"
+AE_ID ES2005c.C.argumentstructs.Erik.15: "Um I quite like the multi-coloured buttons myself."
+AE_ID ES2005c.D.argumentstructs.Erik.18: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.13: "So multi-coloured buttons."
+AE_ID ES2005c.D.argumentstructs.Erik.19: "You do have ones like um play  could be green or on and off is red, and stuff like that, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.C.argumentstructs.Erik.15
+---------------------------------
+target=ES2005c.C.argumentstructs.Erik.16
+source=ES2005c.D.argumentstructs.Erik.19
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.20:
+"Makes it easy to use."
+
+Past dialogue turns:
+AE_ID ES2005c.C.argumentstructs.Erik.15: "Um I quite like the multi-coloured buttons myself."
+AE_ID ES2005c.D.argumentstructs.Erik.18: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.13: "So multi-coloured buttons."
+AE_ID ES2005c.D.argumentstructs.Erik.19: "You do have ones like um play  could be green or on and off is red, and stuff like that, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.16: "Yeah or yeah a limit uh maybe even just a limited multi-colour so it it doesn't look too childish, perhaps."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.19
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.20
+source=ES2005c.D.argumentstructs.Erik.19
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.D.argumentstructs.Erik.21:
+"Yeah, that's true, because that blue one did look quite hardish."
+
+Past dialogue turns:
+AE_ID ES2005c.D.argumentstructs.Erik.18: "Yeah."
+AE_ID ES2005c.A.argumentstructs.Erik.13: "So multi-coloured buttons."
+AE_ID ES2005c.D.argumentstructs.Erik.19: "You do have ones like um play  could be green or on and off is red, and stuff like that, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.16: "Yeah or yeah a limit uh maybe even just a limited multi-colour so it it doesn't look too childish, perhaps."
+AE_ID ES2005c.D.argumentstructs.Erik.20: "Makes it easy to use."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.D.argumentstructs.Erik.20
+---------------------------------
+target=ES2005c.D.argumentstructs.Erik.21
+source=ES2005c.C.argumentstructs.Erik.16
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2005c.A.argumentstructs.Erik.14:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2005c.A.argumentstructs.Erik.13: "So multi-coloured buttons."
+AE_ID ES2005c.D.argumentstructs.Erik.19: "You do have ones like um play  could be green or on and off is red, and stuff like that, yeah."
+AE_ID ES2005c.C.argumentstructs.Erik.16: "Yeah or yeah a limit uh maybe even just a limited multi-colour so it it doesn't look too childish, perhaps."
+AE_ID ES2005c.D.argumentstructs.Erik.20: "Makes it easy to use."
+AE_ID ES2005c.D.argumentstructs.Erik.21: "Yeah, that's true, because that blue one did look quite hardish."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2005c.A.argumentstructs.Erik.13
+---------------------------------
+target=ES2005c.A.argumentstructs.Erik.14
+source=ES2005c.D.argumentstructs.Erik.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2005c-ES2005c - Remote color.csv - True Judgement Ratio: 25.00%

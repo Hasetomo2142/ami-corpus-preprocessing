@@ -1,0 +1,662 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.B.argumentstructs.Erik.1:
+"What about the older generation ? What about granny and grandads ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2004a.B.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.B.argumentstructs.Erik.2:
+"Um, my grandad can answer his mobile phone, but he couldn't even dream of texting or something like that."
+
+Past dialogue turns:
+AE_ID ES2004a.B.argumentstructs.Erik.1: "What about the older generation ? What about granny and grandads ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2004a.B.argumentstructs.Erik.2
+source=ES2004a.B.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.A.argumentstructs.2:
+"You mean to save it lesser number. Right. Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2004a.B.argumentstructs.Erik.1: "What about the older generation ? What about granny and grandads ?"
+AE_ID ES2004a.B.argumentstructs.Erik.2: "Um, my grandad can answer his mobile phone, but he couldn't even dream of texting or something like that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2004a.A.argumentstructs.2
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.C.argumentstructs.Erik.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2004a.B.argumentstructs.Erik.1: "What about the older generation ? What about granny and grandads ?"
+AE_ID ES2004a.B.argumentstructs.Erik.2: "Um, my grandad can answer his mobile phone, but he couldn't even dream of texting or something like that."
+AE_ID ES2004a.A.argumentstructs.2: "You mean to save it lesser number. Right. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2004a.C.argumentstructs.Erik.1
+source=ES2004a.B.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.D.argumentstructs.6:
+"Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2004a.B.argumentstructs.Erik.1: "What about the older generation ? What about granny and grandads ?"
+AE_ID ES2004a.B.argumentstructs.Erik.2: "Um, my grandad can answer his mobile phone, but he couldn't even dream of texting or something like that."
+AE_ID ES2004a.A.argumentstructs.2: "You mean to save it lesser number. Right. Mm-hmm."
+AE_ID ES2004a.C.argumentstructs.Erik.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.A.argumentstructs.2
+---------------------------------
+target=ES2004a.D.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.D.argumentstructs.Erik.1:
+"Can he programme his remote control or is it basic with that too ?"
+
+Past dialogue turns:
+AE_ID ES2004a.B.argumentstructs.Erik.1: "What about the older generation ? What about granny and grandads ?"
+AE_ID ES2004a.B.argumentstructs.Erik.2: "Um, my grandad can answer his mobile phone, but he couldn't even dream of texting or something like that."
+AE_ID ES2004a.A.argumentstructs.2: "You mean to save it lesser number. Right. Mm-hmm."
+AE_ID ES2004a.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2004a.D.argumentstructs.6: "Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2004a.D.argumentstructs.Erik.1
+source=ES2004a.B.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.B.argumentstructs.Erik.3:
+"I don't think they tape things, I don't think they use"
+
+Past dialogue turns:
+AE_ID ES2004a.B.argumentstructs.Erik.2: "Um, my grandad can answer his mobile phone, but he couldn't even dream of texting or something like that."
+AE_ID ES2004a.A.argumentstructs.2: "You mean to save it lesser number. Right. Mm-hmm."
+AE_ID ES2004a.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2004a.D.argumentstructs.6: "Mm-hmm. Mm-hmm."
+AE_ID ES2004a.D.argumentstructs.Erik.1: "Can he programme his remote control or is it basic with that too ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2004a.B.argumentstructs.Erik.3
+source=ES2004a.D.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.C.argumentstructs.Erik.2:
+"Yeah, my grandad's actually better than me at using teletext, so."
+
+Past dialogue turns:
+AE_ID ES2004a.A.argumentstructs.2: "You mean to save it lesser number. Right. Mm-hmm."
+AE_ID ES2004a.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2004a.D.argumentstructs.6: "Mm-hmm. Mm-hmm."
+AE_ID ES2004a.D.argumentstructs.Erik.1: "Can he programme his remote control or is it basic with that too ?"
+AE_ID ES2004a.B.argumentstructs.Erik.3: "I don't think they tape things, I don't think they use"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2004a.C.argumentstructs.Erik.2
+source=ES2004a.B.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.D.argumentstructs.Erik.2:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2004a.C.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2004a.D.argumentstructs.6: "Mm-hmm. Mm-hmm."
+AE_ID ES2004a.D.argumentstructs.Erik.1: "Can he programme his remote control or is it basic with that too ?"
+AE_ID ES2004a.B.argumentstructs.Erik.3: "I don't think they tape things, I don't think they use"
+AE_ID ES2004a.C.argumentstructs.Erik.2: "Yeah, my grandad's actually better than me at using teletext, so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2004a.D.argumentstructs.Erik.2
+source=ES2004a.C.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.D.argumentstructs.7:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2004a.D.argumentstructs.6: "Mm-hmm. Mm-hmm."
+AE_ID ES2004a.D.argumentstructs.Erik.1: "Can he programme his remote control or is it basic with that too ?"
+AE_ID ES2004a.B.argumentstructs.Erik.3: "I don't think they tape things, I don't think they use"
+AE_ID ES2004a.C.argumentstructs.Erik.2: "Yeah, my grandad's actually better than me at using teletext, so."
+AE_ID ES2004a.D.argumentstructs.Erik.2: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.D.argumentstructs.Erik.2
+---------------------------------
+target=ES2004a.D.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.D.argumentstructs.Erik.3:
+"So that's a problem regardless of of any design modifications you you come up with, that's gonna be a problem anyway with the older generation perhaps, and that's another issue how we tackle that."
+
+Past dialogue turns:
+AE_ID ES2004a.D.argumentstructs.Erik.1: "Can he programme his remote control or is it basic with that too ?"
+AE_ID ES2004a.B.argumentstructs.Erik.3: "I don't think they tape things, I don't think they use"
+AE_ID ES2004a.C.argumentstructs.Erik.2: "Yeah, my grandad's actually better than me at using teletext, so."
+AE_ID ES2004a.D.argumentstructs.Erik.2: "Right."
+AE_ID ES2004a.D.argumentstructs.7: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2004a.D.argumentstructs.Erik.3
+source=ES2004a.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.C.argumentstructs.Erik.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2004a.B.argumentstructs.Erik.3: "I don't think they tape things, I don't think they use"
+AE_ID ES2004a.C.argumentstructs.Erik.2: "Yeah, my grandad's actually better than me at using teletext, so."
+AE_ID ES2004a.D.argumentstructs.Erik.2: "Right."
+AE_ID ES2004a.D.argumentstructs.7: "Right."
+AE_ID ES2004a.D.argumentstructs.Erik.3: "So that's a problem regardless of of any design modifications you you come up with, that's gonna be a problem anyway with the older generation perhaps, and that's another issue how we tackle that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2004a.C.argumentstructs.Erik.3
+source=ES2004a.D.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.B.argumentstructs.Erik.4:
+"Mm, yeah, the age gap."
+
+Past dialogue turns:
+AE_ID ES2004a.C.argumentstructs.Erik.2: "Yeah, my grandad's actually better than me at using teletext, so."
+AE_ID ES2004a.D.argumentstructs.Erik.2: "Right."
+AE_ID ES2004a.D.argumentstructs.7: "Right."
+AE_ID ES2004a.D.argumentstructs.Erik.3: "So that's a problem regardless of of any design modifications you you come up with, that's gonna be a problem anyway with the older generation perhaps, and that's another issue how we tackle that."
+AE_ID ES2004a.C.argumentstructs.Erik.3: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2004a.B.argumentstructs.Erik.4
+source=ES2004a.D.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.C.argumentstructs.Erik.4:
+"Yeah, what it just needs to be  as long as it's sort of self-intuitive and you can can work out what everything's doing, 'cause I mean, menus on sort of new phones now they've sort of got all these pictures and stuff which makes it fairly obvious what you're trying to do."
+
+Past dialogue turns:
+AE_ID ES2004a.D.argumentstructs.Erik.2: "Right."
+AE_ID ES2004a.D.argumentstructs.7: "Right."
+AE_ID ES2004a.D.argumentstructs.Erik.3: "So that's a problem regardless of of any design modifications you you come up with, that's gonna be a problem anyway with the older generation perhaps, and that's another issue how we tackle that."
+AE_ID ES2004a.C.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2004a.B.argumentstructs.Erik.4: "Mm, yeah, the age gap."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2004a.C.argumentstructs.Erik.4
+source=ES2004a.D.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.B.argumentstructs.10:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2004a.D.argumentstructs.7: "Right."
+AE_ID ES2004a.D.argumentstructs.Erik.3: "So that's a problem regardless of of any design modifications you you come up with, that's gonna be a problem anyway with the older generation perhaps, and that's another issue how we tackle that."
+AE_ID ES2004a.C.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2004a.B.argumentstructs.Erik.4: "Mm, yeah, the age gap."
+AE_ID ES2004a.C.argumentstructs.Erik.4: "Yeah, what it just needs to be  as long as it's sort of self-intuitive and you can can work out what everything's doing, 'cause I mean, menus on sort of new phones now they've sort of got all these pictures and stuff which makes it fairly obvious what you're trying to do."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2004a.B.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.B.argumentstructs.Erik.5:
+"I don't know, I d I don't like the, you know the new phones that have kind of got a Windows-based running system."
+
+Past dialogue turns:
+AE_ID ES2004a.D.argumentstructs.Erik.3: "So that's a problem regardless of of any design modifications you you come up with, that's gonna be a problem anyway with the older generation perhaps, and that's another issue how we tackle that."
+AE_ID ES2004a.C.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2004a.B.argumentstructs.Erik.4: "Mm, yeah, the age gap."
+AE_ID ES2004a.C.argumentstructs.Erik.4: "Yeah, what it just needs to be  as long as it's sort of self-intuitive and you can can work out what everything's doing, 'cause I mean, menus on sort of new phones now they've sort of got all these pictures and stuff which makes it fairly obvious what you're trying to do."
+AE_ID ES2004a.B.argumentstructs.10: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2004a.B.argumentstructs.Erik.5
+source=ES2004a.C.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.C.argumentstructs.6:
+"Oh yeah."
+
+Past dialogue turns:
+AE_ID ES2004a.C.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2004a.B.argumentstructs.Erik.4: "Mm, yeah, the age gap."
+AE_ID ES2004a.C.argumentstructs.Erik.4: "Yeah, what it just needs to be  as long as it's sort of self-intuitive and you can can work out what everything's doing, 'cause I mean, menus on sort of new phones now they've sort of got all these pictures and stuff which makes it fairly obvious what you're trying to do."
+AE_ID ES2004a.B.argumentstructs.10: "Mm."
+AE_ID ES2004a.B.argumentstructs.Erik.5: "I don't know, I d I don't like the, you know the new phones that have kind of got a Windows-based running system."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2004a.C.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.D.argumentstructs.8:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2004a.B.argumentstructs.Erik.4: "Mm, yeah, the age gap."
+AE_ID ES2004a.C.argumentstructs.Erik.4: "Yeah, what it just needs to be  as long as it's sort of self-intuitive and you can can work out what everything's doing, 'cause I mean, menus on sort of new phones now they've sort of got all these pictures and stuff which makes it fairly obvious what you're trying to do."
+AE_ID ES2004a.B.argumentstructs.10: "Mm."
+AE_ID ES2004a.B.argumentstructs.Erik.5: "I don't know, I d I don't like the, you know the new phones that have kind of got a Windows-based running system."
+AE_ID ES2004a.C.argumentstructs.6: "Oh yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2004a.D.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.B.argumentstructs.Erik.6:
+"I find it really confusing, I kept getting lost  in the phone, I di I've not got a new one but uh my friend got a new one and I was trying to do things with it and I just kept getting lost, but that's just me."
+
+Past dialogue turns:
+AE_ID ES2004a.C.argumentstructs.Erik.4: "Yeah, what it just needs to be  as long as it's sort of self-intuitive and you can can work out what everything's doing, 'cause I mean, menus on sort of new phones now they've sort of got all these pictures and stuff which makes it fairly obvious what you're trying to do."
+AE_ID ES2004a.B.argumentstructs.10: "Mm."
+AE_ID ES2004a.B.argumentstructs.Erik.5: "I don't know, I d I don't like the, you know the new phones that have kind of got a Windows-based running system."
+AE_ID ES2004a.C.argumentstructs.6: "Oh yeah."
+AE_ID ES2004a.D.argumentstructs.8: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2004a.B.argumentstructs.Erik.6
+source=ES2004a.B.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.D.argumentstructs.Erik.4:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2004a.B.argumentstructs.10: "Mm."
+AE_ID ES2004a.B.argumentstructs.Erik.5: "I don't know, I d I don't like the, you know the new phones that have kind of got a Windows-based running system."
+AE_ID ES2004a.C.argumentstructs.6: "Oh yeah."
+AE_ID ES2004a.D.argumentstructs.8: "Mm-hmm."
+AE_ID ES2004a.B.argumentstructs.Erik.6: "I find it really confusing, I kept getting lost  in the phone, I di I've not got a new one but uh my friend got a new one and I was trying to do things with it and I just kept getting lost, but that's just me."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2004a.D.argumentstructs.Erik.4
+source=ES2004a.B.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.C.argumentstructs.Erik.5:
+"Yeah, I don't I don't know how for twenty fi, or twelve Euros fifty how much of a excellent screen you could get, you'd you'd have to sort of keep it down to a black and white L_C_D_ thing anyway, I'd assume."
+
+Past dialogue turns:
+AE_ID ES2004a.B.argumentstructs.Erik.5: "I don't know, I d I don't like the, you know the new phones that have kind of got a Windows-based running system."
+AE_ID ES2004a.C.argumentstructs.6: "Oh yeah."
+AE_ID ES2004a.D.argumentstructs.8: "Mm-hmm."
+AE_ID ES2004a.B.argumentstructs.Erik.6: "I find it really confusing, I kept getting lost  in the phone, I di I've not got a new one but uh my friend got a new one and I was trying to do things with it and I just kept getting lost, but that's just me."
+AE_ID ES2004a.D.argumentstructs.Erik.4: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.B.argumentstructs.Erik.6
+---------------------------------
+target=ES2004a.C.argumentstructs.Erik.5
+source=ES2004a.C.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.B.argumentstructs.Erik.7:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2004a.C.argumentstructs.6: "Oh yeah."
+AE_ID ES2004a.D.argumentstructs.8: "Mm-hmm."
+AE_ID ES2004a.B.argumentstructs.Erik.6: "I find it really confusing, I kept getting lost  in the phone, I di I've not got a new one but uh my friend got a new one and I was trying to do things with it and I just kept getting lost, but that's just me."
+AE_ID ES2004a.D.argumentstructs.Erik.4: "Right."
+AE_ID ES2004a.C.argumentstructs.Erik.5: "Yeah, I don't I don't know how for twenty fi, or twelve Euros fifty how much of a excellent screen you could get, you'd you'd have to sort of keep it down to a black and white L_C_D_ thing anyway, I'd assume."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.D.argumentstructs.8
+---------------------------------
+target=ES2004a.B.argumentstructs.Erik.7
+source=ES2004a.C.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.D.argumentstructs.9:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2004a.D.argumentstructs.8: "Mm-hmm."
+AE_ID ES2004a.B.argumentstructs.Erik.6: "I find it really confusing, I kept getting lost  in the phone, I di I've not got a new one but uh my friend got a new one and I was trying to do things with it and I just kept getting lost, but that's just me."
+AE_ID ES2004a.D.argumentstructs.Erik.4: "Right."
+AE_ID ES2004a.C.argumentstructs.Erik.5: "Yeah, I don't I don't know how for twenty fi, or twelve Euros fifty how much of a excellent screen you could get, you'd you'd have to sort of keep it down to a black and white L_C_D_ thing anyway, I'd assume."
+AE_ID ES2004a.B.argumentstructs.Erik.7: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.D.argumentstructs.8
+---------------------------------
+target=ES2004a.D.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.D.argumentstructs.Erik.5:
+"Is it possible that that for the older generation you could have like an extra button that you press for large print like you do in large print books ? Obviously it displays less on the screen, it displays less on the screen but as long as they can read it that's the main thing."
+
+Past dialogue turns:
+AE_ID ES2004a.B.argumentstructs.Erik.6: "I find it really confusing, I kept getting lost  in the phone, I di I've not got a new one but uh my friend got a new one and I was trying to do things with it and I just kept getting lost, but that's just me."
+AE_ID ES2004a.D.argumentstructs.Erik.4: "Right."
+AE_ID ES2004a.C.argumentstructs.Erik.5: "Yeah, I don't I don't know how for twenty fi, or twelve Euros fifty how much of a excellent screen you could get, you'd you'd have to sort of keep it down to a black and white L_C_D_ thing anyway, I'd assume."
+AE_ID ES2004a.B.argumentstructs.Erik.7: "Yeah."
+AE_ID ES2004a.D.argumentstructs.9: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.B.argumentstructs.Erik.6
+---------------------------------
+target=ES2004a.D.argumentstructs.Erik.5
+source=ES2004a.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.A.argumentstructs.Erik.1:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2004a.D.argumentstructs.Erik.4: "Right."
+AE_ID ES2004a.C.argumentstructs.Erik.5: "Yeah, I don't I don't know how for twenty fi, or twelve Euros fifty how much of a excellent screen you could get, you'd you'd have to sort of keep it down to a black and white L_C_D_ thing anyway, I'd assume."
+AE_ID ES2004a.B.argumentstructs.Erik.7: "Yeah."
+AE_ID ES2004a.D.argumentstructs.9: "Mm-hmm."
+AE_ID ES2004a.D.argumentstructs.Erik.5: "Is it possible that that for the older generation you could have like an extra button that you press for large print like you do in large print books ? Obviously it displays less on the screen, it displays less on the screen but as long as they can read it that's the main thing."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2004a.A.argumentstructs.Erik.1
+source=ES2004a.D.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.B.argumentstructs.Erik.8:
+"Teletext has got that option as well."
+
+Past dialogue turns:
+AE_ID ES2004a.C.argumentstructs.Erik.5: "Yeah, I don't I don't know how for twenty fi, or twelve Euros fifty how much of a excellent screen you could get, you'd you'd have to sort of keep it down to a black and white L_C_D_ thing anyway, I'd assume."
+AE_ID ES2004a.B.argumentstructs.Erik.7: "Yeah."
+AE_ID ES2004a.D.argumentstructs.9: "Mm-hmm."
+AE_ID ES2004a.D.argumentstructs.Erik.5: "Is it possible that that for the older generation you could have like an extra button that you press for large print like you do in large print books ? Obviously it displays less on the screen, it displays less on the screen but as long as they can read it that's the main thing."
+AE_ID ES2004a.A.argumentstructs.Erik.1: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.C.argumentstructs.Erik.5
+---------------------------------
+target=ES2004a.B.argumentstructs.Erik.8
+source=ES2004a.D.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004a.B.argumentstructs.Erik.9:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2004a.B.argumentstructs.Erik.7: "Yeah."
+AE_ID ES2004a.D.argumentstructs.9: "Mm-hmm."
+AE_ID ES2004a.D.argumentstructs.Erik.5: "Is it possible that that for the older generation you could have like an extra button that you press for large print like you do in large print books ? Obviously it displays less on the screen, it displays less on the screen but as long as they can read it that's the main thing."
+AE_ID ES2004a.A.argumentstructs.Erik.1: "Okay."
+AE_ID ES2004a.B.argumentstructs.Erik.8: "Teletext has got that option as well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004a.B.argumentstructs.Erik.7
+---------------------------------
+target=ES2004a.B.argumentstructs.Erik.9
+source=ES2004a.D.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2004a-ES2004a - Older generation.csv - True Judgement Ratio: 25.93%

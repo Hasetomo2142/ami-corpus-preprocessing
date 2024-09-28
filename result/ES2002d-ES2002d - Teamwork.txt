@@ -1,0 +1,812 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.29:
+"Okay, uh what about teamwork ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.29
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.21:
+"Um did, you wanna comment Craig ?"
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.29: "Okay, uh what about teamwork ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.29
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.21
+source=ES2002d.B.argumentstructs.Erik.29
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.D.argumentstructs.Erik.11:
+"Uh, reckon that was a bit hard because we could only discuss things in the meeting."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.29: "Okay, uh what about teamwork ?"
+AE_ID ES2002d.C.argumentstructs.Erik.21: "Um did, you wanna comment Craig ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.29
+---------------------------------
+target=ES2002d.D.argumentstructs.Erik.11
+source=ES2002d.C.argumentstructs.Erik.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.22:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.29: "Okay, uh what about teamwork ?"
+AE_ID ES2002d.C.argumentstructs.Erik.21: "Um did, you wanna comment Craig ?"
+AE_ID ES2002d.D.argumentstructs.Erik.11: "Uh, reckon that was a bit hard because we could only discuss things in the meeting."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.21
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.22
+source=ES2002d.D.argumentstructs.Erik.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.30:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.29: "Okay, uh what about teamwork ?"
+AE_ID ES2002d.C.argumentstructs.Erik.21: "Um did, you wanna comment Craig ?"
+AE_ID ES2002d.D.argumentstructs.Erik.11: "Uh, reckon that was a bit hard because we could only discuss things in the meeting."
+AE_ID ES2002d.C.argumentstructs.Erik.22: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.22
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.30
+source=ES2002d.D.argumentstructs.Erik.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.D.argumentstructs.Erik.12:
+"If we could just go up to somebody outside the meeting and have a quick talk with them, that would've been a lot easier."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.29: "Okay, uh what about teamwork ?"
+AE_ID ES2002d.C.argumentstructs.Erik.21: "Um did, you wanna comment Craig ?"
+AE_ID ES2002d.D.argumentstructs.Erik.11: "Uh, reckon that was a bit hard because we could only discuss things in the meeting."
+AE_ID ES2002d.C.argumentstructs.Erik.22: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.30: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.D.argumentstructs.Erik.11
+---------------------------------
+target=ES2002d.D.argumentstructs.Erik.12
+source=ES2002d.D.argumentstructs.Erik.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.23:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.21: "Um did, you wanna comment Craig ?"
+AE_ID ES2002d.D.argumentstructs.Erik.11: "Uh, reckon that was a bit hard because we could only discuss things in the meeting."
+AE_ID ES2002d.C.argumentstructs.Erik.22: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.30: "Yeah."
+AE_ID ES2002d.D.argumentstructs.Erik.12: "If we could just go up to somebody outside the meeting and have a quick talk with them, that would've been a lot easier."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.22
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.23
+source=ES2002d.D.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.31:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2002d.D.argumentstructs.Erik.11: "Uh, reckon that was a bit hard because we could only discuss things in the meeting."
+AE_ID ES2002d.C.argumentstructs.Erik.22: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.30: "Yeah."
+AE_ID ES2002d.D.argumentstructs.Erik.12: "If we could just go up to somebody outside the meeting and have a quick talk with them, that would've been a lot easier."
+AE_ID ES2002d.C.argumentstructs.Erik.23: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.30
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.31
+source=ES2002d.D.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.24:
+"Fully agree."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.22: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.30: "Yeah."
+AE_ID ES2002d.D.argumentstructs.Erik.12: "If we could just go up to somebody outside the meeting and have a quick talk with them, that would've been a lot easier."
+AE_ID ES2002d.C.argumentstructs.Erik.23: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.31: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.23
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.24
+source=ES2002d.D.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.23:
+"I think you tried to use the common share folder to to to to communicate, but um it just comes back to us so slow in the email um it it doesn't have a, you know, a messenger will go."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.30: "Yeah."
+AE_ID ES2002d.D.argumentstructs.Erik.12: "If we could just go up to somebody outside the meeting and have a quick talk with them, that would've been a lot easier."
+AE_ID ES2002d.C.argumentstructs.Erik.23: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.31: "Okay."
+AE_ID ES2002d.C.argumentstructs.Erik.24: "Fully agree."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.D.argumentstructs.Erik.12
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.23
+source=ES2002d.D.argumentstructs.Erik.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.51:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2002d.D.argumentstructs.Erik.12: "If we could just go up to somebody outside the meeting and have a quick talk with them, that would've been a lot easier."
+AE_ID ES2002d.C.argumentstructs.Erik.23: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.31: "Okay."
+AE_ID ES2002d.C.argumentstructs.Erik.24: "Fully agree."
+AE_ID ES2002d.A.argumentstructs.Erik.23: "I think you tried to use the common share folder to to to to communicate, but um it just comes back to us so slow in the email um it it doesn't have a, you know, a messenger will go."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002d.B.argumentstructs.51
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.25:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.23: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.31: "Okay."
+AE_ID ES2002d.C.argumentstructs.Erik.24: "Fully agree."
+AE_ID ES2002d.A.argumentstructs.Erik.23: "I think you tried to use the common share folder to to to to communicate, but um it just comes back to us so slow in the email um it it doesn't have a, you know, a messenger will go."
+AE_ID ES2002d.B.argumentstructs.51: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.24
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.25
+source=ES2002d.A.argumentstructs.Erik.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.33:
+"Did uh did you guys get the email I sent you ?"
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.31: "Okay."
+AE_ID ES2002d.C.argumentstructs.Erik.24: "Fully agree."
+AE_ID ES2002d.A.argumentstructs.Erik.23: "I think you tried to use the common share folder to to to to communicate, but um it just comes back to us so slow in the email um it it doesn't have a, you know, a messenger will go."
+AE_ID ES2002d.B.argumentstructs.51: "Mm."
+AE_ID ES2002d.C.argumentstructs.Erik.25: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.23
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.33
+source=ES2002d.A.argumentstructs.Erik.23
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.26:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.24: "Fully agree."
+AE_ID ES2002d.A.argumentstructs.Erik.23: "I think you tried to use the common share folder to to to to communicate, but um it just comes back to us so slow in the email um it it doesn't have a, you know, a messenger will go."
+AE_ID ES2002d.B.argumentstructs.51: "Mm."
+AE_ID ES2002d.C.argumentstructs.Erik.25: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.33: "Did uh did you guys get the email I sent you ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.25
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.26
+source=ES2002d.B.argumentstructs.Erik.32
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.D.argumentstructs.Erik.13:
+"Not just yet."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.23: "I think you tried to use the common share folder to to to to communicate, but um it just comes back to us so slow in the email um it it doesn't have a, you know, a messenger will go."
+AE_ID ES2002d.B.argumentstructs.51: "Mm."
+AE_ID ES2002d.C.argumentstructs.Erik.25: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.33: "Did uh did you guys get the email I sent you ?"
+AE_ID ES2002d.C.argumentstructs.Erik.26: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.33
+---------------------------------
+target=ES2002d.D.argumentstructs.Erik.13
+source=ES2002d.B.argumentstructs.Erik.33
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.24:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.51: "Mm."
+AE_ID ES2002d.C.argumentstructs.Erik.25: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.33: "Did uh did you guys get the email I sent you ?"
+AE_ID ES2002d.C.argumentstructs.Erik.26: "Yeah."
+AE_ID ES2002d.D.argumentstructs.Erik.13: "Not just yet."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.26
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.24
+source=ES2002d.B.argumentstructs.Erik.33
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.52:
+"Oh that's alright. I was wondering if that got there okay."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.25: "Yeah."
+AE_ID ES2002d.B.argumentstructs.Erik.33: "Did uh did you guys get the email I sent you ?"
+AE_ID ES2002d.C.argumentstructs.Erik.26: "Yeah."
+AE_ID ES2002d.D.argumentstructs.Erik.13: "Not just yet."
+AE_ID ES2002d.A.argumentstructs.Erik.24: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.33
+---------------------------------
+target=ES2002d.B.argumentstructs.52
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.27:
+"Yeah, got the email."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.33: "Did uh did you guys get the email I sent you ?"
+AE_ID ES2002d.C.argumentstructs.Erik.26: "Yeah."
+AE_ID ES2002d.D.argumentstructs.Erik.13: "Not just yet."
+AE_ID ES2002d.A.argumentstructs.Erik.24: "Yeah."
+AE_ID ES2002d.B.argumentstructs.52: "Oh that's alright. I was wondering if that got there okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.33
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.27
+source=ES2002d.B.argumentstructs.Erik.33
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.38:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.26: "Yeah."
+AE_ID ES2002d.D.argumentstructs.Erik.13: "Not just yet."
+AE_ID ES2002d.A.argumentstructs.Erik.24: "Yeah."
+AE_ID ES2002d.B.argumentstructs.52: "Oh that's alright. I was wondering if that got there okay."
+AE_ID ES2002d.C.argumentstructs.Erik.27: "Yeah, got the email."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.27
+---------------------------------
+target=ES2002d.A.argumentstructs.38
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.32:
+"Okay, um so um to s to to summarize the teamwork issue, saying that if we could communicate outside the meeting, you know just like quick questions, quick thoughts, whatever, it probably would be bit easier."
+
+Past dialogue turns:
+AE_ID ES2002d.D.argumentstructs.Erik.13: "Not just yet."
+AE_ID ES2002d.A.argumentstructs.Erik.24: "Yeah."
+AE_ID ES2002d.B.argumentstructs.52: "Oh that's alright. I was wondering if that got there okay."
+AE_ID ES2002d.C.argumentstructs.Erik.27: "Yeah, got the email."
+AE_ID ES2002d.A.argumentstructs.38: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.27
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.32
+source=ES2002d.B.argumentstructs.Erik.29
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.42:
+"Yeah. Yeah, in it"
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.24: "Yeah."
+AE_ID ES2002d.B.argumentstructs.52: "Oh that's alright. I was wondering if that got there okay."
+AE_ID ES2002d.C.argumentstructs.Erik.27: "Yeah, got the email."
+AE_ID ES2002d.A.argumentstructs.38: "Okay."
+AE_ID ES2002d.B.argumentstructs.Erik.32: "Okay, um so um to s to to summarize the teamwork issue, saying that if we could communicate outside the meeting, you know just like quick questions, quick thoughts, whatever, it probably would be bit easier."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.27
+---------------------------------
+target=ES2002d.C.argumentstructs.42
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.25:
+"I think the tools that they were given, the tool set that were given to us are fancy but they don't support collaboration, I think that's the word. They don't support the team working together, you know, they're still very individual tools."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.52: "Oh that's alright. I was wondering if that got there okay."
+AE_ID ES2002d.C.argumentstructs.Erik.27: "Yeah, got the email."
+AE_ID ES2002d.A.argumentstructs.38: "Okay."
+AE_ID ES2002d.B.argumentstructs.Erik.32: "Okay, um so um to s to to summarize the teamwork issue, saying that if we could communicate outside the meeting, you know just like quick questions, quick thoughts, whatever, it probably would be bit easier."
+AE_ID ES2002d.C.argumentstructs.42: "Yeah. Yeah, in it"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.32
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.25
+source=ES2002d.B.argumentstructs.Erik.29
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.28:
+"Mm-hmm, mm-hmm, mm-hmm, exactly."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.27: "Yeah, got the email."
+AE_ID ES2002d.A.argumentstructs.38: "Okay."
+AE_ID ES2002d.B.argumentstructs.Erik.32: "Okay, um so um to s to to summarize the teamwork issue, saying that if we could communicate outside the meeting, you know just like quick questions, quick thoughts, whatever, it probably would be bit easier."
+AE_ID ES2002d.C.argumentstructs.42: "Yeah. Yeah, in it"
+AE_ID ES2002d.A.argumentstructs.Erik.25: "I think the tools that they were given, the tool set that were given to us are fancy but they don't support collaboration, I think that's the word. They don't support the team working together, you know, they're still very individual tools."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.42
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.28
+source=ES2002d.A.argumentstructs.Erik.25
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.34:
+"Oh right, okay."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.38: "Okay."
+AE_ID ES2002d.B.argumentstructs.Erik.32: "Okay, um so um to s to to summarize the teamwork issue, saying that if we could communicate outside the meeting, you know just like quick questions, quick thoughts, whatever, it probably would be bit easier."
+AE_ID ES2002d.C.argumentstructs.42: "Yeah. Yeah, in it"
+AE_ID ES2002d.A.argumentstructs.Erik.25: "I think the tools that they were given, the tool set that were given to us are fancy but they don't support collaboration, I think that's the word. They don't support the team working together, you know, they're still very individual tools."
+AE_ID ES2002d.C.argumentstructs.Erik.28: "Mm-hmm, mm-hmm, mm-hmm, exactly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.32
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.34
+source=ES2002d.A.argumentstructs.Erik.25
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.43:
+"Yeah, I mean sort of taking upon that idea, w the way I see this i is that it's uh the the s the structure in which we've we've approached this whole task is quite contrary to the p principle of teamwork because the the tasks were d d sort of um divided, and then the work went on in isolation I I don't know what you guys did while you were together, maybe that was a bit different,"
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.32: "Okay, um so um to s to to summarize the teamwork issue, saying that if we could communicate outside the meeting, you know just like quick questions, quick thoughts, whatever, it probably would be bit easier."
+AE_ID ES2002d.C.argumentstructs.42: "Yeah. Yeah, in it"
+AE_ID ES2002d.A.argumentstructs.Erik.25: "I think the tools that they were given, the tool set that were given to us are fancy but they don't support collaboration, I think that's the word. They don't support the team working together, you know, they're still very individual tools."
+AE_ID ES2002d.C.argumentstructs.Erik.28: "Mm-hmm, mm-hmm, mm-hmm, exactly."
+AE_ID ES2002d.B.argumentstructs.Erik.34: "Oh right, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.25
+---------------------------------
+target=ES2002d.C.argumentstructs.43
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.53:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.42: "Yeah. Yeah, in it"
+AE_ID ES2002d.A.argumentstructs.Erik.25: "I think the tools that they were given, the tool set that were given to us are fancy but they don't support collaboration, I think that's the word. They don't support the team working together, you know, they're still very individual tools."
+AE_ID ES2002d.C.argumentstructs.Erik.28: "Mm-hmm, mm-hmm, mm-hmm, exactly."
+AE_ID ES2002d.B.argumentstructs.Erik.34: "Oh right, okay."
+AE_ID ES2002d.C.argumentstructs.43: "Yeah, I mean sort of taking upon that idea, w the way I see this i is that it's uh the the s the structure in which we've we've approached this whole task is quite contrary to the p principle of teamwork because the the tasks were d d sort of um divided, and then the work went on in isolation I I don't know what you guys did while you were together, maybe that was a bit different,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.42
+---------------------------------
+target=ES2002d.B.argumentstructs.53
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.29:
+"but um yeah, but um but actually if you if you imagine not entire the completely same task given to us but us said okay, first thing we have to do is come up with um let's say um a design concept, and we sit here together and do it, well that's what teamwork is. To s to say okay go off and don't talk to each other, it's actually p sort of predisposes you to quite the contrary of teamwork. Um not that we haven't done I think the best we could have done. I'm not dissatisfied with it."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.25: "I think the tools that they were given, the tool set that were given to us are fancy but they don't support collaboration, I think that's the word. They don't support the team working together, you know, they're still very individual tools."
+AE_ID ES2002d.C.argumentstructs.Erik.28: "Mm-hmm, mm-hmm, mm-hmm, exactly."
+AE_ID ES2002d.B.argumentstructs.Erik.34: "Oh right, okay."
+AE_ID ES2002d.C.argumentstructs.43: "Yeah, I mean sort of taking upon that idea, w the way I see this i is that it's uh the the s the structure in which we've we've approached this whole task is quite contrary to the p principle of teamwork because the the tasks were d d sort of um divided, and then the work went on in isolation I I don't know what you guys did while you were together, maybe that was a bit different,"
+AE_ID ES2002d.B.argumentstructs.53: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.25
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.29
+source=ES2002d.A.argumentstructs.Erik.25
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.26:
+"We had Play-Doh fun."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.28: "Mm-hmm, mm-hmm, mm-hmm, exactly."
+AE_ID ES2002d.B.argumentstructs.Erik.34: "Oh right, okay."
+AE_ID ES2002d.C.argumentstructs.43: "Yeah, I mean sort of taking upon that idea, w the way I see this i is that it's uh the the s the structure in which we've we've approached this whole task is quite contrary to the p principle of teamwork because the the tasks were d d sort of um divided, and then the work went on in isolation I I don't know what you guys did while you were together, maybe that was a bit different,"
+AE_ID ES2002d.B.argumentstructs.53: "Mm."
+AE_ID ES2002d.C.argumentstructs.Erik.29: "but um yeah, but um but actually if you if you imagine not entire the completely same task given to us but us said okay, first thing we have to do is come up with um let's say um a design concept, and we sit here together and do it, well that's what teamwork is. To s to say okay go off and don't talk to each other, it's actually p sort of predisposes you to quite the contrary of teamwork. Um not that we haven't done I think the best we could have done. I'm not dissatisfied with it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.29
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.26
+source=ES2002d.C.argumentstructs.Erik.29
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.35:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.34: "Oh right, okay."
+AE_ID ES2002d.C.argumentstructs.43: "Yeah, I mean sort of taking upon that idea, w the way I see this i is that it's uh the the s the structure in which we've we've approached this whole task is quite contrary to the p principle of teamwork because the the tasks were d d sort of um divided, and then the work went on in isolation I I don't know what you guys did while you were together, maybe that was a bit different,"
+AE_ID ES2002d.B.argumentstructs.53: "Mm."
+AE_ID ES2002d.C.argumentstructs.Erik.29: "but um yeah, but um but actually if you if you imagine not entire the completely same task given to us but us said okay, first thing we have to do is come up with um let's say um a design concept, and we sit here together and do it, well that's what teamwork is. To s to say okay go off and don't talk to each other, it's actually p sort of predisposes you to quite the contrary of teamwork. Um not that we haven't done I think the best we could have done. I'm not dissatisfied with it."
+AE_ID ES2002d.A.argumentstructs.Erik.26: "We had Play-Doh fun."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.34
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.35
+source=ES2002d.C.argumentstructs.Erik.29
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.54:
+"Yeah. Okay. Okay."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.43: "Yeah, I mean sort of taking upon that idea, w the way I see this i is that it's uh the the s the structure in which we've we've approached this whole task is quite contrary to the p principle of teamwork because the the tasks were d d sort of um divided, and then the work went on in isolation I I don't know what you guys did while you were together, maybe that was a bit different,"
+AE_ID ES2002d.B.argumentstructs.53: "Mm."
+AE_ID ES2002d.C.argumentstructs.Erik.29: "but um yeah, but um but actually if you if you imagine not entire the completely same task given to us but us said okay, first thing we have to do is come up with um let's say um a design concept, and we sit here together and do it, well that's what teamwork is. To s to say okay go off and don't talk to each other, it's actually p sort of predisposes you to quite the contrary of teamwork. Um not that we haven't done I think the best we could have done. I'm not dissatisfied with it."
+AE_ID ES2002d.A.argumentstructs.Erik.26: "We had Play-Doh fun."
+AE_ID ES2002d.B.argumentstructs.Erik.35: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.43
+---------------------------------
+target=ES2002d.B.argumentstructs.54
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.36:
+"Right, uh anything else to say on teamwork at all ? Okay, um what about the you know how we used the whiteboard, the digital pens, the projector, stuff like that ? Um did anybody think anything was like really useful, anything was pretty un f"
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.53: "Mm."
+AE_ID ES2002d.C.argumentstructs.Erik.29: "but um yeah, but um but actually if you if you imagine not entire the completely same task given to us but us said okay, first thing we have to do is come up with um let's say um a design concept, and we sit here together and do it, well that's what teamwork is. To s to say okay go off and don't talk to each other, it's actually p sort of predisposes you to quite the contrary of teamwork. Um not that we haven't done I think the best we could have done. I'm not dissatisfied with it."
+AE_ID ES2002d.A.argumentstructs.Erik.26: "We had Play-Doh fun."
+AE_ID ES2002d.B.argumentstructs.Erik.35: "Yeah."
+AE_ID ES2002d.B.argumentstructs.54: "Yeah. Okay. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.29
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.36
+source=ES2002d.B.argumentstructs.Erik.29
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.27:
+"No, not really."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.29: "but um yeah, but um but actually if you if you imagine not entire the completely same task given to us but us said okay, first thing we have to do is come up with um let's say um a design concept, and we sit here together and do it, well that's what teamwork is. To s to say okay go off and don't talk to each other, it's actually p sort of predisposes you to quite the contrary of teamwork. Um not that we haven't done I think the best we could have done. I'm not dissatisfied with it."
+AE_ID ES2002d.A.argumentstructs.Erik.26: "We had Play-Doh fun."
+AE_ID ES2002d.B.argumentstructs.Erik.35: "Yeah."
+AE_ID ES2002d.B.argumentstructs.54: "Yeah. Okay. Okay."
+AE_ID ES2002d.B.argumentstructs.Erik.36: "Right, uh anything else to say on teamwork at all ? Okay, um what about the you know how we used the whiteboard, the digital pens, the projector, stuff like that ? Um did anybody think anything was like really useful, anything was pretty un f"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.29
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.27
+source=ES2002d.B.argumentstructs.Erik.36
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.44:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.26: "We had Play-Doh fun."
+AE_ID ES2002d.B.argumentstructs.Erik.35: "Yeah."
+AE_ID ES2002d.B.argumentstructs.54: "Yeah. Okay. Okay."
+AE_ID ES2002d.B.argumentstructs.Erik.36: "Right, uh anything else to say on teamwork at all ? Okay, um what about the you know how we used the whiteboard, the digital pens, the projector, stuff like that ? Um did anybody think anything was like really useful, anything was pretty un f"
+AE_ID ES2002d.A.argumentstructs.Erik.27: "No, not really."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.54
+---------------------------------
+target=ES2002d.C.argumentstructs.44
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2002d-ES2002d - Teamwork.csv - True Judgement Ratio: 30.30%

@@ -1,0 +1,437 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.D.argumentstructs.Erik.10:
+"Can't we have different colours in the remotes, so somebody can choose different col like does it have to be of a certain ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007b.D.argumentstructs.Erik.10
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.Erik.13:
+"Well, see the thing is is we've gotta keep the company image. It's gotta say  people have gotta look at this remote control and instantly recognise that it's a Real Reaction i product."
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.Erik.10: "Can't we have different colours in the remotes, so somebody can choose different col like does it have to be of a certain ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2007b.A.argumentstructs.Erik.13
+source=ES2007b.D.argumentstructs.Erik.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.C.argumentstructs.9:
+"Mm. Mm. Mm."
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.Erik.10: "Can't we have different colours in the remotes, so somebody can choose different col like does it have to be of a certain ?"
+AE_ID ES2007b.A.argumentstructs.Erik.13: "Well, see the thing is is we've gotta keep the company image. It's gotta say  people have gotta look at this remote control and instantly recognise that it's a Real Reaction i product."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007b.C.argumentstructs.9
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.D.argumentstructs.Erik.11:
+"But if it's a R_R_, it would be Real Reaction, like if it had a symbol on it."
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.Erik.10: "Can't we have different colours in the remotes, so somebody can choose different col like does it have to be of a certain ?"
+AE_ID ES2007b.A.argumentstructs.Erik.13: "Well, see the thing is is we've gotta keep the company image. It's gotta say  people have gotta look at this remote control and instantly recognise that it's a Real Reaction i product."
+AE_ID ES2007b.C.argumentstructs.9: "Mm. Mm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.13
+---------------------------------
+target=ES2007b.D.argumentstructs.Erik.11
+source=ES2007b.A.argumentstructs.Erik.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.Erik.14:
+"There's loads of companies that called R_R_."
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.Erik.10: "Can't we have different colours in the remotes, so somebody can choose different col like does it have to be of a certain ?"
+AE_ID ES2007b.A.argumentstructs.Erik.13: "Well, see the thing is is we've gotta keep the company image. It's gotta say  people have gotta look at this remote control and instantly recognise that it's a Real Reaction i product."
+AE_ID ES2007b.C.argumentstructs.9: "Mm. Mm. Mm."
+AE_ID ES2007b.D.argumentstructs.Erik.11: "But if it's a R_R_, it would be Real Reaction, like if it had a symbol on it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.13
+---------------------------------
+target=ES2007b.A.argumentstructs.Erik.14
+source=ES2007b.D.argumentstructs.Erik.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.D.argumentstructs.16:
+"Whoa."
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.Erik.10: "Can't we have different colours in the remotes, so somebody can choose different col like does it have to be of a certain ?"
+AE_ID ES2007b.A.argumentstructs.Erik.13: "Well, see the thing is is we've gotta keep the company image. It's gotta say  people have gotta look at this remote control and instantly recognise that it's a Real Reaction i product."
+AE_ID ES2007b.C.argumentstructs.9: "Mm. Mm. Mm."
+AE_ID ES2007b.D.argumentstructs.Erik.11: "But if it's a R_R_, it would be Real Reaction, like if it had a symbol on it."
+AE_ID ES2007b.A.argumentstructs.Erik.14: "There's loads of companies that called R_R_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.13
+---------------------------------
+target=ES2007b.D.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.Erik.15:
+"This is slog  but this is the slogan, this is the the the the type."
+
+Past dialogue turns:
+AE_ID ES2007b.A.argumentstructs.Erik.13: "Well, see the thing is is we've gotta keep the company image. It's gotta say  people have gotta look at this remote control and instantly recognise that it's a Real Reaction i product."
+AE_ID ES2007b.C.argumentstructs.9: "Mm. Mm. Mm."
+AE_ID ES2007b.D.argumentstructs.Erik.11: "But if it's a R_R_, it would be Real Reaction, like if it had a symbol on it."
+AE_ID ES2007b.A.argumentstructs.Erik.14: "There's loads of companies that called R_R_."
+AE_ID ES2007b.D.argumentstructs.16: "Whoa."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.13
+---------------------------------
+target=ES2007b.A.argumentstructs.Erik.15
+source=ES2007b.A.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.C.argumentstructs.Erik.6:
+"And this is something that came on down from from the higher ups, so, I mean, we are sort of beholden to them."
+
+Past dialogue turns:
+AE_ID ES2007b.C.argumentstructs.9: "Mm. Mm. Mm."
+AE_ID ES2007b.D.argumentstructs.Erik.11: "But if it's a R_R_, it would be Real Reaction, like if it had a symbol on it."
+AE_ID ES2007b.A.argumentstructs.Erik.14: "There's loads of companies that called R_R_."
+AE_ID ES2007b.D.argumentstructs.16: "Whoa."
+AE_ID ES2007b.A.argumentstructs.Erik.15: "This is slog  but this is the slogan, this is the the the the type."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007b.C.argumentstructs.Erik.6
+source=ES2007b.A.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.Erik.16:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.Erik.11: "But if it's a R_R_, it would be Real Reaction, like if it had a symbol on it."
+AE_ID ES2007b.A.argumentstructs.Erik.14: "There's loads of companies that called R_R_."
+AE_ID ES2007b.D.argumentstructs.16: "Whoa."
+AE_ID ES2007b.A.argumentstructs.Erik.15: "This is slog  but this is the slogan, this is the the the the type."
+AE_ID ES2007b.C.argumentstructs.Erik.6: "And this is something that came on down from from the higher ups, so, I mean, we are sort of beholden to them."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.14
+---------------------------------
+target=ES2007b.A.argumentstructs.Erik.16
+source=ES2007b.C.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.D.argumentstructs.Erik.12:
+"So we have to have it one colour."
+
+Past dialogue turns:
+AE_ID ES2007b.A.argumentstructs.Erik.14: "There's loads of companies that called R_R_."
+AE_ID ES2007b.D.argumentstructs.16: "Whoa."
+AE_ID ES2007b.A.argumentstructs.Erik.15: "This is slog  but this is the slogan, this is the the the the type."
+AE_ID ES2007b.C.argumentstructs.Erik.6: "And this is something that came on down from from the higher ups, so, I mean, we are sort of beholden to them."
+AE_ID ES2007b.A.argumentstructs.Erik.16: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2007b.D.argumentstructs.Erik.12
+source=ES2007b.C.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.Erik.17:
+"Well, not necessarily. But we have to incorporate it."
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.16: "Whoa."
+AE_ID ES2007b.A.argumentstructs.Erik.15: "This is slog  but this is the slogan, this is the the the the type."
+AE_ID ES2007b.C.argumentstructs.Erik.6: "And this is something that came on down from from the higher ups, so, I mean, we are sort of beholden to them."
+AE_ID ES2007b.A.argumentstructs.Erik.16: "Yeah."
+AE_ID ES2007b.D.argumentstructs.Erik.12: "So we have to have it one colour."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.16
+---------------------------------
+target=ES2007b.A.argumentstructs.Erik.17
+source=ES2007b.D.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.C.argumentstructs.Erik.7:
+"Not one colour, but the pattern needs to be recognisable."
+
+Past dialogue turns:
+AE_ID ES2007b.A.argumentstructs.Erik.15: "This is slog  but this is the slogan, this is the the the the type."
+AE_ID ES2007b.C.argumentstructs.Erik.6: "And this is something that came on down from from the higher ups, so, I mean, we are sort of beholden to them."
+AE_ID ES2007b.A.argumentstructs.Erik.16: "Yeah."
+AE_ID ES2007b.D.argumentstructs.Erik.12: "So we have to have it one colour."
+AE_ID ES2007b.A.argumentstructs.Erik.17: "Well, not necessarily. But we have to incorporate it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.D.argumentstructs.Erik.12
+---------------------------------
+target=ES2007b.C.argumentstructs.Erik.7
+source=ES2007b.D.argumentstructs.Erik.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.D.argumentstructs.17:
+"Mm. Mm."
+
+Past dialogue turns:
+AE_ID ES2007b.C.argumentstructs.Erik.6: "And this is something that came on down from from the higher ups, so, I mean, we are sort of beholden to them."
+AE_ID ES2007b.A.argumentstructs.Erik.16: "Yeah."
+AE_ID ES2007b.D.argumentstructs.Erik.12: "So we have to have it one colour."
+AE_ID ES2007b.A.argumentstructs.Erik.17: "Well, not necessarily. But we have to incorporate it."
+AE_ID ES2007b.C.argumentstructs.Erik.7: "Not one colour, but the pattern needs to be recognisable."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2007b.D.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.Erik.18:
+"Not necessarily even if i it just has to  ye but you have to look at the product and instantly know that it's one of our products as opposed to a Sony product or a, you know, a Panasonic product. It's got to  so maybe, so you can have a look at our our other products and see if they all follow a s similar vein, perhaps."
+
+Past dialogue turns:
+AE_ID ES2007b.A.argumentstructs.Erik.16: "Yeah."
+AE_ID ES2007b.D.argumentstructs.Erik.12: "So we have to have it one colour."
+AE_ID ES2007b.A.argumentstructs.Erik.17: "Well, not necessarily. But we have to incorporate it."
+AE_ID ES2007b.C.argumentstructs.Erik.7: "Not one colour, but the pattern needs to be recognisable."
+AE_ID ES2007b.D.argumentstructs.17: "Mm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.17
+---------------------------------
+target=ES2007b.A.argumentstructs.Erik.18
+source=ES2007b.D.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.B.argumentstructs.12:
+"It could come"
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.Erik.12: "So we have to have it one colour."
+AE_ID ES2007b.A.argumentstructs.Erik.17: "Well, not necessarily. But we have to incorporate it."
+AE_ID ES2007b.C.argumentstructs.Erik.7: "Not one colour, but the pattern needs to be recognisable."
+AE_ID ES2007b.D.argumentstructs.17: "Mm. Mm."
+AE_ID ES2007b.A.argumentstructs.Erik.18: "Not necessarily even if i it just has to  ye but you have to look at the product and instantly know that it's one of our products as opposed to a Sony product or a, you know, a Panasonic product. It's got to  so maybe, so you can have a look at our our other products and see if they all follow a s similar vein, perhaps."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.18
+---------------------------------
+target=ES2007b.B.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.B.argumentstructs.Erik.8:
+"But it could come in different colours and have the R_R_ colours just somewhere  like just around the lock button could be the R_R_ logo or colours and"
+
+Past dialogue turns:
+AE_ID ES2007b.A.argumentstructs.Erik.17: "Well, not necessarily. But we have to incorporate it."
+AE_ID ES2007b.C.argumentstructs.Erik.7: "Not one colour, but the pattern needs to be recognisable."
+AE_ID ES2007b.D.argumentstructs.17: "Mm. Mm."
+AE_ID ES2007b.A.argumentstructs.Erik.18: "Not necessarily even if i it just has to  ye but you have to look at the product and instantly know that it's one of our products as opposed to a Sony product or a, you know, a Panasonic product. It's got to  so maybe, so you can have a look at our our other products and see if they all follow a s similar vein, perhaps."
+AE_ID ES2007b.B.argumentstructs.12: "It could come"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.C.argumentstructs.Erik.7
+---------------------------------
+target=ES2007b.B.argumentstructs.Erik.8
+source=ES2007b.A.argumentstructs.Erik.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.Erik.19:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007b.C.argumentstructs.Erik.7: "Not one colour, but the pattern needs to be recognisable."
+AE_ID ES2007b.D.argumentstructs.17: "Mm. Mm."
+AE_ID ES2007b.A.argumentstructs.Erik.18: "Not necessarily even if i it just has to  ye but you have to look at the product and instantly know that it's one of our products as opposed to a Sony product or a, you know, a Panasonic product. It's got to  so maybe, so you can have a look at our our other products and see if they all follow a s similar vein, perhaps."
+AE_ID ES2007b.B.argumentstructs.12: "It could come"
+AE_ID ES2007b.B.argumentstructs.Erik.8: "But it could come in different colours and have the R_R_ colours just somewhere  like just around the lock button could be the R_R_ logo or colours and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.18
+---------------------------------
+target=ES2007b.A.argumentstructs.Erik.19
+source=ES2007b.B.argumentstructs.Erik.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007b.A.argumentstructs.21:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2007b.D.argumentstructs.17: "Mm. Mm."
+AE_ID ES2007b.A.argumentstructs.Erik.18: "Not necessarily even if i it just has to  ye but you have to look at the product and instantly know that it's one of our products as opposed to a Sony product or a, you know, a Panasonic product. It's got to  so maybe, so you can have a look at our our other products and see if they all follow a s similar vein, perhaps."
+AE_ID ES2007b.B.argumentstructs.12: "It could come"
+AE_ID ES2007b.B.argumentstructs.Erik.8: "But it could come in different colours and have the R_R_ colours just somewhere  like just around the lock button could be the R_R_ logo or colours and"
+AE_ID ES2007b.A.argumentstructs.Erik.19: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007b.A.argumentstructs.Erik.19
+---------------------------------
+target=ES2007b.A.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2007b-ES2007b - Remote recognizability.csv - True Judgement Ratio: 33.33%

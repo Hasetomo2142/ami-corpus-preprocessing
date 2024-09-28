@@ -1,0 +1,587 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.13:
+"Uh um, you know, some func some features on the control to display a time, or t to display"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.13
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.9:
+"Usually it's already on T_V_ or something like that."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.13: "Uh um, you know, some func some features on the control to display a time, or t to display"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.D.argumentstructs.Rutger.13
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.9
+source=IS1005b.D.argumentstructs.Rutger.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.C.argumentstructs.Rutger.6:
+"Yes."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.13: "Uh um, you know, some func some features on the control to display a time, or t to display"
+AE_ID IS1005b.A.argumentstructs.Rutger.9: "Usually it's already on T_V_ or something like that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.9
+---------------------------------
+target=IS1005b.C.argumentstructs.Rutger.6
+source=IS1005b.A.argumentstructs.Rutger.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.19:
+"Yeah but since we want to control all the televisions,"
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.13: "Uh um, you know, some func some features on the control to display a time, or t to display"
+AE_ID IS1005b.A.argumentstructs.Rutger.9: "Usually it's already on T_V_ or something like that."
+AE_ID IS1005b.C.argumentstructs.Rutger.6: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.9
+---------------------------------
+target=IS1005b.B.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.10:
+"and and it would probably be worth to to set the timing on the remote, no ?"
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.13: "Uh um, you know, some func some features on the control to display a time, or t to display"
+AE_ID IS1005b.A.argumentstructs.Rutger.9: "Usually it's already on T_V_ or something like that."
+AE_ID IS1005b.C.argumentstructs.Rutger.6: "Yes."
+AE_ID IS1005b.B.argumentstructs.19: "Yeah but since we want to control all the televisions,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.D.argumentstructs.Rutger.13
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.10
+source=IS1005b.A.argumentstructs.Rutger.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.10:
+"Yeah"
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.13: "Uh um, you know, some func some features on the control to display a time, or t to display"
+AE_ID IS1005b.A.argumentstructs.Rutger.9: "Usually it's already on T_V_ or something like that."
+AE_ID IS1005b.C.argumentstructs.Rutger.6: "Yes."
+AE_ID IS1005b.B.argumentstructs.19: "Yeah but since we want to control all the televisions,"
+AE_ID IS1005b.B.argumentstructs.Rutger.10: "and and it would probably be worth to to set the timing on the remote, no ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.10
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.10
+source=IS1005b.B.argumentstructs.Rutger.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.18:
+". Yeah."
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.9: "Usually it's already on T_V_ or something like that."
+AE_ID IS1005b.C.argumentstructs.Rutger.6: "Yes."
+AE_ID IS1005b.B.argumentstructs.19: "Yeah but since we want to control all the televisions,"
+AE_ID IS1005b.B.argumentstructs.Rutger.10: "and and it would probably be worth to to set the timing on the remote, no ?"
+AE_ID IS1005b.A.argumentstructs.Rutger.10: "Yeah"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.10
+---------------------------------
+target=IS1005b.A.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.11:
+"Because if if the T_V_ turns on itself, it well you know, if the time The timer should be there."
+
+Past dialogue turns:
+AE_ID IS1005b.C.argumentstructs.Rutger.6: "Yes."
+AE_ID IS1005b.B.argumentstructs.19: "Yeah but since we want to control all the televisions,"
+AE_ID IS1005b.B.argumentstructs.Rutger.10: "and and it would probably be worth to to set the timing on the remote, no ?"
+AE_ID IS1005b.A.argumentstructs.Rutger.10: "Yeah"
+AE_ID IS1005b.A.argumentstructs.18: ". Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.19
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.11
+source=IS1005b.B.argumentstructs.Rutger.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.C.argumentstructs.11:
+"Mm. Mm."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.19: "Yeah but since we want to control all the televisions,"
+AE_ID IS1005b.B.argumentstructs.Rutger.10: "and and it would probably be worth to to set the timing on the remote, no ?"
+AE_ID IS1005b.A.argumentstructs.Rutger.10: "Yeah"
+AE_ID IS1005b.A.argumentstructs.18: ". Yeah."
+AE_ID IS1005b.B.argumentstructs.Rutger.11: "Because if if the T_V_ turns on itself, it well you know, if the time The timer should be there."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.19
+---------------------------------
+target=IS1005b.C.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.11:
+"Yeah. If we if we add the time, we have to have maybe a bigger display or something like that, and is it very useful ? I mean, are users wants to have the time on the on the remote ?"
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.10: "and and it would probably be worth to to set the timing on the remote, no ?"
+AE_ID IS1005b.A.argumentstructs.Rutger.10: "Yeah"
+AE_ID IS1005b.A.argumentstructs.18: ". Yeah."
+AE_ID IS1005b.B.argumentstructs.Rutger.11: "Because if if the T_V_ turns on itself, it well you know, if the time The timer should be there."
+AE_ID IS1005b.C.argumentstructs.11: "Mm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.10
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.11
+source=IS1005b.B.argumentstructs.Rutger.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.12:
+"This is the question. Is it useful ?"
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.10: "Yeah"
+AE_ID IS1005b.A.argumentstructs.18: ". Yeah."
+AE_ID IS1005b.B.argumentstructs.Rutger.11: "Because if if the T_V_ turns on itself, it well you know, if the time The timer should be there."
+AE_ID IS1005b.C.argumentstructs.11: "Mm. Mm."
+AE_ID IS1005b.A.argumentstructs.Rutger.11: "Yeah. If we if we add the time, we have to have maybe a bigger display or something like that, and is it very useful ? I mean, are users wants to have the time on the on the remote ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+AE_ID IS1005b.A.argumentstructs.Rutger.11
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.12
+source=IS1005b.A.argumentstructs.Rutger.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.14:
+"Probably not. It's a questi yeah, it's a trade-off."
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.18: ". Yeah."
+AE_ID IS1005b.B.argumentstructs.Rutger.11: "Because if if the T_V_ turns on itself, it well you know, if the time The timer should be there."
+AE_ID IS1005b.C.argumentstructs.11: "Mm. Mm."
+AE_ID IS1005b.A.argumentstructs.Rutger.11: "Yeah. If we if we add the time, we have to have maybe a bigger display or something like that, and is it very useful ? I mean, are users wants to have the time on the on the remote ?"
+AE_ID IS1005b.A.argumentstructs.Rutger.12: "This is the question. Is it useful ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.12
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.14
+source=IS1005b.A.argumentstructs.Rutger.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.C.argumentstructs.Rutger.7:
+"Yes."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.11: "Because if if the T_V_ turns on itself, it well you know, if the time The timer should be there."
+AE_ID IS1005b.C.argumentstructs.11: "Mm. Mm."
+AE_ID IS1005b.A.argumentstructs.Rutger.11: "Yeah. If we if we add the time, we have to have maybe a bigger display or something like that, and is it very useful ? I mean, are users wants to have the time on the on the remote ?"
+AE_ID IS1005b.A.argumentstructs.Rutger.12: "This is the question. Is it useful ?"
+AE_ID IS1005b.D.argumentstructs.Rutger.14: "Probably not. It's a questi yeah, it's a trade-off."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.12
+---------------------------------
+target=IS1005b.C.argumentstructs.Rutger.7
+source=IS1005b.D.argumentstructs.Rutger.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.13:
+"W In my opinion we should have only useful thing and Because apparently they want  The simpler it's is better."
+
+Past dialogue turns:
+AE_ID IS1005b.C.argumentstructs.11: "Mm. Mm."
+AE_ID IS1005b.A.argumentstructs.Rutger.11: "Yeah. If we if we add the time, we have to have maybe a bigger display or something like that, and is it very useful ? I mean, are users wants to have the time on the on the remote ?"
+AE_ID IS1005b.A.argumentstructs.Rutger.12: "This is the question. Is it useful ?"
+AE_ID IS1005b.D.argumentstructs.Rutger.14: "Probably not. It's a questi yeah, it's a trade-off."
+AE_ID IS1005b.C.argumentstructs.Rutger.7: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.12
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.13
+source=IS1005b.D.argumentstructs.Rutger.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.15:
+"'Kay."
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.11: "Yeah. If we if we add the time, we have to have maybe a bigger display or something like that, and is it very useful ? I mean, are users wants to have the time on the on the remote ?"
+AE_ID IS1005b.A.argumentstructs.Rutger.12: "This is the question. Is it useful ?"
+AE_ID IS1005b.D.argumentstructs.Rutger.14: "Probably not. It's a questi yeah, it's a trade-off."
+AE_ID IS1005b.C.argumentstructs.Rutger.7: "Yes."
+AE_ID IS1005b.A.argumentstructs.Rutger.13: "W In my opinion we should have only useful thing and Because apparently they want  The simpler it's is better."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.12
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.15
+source=IS1005b.A.argumentstructs.Rutger.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.12:
+"Ah, yeah."
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.12: "This is the question. Is it useful ?"
+AE_ID IS1005b.D.argumentstructs.Rutger.14: "Probably not. It's a questi yeah, it's a trade-off."
+AE_ID IS1005b.C.argumentstructs.Rutger.7: "Yes."
+AE_ID IS1005b.A.argumentstructs.Rutger.13: "W In my opinion we should have only useful thing and Because apparently they want  The simpler it's is better."
+AE_ID IS1005b.D.argumentstructs.Rutger.15: "'Kay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.12
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.12
+source=IS1005b.A.argumentstructs.Rutger.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.16:
+"Okay simple."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.14: "Probably not. It's a questi yeah, it's a trade-off."
+AE_ID IS1005b.C.argumentstructs.Rutger.7: "Yes."
+AE_ID IS1005b.A.argumentstructs.Rutger.13: "W In my opinion we should have only useful thing and Because apparently they want  The simpler it's is better."
+AE_ID IS1005b.D.argumentstructs.Rutger.15: "'Kay."
+AE_ID IS1005b.B.argumentstructs.Rutger.12: "Ah, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.13
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.16
+source=IS1005b.A.argumentstructs.Rutger.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.13:
+"Did you did you ever use the like the timing of turning on the T_V_, well  And based on your"
+
+Past dialogue turns:
+AE_ID IS1005b.C.argumentstructs.Rutger.7: "Yes."
+AE_ID IS1005b.A.argumentstructs.Rutger.13: "W In my opinion we should have only useful thing and Because apparently they want  The simpler it's is better."
+AE_ID IS1005b.D.argumentstructs.Rutger.15: "'Kay."
+AE_ID IS1005b.B.argumentstructs.Rutger.12: "Ah, yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.16: "Okay simple."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.A.argumentstructs.Rutger.13
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.13
+source=IS1005b.A.argumentstructs.Rutger.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.17:
+"Very, yeah okay, very occasionally. But I do use the I do use the display of the time quite often, but"
+
+Past dialogue turns:
+AE_ID IS1005b.A.argumentstructs.Rutger.13: "W In my opinion we should have only useful thing and Because apparently they want  The simpler it's is better."
+AE_ID IS1005b.D.argumentstructs.Rutger.15: "'Kay."
+AE_ID IS1005b.B.argumentstructs.Rutger.12: "Ah, yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.16: "Okay simple."
+AE_ID IS1005b.B.argumentstructs.Rutger.13: "Did you did you ever use the like the timing of turning on the T_V_, well  And based on your"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.13
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.17
+source=IS1005b.B.argumentstructs.Rutger.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.C.argumentstructs.12:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.15: "'Kay."
+AE_ID IS1005b.B.argumentstructs.Rutger.12: "Ah, yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.16: "Okay simple."
+AE_ID IS1005b.B.argumentstructs.Rutger.13: "Did you did you ever use the like the timing of turning on the T_V_, well  And based on your"
+AE_ID IS1005b.D.argumentstructs.Rutger.17: "Very, yeah okay, very occasionally. But I do use the I do use the display of the time quite often, but"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.D.argumentstructs.Rutger.16
+---------------------------------
+target=IS1005b.C.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.B.argumentstructs.Rutger.14:
+"Yeah but it can be on the display in in a corner all the time on the remote."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.12: "Ah, yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.16: "Okay simple."
+AE_ID IS1005b.B.argumentstructs.Rutger.13: "Did you did you ever use the like the timing of turning on the T_V_, well  And based on your"
+AE_ID IS1005b.D.argumentstructs.Rutger.17: "Very, yeah okay, very occasionally. But I do use the I do use the display of the time quite often, but"
+AE_ID IS1005b.C.argumentstructs.12: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.D.argumentstructs.Rutger.17
+---------------------------------
+target=IS1005b.B.argumentstructs.Rutger.14
+source=IS1005b.D.argumentstructs.Rutger.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.24:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.16: "Okay simple."
+AE_ID IS1005b.B.argumentstructs.Rutger.13: "Did you did you ever use the like the timing of turning on the T_V_, well  And based on your"
+AE_ID IS1005b.D.argumentstructs.Rutger.17: "Very, yeah okay, very occasionally. But I do use the I do use the display of the time quite often, but"
+AE_ID IS1005b.C.argumentstructs.12: "Mm."
+AE_ID IS1005b.B.argumentstructs.Rutger.14: "Yeah but it can be on the display in in a corner all the time on the remote."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.14
+---------------------------------
+target=IS1005b.D.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.D.argumentstructs.Rutger.20:
+"Yeah that's okay, that's true. Okay, so no time button. Okay."
+
+Past dialogue turns:
+AE_ID IS1005b.B.argumentstructs.Rutger.13: "Did you did you ever use the like the timing of turning on the T_V_, well  And based on your"
+AE_ID IS1005b.D.argumentstructs.Rutger.17: "Very, yeah okay, very occasionally. But I do use the I do use the display of the time quite often, but"
+AE_ID IS1005b.C.argumentstructs.12: "Mm."
+AE_ID IS1005b.B.argumentstructs.Rutger.14: "Yeah but it can be on the display in in a corner all the time on the remote."
+AE_ID IS1005b.D.argumentstructs.24: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.B.argumentstructs.Rutger.14
+---------------------------------
+target=IS1005b.D.argumentstructs.Rutger.20
+source=IS1005b.B.argumentstructs.Rutger.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1005b.A.argumentstructs.Rutger.14:
+"No time on."
+
+Past dialogue turns:
+AE_ID IS1005b.D.argumentstructs.Rutger.17: "Very, yeah okay, very occasionally. But I do use the I do use the display of the time quite often, but"
+AE_ID IS1005b.C.argumentstructs.12: "Mm."
+AE_ID IS1005b.B.argumentstructs.Rutger.14: "Yeah but it can be on the display in in a corner all the time on the remote."
+AE_ID IS1005b.D.argumentstructs.24: "Yeah."
+AE_ID IS1005b.D.argumentstructs.Rutger.20: "Yeah that's okay, that's true. Okay, so no time button. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1005b.D.argumentstructs.Rutger.20
+---------------------------------
+target=IS1005b.A.argumentstructs.Rutger.14
+source=IS1005b.A.argumentstructs.Rutger.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1005b-Time button.csv - True Judgement Ratio: 45.83%

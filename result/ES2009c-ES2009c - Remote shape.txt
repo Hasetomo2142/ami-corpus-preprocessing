@@ -1,0 +1,637 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.C.argumentstructs.16:
+"I'm willing to agree with everything that's been said. Uh I have to say though that um another idea's come up in my head."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2009c.C.argumentstructs.16
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.A.argumentstructs.Erik.20:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2009c.C.argumentstructs.16: "I'm willing to agree with everything that's been said. Uh I have to say though that um another idea's come up in my head."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.C.argumentstructs.16
+---------------------------------
+target=ES2009c.A.argumentstructs.Erik.20
+source=ES2009c.C.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.C.argumentstructs.Erik.9:
+"If we're really not uh handling the remote control to a great extent we could possibly get away from the idea of having a hand-held remote control and maybe kind of have a round remote control that kind of looks like a paperweight or something like that, kind of a sleek little uh neat thing that sits on your table or something."
+
+Past dialogue turns:
+AE_ID ES2009c.C.argumentstructs.16: "I'm willing to agree with everything that's been said. Uh I have to say though that um another idea's come up in my head."
+AE_ID ES2009c.A.argumentstructs.Erik.20: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2009c.C.argumentstructs.Erik.9
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.D.argumentstructs.41:
+"Uh"
+
+Past dialogue turns:
+AE_ID ES2009c.C.argumentstructs.16: "I'm willing to agree with everything that's been said. Uh I have to say though that um another idea's come up in my head."
+AE_ID ES2009c.A.argumentstructs.Erik.20: "Okay."
+AE_ID ES2009c.C.argumentstructs.Erik.9: "If we're really not uh handling the remote control to a great extent we could possibly get away from the idea of having a hand-held remote control and maybe kind of have a round remote control that kind of looks like a paperweight or something like that, kind of a sleek little uh neat thing that sits on your table or something."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.C.argumentstructs.16
+---------------------------------
+target=ES2009c.D.argumentstructs.41
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.A.argumentstructs.34:
+"Hmm."
+
+Past dialogue turns:
+AE_ID ES2009c.C.argumentstructs.16: "I'm willing to agree with everything that's been said. Uh I have to say though that um another idea's come up in my head."
+AE_ID ES2009c.A.argumentstructs.Erik.20: "Okay."
+AE_ID ES2009c.C.argumentstructs.Erik.9: "If we're really not uh handling the remote control to a great extent we could possibly get away from the idea of having a hand-held remote control and maybe kind of have a round remote control that kind of looks like a paperweight or something like that, kind of a sleek little uh neat thing that sits on your table or something."
+AE_ID ES2009c.D.argumentstructs.41: "Uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.C.argumentstructs.16
+---------------------------------
+target=ES2009c.A.argumentstructs.34
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.B.argumentstructs.17:
+"Hmm."
+
+Past dialogue turns:
+AE_ID ES2009c.C.argumentstructs.16: "I'm willing to agree with everything that's been said. Uh I have to say though that um another idea's come up in my head."
+AE_ID ES2009c.A.argumentstructs.Erik.20: "Okay."
+AE_ID ES2009c.C.argumentstructs.Erik.9: "If we're really not uh handling the remote control to a great extent we could possibly get away from the idea of having a hand-held remote control and maybe kind of have a round remote control that kind of looks like a paperweight or something like that, kind of a sleek little uh neat thing that sits on your table or something."
+AE_ID ES2009c.D.argumentstructs.41: "Uh"
+AE_ID ES2009c.A.argumentstructs.34: "Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.C.argumentstructs.16
+---------------------------------
+target=ES2009c.B.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.D.argumentstructs.Erik.29:
+"Interesting."
+
+Past dialogue turns:
+AE_ID ES2009c.A.argumentstructs.Erik.20: "Okay."
+AE_ID ES2009c.C.argumentstructs.Erik.9: "If we're really not uh handling the remote control to a great extent we could possibly get away from the idea of having a hand-held remote control and maybe kind of have a round remote control that kind of looks like a paperweight or something like that, kind of a sleek little uh neat thing that sits on your table or something."
+AE_ID ES2009c.D.argumentstructs.41: "Uh"
+AE_ID ES2009c.A.argumentstructs.34: "Hmm."
+AE_ID ES2009c.B.argumentstructs.17: "Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.C.argumentstructs.Erik.9
+---------------------------------
+target=ES2009c.D.argumentstructs.Erik.29
+source=ES2009c.C.argumentstructs.Erik.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.B.argumentstructs.Erik.12:
+"Why, why moving away from hand-held, why ? What's the uh idea ?"
+
+Past dialogue turns:
+AE_ID ES2009c.C.argumentstructs.Erik.9: "If we're really not uh handling the remote control to a great extent we could possibly get away from the idea of having a hand-held remote control and maybe kind of have a round remote control that kind of looks like a paperweight or something like that, kind of a sleek little uh neat thing that sits on your table or something."
+AE_ID ES2009c.D.argumentstructs.41: "Uh"
+AE_ID ES2009c.A.argumentstructs.34: "Hmm."
+AE_ID ES2009c.B.argumentstructs.17: "Hmm."
+AE_ID ES2009c.D.argumentstructs.Erik.29: "Interesting."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.C.argumentstructs.Erik.9
+---------------------------------
+target=ES2009c.B.argumentstructs.Erik.12
+source=ES2009c.C.argumentstructs.Erik.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.C.argumentstructs.Erik.10:
+"Just a thought."
+
+Past dialogue turns:
+AE_ID ES2009c.D.argumentstructs.41: "Uh"
+AE_ID ES2009c.A.argumentstructs.34: "Hmm."
+AE_ID ES2009c.B.argumentstructs.17: "Hmm."
+AE_ID ES2009c.D.argumentstructs.Erik.29: "Interesting."
+AE_ID ES2009c.B.argumentstructs.Erik.12: "Why, why moving away from hand-held, why ? What's the uh idea ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2009c.C.argumentstructs.Erik.10
+source=ES2009c.B.argumentstructs.Erik.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.A.argumentstructs.Erik.21:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2009c.A.argumentstructs.34: "Hmm."
+AE_ID ES2009c.B.argumentstructs.17: "Hmm."
+AE_ID ES2009c.D.argumentstructs.Erik.29: "Interesting."
+AE_ID ES2009c.B.argumentstructs.Erik.12: "Why, why moving away from hand-held, why ? What's the uh idea ?"
+AE_ID ES2009c.C.argumentstructs.Erik.10: "Just a thought."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2009c.A.argumentstructs.Erik.21
+source=ES2009c.D.argumentstructs.Erik.29
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.C.argumentstructs.Erik.11:
+"Well if you don't need to pick it up it could kind of be a selling point."
+
+Past dialogue turns:
+AE_ID ES2009c.B.argumentstructs.17: "Hmm."
+AE_ID ES2009c.D.argumentstructs.Erik.29: "Interesting."
+AE_ID ES2009c.B.argumentstructs.Erik.12: "Why, why moving away from hand-held, why ? What's the uh idea ?"
+AE_ID ES2009c.C.argumentstructs.Erik.10: "Just a thought."
+AE_ID ES2009c.A.argumentstructs.Erik.21: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2009c.C.argumentstructs.Erik.11
+source=ES2009c.B.argumentstructs.Erik.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.D.argumentstructs.Erik.30:
+"I if it's got voice recognition it can be technically anywhere in your room and still do its job."
+
+Past dialogue turns:
+AE_ID ES2009c.D.argumentstructs.Erik.29: "Interesting."
+AE_ID ES2009c.B.argumentstructs.Erik.12: "Why, why moving away from hand-held, why ? What's the uh idea ?"
+AE_ID ES2009c.C.argumentstructs.Erik.10: "Just a thought."
+AE_ID ES2009c.A.argumentstructs.Erik.21: "Yeah."
+AE_ID ES2009c.C.argumentstructs.Erik.11: "Well if you don't need to pick it up it could kind of be a selling point."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.C.argumentstructs.Erik.11
+---------------------------------
+target=ES2009c.D.argumentstructs.Erik.30
+source=ES2009c.C.argumentstructs.Erik.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.B.argumentstructs.18:
+"Hmm."
+
+Past dialogue turns:
+AE_ID ES2009c.B.argumentstructs.Erik.12: "Why, why moving away from hand-held, why ? What's the uh idea ?"
+AE_ID ES2009c.C.argumentstructs.Erik.10: "Just a thought."
+AE_ID ES2009c.A.argumentstructs.Erik.21: "Yeah."
+AE_ID ES2009c.C.argumentstructs.Erik.11: "Well if you don't need to pick it up it could kind of be a selling point."
+AE_ID ES2009c.D.argumentstructs.Erik.30: "I if it's got voice recognition it can be technically anywhere in your room and still do its job."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2009c.B.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.B.argumentstructs.Erik.13:
+"Do you think people that are  people that buy a remote, are they always gonna wanna use the voice recognition or is it just something that they do sometimes."
+
+Past dialogue turns:
+AE_ID ES2009c.C.argumentstructs.Erik.10: "Just a thought."
+AE_ID ES2009c.A.argumentstructs.Erik.21: "Yeah."
+AE_ID ES2009c.C.argumentstructs.Erik.11: "Well if you don't need to pick it up it could kind of be a selling point."
+AE_ID ES2009c.D.argumentstructs.Erik.30: "I if it's got voice recognition it can be technically anywhere in your room and still do its job."
+AE_ID ES2009c.B.argumentstructs.18: "Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.D.argumentstructs.Erik.30
+---------------------------------
+target=ES2009c.B.argumentstructs.Erik.13
+source=ES2009c.D.argumentstructs.Erik.30
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.D.argumentstructs.Erik.31:
+"True, and i probabl I think we're banking on selling it to more than just voice recognition people, like we want it to work fundamentally as a basic manual too, right."
+
+Past dialogue turns:
+AE_ID ES2009c.A.argumentstructs.Erik.21: "Yeah."
+AE_ID ES2009c.C.argumentstructs.Erik.11: "Well if you don't need to pick it up it could kind of be a selling point."
+AE_ID ES2009c.D.argumentstructs.Erik.30: "I if it's got voice recognition it can be technically anywhere in your room and still do its job."
+AE_ID ES2009c.B.argumentstructs.18: "Hmm."
+AE_ID ES2009c.B.argumentstructs.Erik.13: "Do you think people that are  people that buy a remote, are they always gonna wanna use the voice recognition or is it just something that they do sometimes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.D.argumentstructs.Erik.30
+---------------------------------
+target=ES2009c.D.argumentstructs.Erik.31
+source=ES2009c.B.argumentstructs.Erik.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.A.argumentstructs.Erik.22:
+"Well we have to have buttons on it too as well. But that's done, that's no bother I mean if you look at the catalogue from places like with sharper image or whatever you know they might have  or like um  who is it, Apple makes these really pretentious speakers with the th sub-woofers you know like clear and glass and you know and then they got these little pyramidal type of um speakers. I mean, why not have a little rounded kind of thing, it could still have the basic buttons on it. Um, 'cause we're going for basic functionality primarily as well."
+
+Past dialogue turns:
+AE_ID ES2009c.C.argumentstructs.Erik.11: "Well if you don't need to pick it up it could kind of be a selling point."
+AE_ID ES2009c.D.argumentstructs.Erik.30: "I if it's got voice recognition it can be technically anywhere in your room and still do its job."
+AE_ID ES2009c.B.argumentstructs.18: "Hmm."
+AE_ID ES2009c.B.argumentstructs.Erik.13: "Do you think people that are  people that buy a remote, are they always gonna wanna use the voice recognition or is it just something that they do sometimes."
+AE_ID ES2009c.D.argumentstructs.Erik.31: "True, and i probabl I think we're banking on selling it to more than just voice recognition people, like we want it to work fundamentally as a basic manual too, right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.D.argumentstructs.Erik.31
+---------------------------------
+target=ES2009c.A.argumentstructs.Erik.22
+source=ES2009c.D.argumentstructs.Erik.31
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.D.argumentstructs.42:
+"Mm-hmm. Yep."
+
+Past dialogue turns:
+AE_ID ES2009c.D.argumentstructs.Erik.30: "I if it's got voice recognition it can be technically anywhere in your room and still do its job."
+AE_ID ES2009c.B.argumentstructs.18: "Hmm."
+AE_ID ES2009c.B.argumentstructs.Erik.13: "Do you think people that are  people that buy a remote, are they always gonna wanna use the voice recognition or is it just something that they do sometimes."
+AE_ID ES2009c.D.argumentstructs.Erik.31: "True, and i probabl I think we're banking on selling it to more than just voice recognition people, like we want it to work fundamentally as a basic manual too, right."
+AE_ID ES2009c.A.argumentstructs.Erik.22: "Well we have to have buttons on it too as well. But that's done, that's no bother I mean if you look at the catalogue from places like with sharper image or whatever you know they might have  or like um  who is it, Apple makes these really pretentious speakers with the th sub-woofers you know like clear and glass and you know and then they got these little pyramidal type of um speakers. I mean, why not have a little rounded kind of thing, it could still have the basic buttons on it. Um, 'cause we're going for basic functionality primarily as well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.D.argumentstructs.Erik.31
+---------------------------------
+target=ES2009c.D.argumentstructs.42
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.B.argumentstructs.Erik.14:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2009c.B.argumentstructs.18: "Hmm."
+AE_ID ES2009c.B.argumentstructs.Erik.13: "Do you think people that are  people that buy a remote, are they always gonna wanna use the voice recognition or is it just something that they do sometimes."
+AE_ID ES2009c.D.argumentstructs.Erik.31: "True, and i probabl I think we're banking on selling it to more than just voice recognition people, like we want it to work fundamentally as a basic manual too, right."
+AE_ID ES2009c.A.argumentstructs.Erik.22: "Well we have to have buttons on it too as well. But that's done, that's no bother I mean if you look at the catalogue from places like with sharper image or whatever you know they might have  or like um  who is it, Apple makes these really pretentious speakers with the th sub-woofers you know like clear and glass and you know and then they got these little pyramidal type of um speakers. I mean, why not have a little rounded kind of thing, it could still have the basic buttons on it. Um, 'cause we're going for basic functionality primarily as well."
+AE_ID ES2009c.D.argumentstructs.42: "Mm-hmm. Yep."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.B.argumentstructs.Erik.13
+---------------------------------
+target=ES2009c.B.argumentstructs.Erik.14
+source=ES2009c.A.argumentstructs.Erik.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.D.argumentstructs.Erik.32:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2009c.B.argumentstructs.Erik.13: "Do you think people that are  people that buy a remote, are they always gonna wanna use the voice recognition or is it just something that they do sometimes."
+AE_ID ES2009c.D.argumentstructs.Erik.31: "True, and i probabl I think we're banking on selling it to more than just voice recognition people, like we want it to work fundamentally as a basic manual too, right."
+AE_ID ES2009c.A.argumentstructs.Erik.22: "Well we have to have buttons on it too as well. But that's done, that's no bother I mean if you look at the catalogue from places like with sharper image or whatever you know they might have  or like um  who is it, Apple makes these really pretentious speakers with the th sub-woofers you know like clear and glass and you know and then they got these little pyramidal type of um speakers. I mean, why not have a little rounded kind of thing, it could still have the basic buttons on it. Um, 'cause we're going for basic functionality primarily as well."
+AE_ID ES2009c.D.argumentstructs.42: "Mm-hmm. Yep."
+AE_ID ES2009c.B.argumentstructs.Erik.14: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.D.argumentstructs.Erik.31
+---------------------------------
+target=ES2009c.D.argumentstructs.Erik.32
+source=ES2009c.A.argumentstructs.Erik.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.D.argumentstructs.43:
+"With the bu yeah. Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2009c.D.argumentstructs.Erik.31: "True, and i probabl I think we're banking on selling it to more than just voice recognition people, like we want it to work fundamentally as a basic manual too, right."
+AE_ID ES2009c.A.argumentstructs.Erik.22: "Well we have to have buttons on it too as well. But that's done, that's no bother I mean if you look at the catalogue from places like with sharper image or whatever you know they might have  or like um  who is it, Apple makes these really pretentious speakers with the th sub-woofers you know like clear and glass and you know and then they got these little pyramidal type of um speakers. I mean, why not have a little rounded kind of thing, it could still have the basic buttons on it. Um, 'cause we're going for basic functionality primarily as well."
+AE_ID ES2009c.D.argumentstructs.42: "Mm-hmm. Yep."
+AE_ID ES2009c.B.argumentstructs.Erik.14: "Right."
+AE_ID ES2009c.D.argumentstructs.Erik.32: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.D.argumentstructs.42
+---------------------------------
+target=ES2009c.D.argumentstructs.43
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.A.argumentstructs.Erik.23:
+"And maybe a menu button and so forth, you know um use a channel button to scroll through the menu d if they want to record programmes or whatever you know I mean we can sort that out."
+
+Past dialogue turns:
+AE_ID ES2009c.A.argumentstructs.Erik.22: "Well we have to have buttons on it too as well. But that's done, that's no bother I mean if you look at the catalogue from places like with sharper image or whatever you know they might have  or like um  who is it, Apple makes these really pretentious speakers with the th sub-woofers you know like clear and glass and you know and then they got these little pyramidal type of um speakers. I mean, why not have a little rounded kind of thing, it could still have the basic buttons on it. Um, 'cause we're going for basic functionality primarily as well."
+AE_ID ES2009c.D.argumentstructs.42: "Mm-hmm. Yep."
+AE_ID ES2009c.B.argumentstructs.Erik.14: "Right."
+AE_ID ES2009c.D.argumentstructs.Erik.32: "Yeah."
+AE_ID ES2009c.D.argumentstructs.43: "With the bu yeah. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.A.argumentstructs.Erik.22
+---------------------------------
+target=ES2009c.A.argumentstructs.Erik.23
+source=ES2009c.A.argumentstructs.Erik.22
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.B.argumentstructs.Erik.15:
+"I think, I think you're on to something because we need to escape the traditional shape of a remote. Maybe something that looks nice on a table is  would be good, even though  and hand-held the same time."
+
+Past dialogue turns:
+AE_ID ES2009c.D.argumentstructs.42: "Mm-hmm. Yep."
+AE_ID ES2009c.B.argumentstructs.Erik.14: "Right."
+AE_ID ES2009c.D.argumentstructs.Erik.32: "Yeah."
+AE_ID ES2009c.D.argumentstructs.43: "With the bu yeah. Mm-hmm."
+AE_ID ES2009c.A.argumentstructs.Erik.23: "And maybe a menu button and so forth, you know um use a channel button to scroll through the menu d if they want to record programmes or whatever you know I mean we can sort that out."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.B.argumentstructs.Erik.14
+---------------------------------
+target=ES2009c.B.argumentstructs.Erik.15
+source=ES2009c.C.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.A.argumentstructs.Erik.24:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2009c.B.argumentstructs.Erik.14: "Right."
+AE_ID ES2009c.D.argumentstructs.Erik.32: "Yeah."
+AE_ID ES2009c.D.argumentstructs.43: "With the bu yeah. Mm-hmm."
+AE_ID ES2009c.A.argumentstructs.Erik.23: "And maybe a menu button and so forth, you know um use a channel button to scroll through the menu d if they want to record programmes or whatever you know I mean we can sort that out."
+AE_ID ES2009c.B.argumentstructs.Erik.15: "I think, I think you're on to something because we need to escape the traditional shape of a remote. Maybe something that looks nice on a table is  would be good, even though  and hand-held the same time."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.D.argumentstructs.Erik.32
+---------------------------------
+target=ES2009c.A.argumentstructs.Erik.24
+source=ES2009c.B.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.D.argumentstructs.Erik.33:
+"True."
+
+Past dialogue turns:
+AE_ID ES2009c.D.argumentstructs.Erik.32: "Yeah."
+AE_ID ES2009c.D.argumentstructs.43: "With the bu yeah. Mm-hmm."
+AE_ID ES2009c.A.argumentstructs.Erik.23: "And maybe a menu button and so forth, you know um use a channel button to scroll through the menu d if they want to record programmes or whatever you know I mean we can sort that out."
+AE_ID ES2009c.B.argumentstructs.Erik.15: "I think, I think you're on to something because we need to escape the traditional shape of a remote. Maybe something that looks nice on a table is  would be good, even though  and hand-held the same time."
+AE_ID ES2009c.A.argumentstructs.Erik.24: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.D.argumentstructs.Erik.32
+---------------------------------
+target=ES2009c.D.argumentstructs.Erik.33
+source=ES2009c.B.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.D.argumentstructs.Erik.34:
+"Way to go."
+
+Past dialogue turns:
+AE_ID ES2009c.D.argumentstructs.43: "With the bu yeah. Mm-hmm."
+AE_ID ES2009c.A.argumentstructs.Erik.23: "And maybe a menu button and so forth, you know um use a channel button to scroll through the menu d if they want to record programmes or whatever you know I mean we can sort that out."
+AE_ID ES2009c.B.argumentstructs.Erik.15: "I think, I think you're on to something because we need to escape the traditional shape of a remote. Maybe something that looks nice on a table is  would be good, even though  and hand-held the same time."
+AE_ID ES2009c.A.argumentstructs.Erik.24: "Yeah."
+AE_ID ES2009c.D.argumentstructs.Erik.33: "True."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.D.argumentstructs.Erik.33
+---------------------------------
+target=ES2009c.D.argumentstructs.Erik.34
+source=ES2009c.B.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2009c.C.argumentstructs.Erik.12:
+"I think it's all about following Apple's lead on a lot of these things."
+
+Past dialogue turns:
+AE_ID ES2009c.A.argumentstructs.Erik.23: "And maybe a menu button and so forth, you know um use a channel button to scroll through the menu d if they want to record programmes or whatever you know I mean we can sort that out."
+AE_ID ES2009c.B.argumentstructs.Erik.15: "I think, I think you're on to something because we need to escape the traditional shape of a remote. Maybe something that looks nice on a table is  would be good, even though  and hand-held the same time."
+AE_ID ES2009c.A.argumentstructs.Erik.24: "Yeah."
+AE_ID ES2009c.D.argumentstructs.Erik.33: "True."
+AE_ID ES2009c.D.argumentstructs.Erik.34: "Way to go."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2009c.B.argumentstructs.Erik.15
+---------------------------------
+target=ES2009c.C.argumentstructs.Erik.12
+source=ES2009c.B.argumentstructs.Erik.15
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2009c-ES2009c - Remote shape.csv - True Judgement Ratio: 42.31%

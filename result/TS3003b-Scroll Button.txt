@@ -1,0 +1,187 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.Daan.9:
+"No, maybe we can implement the scroll button ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3003b.A.argumentstructs.Daan.9
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.Daan.10:
+"Or a joystick like ?"
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.9: "No, maybe we can implement the scroll button ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.9
+---------------------------------
+target=TS3003b.A.argumentstructs.Daan.10
+source=TS3003b.A.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.B.argumentstructs.7:
+"Mm. Yeah. Mm-hmm. Yeah. Mm. Mm."
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.9: "No, maybe we can implement the scroll button ?"
+AE_ID TS3003b.A.argumentstructs.Daan.10: "Or a joystick like ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3003b.B.argumentstructs.7
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.Daan.11:
+"There are other ways too. Just look if you look at telephones. The Sony telephone has a scroll button which is very useful in searching names or"
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.9: "No, maybe we can implement the scroll button ?"
+AE_ID TS3003b.A.argumentstructs.Daan.10: "Or a joystick like ?"
+AE_ID TS3003b.B.argumentstructs.7: "Mm. Yeah. Mm-hmm. Yeah. Mm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.9
+---------------------------------
+target=TS3003b.A.argumentstructs.Daan.11
+source=TS3003b.A.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.Daan.15:
+"That's true but um I don't think there are many T_V_s that can switch channels that fast. And so you would need like the T_V_ would need an a function where you can actually view all channels and scroll through it. And I dunno if many channels would do have that. If many T_V_s have that."
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.9: "No, maybe we can implement the scroll button ?"
+AE_ID TS3003b.A.argumentstructs.Daan.10: "Or a joystick like ?"
+AE_ID TS3003b.B.argumentstructs.7: "Mm. Yeah. Mm-hmm. Yeah. Mm. Mm."
+AE_ID TS3003b.A.argumentstructs.Daan.11: "There are other ways too. Just look if you look at telephones. The Sony telephone has a scroll button which is very useful in searching names or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.9
+---------------------------------
+target=TS3003b.D.argumentstructs.Daan.15
+source=TS3003b.A.argumentstructs.Daan.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.C.argumentstructs.Daan.8:
+"Yeah. And besides that it's um  If we're gonna focus on elderly people they'll have to adapt. They're not used to using scroll buttons. So perhaps we should s stick to the basic layout."
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.9: "No, maybe we can implement the scroll button ?"
+AE_ID TS3003b.A.argumentstructs.Daan.10: "Or a joystick like ?"
+AE_ID TS3003b.B.argumentstructs.7: "Mm. Yeah. Mm-hmm. Yeah. Mm. Mm."
+AE_ID TS3003b.A.argumentstructs.Daan.11: "There are other ways too. Just look if you look at telephones. The Sony telephone has a scroll button which is very useful in searching names or"
+AE_ID TS3003b.D.argumentstructs.Daan.15: "That's true but um I don't think there are many T_V_s that can switch channels that fast. And so you would need like the T_V_ would need an a function where you can actually view all channels and scroll through it. And I dunno if many channels would do have that. If many T_V_s have that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.11
+---------------------------------
+target=TS3003b.C.argumentstructs.Daan.8
+source=TS3003b.A.argumentstructs.Daan.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.A.argumentstructs.Daan.12:
+"That's right."
+
+Past dialogue turns:
+AE_ID TS3003b.A.argumentstructs.Daan.10: "Or a joystick like ?"
+AE_ID TS3003b.B.argumentstructs.7: "Mm. Yeah. Mm-hmm. Yeah. Mm. Mm."
+AE_ID TS3003b.A.argumentstructs.Daan.11: "There are other ways too. Just look if you look at telephones. The Sony telephone has a scroll button which is very useful in searching names or"
+AE_ID TS3003b.D.argumentstructs.Daan.15: "That's true but um I don't think there are many T_V_s that can switch channels that fast. And so you would need like the T_V_ would need an a function where you can actually view all channels and scroll through it. And I dunno if many channels would do have that. If many T_V_s have that."
+AE_ID TS3003b.C.argumentstructs.Daan.8: "Yeah. And besides that it's um  If we're gonna focus on elderly people they'll have to adapt. They're not used to using scroll buttons. So perhaps we should s stick to the basic layout."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.11
+---------------------------------
+target=TS3003b.A.argumentstructs.Daan.12
+source=TS3003b.D.argumentstructs.Daan.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3003b.D.argumentstructs.27:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID TS3003b.B.argumentstructs.7: "Mm. Yeah. Mm-hmm. Yeah. Mm. Mm."
+AE_ID TS3003b.A.argumentstructs.Daan.11: "There are other ways too. Just look if you look at telephones. The Sony telephone has a scroll button which is very useful in searching names or"
+AE_ID TS3003b.D.argumentstructs.Daan.15: "That's true but um I don't think there are many T_V_s that can switch channels that fast. And so you would need like the T_V_ would need an a function where you can actually view all channels and scroll through it. And I dunno if many channels would do have that. If many T_V_s have that."
+AE_ID TS3003b.C.argumentstructs.Daan.8: "Yeah. And besides that it's um  If we're gonna focus on elderly people they'll have to adapt. They're not used to using scroll buttons. So perhaps we should s stick to the basic layout."
+AE_ID TS3003b.A.argumentstructs.Daan.12: "That's right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3003b.A.argumentstructs.Daan.12
+---------------------------------
+target=TS3003b.D.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3003b-Scroll Button.csv - True Judgement Ratio: 62.50%

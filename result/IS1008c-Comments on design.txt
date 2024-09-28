@@ -1,0 +1,137 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.A.argumentstructs.Daan.1:
+"So what's your, uh, the comments or uh s"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1008c.A.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.D.argumentstructs.Daan.1:
+"Simple design."
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.Daan.1: "So what's your, uh, the comments or uh s"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1008c.D.argumentstructs.Daan.1
+source=IS1008c.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.D.argumentstructs.Daan.2:
+"It's what consumers want."
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.Daan.1: "So what's your, uh, the comments or uh s"
+AE_ID IS1008c.D.argumentstructs.Daan.1: "Simple design."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.D.argumentstructs.Daan.1
+---------------------------------
+target=IS1008c.D.argumentstructs.Daan.2
+source=IS1008c.D.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.A.argumentstructs.7:
+"Okay"
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.Daan.1: "So what's your, uh, the comments or uh s"
+AE_ID IS1008c.D.argumentstructs.Daan.1: "Simple design."
+AE_ID IS1008c.D.argumentstructs.Daan.2: "It's what consumers want."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1008c.A.argumentstructs.7
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.D.argumentstructs.Daan.3:
+"It's almost like, Houston, we have a product here.  Problem is obviously gonna be cost."
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.Daan.1: "So what's your, uh, the comments or uh s"
+AE_ID IS1008c.D.argumentstructs.Daan.1: "Simple design."
+AE_ID IS1008c.D.argumentstructs.Daan.2: "It's what consumers want."
+AE_ID IS1008c.A.argumentstructs.7: "Okay"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.D.argumentstructs.Daan.2
+---------------------------------
+target=IS1008c.D.argumentstructs.Daan.3
+source=IS1008c.D.argumentstructs.Daan.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1008c.B.argumentstructs.13:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1008c.A.argumentstructs.Daan.1: "So what's your, uh, the comments or uh s"
+AE_ID IS1008c.D.argumentstructs.Daan.1: "Simple design."
+AE_ID IS1008c.D.argumentstructs.Daan.2: "It's what consumers want."
+AE_ID IS1008c.A.argumentstructs.7: "Okay"
+AE_ID IS1008c.D.argumentstructs.Daan.3: "It's almost like, Houston, we have a product here.  Problem is obviously gonna be cost."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1008c.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1008c.B.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1008c-Comments on design.csv - True Judgement Ratio: 83.33%

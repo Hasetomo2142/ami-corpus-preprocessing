@@ -1,0 +1,287 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.Daan.8:
+"Okay. And the case. And I think we all agree on the case, we wanna have something uh maybe bright, colourful."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1009c.A.argumentstructs.Daan.8
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.C.argumentstructs.11:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.8: "Okay. And the case. And I think we all agree on the case, we wanna have something uh maybe bright, colourful."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.8
+---------------------------------
+target=IS1009c.C.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.D.argumentstructs.Daan.7:
+"Bright, colourful, trendy trendy design, and strong."
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.8: "Okay. And the case. And I think we all agree on the case, we wanna have something uh maybe bright, colourful."
+AE_ID IS1009c.C.argumentstructs.11: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.8
+---------------------------------
+target=IS1009c.D.argumentstructs.Daan.7
+source=IS1009c.A.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.Daan.10:
+"And compact."
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.8: "Okay. And the case. And I think we all agree on the case, we wanna have something uh maybe bright, colourful."
+AE_ID IS1009c.C.argumentstructs.11: "Yeah."
+AE_ID IS1009c.D.argumentstructs.Daan.7: "Bright, colourful, trendy trendy design, and strong."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.D.argumentstructs.Daan.7
+---------------------------------
+target=IS1009c.B.argumentstructs.Daan.10
+source=IS1009c.A.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.C.argumentstructs.Daan.7:
+"And also strong."
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.8: "Okay. And the case. And I think we all agree on the case, we wanna have something uh maybe bright, colourful."
+AE_ID IS1009c.C.argumentstructs.11: "Yeah."
+AE_ID IS1009c.D.argumentstructs.Daan.7: "Bright, colourful, trendy trendy design, and strong."
+AE_ID IS1009c.B.argumentstructs.Daan.10: "And compact."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.D.argumentstructs.Daan.7
+---------------------------------
+target=IS1009c.C.argumentstructs.Daan.7
+source=IS1009c.A.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.C.argumentstructs.Daan.8:
+"Trendy, yeah"
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.8: "Okay. And the case. And I think we all agree on the case, we wanna have something uh maybe bright, colourful."
+AE_ID IS1009c.C.argumentstructs.11: "Yeah."
+AE_ID IS1009c.D.argumentstructs.Daan.7: "Bright, colourful, trendy trendy design, and strong."
+AE_ID IS1009c.B.argumentstructs.Daan.10: "And compact."
+AE_ID IS1009c.C.argumentstructs.Daan.7: "And also strong."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.D.argumentstructs.Daan.7
+---------------------------------
+target=IS1009c.C.argumentstructs.Daan.8
+source=IS1009c.D.argumentstructs.Daan.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.Daan.11:
+"Trendy design and compact."
+
+Past dialogue turns:
+AE_ID IS1009c.C.argumentstructs.11: "Yeah."
+AE_ID IS1009c.D.argumentstructs.Daan.7: "Bright, colourful, trendy trendy design, and strong."
+AE_ID IS1009c.B.argumentstructs.Daan.10: "And compact."
+AE_ID IS1009c.C.argumentstructs.Daan.7: "And also strong."
+AE_ID IS1009c.C.argumentstructs.Daan.8: "Trendy, yeah"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.D.argumentstructs.Daan.7
+---------------------------------
+target=IS1009c.B.argumentstructs.Daan.11
+source=IS1009c.A.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.C.argumentstructs.12:
+"."
+
+Past dialogue turns:
+AE_ID IS1009c.D.argumentstructs.Daan.7: "Bright, colourful, trendy trendy design, and strong."
+AE_ID IS1009c.B.argumentstructs.Daan.10: "And compact."
+AE_ID IS1009c.C.argumentstructs.Daan.7: "And also strong."
+AE_ID IS1009c.C.argumentstructs.Daan.8: "Trendy, yeah"
+AE_ID IS1009c.B.argumentstructs.Daan.11: "Trendy design and compact."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.D.argumentstructs.Daan.7
+---------------------------------
+target=IS1009c.C.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.13:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1009c.B.argumentstructs.Daan.10: "And compact."
+AE_ID IS1009c.C.argumentstructs.Daan.7: "And also strong."
+AE_ID IS1009c.C.argumentstructs.Daan.8: "Trendy, yeah"
+AE_ID IS1009c.B.argumentstructs.Daan.11: "Trendy design and compact."
+AE_ID IS1009c.C.argumentstructs.12: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.B.argumentstructs.Daan.11
+---------------------------------
+target=IS1009c.A.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.Daan.9:
+"Trendy design, compact and strong."
+
+Past dialogue turns:
+AE_ID IS1009c.C.argumentstructs.Daan.7: "And also strong."
+AE_ID IS1009c.C.argumentstructs.Daan.8: "Trendy, yeah"
+AE_ID IS1009c.B.argumentstructs.Daan.11: "Trendy design and compact."
+AE_ID IS1009c.C.argumentstructs.12: "."
+AE_ID IS1009c.A.argumentstructs.13: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.B.argumentstructs.Daan.11
+---------------------------------
+target=IS1009c.A.argumentstructs.Daan.9
+source=IS1009c.B.argumentstructs.Daan.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.D.argumentstructs.12:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1009c.C.argumentstructs.Daan.8: "Trendy, yeah"
+AE_ID IS1009c.B.argumentstructs.Daan.11: "Trendy design and compact."
+AE_ID IS1009c.C.argumentstructs.12: "."
+AE_ID IS1009c.A.argumentstructs.13: "Mm-hmm."
+AE_ID IS1009c.A.argumentstructs.Daan.9: "Trendy design, compact and strong."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.13
+---------------------------------
+target=IS1009c.D.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.14:
+"Yes."
+
+Past dialogue turns:
+AE_ID IS1009c.B.argumentstructs.Daan.11: "Trendy design and compact."
+AE_ID IS1009c.C.argumentstructs.12: "."
+AE_ID IS1009c.A.argumentstructs.13: "Mm-hmm."
+AE_ID IS1009c.A.argumentstructs.Daan.9: "Trendy design, compact and strong."
+AE_ID IS1009c.D.argumentstructs.12: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.13
+---------------------------------
+target=IS1009c.B.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1009c-Case.csv - True Judgement Ratio: 33.33%

@@ -1,0 +1,587 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.C.argumentstructs.Erik.1:
+"Yeah. So. Okay, let's see if I can  I think still though, it shouldn't be that hard to take  like just reduce the number of buttons you know, like 'cause if you just have like one menu button, that works like with a you know, or you can just kind of scroll through the options u that come up on the T_V_."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2011b.C.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.B.argumentstructs.2:
+"Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2011b.C.argumentstructs.Erik.1: "Yeah. So. Okay, let's see if I can  I think still though, it shouldn't be that hard to take  like just reduce the number of buttons you know, like 'cause if you just have like one menu button, that works like with a you know, or you can just kind of scroll through the options u that come up on the T_V_."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2011b.B.argumentstructs.2
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.A.argumentstructs.Erik.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011b.C.argumentstructs.Erik.1: "Yeah. So. Okay, let's see if I can  I think still though, it shouldn't be that hard to take  like just reduce the number of buttons you know, like 'cause if you just have like one menu button, that works like with a you know, or you can just kind of scroll through the options u that come up on the T_V_."
+AE_ID ES2011b.B.argumentstructs.2: "Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2011b.A.argumentstructs.Erik.1
+source=ES2011b.C.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.A.argumentstructs.6:
+"Yeah. S Huh."
+
+Past dialogue turns:
+AE_ID ES2011b.C.argumentstructs.Erik.1: "Yeah. So. Okay, let's see if I can  I think still though, it shouldn't be that hard to take  like just reduce the number of buttons you know, like 'cause if you just have like one menu button, that works like with a you know, or you can just kind of scroll through the options u that come up on the T_V_."
+AE_ID ES2011b.B.argumentstructs.2: "Mm-hmm. Mm-hmm."
+AE_ID ES2011b.A.argumentstructs.Erik.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2011b.A.argumentstructs.6
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.D.argumentstructs.Erik.1:
+"Well for sure we need the um  I think we can just design the channels ? I mean power's just a button, and it's not used that much, s and it's usually that red and I think it's quite nice to keep it like red."
+
+Past dialogue turns:
+AE_ID ES2011b.C.argumentstructs.Erik.1: "Yeah. So. Okay, let's see if I can  I think still though, it shouldn't be that hard to take  like just reduce the number of buttons you know, like 'cause if you just have like one menu button, that works like with a you know, or you can just kind of scroll through the options u that come up on the T_V_."
+AE_ID ES2011b.B.argumentstructs.2: "Mm-hmm. Mm-hmm."
+AE_ID ES2011b.A.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2011b.A.argumentstructs.6: "Yeah. S Huh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2011b.D.argumentstructs.Erik.1
+source=ES2011b.C.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.C.argumentstructs.Erik.2:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011b.C.argumentstructs.Erik.1: "Yeah. So. Okay, let's see if I can  I think still though, it shouldn't be that hard to take  like just reduce the number of buttons you know, like 'cause if you just have like one menu button, that works like with a you know, or you can just kind of scroll through the options u that come up on the T_V_."
+AE_ID ES2011b.B.argumentstructs.2: "Mm-hmm. Mm-hmm."
+AE_ID ES2011b.A.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2011b.A.argumentstructs.6: "Yeah. S Huh."
+AE_ID ES2011b.D.argumentstructs.Erik.1: "Well for sure we need the um  I think we can just design the channels ? I mean power's just a button, and it's not used that much, s and it's usually that red and I think it's quite nice to keep it like red."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.A.argumentstructs.Erik.1
+---------------------------------
+target=ES2011b.C.argumentstructs.Erik.2
+source=ES2011b.D.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.C.argumentstructs.7:
+"Yeah. Yeah. Yeah."
+
+Past dialogue turns:
+AE_ID ES2011b.B.argumentstructs.2: "Mm-hmm. Mm-hmm."
+AE_ID ES2011b.A.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2011b.A.argumentstructs.6: "Yeah. S Huh."
+AE_ID ES2011b.D.argumentstructs.Erik.1: "Well for sure we need the um  I think we can just design the channels ? I mean power's just a button, and it's not used that much, s and it's usually that red and I think it's quite nice to keep it like red."
+AE_ID ES2011b.C.argumentstructs.Erik.2: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2011b.C.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.A.argumentstructs.Erik.2:
+"You know, I've seen some remotes that  where you just hold one, like if you hold one down it's it's a different colour than the other buttons but that turns it on. So you don't actually have a separate power button, it's just"
+
+Past dialogue turns:
+AE_ID ES2011b.A.argumentstructs.Erik.1: "Yeah."
+AE_ID ES2011b.A.argumentstructs.6: "Yeah. S Huh."
+AE_ID ES2011b.D.argumentstructs.Erik.1: "Well for sure we need the um  I think we can just design the channels ? I mean power's just a button, and it's not used that much, s and it's usually that red and I think it's quite nice to keep it like red."
+AE_ID ES2011b.C.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2011b.C.argumentstructs.7: "Yeah. Yeah. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2011b.A.argumentstructs.Erik.2
+source=ES2011b.D.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.D.argumentstructs.Erik.2:
+"Oh okay, yeah."
+
+Past dialogue turns:
+AE_ID ES2011b.A.argumentstructs.6: "Yeah. S Huh."
+AE_ID ES2011b.D.argumentstructs.Erik.1: "Well for sure we need the um  I think we can just design the channels ? I mean power's just a button, and it's not used that much, s and it's usually that red and I think it's quite nice to keep it like red."
+AE_ID ES2011b.C.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2011b.C.argumentstructs.7: "Yeah. Yeah. Yeah."
+AE_ID ES2011b.A.argumentstructs.Erik.2: "You know, I've seen some remotes that  where you just hold one, like if you hold one down it's it's a different colour than the other buttons but that turns it on. So you don't actually have a separate power button, it's just"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2011b.D.argumentstructs.Erik.2
+source=ES2011b.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.C.argumentstructs.Erik.3:
+"It seems like that would be hard though. I mean, like because unless you know  yeah. Just 'cause I wouldn't  I would probably pick it up and just be like uh why is there no on button.  Yeah. B  Yeah."
+
+Past dialogue turns:
+AE_ID ES2011b.D.argumentstructs.Erik.1: "Well for sure we need the um  I think we can just design the channels ? I mean power's just a button, and it's not used that much, s and it's usually that red and I think it's quite nice to keep it like red."
+AE_ID ES2011b.C.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2011b.C.argumentstructs.7: "Yeah. Yeah. Yeah."
+AE_ID ES2011b.A.argumentstructs.Erik.2: "You know, I've seen some remotes that  where you just hold one, like if you hold one down it's it's a different colour than the other buttons but that turns it on. So you don't actually have a separate power button, it's just"
+AE_ID ES2011b.D.argumentstructs.Erik.2: "Oh okay, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2011b.C.argumentstructs.Erik.3
+source=ES2011b.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.A.argumentstructs.7:
+"But"
+
+Past dialogue turns:
+AE_ID ES2011b.C.argumentstructs.Erik.2: "Yeah."
+AE_ID ES2011b.C.argumentstructs.7: "Yeah. Yeah. Yeah."
+AE_ID ES2011b.A.argumentstructs.Erik.2: "You know, I've seen some remotes that  where you just hold one, like if you hold one down it's it's a different colour than the other buttons but that turns it on. So you don't actually have a separate power button, it's just"
+AE_ID ES2011b.D.argumentstructs.Erik.2: "Oh okay, yeah."
+AE_ID ES2011b.C.argumentstructs.Erik.3: "It seems like that would be hard though. I mean, like because unless you know  yeah. Just 'cause I wouldn't  I would probably pick it up and just be like uh why is there no on button.  Yeah. B  Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2011b.A.argumentstructs.7
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.A.argumentstructs.Erik.3:
+"It might be confusing. Yeah."
+
+Past dialogue turns:
+AE_ID ES2011b.C.argumentstructs.7: "Yeah. Yeah. Yeah."
+AE_ID ES2011b.A.argumentstructs.Erik.2: "You know, I've seen some remotes that  where you just hold one, like if you hold one down it's it's a different colour than the other buttons but that turns it on. So you don't actually have a separate power button, it's just"
+AE_ID ES2011b.D.argumentstructs.Erik.2: "Oh okay, yeah."
+AE_ID ES2011b.C.argumentstructs.Erik.3: "It seems like that would be hard though. I mean, like because unless you know  yeah. Just 'cause I wouldn't  I would probably pick it up and just be like uh why is there no on button.  Yeah. B  Yeah."
+AE_ID ES2011b.A.argumentstructs.7: "But"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2011b.A.argumentstructs.Erik.3
+source=ES2011b.C.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.A.argumentstructs.8:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011b.A.argumentstructs.Erik.2: "You know, I've seen some remotes that  where you just hold one, like if you hold one down it's it's a different colour than the other buttons but that turns it on. So you don't actually have a separate power button, it's just"
+AE_ID ES2011b.D.argumentstructs.Erik.2: "Oh okay, yeah."
+AE_ID ES2011b.C.argumentstructs.Erik.3: "It seems like that would be hard though. I mean, like because unless you know  yeah. Just 'cause I wouldn't  I would probably pick it up and just be like uh why is there no on button.  Yeah. B  Yeah."
+AE_ID ES2011b.A.argumentstructs.7: "But"
+AE_ID ES2011b.A.argumentstructs.Erik.3: "It might be confusing. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2011b.A.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.A.argumentstructs.Erik.4:
+"Besides you like to be able to go power.  I have the power  I guess. So we definitely want a power button and numbers. Right."
+
+Past dialogue turns:
+AE_ID ES2011b.D.argumentstructs.Erik.2: "Oh okay, yeah."
+AE_ID ES2011b.C.argumentstructs.Erik.3: "It seems like that would be hard though. I mean, like because unless you know  yeah. Just 'cause I wouldn't  I would probably pick it up and just be like uh why is there no on button.  Yeah. B  Yeah."
+AE_ID ES2011b.A.argumentstructs.7: "But"
+AE_ID ES2011b.A.argumentstructs.Erik.3: "It might be confusing. Yeah."
+AE_ID ES2011b.A.argumentstructs.8: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2011b.A.argumentstructs.Erik.4
+source=ES2011b.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.B.argumentstructs.Erik.1:
+"Yeah, I never think to hold something down."
+
+Past dialogue turns:
+AE_ID ES2011b.C.argumentstructs.Erik.3: "It seems like that would be hard though. I mean, like because unless you know  yeah. Just 'cause I wouldn't  I would probably pick it up and just be like uh why is there no on button.  Yeah. B  Yeah."
+AE_ID ES2011b.A.argumentstructs.7: "But"
+AE_ID ES2011b.A.argumentstructs.Erik.3: "It might be confusing. Yeah."
+AE_ID ES2011b.A.argumentstructs.8: "Yeah."
+AE_ID ES2011b.A.argumentstructs.Erik.4: "Besides you like to be able to go power.  I have the power  I guess. So we definitely want a power button and numbers. Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2011b.B.argumentstructs.Erik.1
+source=ES2011b.A.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.D.argumentstructs.Erik.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011b.A.argumentstructs.7: "But"
+AE_ID ES2011b.A.argumentstructs.Erik.3: "It might be confusing. Yeah."
+AE_ID ES2011b.A.argumentstructs.8: "Yeah."
+AE_ID ES2011b.A.argumentstructs.Erik.4: "Besides you like to be able to go power.  I have the power  I guess. So we definitely want a power button and numbers. Right."
+AE_ID ES2011b.B.argumentstructs.Erik.1: "Yeah, I never think to hold something down."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2011b.D.argumentstructs.Erik.3
+source=ES2011b.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.C.argumentstructs.Erik.4:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011b.A.argumentstructs.Erik.3: "It might be confusing. Yeah."
+AE_ID ES2011b.A.argumentstructs.8: "Yeah."
+AE_ID ES2011b.A.argumentstructs.Erik.4: "Besides you like to be able to go power.  I have the power  I guess. So we definitely want a power button and numbers. Right."
+AE_ID ES2011b.B.argumentstructs.Erik.1: "Yeah, I never think to hold something down."
+AE_ID ES2011b.D.argumentstructs.Erik.3: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2011b.C.argumentstructs.Erik.4
+source=ES2011b.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.D.argumentstructs.Erik.4:
+"Well even um iPod thing, like um, I don't know if people like this but if you want to reduce the number, of buttons, instead of having like one to nine, have a sort of scrolling  I don't know. Yeah. Because people li seem  now the iPod's out people seem to like this thing that there's no"
+
+Past dialogue turns:
+AE_ID ES2011b.A.argumentstructs.8: "Yeah."
+AE_ID ES2011b.A.argumentstructs.Erik.4: "Besides you like to be able to go power.  I have the power  I guess. So we definitely want a power button and numbers. Right."
+AE_ID ES2011b.B.argumentstructs.Erik.1: "Yeah, I never think to hold something down."
+AE_ID ES2011b.D.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2011b.C.argumentstructs.Erik.4: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2011b.D.argumentstructs.Erik.4
+source=ES2011b.C.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.C.argumentstructs.Erik.5:
+"That sort of like joystick flat touch thing, yeah."
+
+Past dialogue turns:
+AE_ID ES2011b.A.argumentstructs.Erik.4: "Besides you like to be able to go power.  I have the power  I guess. So we definitely want a power button and numbers. Right."
+AE_ID ES2011b.B.argumentstructs.Erik.1: "Yeah, I never think to hold something down."
+AE_ID ES2011b.D.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2011b.C.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2011b.D.argumentstructs.Erik.4: "Well even um iPod thing, like um, I don't know if people like this but if you want to reduce the number, of buttons, instead of having like one to nine, have a sort of scrolling  I don't know. Yeah. Because people li seem  now the iPod's out people seem to like this thing that there's no"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2011b.C.argumentstructs.Erik.5
+source=ES2011b.D.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.D.argumentstructs.Erik.5:
+"Know you don't have one two three four five"
+
+Past dialogue turns:
+AE_ID ES2011b.B.argumentstructs.Erik.1: "Yeah, I never think to hold something down."
+AE_ID ES2011b.D.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2011b.C.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2011b.D.argumentstructs.Erik.4: "Well even um iPod thing, like um, I don't know if people like this but if you want to reduce the number, of buttons, instead of having like one to nine, have a sort of scrolling  I don't know. Yeah. Because people li seem  now the iPod's out people seem to like this thing that there's no"
+AE_ID ES2011b.C.argumentstructs.Erik.5: "That sort of like joystick flat touch thing, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2011b.D.argumentstructs.Erik.5
+source=ES2011b.D.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.C.argumentstructs.Erik.6:
+"Yeah, yeah. I think that's an interesting idea, 'cause it's cool, it's it's funny like you f like I just  I don't have an iPod but like I, you know, I just like started messing around with one of my friend's the other day, and you just sort of and  it's funny how you pick it up and you just figure out how to use it quite easily, like it's not that hard, you know."
+
+Past dialogue turns:
+AE_ID ES2011b.D.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2011b.C.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2011b.D.argumentstructs.Erik.4: "Well even um iPod thing, like um, I don't know if people like this but if you want to reduce the number, of buttons, instead of having like one to nine, have a sort of scrolling  I don't know. Yeah. Because people li seem  now the iPod's out people seem to like this thing that there's no"
+AE_ID ES2011b.C.argumentstructs.Erik.5: "That sort of like joystick flat touch thing, yeah."
+AE_ID ES2011b.D.argumentstructs.Erik.5: "Know you don't have one two three four five"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.D.argumentstructs.Erik.4
+---------------------------------
+target=ES2011b.C.argumentstructs.Erik.6
+source=ES2011b.D.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.A.argumentstructs.9:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2011b.C.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2011b.D.argumentstructs.Erik.4: "Well even um iPod thing, like um, I don't know if people like this but if you want to reduce the number, of buttons, instead of having like one to nine, have a sort of scrolling  I don't know. Yeah. Because people li seem  now the iPod's out people seem to like this thing that there's no"
+AE_ID ES2011b.C.argumentstructs.Erik.5: "That sort of like joystick flat touch thing, yeah."
+AE_ID ES2011b.D.argumentstructs.Erik.5: "Know you don't have one two three four five"
+AE_ID ES2011b.C.argumentstructs.Erik.6: "Yeah, yeah. I think that's an interesting idea, 'cause it's cool, it's it's funny like you f like I just  I don't have an iPod but like I, you know, I just like started messing around with one of my friend's the other day, and you just sort of and  it's funny how you pick it up and you just figure out how to use it quite easily, like it's not that hard, you know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2011b.A.argumentstructs.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.A.argumentstructs.Erik.5:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2011b.D.argumentstructs.Erik.4: "Well even um iPod thing, like um, I don't know if people like this but if you want to reduce the number, of buttons, instead of having like one to nine, have a sort of scrolling  I don't know. Yeah. Because people li seem  now the iPod's out people seem to like this thing that there's no"
+AE_ID ES2011b.C.argumentstructs.Erik.5: "That sort of like joystick flat touch thing, yeah."
+AE_ID ES2011b.D.argumentstructs.Erik.5: "Know you don't have one two three four five"
+AE_ID ES2011b.C.argumentstructs.Erik.6: "Yeah, yeah. I think that's an interesting idea, 'cause it's cool, it's it's funny like you f like I just  I don't have an iPod but like I, you know, I just like started messing around with one of my friend's the other day, and you just sort of and  it's funny how you pick it up and you just figure out how to use it quite easily, like it's not that hard, you know."
+AE_ID ES2011b.A.argumentstructs.9: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2011b.A.argumentstructs.Erik.5
+source=ES2011b.C.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2011b.D.argumentstructs.Erik.6:
+"Yeah yeah, it's just  and it's one thing which has everything."
+
+Past dialogue turns:
+AE_ID ES2011b.C.argumentstructs.Erik.5: "That sort of like joystick flat touch thing, yeah."
+AE_ID ES2011b.D.argumentstructs.Erik.5: "Know you don't have one two three four five"
+AE_ID ES2011b.C.argumentstructs.Erik.6: "Yeah, yeah. I think that's an interesting idea, 'cause it's cool, it's it's funny like you f like I just  I don't have an iPod but like I, you know, I just like started messing around with one of my friend's the other day, and you just sort of and  it's funny how you pick it up and you just figure out how to use it quite easily, like it's not that hard, you know."
+AE_ID ES2011b.A.argumentstructs.9: "Mm."
+AE_ID ES2011b.A.argumentstructs.Erik.5: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2011b.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2011b.D.argumentstructs.Erik.6
+source=ES2011b.C.argumentstructs.Erik.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2011b-ES2011b - Number of buttons.csv - True Judgement Ratio: 41.67%

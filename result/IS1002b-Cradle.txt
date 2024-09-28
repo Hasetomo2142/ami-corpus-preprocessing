@@ -1,0 +1,462 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.B.argumentstructs.Rutger.29:
+"What about um the idea that I had with the cradle ? How do you feel about that ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1002b.B.argumentstructs.Rutger.29
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.B.argumentstructs.Rutger.30:
+"Or how does everybody feel ?"
+
+Past dialogue turns:
+AE_ID IS1002b.B.argumentstructs.Rutger.29: "What about um the idea that I had with the cradle ? How do you feel about that ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.B.argumentstructs.Rutger.29
+---------------------------------
+target=IS1002b.B.argumentstructs.Rutger.30
+source=IS1002b.B.argumentstructs.Rutger.29
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.A.argumentstructs.Rutger.34:
+"Well how does everybody feel ?  I I think"
+
+Past dialogue turns:
+AE_ID IS1002b.B.argumentstructs.Rutger.29: "What about um the idea that I had with the cradle ? How do you feel about that ?"
+AE_ID IS1002b.B.argumentstructs.Rutger.30: "Or how does everybody feel ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.B.argumentstructs.Rutger.30
+---------------------------------
+target=IS1002b.A.argumentstructs.Rutger.34
+source=IS1002b.B.argumentstructs.Rutger.30
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.D.argumentstructs.Rutger.33:
+"I mean I I  well we g we're talking about the other end now. I like it. I like the idea, but we have t we have to find out"
+
+Past dialogue turns:
+AE_ID IS1002b.B.argumentstructs.Rutger.29: "What about um the idea that I had with the cradle ? How do you feel about that ?"
+AE_ID IS1002b.B.argumentstructs.Rutger.30: "Or how does everybody feel ?"
+AE_ID IS1002b.A.argumentstructs.Rutger.34: "Well how does everybody feel ?  I I think"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.B.argumentstructs.Rutger.29
+---------------------------------
+target=IS1002b.D.argumentstructs.Rutger.33
+source=IS1002b.B.argumentstructs.Rutger.30
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.B.argumentstructs.Rutger.31:
+"No, but I  that's the thing I I don't think it's necessarily the other end."
+
+Past dialogue turns:
+AE_ID IS1002b.B.argumentstructs.Rutger.29: "What about um the idea that I had with the cradle ? How do you feel about that ?"
+AE_ID IS1002b.B.argumentstructs.Rutger.30: "Or how does everybody feel ?"
+AE_ID IS1002b.A.argumentstructs.Rutger.34: "Well how does everybody feel ?  I I think"
+AE_ID IS1002b.D.argumentstructs.Rutger.33: "I mean I I  well we g we're talking about the other end now. I like it. I like the idea, but we have t we have to find out"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.D.argumentstructs.Rutger.33
+---------------------------------
+target=IS1002b.B.argumentstructs.Rutger.31
+source=IS1002b.B.argumentstructs.Rutger.30
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.A.argumentstructs.Rutger.35:
+"The other the o the problem with that in my mind I just think off-hand as a as a consumer, would I wanna buy that ? And I think maybe not because I've got a remote and I'll take it to different chairs, I'll take it to different  I w I don't wanna go over somewhere and put it down."
+
+Past dialogue turns:
+AE_ID IS1002b.B.argumentstructs.Rutger.29: "What about um the idea that I had with the cradle ? How do you feel about that ?"
+AE_ID IS1002b.B.argumentstructs.Rutger.30: "Or how does everybody feel ?"
+AE_ID IS1002b.A.argumentstructs.Rutger.34: "Well how does everybody feel ?  I I think"
+AE_ID IS1002b.D.argumentstructs.Rutger.33: "I mean I I  well we g we're talking about the other end now. I like it. I like the idea, but we have t we have to find out"
+AE_ID IS1002b.B.argumentstructs.Rutger.31: "No, but I  that's the thing I I don't think it's necessarily the other end."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.A.argumentstructs.Rutger.34
+---------------------------------
+target=IS1002b.A.argumentstructs.Rutger.35
+source=IS1002b.B.argumentstructs.Rutger.30
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.B.argumentstructs.47:
+"Mm-hmm. Right."
+
+Past dialogue turns:
+AE_ID IS1002b.B.argumentstructs.Rutger.30: "Or how does everybody feel ?"
+AE_ID IS1002b.A.argumentstructs.Rutger.34: "Well how does everybody feel ?  I I think"
+AE_ID IS1002b.D.argumentstructs.Rutger.33: "I mean I I  well we g we're talking about the other end now. I like it. I like the idea, but we have t we have to find out"
+AE_ID IS1002b.B.argumentstructs.Rutger.31: "No, but I  that's the thing I I don't think it's necessarily the other end."
+AE_ID IS1002b.A.argumentstructs.Rutger.35: "The other the o the problem with that in my mind I just think off-hand as a as a consumer, would I wanna buy that ? And I think maybe not because I've got a remote and I'll take it to different chairs, I'll take it to different  I w I don't wanna go over somewhere and put it down."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.B.argumentstructs.Rutger.30
+---------------------------------
+target=IS1002b.B.argumentstructs.47
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.A.argumentstructs.Rutger.36:
+"It  i if it is gonna be somewhere that you put it down then it needs to be at the side of your armchair, and that implies that there's only one T_V_ user. So it's very good for some people but it's not a like"
+
+Past dialogue turns:
+AE_ID IS1002b.A.argumentstructs.Rutger.34: "Well how does everybody feel ?  I I think"
+AE_ID IS1002b.D.argumentstructs.Rutger.33: "I mean I I  well we g we're talking about the other end now. I like it. I like the idea, but we have t we have to find out"
+AE_ID IS1002b.B.argumentstructs.Rutger.31: "No, but I  that's the thing I I don't think it's necessarily the other end."
+AE_ID IS1002b.A.argumentstructs.Rutger.35: "The other the o the problem with that in my mind I just think off-hand as a as a consumer, would I wanna buy that ? And I think maybe not because I've got a remote and I'll take it to different chairs, I'll take it to different  I w I don't wanna go over somewhere and put it down."
+AE_ID IS1002b.B.argumentstructs.47: "Mm-hmm. Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.A.argumentstructs.Rutger.35
+---------------------------------
+target=IS1002b.A.argumentstructs.Rutger.36
+source=IS1002b.A.argumentstructs.Rutger.35
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.B.argumentstructs.Rutger.32:
+"Well it lasts  it would last for several hours on its own power, but when you're done with it you put it back in the cradle."
+
+Past dialogue turns:
+AE_ID IS1002b.D.argumentstructs.Rutger.33: "I mean I I  well we g we're talking about the other end now. I like it. I like the idea, but we have t we have to find out"
+AE_ID IS1002b.B.argumentstructs.Rutger.31: "No, but I  that's the thing I I don't think it's necessarily the other end."
+AE_ID IS1002b.A.argumentstructs.Rutger.35: "The other the o the problem with that in my mind I just think off-hand as a as a consumer, would I wanna buy that ? And I think maybe not because I've got a remote and I'll take it to different chairs, I'll take it to different  I w I don't wanna go over somewhere and put it down."
+AE_ID IS1002b.B.argumentstructs.47: "Mm-hmm. Right."
+AE_ID IS1002b.A.argumentstructs.Rutger.36: "It  i if it is gonna be somewhere that you put it down then it needs to be at the side of your armchair, and that implies that there's only one T_V_ user. So it's very good for some people but it's not a like"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.A.argumentstructs.Rutger.35
+---------------------------------
+target=IS1002b.B.argumentstructs.Rutger.32
+source=IS1002b.A.argumentstructs.Rutger.36
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.A.argumentstructs.Rutger.37:
+"But it it takes away the ease of use of the remote to a certain extent. You have to l sort of remember. You have to d shift down the side of the couch to find it and put it back and"
+
+Past dialogue turns:
+AE_ID IS1002b.B.argumentstructs.Rutger.31: "No, but I  that's the thing I I don't think it's necessarily the other end."
+AE_ID IS1002b.A.argumentstructs.Rutger.35: "The other the o the problem with that in my mind I just think off-hand as a as a consumer, would I wanna buy that ? And I think maybe not because I've got a remote and I'll take it to different chairs, I'll take it to different  I w I don't wanna go over somewhere and put it down."
+AE_ID IS1002b.B.argumentstructs.47: "Mm-hmm. Right."
+AE_ID IS1002b.A.argumentstructs.Rutger.36: "It  i if it is gonna be somewhere that you put it down then it needs to be at the side of your armchair, and that implies that there's only one T_V_ user. So it's very good for some people but it's not a like"
+AE_ID IS1002b.B.argumentstructs.Rutger.32: "Well it lasts  it would last for several hours on its own power, but when you're done with it you put it back in the cradle."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.A.argumentstructs.Rutger.35
+---------------------------------
+target=IS1002b.A.argumentstructs.Rutger.37
+source=IS1002b.B.argumentstructs.Rutger.32
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.B.argumentstructs.48:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1002b.A.argumentstructs.Rutger.35: "The other the o the problem with that in my mind I just think off-hand as a as a consumer, would I wanna buy that ? And I think maybe not because I've got a remote and I'll take it to different chairs, I'll take it to different  I w I don't wanna go over somewhere and put it down."
+AE_ID IS1002b.B.argumentstructs.47: "Mm-hmm. Right."
+AE_ID IS1002b.A.argumentstructs.Rutger.36: "It  i if it is gonna be somewhere that you put it down then it needs to be at the side of your armchair, and that implies that there's only one T_V_ user. So it's very good for some people but it's not a like"
+AE_ID IS1002b.B.argumentstructs.Rutger.32: "Well it lasts  it would last for several hours on its own power, but when you're done with it you put it back in the cradle."
+AE_ID IS1002b.A.argumentstructs.Rutger.37: "But it it takes away the ease of use of the remote to a certain extent. You have to l sort of remember. You have to d shift down the side of the couch to find it and put it back and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.B.argumentstructs.47
+---------------------------------
+target=IS1002b.B.argumentstructs.48
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.B.argumentstructs.Rutger.33:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1002b.B.argumentstructs.47: "Mm-hmm. Right."
+AE_ID IS1002b.A.argumentstructs.Rutger.36: "It  i if it is gonna be somewhere that you put it down then it needs to be at the side of your armchair, and that implies that there's only one T_V_ user. So it's very good for some people but it's not a like"
+AE_ID IS1002b.B.argumentstructs.Rutger.32: "Well it lasts  it would last for several hours on its own power, but when you're done with it you put it back in the cradle."
+AE_ID IS1002b.A.argumentstructs.Rutger.37: "But it it takes away the ease of use of the remote to a certain extent. You have to l sort of remember. You have to d shift down the side of the couch to find it and put it back and"
+AE_ID IS1002b.B.argumentstructs.48: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.B.argumentstructs.48
+---------------------------------
+target=IS1002b.B.argumentstructs.Rutger.33
+source=IS1002b.A.argumentstructs.Rutger.37
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.A.argumentstructs.Rutger.38:
+"Yeah. I d I d I d I think it it  in my mind it doesn't seem like something that oh I'd really want uh because of that fact. But I I don't know, that's just my opinion."
+
+Past dialogue turns:
+AE_ID IS1002b.A.argumentstructs.Rutger.36: "It  i if it is gonna be somewhere that you put it down then it needs to be at the side of your armchair, and that implies that there's only one T_V_ user. So it's very good for some people but it's not a like"
+AE_ID IS1002b.B.argumentstructs.Rutger.32: "Well it lasts  it would last for several hours on its own power, but when you're done with it you put it back in the cradle."
+AE_ID IS1002b.A.argumentstructs.Rutger.37: "But it it takes away the ease of use of the remote to a certain extent. You have to l sort of remember. You have to d shift down the side of the couch to find it and put it back and"
+AE_ID IS1002b.B.argumentstructs.48: "Mm-hmm."
+AE_ID IS1002b.B.argumentstructs.Rutger.33: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.A.argumentstructs.Rutger.36
+---------------------------------
+target=IS1002b.A.argumentstructs.Rutger.38
+source=IS1002b.A.argumentstructs.Rutger.35
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.D.argumentstructs.44:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1002b.B.argumentstructs.Rutger.32: "Well it lasts  it would last for several hours on its own power, but when you're done with it you put it back in the cradle."
+AE_ID IS1002b.A.argumentstructs.Rutger.37: "But it it takes away the ease of use of the remote to a certain extent. You have to l sort of remember. You have to d shift down the side of the couch to find it and put it back and"
+AE_ID IS1002b.B.argumentstructs.48: "Mm-hmm."
+AE_ID IS1002b.B.argumentstructs.Rutger.33: "Mm-hmm."
+AE_ID IS1002b.A.argumentstructs.Rutger.38: "Yeah. I d I d I d I think it it  in my mind it doesn't seem like something that oh I'd really want uh because of that fact. But I I don't know, that's just my opinion."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.B.argumentstructs.48
+---------------------------------
+target=IS1002b.D.argumentstructs.44
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.D.argumentstructs.Rutger.34:
+"Well, I think again it's it  we have a cost issue here. You know if we're gonna go in this direction, to me we're going to the other side of the cost range. Are we gonna make this  selling selling the cost as a high high-tech uh um environmentally sensitive whatever, or are we gonna go to the lower side of the range ?  Again I don't see our market niche in the middle for our product yet. I don't see it yet."
+
+Past dialogue turns:
+AE_ID IS1002b.A.argumentstructs.Rutger.37: "But it it takes away the ease of use of the remote to a certain extent. You have to l sort of remember. You have to d shift down the side of the couch to find it and put it back and"
+AE_ID IS1002b.B.argumentstructs.48: "Mm-hmm."
+AE_ID IS1002b.B.argumentstructs.Rutger.33: "Mm-hmm."
+AE_ID IS1002b.A.argumentstructs.Rutger.38: "Yeah. I d I d I d I think it it  in my mind it doesn't seem like something that oh I'd really want uh because of that fact. But I I don't know, that's just my opinion."
+AE_ID IS1002b.D.argumentstructs.44: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.A.argumentstructs.Rutger.38
+---------------------------------
+target=IS1002b.D.argumentstructs.Rutger.34
+source=IS1002b.B.argumentstructs.Rutger.29
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.A.argumentstructs.57:
+"Mm. 'Kay."
+
+Past dialogue turns:
+AE_ID IS1002b.B.argumentstructs.48: "Mm-hmm."
+AE_ID IS1002b.B.argumentstructs.Rutger.33: "Mm-hmm."
+AE_ID IS1002b.A.argumentstructs.Rutger.38: "Yeah. I d I d I d I think it it  in my mind it doesn't seem like something that oh I'd really want uh because of that fact. But I I don't know, that's just my opinion."
+AE_ID IS1002b.D.argumentstructs.44: "Mm."
+AE_ID IS1002b.D.argumentstructs.Rutger.34: "Well, I think again it's it  we have a cost issue here. You know if we're gonna go in this direction, to me we're going to the other side of the cost range. Are we gonna make this  selling selling the cost as a high high-tech uh um environmentally sensitive whatever, or are we gonna go to the lower side of the range ?  Again I don't see our market niche in the middle for our product yet. I don't see it yet."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.B.argumentstructs.48
+---------------------------------
+target=IS1002b.A.argumentstructs.57
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.A.argumentstructs.Rutger.39:
+"So what do we think maybe we should  Pedro, do you have any opinion on it ?"
+
+Past dialogue turns:
+AE_ID IS1002b.B.argumentstructs.Rutger.33: "Mm-hmm."
+AE_ID IS1002b.A.argumentstructs.Rutger.38: "Yeah. I d I d I d I think it it  in my mind it doesn't seem like something that oh I'd really want uh because of that fact. But I I don't know, that's just my opinion."
+AE_ID IS1002b.D.argumentstructs.44: "Mm."
+AE_ID IS1002b.D.argumentstructs.Rutger.34: "Well, I think again it's it  we have a cost issue here. You know if we're gonna go in this direction, to me we're going to the other side of the cost range. Are we gonna make this  selling selling the cost as a high high-tech uh um environmentally sensitive whatever, or are we gonna go to the lower side of the range ?  Again I don't see our market niche in the middle for our product yet. I don't see it yet."
+AE_ID IS1002b.A.argumentstructs.57: "Mm. 'Kay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.A.argumentstructs.Rutger.38
+---------------------------------
+target=IS1002b.A.argumentstructs.Rutger.39
+source=IS1002b.D.argumentstructs.Rutger.34
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.C.argumentstructs.Rutger.22:
+"Uh we should keep it simple, mm medium-low cost mar um cost area and uh make it look good."
+
+Past dialogue turns:
+AE_ID IS1002b.A.argumentstructs.Rutger.38: "Yeah. I d I d I d I think it it  in my mind it doesn't seem like something that oh I'd really want uh because of that fact. But I I don't know, that's just my opinion."
+AE_ID IS1002b.D.argumentstructs.44: "Mm."
+AE_ID IS1002b.D.argumentstructs.Rutger.34: "Well, I think again it's it  we have a cost issue here. You know if we're gonna go in this direction, to me we're going to the other side of the cost range. Are we gonna make this  selling selling the cost as a high high-tech uh um environmentally sensitive whatever, or are we gonna go to the lower side of the range ?  Again I don't see our market niche in the middle for our product yet. I don't see it yet."
+AE_ID IS1002b.A.argumentstructs.57: "Mm. 'Kay."
+AE_ID IS1002b.A.argumentstructs.Rutger.39: "So what do we think maybe we should  Pedro, do you have any opinion on it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.D.argumentstructs.Rutger.34
+---------------------------------
+target=IS1002b.C.argumentstructs.Rutger.22
+source=IS1002b.A.argumentstructs.Rutger.39
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002b.D.argumentstructs.45:
+"'cause I I I think I agree with you on, we gotta make it a box. The box is gonna sell it I think, the outside, the casing. Can can can we have multiple designs ?"
+
+Past dialogue turns:
+AE_ID IS1002b.D.argumentstructs.44: "Mm."
+AE_ID IS1002b.D.argumentstructs.Rutger.34: "Well, I think again it's it  we have a cost issue here. You know if we're gonna go in this direction, to me we're going to the other side of the cost range. Are we gonna make this  selling selling the cost as a high high-tech uh um environmentally sensitive whatever, or are we gonna go to the lower side of the range ?  Again I don't see our market niche in the middle for our product yet. I don't see it yet."
+AE_ID IS1002b.A.argumentstructs.57: "Mm. 'Kay."
+AE_ID IS1002b.A.argumentstructs.Rutger.39: "So what do we think maybe we should  Pedro, do you have any opinion on it ?"
+AE_ID IS1002b.C.argumentstructs.Rutger.22: "Uh we should keep it simple, mm medium-low cost mar um cost area and uh make it look good."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002b.D.argumentstructs.44
+---------------------------------
+target=IS1002b.D.argumentstructs.45
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1002b-Cradle.csv - True Judgement Ratio: 21.05%

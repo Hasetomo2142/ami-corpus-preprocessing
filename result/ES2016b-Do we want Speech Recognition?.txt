@@ -1,0 +1,712 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.B.argumentstructs.Rutger.1:
+"The user interface. That's something we can also discuss. Um as we've heard uh speech recognition is the hype obviously in the moment. Speech recognition um interface, we don't know that. Or if we just do the usual button thing. Or we have a touch pad or something like that  that's something we can discuss. And of course the energy source. Batteries. Solar cells. Who knows ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2016b.B.argumentstructs.Rutger.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.B.argumentstructs.Rutger.3:
+"Of course it's always a question whether these these components are in fact  available cheap enough, developed enough. But that's like I s I suppose rather up to marketing, and not to to the industrial design department."
+
+Past dialogue turns:
+AE_ID ES2016b.B.argumentstructs.Rutger.1: "The user interface. That's something we can also discuss. Um as we've heard uh speech recognition is the hype obviously in the moment. Speech recognition um interface, we don't know that. Or if we just do the usual button thing. Or we have a touch pad or something like that  that's something we can discuss. And of course the energy source. Batteries. Solar cells. Who knows ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.B.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016b.B.argumentstructs.Rutger.3
+source=ES2016b.B.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.A.argumentstructs.Rutger.1:
+"So we could  the the the more complex we make it of course, the more expensive"
+
+Past dialogue turns:
+AE_ID ES2016b.B.argumentstructs.Rutger.1: "The user interface. That's something we can also discuss. Um as we've heard uh speech recognition is the hype obviously in the moment. Speech recognition um interface, we don't know that. Or if we just do the usual button thing. Or we have a touch pad or something like that  that's something we can discuss. And of course the energy source. Batteries. Solar cells. Who knows ?"
+AE_ID ES2016b.B.argumentstructs.Rutger.3: "Of course it's always a question whether these these components are in fact  available cheap enough, developed enough. But that's like I s I suppose rather up to marketing, and not to to the industrial design department."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.B.argumentstructs.Rutger.3
+---------------------------------
+target=ES2016b.A.argumentstructs.Rutger.1
+source=ES2016b.B.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.B.argumentstructs.Rutger.4:
+"Expensive it's gonna be get uh. Yeah."
+
+Past dialogue turns:
+AE_ID ES2016b.B.argumentstructs.Rutger.1: "The user interface. That's something we can also discuss. Um as we've heard uh speech recognition is the hype obviously in the moment. Speech recognition um interface, we don't know that. Or if we just do the usual button thing. Or we have a touch pad or something like that  that's something we can discuss. And of course the energy source. Batteries. Solar cells. Who knows ?"
+AE_ID ES2016b.B.argumentstructs.Rutger.3: "Of course it's always a question whether these these components are in fact  available cheap enough, developed enough. But that's like I s I suppose rather up to marketing, and not to to the industrial design department."
+AE_ID ES2016b.A.argumentstructs.Rutger.1: "So we could  the the the more complex we make it of course, the more expensive"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.A.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016b.B.argumentstructs.Rutger.4
+source=ES2016b.A.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.A.argumentstructs.Rutger.2:
+"But people have said that they would  well younger generations of people have said that they would pay more for a speech recognition remote. So"
+
+Past dialogue turns:
+AE_ID ES2016b.B.argumentstructs.Rutger.1: "The user interface. That's something we can also discuss. Um as we've heard uh speech recognition is the hype obviously in the moment. Speech recognition um interface, we don't know that. Or if we just do the usual button thing. Or we have a touch pad or something like that  that's something we can discuss. And of course the energy source. Batteries. Solar cells. Who knows ?"
+AE_ID ES2016b.B.argumentstructs.Rutger.3: "Of course it's always a question whether these these components are in fact  available cheap enough, developed enough. But that's like I s I suppose rather up to marketing, and not to to the industrial design department."
+AE_ID ES2016b.A.argumentstructs.Rutger.1: "So we could  the the the more complex we make it of course, the more expensive"
+AE_ID ES2016b.B.argumentstructs.Rutger.4: "Expensive it's gonna be get uh. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.B.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016b.A.argumentstructs.Rutger.2
+source=ES2016b.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.D.argumentstructs.5:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2016b.B.argumentstructs.Rutger.1: "The user interface. That's something we can also discuss. Um as we've heard uh speech recognition is the hype obviously in the moment. Speech recognition um interface, we don't know that. Or if we just do the usual button thing. Or we have a touch pad or something like that  that's something we can discuss. And of course the energy source. Batteries. Solar cells. Who knows ?"
+AE_ID ES2016b.B.argumentstructs.Rutger.3: "Of course it's always a question whether these these components are in fact  available cheap enough, developed enough. But that's like I s I suppose rather up to marketing, and not to to the industrial design department."
+AE_ID ES2016b.A.argumentstructs.Rutger.1: "So we could  the the the more complex we make it of course, the more expensive"
+AE_ID ES2016b.B.argumentstructs.Rutger.4: "Expensive it's gonna be get uh. Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.2: "But people have said that they would  well younger generations of people have said that they would pay more for a speech recognition remote. So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.B.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016b.D.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.B.argumentstructs.Rutger.5:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2016b.B.argumentstructs.Rutger.3: "Of course it's always a question whether these these components are in fact  available cheap enough, developed enough. But that's like I s I suppose rather up to marketing, and not to to the industrial design department."
+AE_ID ES2016b.A.argumentstructs.Rutger.1: "So we could  the the the more complex we make it of course, the more expensive"
+AE_ID ES2016b.B.argumentstructs.Rutger.4: "Expensive it's gonna be get uh. Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.2: "But people have said that they would  well younger generations of people have said that they would pay more for a speech recognition remote. So"
+AE_ID ES2016b.D.argumentstructs.5: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.B.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016b.B.argumentstructs.Rutger.5
+source=ES2016b.A.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.A.argumentstructs.Rutger.3:
+"possibly it might be worth the investment."
+
+Past dialogue turns:
+AE_ID ES2016b.A.argumentstructs.Rutger.1: "So we could  the the the more complex we make it of course, the more expensive"
+AE_ID ES2016b.B.argumentstructs.Rutger.4: "Expensive it's gonna be get uh. Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.2: "But people have said that they would  well younger generations of people have said that they would pay more for a speech recognition remote. So"
+AE_ID ES2016b.D.argumentstructs.5: "Mm-hmm."
+AE_ID ES2016b.B.argumentstructs.Rutger.5: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.A.argumentstructs.Rutger.2
+---------------------------------
+target=ES2016b.A.argumentstructs.Rutger.3
+source=ES2016b.A.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.C.argumentstructs.Rutger.1:
+"I think speech recognition was uh one of those things where um they have to be really good for them to work. 'Cause sometimes you find yourself just saying things over and o  if it's on your phone."
+
+Past dialogue turns:
+AE_ID ES2016b.B.argumentstructs.Rutger.4: "Expensive it's gonna be get uh. Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.2: "But people have said that they would  well younger generations of people have said that they would pay more for a speech recognition remote. So"
+AE_ID ES2016b.D.argumentstructs.5: "Mm-hmm."
+AE_ID ES2016b.B.argumentstructs.Rutger.5: "Right."
+AE_ID ES2016b.A.argumentstructs.Rutger.3: "possibly it might be worth the investment."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.A.argumentstructs.Rutger.2
+---------------------------------
+target=ES2016b.C.argumentstructs.Rutger.1
+source=ES2016b.B.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.D.argumentstructs.Rutger.1:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016b.A.argumentstructs.Rutger.2: "But people have said that they would  well younger generations of people have said that they would pay more for a speech recognition remote. So"
+AE_ID ES2016b.D.argumentstructs.5: "Mm-hmm."
+AE_ID ES2016b.B.argumentstructs.Rutger.5: "Right."
+AE_ID ES2016b.A.argumentstructs.Rutger.3: "possibly it might be worth the investment."
+AE_ID ES2016b.C.argumentstructs.Rutger.1: "I think speech recognition was uh one of those things where um they have to be really good for them to work. 'Cause sometimes you find yourself just saying things over and o  if it's on your phone."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.A.argumentstructs.Rutger.2
+---------------------------------
+target=ES2016b.D.argumentstructs.Rutger.1
+source=ES2016b.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.A.argumentstructs.Rutger.4:
+"I agree."
+
+Past dialogue turns:
+AE_ID ES2016b.D.argumentstructs.5: "Mm-hmm."
+AE_ID ES2016b.B.argumentstructs.Rutger.5: "Right."
+AE_ID ES2016b.A.argumentstructs.Rutger.3: "possibly it might be worth the investment."
+AE_ID ES2016b.C.argumentstructs.Rutger.1: "I think speech recognition was uh one of those things where um they have to be really good for them to work. 'Cause sometimes you find yourself just saying things over and o  if it's on your phone."
+AE_ID ES2016b.D.argumentstructs.Rutger.1: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.A.argumentstructs.Rutger.3
+---------------------------------
+target=ES2016b.A.argumentstructs.Rutger.4
+source=ES2016b.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.C.argumentstructs.Rutger.2:
+"And you need to sort of take into light languages and then  different dialects I suppose as well."
+
+Past dialogue turns:
+AE_ID ES2016b.B.argumentstructs.Rutger.5: "Right."
+AE_ID ES2016b.A.argumentstructs.Rutger.3: "possibly it might be worth the investment."
+AE_ID ES2016b.C.argumentstructs.Rutger.1: "I think speech recognition was uh one of those things where um they have to be really good for them to work. 'Cause sometimes you find yourself just saying things over and o  if it's on your phone."
+AE_ID ES2016b.D.argumentstructs.Rutger.1: "Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.4: "I agree."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.C.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016b.C.argumentstructs.Rutger.2
+source=ES2016b.C.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.A.argumentstructs.Rutger.5:
+"Well  I  myself I find, when you, h when there's something like spee speech recognition. Like uh you call on the phone and you try to change your telephone or power or something. Sometimes they have a a speech recognition on the other end, and you say one for this, and you find yours, like you said, saying the same thing over and over and over."
+
+Past dialogue turns:
+AE_ID ES2016b.A.argumentstructs.Rutger.3: "possibly it might be worth the investment."
+AE_ID ES2016b.C.argumentstructs.Rutger.1: "I think speech recognition was uh one of those things where um they have to be really good for them to work. 'Cause sometimes you find yourself just saying things over and o  if it's on your phone."
+AE_ID ES2016b.D.argumentstructs.Rutger.1: "Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.4: "I agree."
+AE_ID ES2016b.C.argumentstructs.Rutger.2: "And you need to sort of take into light languages and then  different dialects I suppose as well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.C.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016b.A.argumentstructs.Rutger.5
+source=ES2016b.C.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.C.argumentstructs.Rutger.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016b.C.argumentstructs.Rutger.1: "I think speech recognition was uh one of those things where um they have to be really good for them to work. 'Cause sometimes you find yourself just saying things over and o  if it's on your phone."
+AE_ID ES2016b.D.argumentstructs.Rutger.1: "Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.4: "I agree."
+AE_ID ES2016b.C.argumentstructs.Rutger.2: "And you need to sort of take into light languages and then  different dialects I suppose as well."
+AE_ID ES2016b.A.argumentstructs.Rutger.5: "Well  I  myself I find, when you, h when there's something like spee speech recognition. Like uh you call on the phone and you try to change your telephone or power or something. Sometimes they have a a speech recognition on the other end, and you say one for this, and you find yours, like you said, saying the same thing over and over and over."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.C.argumentstructs.Rutger.1
+---------------------------------
+target=ES2016b.C.argumentstructs.Rutger.3
+source=ES2016b.A.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.A.argumentstructs.Rutger.6:
+"I find myself, especially if I'm in a crowd of people, looking really silly. So maybe if you're sitting on your couch with a bunch of people then"
+
+Past dialogue turns:
+AE_ID ES2016b.D.argumentstructs.Rutger.1: "Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.4: "I agree."
+AE_ID ES2016b.C.argumentstructs.Rutger.2: "And you need to sort of take into light languages and then  different dialects I suppose as well."
+AE_ID ES2016b.A.argumentstructs.Rutger.5: "Well  I  myself I find, when you, h when there's something like spee speech recognition. Like uh you call on the phone and you try to change your telephone or power or something. Sometimes they have a a speech recognition on the other end, and you say one for this, and you find yours, like you said, saying the same thing over and over and over."
+AE_ID ES2016b.C.argumentstructs.Rutger.3: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.A.argumentstructs.Rutger.5
+---------------------------------
+target=ES2016b.A.argumentstructs.Rutger.6
+source=ES2016b.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.C.argumentstructs.Rutger.4:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016b.A.argumentstructs.Rutger.4: "I agree."
+AE_ID ES2016b.C.argumentstructs.Rutger.2: "And you need to sort of take into light languages and then  different dialects I suppose as well."
+AE_ID ES2016b.A.argumentstructs.Rutger.5: "Well  I  myself I find, when you, h when there's something like spee speech recognition. Like uh you call on the phone and you try to change your telephone or power or something. Sometimes they have a a speech recognition on the other end, and you say one for this, and you find yours, like you said, saying the same thing over and over and over."
+AE_ID ES2016b.C.argumentstructs.Rutger.3: "Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.6: "I find myself, especially if I'm in a crowd of people, looking really silly. So maybe if you're sitting on your couch with a bunch of people then"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.C.argumentstructs.Rutger.3
+---------------------------------
+target=ES2016b.C.argumentstructs.Rutger.4
+source=ES2016b.A.argumentstructs.Rutger.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.C.argumentstructs.Rutger.5:
+"And wou I don't know if would would you want to keep saying stuff if you were watching stuff. If you were watching something would you sort of be wanting"
+
+Past dialogue turns:
+AE_ID ES2016b.C.argumentstructs.Rutger.2: "And you need to sort of take into light languages and then  different dialects I suppose as well."
+AE_ID ES2016b.A.argumentstructs.Rutger.5: "Well  I  myself I find, when you, h when there's something like spee speech recognition. Like uh you call on the phone and you try to change your telephone or power or something. Sometimes they have a a speech recognition on the other end, and you say one for this, and you find yours, like you said, saying the same thing over and over and over."
+AE_ID ES2016b.C.argumentstructs.Rutger.3: "Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.6: "I find myself, especially if I'm in a crowd of people, looking really silly. So maybe if you're sitting on your couch with a bunch of people then"
+AE_ID ES2016b.C.argumentstructs.Rutger.4: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.A.argumentstructs.Rutger.6
+---------------------------------
+target=ES2016b.C.argumentstructs.Rutger.5
+source=ES2016b.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.A.argumentstructs.10:
+"you know, you"
+
+Past dialogue turns:
+AE_ID ES2016b.A.argumentstructs.Rutger.5: "Well  I  myself I find, when you, h when there's something like spee speech recognition. Like uh you call on the phone and you try to change your telephone or power or something. Sometimes they have a a speech recognition on the other end, and you say one for this, and you find yours, like you said, saying the same thing over and over and over."
+AE_ID ES2016b.C.argumentstructs.Rutger.3: "Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.6: "I find myself, especially if I'm in a crowd of people, looking really silly. So maybe if you're sitting on your couch with a bunch of people then"
+AE_ID ES2016b.C.argumentstructs.Rutger.4: "Yeah."
+AE_ID ES2016b.C.argumentstructs.Rutger.5: "And wou I don't know if would would you want to keep saying stuff if you were watching stuff. If you were watching something would you sort of be wanting"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.A.argumentstructs.Rutger.6
+---------------------------------
+target=ES2016b.A.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.A.argumentstructs.Rutger.7:
+"Volume up. Volume down. Change the channel, you know channel up, channel down ? I I don't know."
+
+Past dialogue turns:
+AE_ID ES2016b.C.argumentstructs.Rutger.3: "Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.6: "I find myself, especially if I'm in a crowd of people, looking really silly. So maybe if you're sitting on your couch with a bunch of people then"
+AE_ID ES2016b.C.argumentstructs.Rutger.4: "Yeah."
+AE_ID ES2016b.C.argumentstructs.Rutger.5: "And wou I don't know if would would you want to keep saying stuff if you were watching stuff. If you were watching something would you sort of be wanting"
+AE_ID ES2016b.A.argumentstructs.10: "you know, you"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.C.argumentstructs.Rutger.5
+---------------------------------
+target=ES2016b.A.argumentstructs.Rutger.7
+source=ES2016b.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.C.argumentstructs.Rutger.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016b.A.argumentstructs.Rutger.6: "I find myself, especially if I'm in a crowd of people, looking really silly. So maybe if you're sitting on your couch with a bunch of people then"
+AE_ID ES2016b.C.argumentstructs.Rutger.4: "Yeah."
+AE_ID ES2016b.C.argumentstructs.Rutger.5: "And wou I don't know if would would you want to keep saying stuff if you were watching stuff. If you were watching something would you sort of be wanting"
+AE_ID ES2016b.A.argumentstructs.10: "you know, you"
+AE_ID ES2016b.A.argumentstructs.Rutger.7: "Volume up. Volume down. Change the channel, you know channel up, channel down ? I I don't know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.C.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016b.C.argumentstructs.Rutger.6
+source=ES2016b.A.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.D.argumentstructs.Rutger.2:
+"Another thing about these figures is ninety one percent of the youngest age groups said they'd do it, but probably a lot of them that's actually their parents money. Like I don't know if they would actually go out and purchase this themselves, a fifteen year old you know."
+
+Past dialogue turns:
+AE_ID ES2016b.C.argumentstructs.Rutger.4: "Yeah."
+AE_ID ES2016b.C.argumentstructs.Rutger.5: "And wou I don't know if would would you want to keep saying stuff if you were watching stuff. If you were watching something would you sort of be wanting"
+AE_ID ES2016b.A.argumentstructs.10: "you know, you"
+AE_ID ES2016b.A.argumentstructs.Rutger.7: "Volume up. Volume down. Change the channel, you know channel up, channel down ? I I don't know."
+AE_ID ES2016b.C.argumentstructs.Rutger.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2016b.D.argumentstructs.Rutger.2
+source=ES2016b.B.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.C.argumentstructs.Rutger.7:
+"I think  As well it'd be j the gimmick factor for the younger people. But practically I don't think it's"
+
+Past dialogue turns:
+AE_ID ES2016b.C.argumentstructs.Rutger.5: "And wou I don't know if would would you want to keep saying stuff if you were watching stuff. If you were watching something would you sort of be wanting"
+AE_ID ES2016b.A.argumentstructs.10: "you know, you"
+AE_ID ES2016b.A.argumentstructs.Rutger.7: "Volume up. Volume down. Change the channel, you know channel up, channel down ? I I don't know."
+AE_ID ES2016b.C.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2016b.D.argumentstructs.Rutger.2: "Another thing about these figures is ninety one percent of the youngest age groups said they'd do it, but probably a lot of them that's actually their parents money. Like I don't know if they would actually go out and purchase this themselves, a fifteen year old you know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.D.argumentstructs.Rutger.2
+---------------------------------
+target=ES2016b.C.argumentstructs.Rutger.7
+source=ES2016b.D.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.A.argumentstructs.11:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2016b.A.argumentstructs.10: "you know, you"
+AE_ID ES2016b.A.argumentstructs.Rutger.7: "Volume up. Volume down. Change the channel, you know channel up, channel down ? I I don't know."
+AE_ID ES2016b.C.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2016b.D.argumentstructs.Rutger.2: "Another thing about these figures is ninety one percent of the youngest age groups said they'd do it, but probably a lot of them that's actually their parents money. Like I don't know if they would actually go out and purchase this themselves, a fifteen year old you know."
+AE_ID ES2016b.C.argumentstructs.Rutger.7: "I think  As well it'd be j the gimmick factor for the younger people. But practically I don't think it's"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.A.argumentstructs.10
+---------------------------------
+target=ES2016b.A.argumentstructs.11
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.D.argumentstructs.Rutger.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2016b.A.argumentstructs.Rutger.7: "Volume up. Volume down. Change the channel, you know channel up, channel down ? I I don't know."
+AE_ID ES2016b.C.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2016b.D.argumentstructs.Rutger.2: "Another thing about these figures is ninety one percent of the youngest age groups said they'd do it, but probably a lot of them that's actually their parents money. Like I don't know if they would actually go out and purchase this themselves, a fifteen year old you know."
+AE_ID ES2016b.C.argumentstructs.Rutger.7: "I think  As well it'd be j the gimmick factor for the younger people. But practically I don't think it's"
+AE_ID ES2016b.A.argumentstructs.11: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.C.argumentstructs.Rutger.6
+---------------------------------
+target=ES2016b.D.argumentstructs.Rutger.3
+source=ES2016b.C.argumentstructs.Rutger.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.A.argumentstructs.Rutger.8:
+"It's a, it's a gimmick factor that they like at first, and"
+
+Past dialogue turns:
+AE_ID ES2016b.C.argumentstructs.Rutger.6: "Yeah."
+AE_ID ES2016b.D.argumentstructs.Rutger.2: "Another thing about these figures is ninety one percent of the youngest age groups said they'd do it, but probably a lot of them that's actually their parents money. Like I don't know if they would actually go out and purchase this themselves, a fifteen year old you know."
+AE_ID ES2016b.C.argumentstructs.Rutger.7: "I think  As well it'd be j the gimmick factor for the younger people. But practically I don't think it's"
+AE_ID ES2016b.A.argumentstructs.11: "Mm-hmm."
+AE_ID ES2016b.D.argumentstructs.Rutger.3: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.C.argumentstructs.Rutger.7
+---------------------------------
+target=ES2016b.A.argumentstructs.Rutger.8
+source=ES2016b.C.argumentstructs.Rutger.7
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.C.argumentstructs.Rutger.8:
+"Yeah. It'll wear off."
+
+Past dialogue turns:
+AE_ID ES2016b.D.argumentstructs.Rutger.2: "Another thing about these figures is ninety one percent of the youngest age groups said they'd do it, but probably a lot of them that's actually their parents money. Like I don't know if they would actually go out and purchase this themselves, a fifteen year old you know."
+AE_ID ES2016b.C.argumentstructs.Rutger.7: "I think  As well it'd be j the gimmick factor for the younger people. But practically I don't think it's"
+AE_ID ES2016b.A.argumentstructs.11: "Mm-hmm."
+AE_ID ES2016b.D.argumentstructs.Rutger.3: "Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.8: "It's a, it's a gimmick factor that they like at first, and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.A.argumentstructs.Rutger.8
+---------------------------------
+target=ES2016b.C.argumentstructs.Rutger.8
+source=ES2016b.A.argumentstructs.Rutger.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.D.argumentstructs.Rutger.4:
+"Gets old yeah."
+
+Past dialogue turns:
+AE_ID ES2016b.C.argumentstructs.Rutger.7: "I think  As well it'd be j the gimmick factor for the younger people. But practically I don't think it's"
+AE_ID ES2016b.A.argumentstructs.11: "Mm-hmm."
+AE_ID ES2016b.D.argumentstructs.Rutger.3: "Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.8: "It's a, it's a gimmick factor that they like at first, and"
+AE_ID ES2016b.C.argumentstructs.Rutger.8: "Yeah. It'll wear off."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.C.argumentstructs.Rutger.8
+---------------------------------
+target=ES2016b.D.argumentstructs.Rutger.4
+source=ES2016b.A.argumentstructs.Rutger.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.A.argumentstructs.Rutger.9:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2016b.A.argumentstructs.11: "Mm-hmm."
+AE_ID ES2016b.D.argumentstructs.Rutger.3: "Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.8: "It's a, it's a gimmick factor that they like at first, and"
+AE_ID ES2016b.C.argumentstructs.Rutger.8: "Yeah. It'll wear off."
+AE_ID ES2016b.D.argumentstructs.Rutger.4: "Gets old yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.A.argumentstructs.Rutger.8
+---------------------------------
+target=ES2016b.A.argumentstructs.Rutger.9
+source=ES2016b.B.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2016b.A.argumentstructs.12:
+"Um"
+
+Past dialogue turns:
+AE_ID ES2016b.D.argumentstructs.Rutger.3: "Yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.8: "It's a, it's a gimmick factor that they like at first, and"
+AE_ID ES2016b.C.argumentstructs.Rutger.8: "Yeah. It'll wear off."
+AE_ID ES2016b.D.argumentstructs.Rutger.4: "Gets old yeah."
+AE_ID ES2016b.A.argumentstructs.Rutger.9: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2016b.D.argumentstructs.Rutger.4
+---------------------------------
+target=ES2016b.A.argumentstructs.12
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2016b-Do we want Speech Recognition?.csv - True Judgement Ratio: 31.03%

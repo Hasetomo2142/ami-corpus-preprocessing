@@ -1,0 +1,387 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.C.argumentstructs.Rutger.1:
+"Um so, somehow that thing's too big, but um  okay um our uh manufacturing division wanted the speech recognition. They say they could put it to work but um we don't think so."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1002c.C.argumentstructs.Rutger.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.Rutger.1:
+"No."
+
+Past dialogue turns:
+AE_ID IS1002c.C.argumentstructs.Rutger.1: "Um so, somehow that thing's too big, but um  okay um our uh manufacturing division wanted the speech recognition. They say they could put it to work but um we don't think so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.C.argumentstructs.Rutger.1
+---------------------------------
+target=IS1002c.B.argumentstructs.Rutger.1
+source=IS1002c.C.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.C.argumentstructs.Rutger.2:
+"No. It it it  you'll be you know be affected by the by the other speech and"
+
+Past dialogue turns:
+AE_ID IS1002c.C.argumentstructs.Rutger.1: "Um so, somehow that thing's too big, but um  okay um our uh manufacturing division wanted the speech recognition. They say they could put it to work but um we don't think so."
+AE_ID IS1002c.B.argumentstructs.Rutger.1: "No."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.C.argumentstructs.Rutger.1
+---------------------------------
+target=IS1002c.C.argumentstructs.Rutger.2
+source=IS1002c.C.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.36:
+"if somebody says up in the middle of a"
+
+Past dialogue turns:
+AE_ID IS1002c.C.argumentstructs.Rutger.1: "Um so, somehow that thing's too big, but um  okay um our uh manufacturing division wanted the speech recognition. They say they could put it to work but um we don't think so."
+AE_ID IS1002c.B.argumentstructs.Rutger.1: "No."
+AE_ID IS1002c.C.argumentstructs.Rutger.2: "No. It it it  you'll be you know be affected by the by the other speech and"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.C.argumentstructs.Rutger.2
+---------------------------------
+target=IS1002c.B.argumentstructs.36
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.Rutger.2:
+"television show, it's gonna change the channel."
+
+Past dialogue turns:
+AE_ID IS1002c.C.argumentstructs.Rutger.1: "Um so, somehow that thing's too big, but um  okay um our uh manufacturing division wanted the speech recognition. They say they could put it to work but um we don't think so."
+AE_ID IS1002c.B.argumentstructs.Rutger.1: "No."
+AE_ID IS1002c.C.argumentstructs.Rutger.2: "No. It it it  you'll be you know be affected by the by the other speech and"
+AE_ID IS1002c.B.argumentstructs.36: "if somebody says up in the middle of a"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1002c.B.argumentstructs.Rutger.2
+source=IS1002c.C.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.C.argumentstructs.Rutger.3:
+"Yeah and and fighting for the remote would not be fun anymore, and I think that's one of the things we wanna keep."
+
+Past dialogue turns:
+AE_ID IS1002c.C.argumentstructs.Rutger.1: "Um so, somehow that thing's too big, but um  okay um our uh manufacturing division wanted the speech recognition. They say they could put it to work but um we don't think so."
+AE_ID IS1002c.B.argumentstructs.Rutger.1: "No."
+AE_ID IS1002c.C.argumentstructs.Rutger.2: "No. It it it  you'll be you know be affected by the by the other speech and"
+AE_ID IS1002c.B.argumentstructs.36: "if somebody says up in the middle of a"
+AE_ID IS1002c.B.argumentstructs.Rutger.2: "television show, it's gonna change the channel."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.Rutger.2
+---------------------------------
+target=IS1002c.C.argumentstructs.Rutger.3
+source=IS1002c.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.37:
+"So"
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.Rutger.1: "No."
+AE_ID IS1002c.C.argumentstructs.Rutger.2: "No. It it it  you'll be you know be affected by the by the other speech and"
+AE_ID IS1002c.B.argumentstructs.36: "if somebody says up in the middle of a"
+AE_ID IS1002c.B.argumentstructs.Rutger.2: "television show, it's gonna change the channel."
+AE_ID IS1002c.C.argumentstructs.Rutger.3: "Yeah and and fighting for the remote would not be fun anymore, and I think that's one of the things we wanna keep."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.36
+---------------------------------
+target=IS1002c.B.argumentstructs.37
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.A.argumentstructs.Rutger.1:
+"But what if you actually had to press a button to make it recognize ? So if you pressed it and went, up ?"
+
+Past dialogue turns:
+AE_ID IS1002c.C.argumentstructs.Rutger.2: "No. It it it  you'll be you know be affected by the by the other speech and"
+AE_ID IS1002c.B.argumentstructs.36: "if somebody says up in the middle of a"
+AE_ID IS1002c.B.argumentstructs.Rutger.2: "television show, it's gonna change the channel."
+AE_ID IS1002c.C.argumentstructs.Rutger.3: "Yeah and and fighting for the remote would not be fun anymore, and I think that's one of the things we wanna keep."
+AE_ID IS1002c.B.argumentstructs.37: "So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.Rutger.2
+---------------------------------
+target=IS1002c.A.argumentstructs.Rutger.1
+source=IS1002c.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.C.argumentstructs.Rutger.4:
+"That kinda would r d yeah. That would kind of lose it."
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.36: "if somebody says up in the middle of a"
+AE_ID IS1002c.B.argumentstructs.Rutger.2: "television show, it's gonna change the channel."
+AE_ID IS1002c.C.argumentstructs.Rutger.3: "Yeah and and fighting for the remote would not be fun anymore, and I think that's one of the things we wanna keep."
+AE_ID IS1002c.B.argumentstructs.37: "So"
+AE_ID IS1002c.A.argumentstructs.Rutger.1: "But what if you actually had to press a button to make it recognize ? So if you pressed it and went, up ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.C.argumentstructs.Rutger.3
+---------------------------------
+target=IS1002c.C.argumentstructs.Rutger.4
+source=IS1002c.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.Rutger.3:
+"Well then why don't you just press the up button ?"
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.Rutger.2: "television show, it's gonna change the channel."
+AE_ID IS1002c.C.argumentstructs.Rutger.3: "Yeah and and fighting for the remote would not be fun anymore, and I think that's one of the things we wanna keep."
+AE_ID IS1002c.B.argumentstructs.37: "So"
+AE_ID IS1002c.A.argumentstructs.Rutger.1: "But what if you actually had to press a button to make it recognize ? So if you pressed it and went, up ?"
+AE_ID IS1002c.C.argumentstructs.Rutger.4: "That kinda would r d yeah. That would kind of lose it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.A.argumentstructs.Rutger.1
+---------------------------------
+target=IS1002c.B.argumentstructs.Rutger.3
+source=IS1002c.A.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.A.argumentstructs.Rutger.3:
+"Man yeah."
+
+Past dialogue turns:
+AE_ID IS1002c.C.argumentstructs.Rutger.3: "Yeah and and fighting for the remote would not be fun anymore, and I think that's one of the things we wanna keep."
+AE_ID IS1002c.B.argumentstructs.37: "So"
+AE_ID IS1002c.A.argumentstructs.Rutger.1: "But what if you actually had to press a button to make it recognize ? So if you pressed it and went, up ?"
+AE_ID IS1002c.C.argumentstructs.Rutger.4: "That kinda would r d yeah. That would kind of lose it."
+AE_ID IS1002c.B.argumentstructs.Rutger.3: "Well then why don't you just press the up button ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.C.argumentstructs.Rutger.3
+---------------------------------
+target=IS1002c.A.argumentstructs.Rutger.3
+source=IS1002c.B.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.A.argumentstructs.Rutger.4:
+"But if it's just one thing with a button that you can just go"
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.37: "So"
+AE_ID IS1002c.A.argumentstructs.Rutger.1: "But what if you actually had to press a button to make it recognize ? So if you pressed it and went, up ?"
+AE_ID IS1002c.C.argumentstructs.Rutger.4: "That kinda would r d yeah. That would kind of lose it."
+AE_ID IS1002c.B.argumentstructs.Rutger.3: "Well then why don't you just press the up button ?"
+AE_ID IS1002c.A.argumentstructs.Rutger.3: "Man yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.A.argumentstructs.Rutger.1
+---------------------------------
+target=IS1002c.A.argumentstructs.Rutger.4
+source=IS1002c.A.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.D.argumentstructs.Rutger.1:
+"That's right."
+
+Past dialogue turns:
+AE_ID IS1002c.A.argumentstructs.Rutger.1: "But what if you actually had to press a button to make it recognize ? So if you pressed it and went, up ?"
+AE_ID IS1002c.C.argumentstructs.Rutger.4: "That kinda would r d yeah. That would kind of lose it."
+AE_ID IS1002c.B.argumentstructs.Rutger.3: "Well then why don't you just press the up button ?"
+AE_ID IS1002c.A.argumentstructs.Rutger.3: "Man yeah."
+AE_ID IS1002c.A.argumentstructs.Rutger.4: "But if it's just one thing with a button that you can just go"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.A.argumentstructs.Rutger.3
+---------------------------------
+target=IS1002c.D.argumentstructs.Rutger.1
+source=IS1002c.A.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.B.argumentstructs.Rutger.4:
+"Even still there's gonna be interf th there's there still will be interference from the T_V_. It might not be it might not be completely confusing, but I think you'll still y it's still  I don't think it's practical at all. I think it's a bad idea frankly."
+
+Past dialogue turns:
+AE_ID IS1002c.C.argumentstructs.Rutger.4: "That kinda would r d yeah. That would kind of lose it."
+AE_ID IS1002c.B.argumentstructs.Rutger.3: "Well then why don't you just press the up button ?"
+AE_ID IS1002c.A.argumentstructs.Rutger.3: "Man yeah."
+AE_ID IS1002c.A.argumentstructs.Rutger.4: "But if it's just one thing with a button that you can just go"
+AE_ID IS1002c.D.argumentstructs.Rutger.1: "That's right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.C.argumentstructs.Rutger.4
+---------------------------------
+target=IS1002c.B.argumentstructs.Rutger.4
+source=IS1002c.A.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.A.argumentstructs.34:
+"Up."
+
+Past dialogue turns:
+AE_ID IS1002c.B.argumentstructs.Rutger.3: "Well then why don't you just press the up button ?"
+AE_ID IS1002c.A.argumentstructs.Rutger.3: "Man yeah."
+AE_ID IS1002c.A.argumentstructs.Rutger.4: "But if it's just one thing with a button that you can just go"
+AE_ID IS1002c.D.argumentstructs.Rutger.1: "That's right."
+AE_ID IS1002c.B.argumentstructs.Rutger.4: "Even still there's gonna be interf th there's there still will be interference from the T_V_. It might not be it might not be completely confusing, but I think you'll still y it's still  I don't think it's practical at all. I think it's a bad idea frankly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.B.argumentstructs.Rutger.3
+---------------------------------
+target=IS1002c.A.argumentstructs.34
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1002c.A.argumentstructs.Rutger.5:
+"Yeah, okay."
+
+Past dialogue turns:
+AE_ID IS1002c.A.argumentstructs.Rutger.3: "Man yeah."
+AE_ID IS1002c.A.argumentstructs.Rutger.4: "But if it's just one thing with a button that you can just go"
+AE_ID IS1002c.D.argumentstructs.Rutger.1: "That's right."
+AE_ID IS1002c.B.argumentstructs.Rutger.4: "Even still there's gonna be interf th there's there still will be interference from the T_V_. It might not be it might not be completely confusing, but I think you'll still y it's still  I don't think it's practical at all. I think it's a bad idea frankly."
+AE_ID IS1002c.A.argumentstructs.34: "Up."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1002c.A.argumentstructs.Rutger.3
+---------------------------------
+target=IS1002c.A.argumentstructs.Rutger.5
+source=IS1002c.B.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1002c-Speech recognition.csv - True Judgement Ratio: 31.25%

@@ -1,0 +1,212 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.Daan.1:
+"Okay. Now the function of a remote is to send messages to the television. This messages could be uh switch on-off message or switch to next channel message or swapping the channels or switching onto a particular channel, like you can have the numbers one, two, three, four, up to nine."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1009c.B.argumentstructs.Daan.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.Daan.1:
+"Nine what ? Nine channel uh switches ?"
+
+Past dialogue turns:
+AE_ID IS1009c.B.argumentstructs.Daan.1: "Okay. Now the function of a remote is to send messages to the television. This messages could be uh switch on-off message or switch to next channel message or swapping the channels or switching onto a particular channel, like you can have the numbers one, two, three, four, up to nine."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1009c.A.argumentstructs.Daan.1
+source=IS1009c.B.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.Daan.2:
+"Pardon me ?"
+
+Past dialogue turns:
+AE_ID IS1009c.B.argumentstructs.Daan.1: "Okay. Now the function of a remote is to send messages to the television. This messages could be uh switch on-off message or switch to next channel message or swapping the channels or switching onto a particular channel, like you can have the numbers one, two, three, four, up to nine."
+AE_ID IS1009c.A.argumentstructs.Daan.1: "Nine what ? Nine channel uh switches ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1009c.B.argumentstructs.Daan.2
+source=IS1009c.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.Daan.2:
+"Nine channel switches ? Is  Yeah. Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1009c.B.argumentstructs.Daan.1: "Okay. Now the function of a remote is to send messages to the television. This messages could be uh switch on-off message or switch to next channel message or swapping the channels or switching onto a particular channel, like you can have the numbers one, two, three, four, up to nine."
+AE_ID IS1009c.A.argumentstructs.Daan.1: "Nine what ? Nine channel uh switches ?"
+AE_ID IS1009c.B.argumentstructs.Daan.2: "Pardon me ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1009c.A.argumentstructs.Daan.2
+source=IS1009c.A.argumentstructs.Daan.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.Daan.3:
+"Yes, nine numbers."
+
+Past dialogue turns:
+AE_ID IS1009c.B.argumentstructs.Daan.1: "Okay. Now the function of a remote is to send messages to the television. This messages could be uh switch on-off message or switch to next channel message or swapping the channels or switching onto a particular channel, like you can have the numbers one, two, three, four, up to nine."
+AE_ID IS1009c.A.argumentstructs.Daan.1: "Nine what ? Nine channel uh switches ?"
+AE_ID IS1009c.B.argumentstructs.Daan.2: "Pardon me ?"
+AE_ID IS1009c.A.argumentstructs.Daan.2: "Nine channel switches ? Is  Yeah. Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.1
+---------------------------------
+target=IS1009c.B.argumentstructs.Daan.3
+source=IS1009c.A.argumentstructs.Daan.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.Daan.4:
+"And then you have swapping of uh button by which  using which you can swap the channels if you don't want to see the third channel you can swap it to the fourth channel or vice versa."
+
+Past dialogue turns:
+AE_ID IS1009c.B.argumentstructs.Daan.1: "Okay. Now the function of a remote is to send messages to the television. This messages could be uh switch on-off message or switch to next channel message or swapping the channels or switching onto a particular channel, like you can have the numbers one, two, three, four, up to nine."
+AE_ID IS1009c.A.argumentstructs.Daan.1: "Nine what ? Nine channel uh switches ?"
+AE_ID IS1009c.B.argumentstructs.Daan.2: "Pardon me ?"
+AE_ID IS1009c.A.argumentstructs.Daan.2: "Nine channel switches ? Is  Yeah. Mm-hmm. Mm-hmm."
+AE_ID IS1009c.B.argumentstructs.Daan.3: "Yes, nine numbers."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.B.argumentstructs.Daan.1
+---------------------------------
+target=IS1009c.B.argumentstructs.Daan.4
+source=IS1009c.B.argumentstructs.Daan.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.A.argumentstructs.10:
+"Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.1: "Nine what ? Nine channel uh switches ?"
+AE_ID IS1009c.B.argumentstructs.Daan.2: "Pardon me ?"
+AE_ID IS1009c.A.argumentstructs.Daan.2: "Nine channel switches ? Is  Yeah. Mm-hmm. Mm-hmm."
+AE_ID IS1009c.B.argumentstructs.Daan.3: "Yes, nine numbers."
+AE_ID IS1009c.B.argumentstructs.Daan.4: "And then you have swapping of uh button by which  using which you can swap the channels if you don't want to see the third channel you can swap it to the fourth channel or vice versa."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.A.argumentstructs.Daan.2
+---------------------------------
+target=IS1009c.A.argumentstructs.10
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.B.argumentstructs.Daan.5:
+"Then it should have a next button, and next button channel by which you can keep on uh v uh mm eh scrolling the channels one by one. Next slide, please."
+
+Past dialogue turns:
+AE_ID IS1009c.B.argumentstructs.Daan.2: "Pardon me ?"
+AE_ID IS1009c.A.argumentstructs.Daan.2: "Nine channel switches ? Is  Yeah. Mm-hmm. Mm-hmm."
+AE_ID IS1009c.B.argumentstructs.Daan.3: "Yes, nine numbers."
+AE_ID IS1009c.B.argumentstructs.Daan.4: "And then you have swapping of uh button by which  using which you can swap the channels if you don't want to see the third channel you can swap it to the fourth channel or vice versa."
+AE_ID IS1009c.A.argumentstructs.10: "Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.B.argumentstructs.Daan.4
+---------------------------------
+target=IS1009c.B.argumentstructs.Daan.5
+source=IS1009c.B.argumentstructs.Daan.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1009c.C.argumentstructs.Daan.1:
+"Going to the nex next."
+
+Past dialogue turns:
+AE_ID IS1009c.A.argumentstructs.Daan.2: "Nine channel switches ? Is  Yeah. Mm-hmm. Mm-hmm."
+AE_ID IS1009c.B.argumentstructs.Daan.3: "Yes, nine numbers."
+AE_ID IS1009c.B.argumentstructs.Daan.4: "And then you have swapping of uh button by which  using which you can swap the channels if you don't want to see the third channel you can swap it to the fourth channel or vice versa."
+AE_ID IS1009c.A.argumentstructs.10: "Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm."
+AE_ID IS1009c.B.argumentstructs.Daan.5: "Then it should have a next button, and next button channel by which you can keep on uh v uh mm eh scrolling the channels one by one. Next slide, please."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1009c.B.argumentstructs.Daan.5
+---------------------------------
+target=IS1009c.C.argumentstructs.Daan.1
+source=IS1009c.B.argumentstructs.Daan.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1009c-Cahnging channels.csv - True Judgement Ratio: 66.67%

@@ -1,0 +1,362 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.Erik.1:
+"So you'd be advocating an L_C_D_ then ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2008c.B.argumentstructs.Erik.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.Erik.1:
+"I think that's  that's one way to go, yes."
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.Erik.1: "So you'd be advocating an L_C_D_ then ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2008c.C.argumentstructs.Erik.1
+source=ES2008c.B.argumentstructs.Erik.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.Erik.2:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.Erik.1: "So you'd be advocating an L_C_D_ then ?"
+AE_ID ES2008c.C.argumentstructs.Erik.1: "I think that's  that's one way to go, yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2008c.B.argumentstructs.Erik.2
+source=ES2008c.C.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.Erik.2:
+"Um I mean there are there are advantages and disadvantages if you if you have an L_C_D_ display, it's it's nice, because it's  it it lets you just sort of sit there and st and control your television from your armchair."
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.Erik.1: "So you'd be advocating an L_C_D_ then ?"
+AE_ID ES2008c.C.argumentstructs.Erik.1: "I think that's  that's one way to go, yes."
+AE_ID ES2008c.B.argumentstructs.Erik.2: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2008c.C.argumentstructs.Erik.2
+source=ES2008c.C.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.48:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.Erik.1: "So you'd be advocating an L_C_D_ then ?"
+AE_ID ES2008c.C.argumentstructs.Erik.1: "I think that's  that's one way to go, yes."
+AE_ID ES2008c.B.argumentstructs.Erik.2: "Okay."
+AE_ID ES2008c.C.argumentstructs.Erik.2: "Um I mean there are there are advantages and disadvantages if you if you have an L_C_D_ display, it's it's nice, because it's  it it lets you just sort of sit there and st and control your television from your armchair."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.B.argumentstructs.Erik.1
+---------------------------------
+target=ES2008c.B.argumentstructs.48
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.Erik.3:
+"There are disadvantages, an an L_C_D_ display would have to be quite small, 'cause we're we're  I  well we're  I assume we're gonna be making quite a small device. Um it would also have to have uh a kind of backlighting in it, 'cause you ten you tend to watch T_V_ in the dark, but you need to be able to see your L_D_D_ L_C_D_ display."
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.Erik.1: "So you'd be advocating an L_C_D_ then ?"
+AE_ID ES2008c.C.argumentstructs.Erik.1: "I think that's  that's one way to go, yes."
+AE_ID ES2008c.B.argumentstructs.Erik.2: "Okay."
+AE_ID ES2008c.C.argumentstructs.Erik.2: "Um I mean there are there are advantages and disadvantages if you if you have an L_C_D_ display, it's it's nice, because it's  it it lets you just sort of sit there and st and control your television from your armchair."
+AE_ID ES2008c.B.argumentstructs.48: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.Erik.2
+---------------------------------
+target=ES2008c.C.argumentstructs.Erik.3
+source=ES2008c.C.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.Erik.3:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.Erik.1: "I think that's  that's one way to go, yes."
+AE_ID ES2008c.B.argumentstructs.Erik.2: "Okay."
+AE_ID ES2008c.C.argumentstructs.Erik.2: "Um I mean there are there are advantages and disadvantages if you if you have an L_C_D_ display, it's it's nice, because it's  it it lets you just sort of sit there and st and control your television from your armchair."
+AE_ID ES2008c.B.argumentstructs.48: "Mm-hmm."
+AE_ID ES2008c.C.argumentstructs.Erik.3: "There are disadvantages, an an L_C_D_ display would have to be quite small, 'cause we're we're  I  well we're  I assume we're gonna be making quite a small device. Um it would also have to have uh a kind of backlighting in it, 'cause you ten you tend to watch T_V_ in the dark, but you need to be able to see your L_D_D_ L_C_D_ display."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.Erik.1
+---------------------------------
+target=ES2008c.B.argumentstructs.Erik.3
+source=ES2008c.C.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.A.argumentstructs.30:
+"Mm-hmm. Mm-hmm. Mm."
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.Erik.2: "Okay."
+AE_ID ES2008c.C.argumentstructs.Erik.2: "Um I mean there are there are advantages and disadvantages if you if you have an L_C_D_ display, it's it's nice, because it's  it it lets you just sort of sit there and st and control your television from your armchair."
+AE_ID ES2008c.B.argumentstructs.48: "Mm-hmm."
+AE_ID ES2008c.C.argumentstructs.Erik.3: "There are disadvantages, an an L_C_D_ display would have to be quite small, 'cause we're we're  I  well we're  I assume we're gonna be making quite a small device. Um it would also have to have uh a kind of backlighting in it, 'cause you ten you tend to watch T_V_ in the dark, but you need to be able to see your L_D_D_ L_C_D_ display."
+AE_ID ES2008c.B.argumentstructs.Erik.3: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.B.argumentstructs.48
+---------------------------------
+target=ES2008c.A.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.49:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.Erik.2: "Um I mean there are there are advantages and disadvantages if you if you have an L_C_D_ display, it's it's nice, because it's  it it lets you just sort of sit there and st and control your television from your armchair."
+AE_ID ES2008c.B.argumentstructs.48: "Mm-hmm."
+AE_ID ES2008c.C.argumentstructs.Erik.3: "There are disadvantages, an an L_C_D_ display would have to be quite small, 'cause we're we're  I  well we're  I assume we're gonna be making quite a small device. Um it would also have to have uh a kind of backlighting in it, 'cause you ten you tend to watch T_V_ in the dark, but you need to be able to see your L_D_D_ L_C_D_ display."
+AE_ID ES2008c.B.argumentstructs.Erik.3: "Right."
+AE_ID ES2008c.A.argumentstructs.30: "Mm-hmm. Mm-hmm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.B.argumentstructs.48
+---------------------------------
+target=ES2008c.B.argumentstructs.49
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.36:
+"an on-screen display on your television that you control through your remote control. Uh"
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.48: "Mm-hmm."
+AE_ID ES2008c.C.argumentstructs.Erik.3: "There are disadvantages, an an L_C_D_ display would have to be quite small, 'cause we're we're  I  well we're  I assume we're gonna be making quite a small device. Um it would also have to have uh a kind of backlighting in it, 'cause you ten you tend to watch T_V_ in the dark, but you need to be able to see your L_D_D_ L_C_D_ display."
+AE_ID ES2008c.B.argumentstructs.Erik.3: "Right."
+AE_ID ES2008c.A.argumentstructs.30: "Mm-hmm. Mm-hmm. Mm."
+AE_ID ES2008c.B.argumentstructs.49: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2008c.C.argumentstructs.36
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.Erik.4:
+"a bit like a bit like how they have these um digital boxes where you you press the buttons and it comes up with your  this thing of watch lo what's on each channel. I mean that that's also a good idea. It's it can it does have it's problems as well, if you've got a small T_V_ and you're sitting on the other side of a room, it's hard to read the little text that comes up."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.Erik.3: "There are disadvantages, an an L_C_D_ display would have to be quite small, 'cause we're we're  I  well we're  I assume we're gonna be making quite a small device. Um it would also have to have uh a kind of backlighting in it, 'cause you ten you tend to watch T_V_ in the dark, but you need to be able to see your L_D_D_ L_C_D_ display."
+AE_ID ES2008c.B.argumentstructs.Erik.3: "Right."
+AE_ID ES2008c.A.argumentstructs.30: "Mm-hmm. Mm-hmm. Mm."
+AE_ID ES2008c.B.argumentstructs.49: "Right."
+AE_ID ES2008c.C.argumentstructs.36: "an on-screen display on your television that you control through your remote control. Uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2008c.C.argumentstructs.Erik.4
+source=ES2008c.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.Erik.4:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.Erik.3: "Right."
+AE_ID ES2008c.A.argumentstructs.30: "Mm-hmm. Mm-hmm. Mm."
+AE_ID ES2008c.B.argumentstructs.49: "Right."
+AE_ID ES2008c.C.argumentstructs.36: "an on-screen display on your television that you control through your remote control. Uh"
+AE_ID ES2008c.C.argumentstructs.Erik.4: "a bit like a bit like how they have these um digital boxes where you you press the buttons and it comes up with your  this thing of watch lo what's on each channel. I mean that that's also a good idea. It's it can it does have it's problems as well, if you've got a small T_V_ and you're sitting on the other side of a room, it's hard to read the little text that comes up."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.B.argumentstructs.Erik.3
+---------------------------------
+target=ES2008c.B.argumentstructs.Erik.4
+source=ES2008c.C.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.50:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2008c.A.argumentstructs.30: "Mm-hmm. Mm-hmm. Mm."
+AE_ID ES2008c.B.argumentstructs.49: "Right."
+AE_ID ES2008c.C.argumentstructs.36: "an on-screen display on your television that you control through your remote control. Uh"
+AE_ID ES2008c.C.argumentstructs.Erik.4: "a bit like a bit like how they have these um digital boxes where you you press the buttons and it comes up with your  this thing of watch lo what's on each channel. I mean that that's also a good idea. It's it can it does have it's problems as well, if you've got a small T_V_ and you're sitting on the other side of a room, it's hard to read the little text that comes up."
+AE_ID ES2008c.B.argumentstructs.Erik.4: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.A.argumentstructs.30
+---------------------------------
+target=ES2008c.B.argumentstructs.50
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.C.argumentstructs.Erik.5:
+"Uh but that's a that's a design decision that we can make."
+
+Past dialogue turns:
+AE_ID ES2008c.B.argumentstructs.49: "Right."
+AE_ID ES2008c.C.argumentstructs.36: "an on-screen display on your television that you control through your remote control. Uh"
+AE_ID ES2008c.C.argumentstructs.Erik.4: "a bit like a bit like how they have these um digital boxes where you you press the buttons and it comes up with your  this thing of watch lo what's on each channel. I mean that that's also a good idea. It's it can it does have it's problems as well, if you've got a small T_V_ and you're sitting on the other side of a room, it's hard to read the little text that comes up."
+AE_ID ES2008c.B.argumentstructs.Erik.4: "Okay."
+AE_ID ES2008c.B.argumentstructs.50: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2008c.C.argumentstructs.Erik.5
+source=ES2008c.C.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2008c.B.argumentstructs.Erik.5:
+"'Kay."
+
+Past dialogue turns:
+AE_ID ES2008c.C.argumentstructs.36: "an on-screen display on your television that you control through your remote control. Uh"
+AE_ID ES2008c.C.argumentstructs.Erik.4: "a bit like a bit like how they have these um digital boxes where you you press the buttons and it comes up with your  this thing of watch lo what's on each channel. I mean that that's also a good idea. It's it can it does have it's problems as well, if you've got a small T_V_ and you're sitting on the other side of a room, it's hard to read the little text that comes up."
+AE_ID ES2008c.B.argumentstructs.Erik.4: "Okay."
+AE_ID ES2008c.B.argumentstructs.50: "Mm-hmm."
+AE_ID ES2008c.C.argumentstructs.Erik.5: "Uh but that's a that's a design decision that we can make."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2008c.B.argumentstructs.Erik.4
+---------------------------------
+target=ES2008c.B.argumentstructs.Erik.5
+source=ES2008c.C.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2008c-ES2008c - LCD screen.csv - True Judgement Ratio: 20.00%

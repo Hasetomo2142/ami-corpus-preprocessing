@@ -1,0 +1,462 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.35:
+"I know."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002c.B.argumentstructs.35
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.18:
+"Um unless an a I mean if you  also would that work if we wanted to incorporate um an L_C_D_ display, where would we put that ? Would we put that on the inside or"
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.35: "I know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.18
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.C.argumentstructs.5:
+"Um"
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.35: "I know."
+AE_ID ES2002c.B.argumentstructs.Erik.18: "Um unless an a I mean if you  also would that work if we wanted to incorporate um an L_C_D_ display, where would we put that ? Would we put that on the inside or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.18
+---------------------------------
+target=ES2002c.C.argumentstructs.5
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.9:
+"Do we need an L_C_D_ display ?"
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.35: "I know."
+AE_ID ES2002c.B.argumentstructs.Erik.18: "Um unless an a I mean if you  also would that work if we wanted to incorporate um an L_C_D_ display, where would we put that ? Would we put that on the inside or"
+AE_ID ES2002c.C.argumentstructs.5: "Um"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.18
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.9
+source=ES2002c.B.argumentstructs.Erik.18
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.10:
+"What what's the functionality of that ?"
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.35: "I know."
+AE_ID ES2002c.B.argumentstructs.Erik.18: "Um unless an a I mean if you  also would that work if we wanted to incorporate um an L_C_D_ display, where would we put that ? Would we put that on the inside or"
+AE_ID ES2002c.C.argumentstructs.5: "Um"
+AE_ID ES2002c.A.argumentstructs.Erik.9: "Do we need an L_C_D_ display ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.A.argumentstructs.Erik.9
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.10
+source=ES2002c.A.argumentstructs.Erik.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.19:
+"It's bound to increase the cost of it a lot, I would've thought."
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.35: "I know."
+AE_ID ES2002c.B.argumentstructs.Erik.18: "Um unless an a I mean if you  also would that work if we wanted to incorporate um an L_C_D_ display, where would we put that ? Would we put that on the inside or"
+AE_ID ES2002c.C.argumentstructs.5: "Um"
+AE_ID ES2002c.A.argumentstructs.Erik.9: "Do we need an L_C_D_ display ?"
+AE_ID ES2002c.A.argumentstructs.Erik.10: "What what's the functionality of that ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.18
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.19
+source=ES2002c.A.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.11:
+"Yeah but the question is what are we using it  what would we what would we achieve from it ? Putting in lights is cheap but putting in an L_C_D_ panel just to make it glow is a bit of a"
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.Erik.18: "Um unless an a I mean if you  also would that work if we wanted to incorporate um an L_C_D_ display, where would we put that ? Would we put that on the inside or"
+AE_ID ES2002c.C.argumentstructs.5: "Um"
+AE_ID ES2002c.A.argumentstructs.Erik.9: "Do we need an L_C_D_ display ?"
+AE_ID ES2002c.A.argumentstructs.Erik.10: "What what's the functionality of that ?"
+AE_ID ES2002c.B.argumentstructs.Erik.19: "It's bound to increase the cost of it a lot, I would've thought."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.18
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.11
+source=ES2002c.B.argumentstructs.Erik.19
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.17:
+"What would it achieve ?"
+
+Past dialogue turns:
+AE_ID ES2002c.C.argumentstructs.5: "Um"
+AE_ID ES2002c.A.argumentstructs.Erik.9: "Do we need an L_C_D_ display ?"
+AE_ID ES2002c.A.argumentstructs.Erik.10: "What what's the functionality of that ?"
+AE_ID ES2002c.B.argumentstructs.Erik.19: "It's bound to increase the cost of it a lot, I would've thought."
+AE_ID ES2002c.A.argumentstructs.Erik.11: "Yeah but the question is what are we using it  what would we what would we achieve from it ? Putting in lights is cheap but putting in an L_C_D_ panel just to make it glow is a bit of a"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.A.argumentstructs.Erik.11
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.17
+source=ES2002c.A.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.33:
+"Well"
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.Erik.9: "Do we need an L_C_D_ display ?"
+AE_ID ES2002c.A.argumentstructs.Erik.10: "What what's the functionality of that ?"
+AE_ID ES2002c.B.argumentstructs.Erik.19: "It's bound to increase the cost of it a lot, I would've thought."
+AE_ID ES2002c.A.argumentstructs.Erik.11: "Yeah but the question is what are we using it  what would we what would we achieve from it ? Putting in lights is cheap but putting in an L_C_D_ panel just to make it glow is a bit of a"
+AE_ID ES2002c.D.argumentstructs.Erik.17: "What would it achieve ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.17
+---------------------------------
+target=ES2002c.D.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.18:
+"L_C_ well I'd  when you used to mention the L_C_D_ I'd think I wonder what that would be about. And the th the thing I could see it helping with would be if it was somehow connected with um listings. So as you scroll through, 'cause we said we might have a jog dial, so as you scroll through your stations you can y it actually tells you what it is."
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.Erik.10: "What what's the functionality of that ?"
+AE_ID ES2002c.B.argumentstructs.Erik.19: "It's bound to increase the cost of it a lot, I would've thought."
+AE_ID ES2002c.A.argumentstructs.Erik.11: "Yeah but the question is what are we using it  what would we what would we achieve from it ? Putting in lights is cheap but putting in an L_C_D_ panel just to make it glow is a bit of a"
+AE_ID ES2002c.D.argumentstructs.Erik.17: "What would it achieve ?"
+AE_ID ES2002c.D.argumentstructs.33: "Well"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.17
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.18
+source=ES2002c.D.argumentstructs.Erik.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.20:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.Erik.19: "It's bound to increase the cost of it a lot, I would've thought."
+AE_ID ES2002c.A.argumentstructs.Erik.11: "Yeah but the question is what are we using it  what would we what would we achieve from it ? Putting in lights is cheap but putting in an L_C_D_ panel just to make it glow is a bit of a"
+AE_ID ES2002c.D.argumentstructs.Erik.17: "What would it achieve ?"
+AE_ID ES2002c.D.argumentstructs.33: "Well"
+AE_ID ES2002c.D.argumentstructs.Erik.18: "L_C_ well I'd  when you used to mention the L_C_D_ I'd think I wonder what that would be about. And the th the thing I could see it helping with would be if it was somehow connected with um listings. So as you scroll through, 'cause we said we might have a jog dial, so as you scroll through your stations you can y it actually tells you what it is."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.17
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.20
+source=ES2002c.D.argumentstructs.Erik.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.19:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.Erik.11: "Yeah but the question is what are we using it  what would we what would we achieve from it ? Putting in lights is cheap but putting in an L_C_D_ panel just to make it glow is a bit of a"
+AE_ID ES2002c.D.argumentstructs.Erik.17: "What would it achieve ?"
+AE_ID ES2002c.D.argumentstructs.33: "Well"
+AE_ID ES2002c.D.argumentstructs.Erik.18: "L_C_ well I'd  when you used to mention the L_C_D_ I'd think I wonder what that would be about. And the th the thing I could see it helping with would be if it was somehow connected with um listings. So as you scroll through, 'cause we said we might have a jog dial, so as you scroll through your stations you can y it actually tells you what it is."
+AE_ID ES2002c.B.argumentstructs.Erik.20: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.17
+---------------------------------
+target=ES2002c.A.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.12:
+"I think that will be a problem because we don't have an input device to get the listings into it, so um it's a bit nuts to get the  Monday Tuesday Wednesday you know."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.17: "What would it achieve ?"
+AE_ID ES2002c.D.argumentstructs.33: "Well"
+AE_ID ES2002c.D.argumentstructs.Erik.18: "L_C_ well I'd  when you used to mention the L_C_D_ I'd think I wonder what that would be about. And the th the thing I could see it helping with would be if it was somehow connected with um listings. So as you scroll through, 'cause we said we might have a jog dial, so as you scroll through your stations you can y it actually tells you what it is."
+AE_ID ES2002c.B.argumentstructs.Erik.20: "Yeah."
+AE_ID ES2002c.A.argumentstructs.19: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.18
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.12
+source=ES2002c.D.argumentstructs.Erik.18
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.Erik.19:
+"Right, okay"
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.33: "Well"
+AE_ID ES2002c.D.argumentstructs.Erik.18: "L_C_ well I'd  when you used to mention the L_C_D_ I'd think I wonder what that would be about. And the th the thing I could see it helping with would be if it was somehow connected with um listings. So as you scroll through, 'cause we said we might have a jog dial, so as you scroll through your stations you can y it actually tells you what it is."
+AE_ID ES2002c.B.argumentstructs.Erik.20: "Yeah."
+AE_ID ES2002c.A.argumentstructs.19: "Mm-hmm."
+AE_ID ES2002c.A.argumentstructs.Erik.12: "I think that will be a problem because we don't have an input device to get the listings into it, so um it's a bit nuts to get the  Monday Tuesday Wednesday you know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.18
+---------------------------------
+target=ES2002c.D.argumentstructs.Erik.19
+source=ES2002c.A.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.21:
+"Mm oh yeah that's true."
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.18: "L_C_ well I'd  when you used to mention the L_C_D_ I'd think I wonder what that would be about. And the th the thing I could see it helping with would be if it was somehow connected with um listings. So as you scroll through, 'cause we said we might have a jog dial, so as you scroll through your stations you can y it actually tells you what it is."
+AE_ID ES2002c.B.argumentstructs.Erik.20: "Yeah."
+AE_ID ES2002c.A.argumentstructs.19: "Mm-hmm."
+AE_ID ES2002c.A.argumentstructs.Erik.12: "I think that will be a problem because we don't have an input device to get the listings into it, so um it's a bit nuts to get the  Monday Tuesday Wednesday you know."
+AE_ID ES2002c.D.argumentstructs.Erik.19: "Right, okay"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.Erik.18
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.21
+source=ES2002c.A.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.D.argumentstructs.34:
+". Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2002c.B.argumentstructs.Erik.20: "Yeah."
+AE_ID ES2002c.A.argumentstructs.19: "Mm-hmm."
+AE_ID ES2002c.A.argumentstructs.Erik.12: "I think that will be a problem because we don't have an input device to get the listings into it, so um it's a bit nuts to get the  Monday Tuesday Wednesday you know."
+AE_ID ES2002c.D.argumentstructs.Erik.19: "Right, okay"
+AE_ID ES2002c.B.argumentstructs.Erik.21: "Mm oh yeah that's true."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.A.argumentstructs.19
+---------------------------------
+target=ES2002c.D.argumentstructs.34
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.36:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.19: "Mm-hmm."
+AE_ID ES2002c.A.argumentstructs.Erik.12: "I think that will be a problem because we don't have an input device to get the listings into it, so um it's a bit nuts to get the  Monday Tuesday Wednesday you know."
+AE_ID ES2002c.D.argumentstructs.Erik.19: "Right, okay"
+AE_ID ES2002c.B.argumentstructs.Erik.21: "Mm oh yeah that's true."
+AE_ID ES2002c.D.argumentstructs.34: ". Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.D.argumentstructs.34
+---------------------------------
+target=ES2002c.B.argumentstructs.36
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.B.argumentstructs.Erik.22:
+"So so no need for an L_C_D_ display ?"
+
+Past dialogue turns:
+AE_ID ES2002c.A.argumentstructs.Erik.12: "I think that will be a problem because we don't have an input device to get the listings into it, so um it's a bit nuts to get the  Monday Tuesday Wednesday you know."
+AE_ID ES2002c.D.argumentstructs.Erik.19: "Right, okay"
+AE_ID ES2002c.B.argumentstructs.Erik.21: "Mm oh yeah that's true."
+AE_ID ES2002c.D.argumentstructs.34: ". Mm-hmm. Mm-hmm."
+AE_ID ES2002c.B.argumentstructs.36: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.21
+---------------------------------
+target=ES2002c.B.argumentstructs.Erik.22
+source=ES2002c.A.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002c.A.argumentstructs.Erik.13:
+"Um I I'm not saying there's no need for an L_C_D_ display, but um it's  what's what what would it tell the user, 'cause the L_C_D_ tends to be an output as uh as opposed to an input so um does the remote control need to talk back to the user ? We have the option of the speaker as well  the sa the same thing goes for the speaker, is there a need for the remote control to to talk back ?"
+
+Past dialogue turns:
+AE_ID ES2002c.D.argumentstructs.Erik.19: "Right, okay"
+AE_ID ES2002c.B.argumentstructs.Erik.21: "Mm oh yeah that's true."
+AE_ID ES2002c.D.argumentstructs.34: ". Mm-hmm. Mm-hmm."
+AE_ID ES2002c.B.argumentstructs.36: "Yeah."
+AE_ID ES2002c.B.argumentstructs.Erik.22: "So so no need for an L_C_D_ display ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002c.B.argumentstructs.Erik.22
+---------------------------------
+target=ES2002c.A.argumentstructs.Erik.13
+source=ES2002c.B.argumentstructs.Erik.22
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2002c-ES2002c - LCD display.csv - True Judgement Ratio: 36.84%

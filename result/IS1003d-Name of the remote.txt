@@ -1,0 +1,512 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.C.argumentstructs.Rutger.1:
+"So we have give him  give it a cute name"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1003d.C.argumentstructs.Rutger.1
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.C.argumentstructs.8:
+"."
+
+Past dialogue turns:
+AE_ID IS1003d.C.argumentstructs.Rutger.1: "So we have give him  give it a cute name"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.C.argumentstructs.Rutger.1
+---------------------------------
+target=IS1003d.C.argumentstructs.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.D.argumentstructs.Rutger.1:
+"Cute na"
+
+Past dialogue turns:
+AE_ID IS1003d.C.argumentstructs.Rutger.1: "So we have give him  give it a cute name"
+AE_ID IS1003d.C.argumentstructs.8: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.C.argumentstructs.Rutger.1
+---------------------------------
+target=IS1003d.D.argumentstructs.Rutger.1
+source=IS1003d.C.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.A.argumentstructs.Rutger.1:
+"Yeah th no, it's the it's the pineapple control  remote control. It's a pineapple now, it has changed. It's a pineapple. Pineapple."
+
+Past dialogue turns:
+AE_ID IS1003d.C.argumentstructs.Rutger.1: "So we have give him  give it a cute name"
+AE_ID IS1003d.C.argumentstructs.8: "."
+AE_ID IS1003d.D.argumentstructs.Rutger.1: "Cute na"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.C.argumentstructs.Rutger.1
+---------------------------------
+target=IS1003d.A.argumentstructs.Rutger.1
+source=IS1003d.C.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.C.argumentstructs.Rutger.2:
+"Mush mushroom controller."
+
+Past dialogue turns:
+AE_ID IS1003d.C.argumentstructs.Rutger.1: "So we have give him  give it a cute name"
+AE_ID IS1003d.C.argumentstructs.8: "."
+AE_ID IS1003d.D.argumentstructs.Rutger.1: "Cute na"
+AE_ID IS1003d.A.argumentstructs.Rutger.1: "Yeah th no, it's the it's the pineapple control  remote control. It's a pineapple now, it has changed. It's a pineapple. Pineapple."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.C.argumentstructs.Rutger.1
+---------------------------------
+target=IS1003d.C.argumentstructs.Rutger.2
+source=IS1003d.C.argumentstructs.Rutger.1
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.D.argumentstructs.Rutger.2:
+"You cannot say mushroom because it's not the trend. It's not the trend."
+
+Past dialogue turns:
+AE_ID IS1003d.C.argumentstructs.Rutger.1: "So we have give him  give it a cute name"
+AE_ID IS1003d.C.argumentstructs.8: "."
+AE_ID IS1003d.D.argumentstructs.Rutger.1: "Cute na"
+AE_ID IS1003d.A.argumentstructs.Rutger.1: "Yeah th no, it's the it's the pineapple control  remote control. It's a pineapple now, it has changed. It's a pineapple. Pineapple."
+AE_ID IS1003d.C.argumentstructs.Rutger.2: "Mush mushroom controller."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.C.argumentstructs.Rutger.2
+---------------------------------
+target=IS1003d.D.argumentstructs.Rutger.2
+source=IS1003d.C.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.B.argumentstructs.Rutger.1:
+"It's not a mushroom."
+
+Past dialogue turns:
+AE_ID IS1003d.C.argumentstructs.8: "."
+AE_ID IS1003d.D.argumentstructs.Rutger.1: "Cute na"
+AE_ID IS1003d.A.argumentstructs.Rutger.1: "Yeah th no, it's the it's the pineapple control  remote control. It's a pineapple now, it has changed. It's a pineapple. Pineapple."
+AE_ID IS1003d.C.argumentstructs.Rutger.2: "Mush mushroom controller."
+AE_ID IS1003d.D.argumentstructs.Rutger.2: "You cannot say mushroom because it's not the trend. It's not the trend."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.C.argumentstructs.Rutger.2
+---------------------------------
+target=IS1003d.B.argumentstructs.Rutger.1
+source=IS1003d.C.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.B.argumentstructs.Rutger.2:
+"It's a pineapple remote controls."
+
+Past dialogue turns:
+AE_ID IS1003d.D.argumentstructs.Rutger.1: "Cute na"
+AE_ID IS1003d.A.argumentstructs.Rutger.1: "Yeah th no, it's the it's the pineapple control  remote control. It's a pineapple now, it has changed. It's a pineapple. Pineapple."
+AE_ID IS1003d.C.argumentstructs.Rutger.2: "Mush mushroom controller."
+AE_ID IS1003d.D.argumentstructs.Rutger.2: "You cannot say mushroom because it's not the trend. It's not the trend."
+AE_ID IS1003d.B.argumentstructs.Rutger.1: "It's not a mushroom."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.A.argumentstructs.Rutger.1
+---------------------------------
+target=IS1003d.B.argumentstructs.Rutger.2
+source=IS1003d.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.C.argumentstructs.Rutger.3:
+"Pa Pine apple."
+
+Past dialogue turns:
+AE_ID IS1003d.A.argumentstructs.Rutger.1: "Yeah th no, it's the it's the pineapple control  remote control. It's a pineapple now, it has changed. It's a pineapple. Pineapple."
+AE_ID IS1003d.C.argumentstructs.Rutger.2: "Mush mushroom controller."
+AE_ID IS1003d.D.argumentstructs.Rutger.2: "You cannot say mushroom because it's not the trend. It's not the trend."
+AE_ID IS1003d.B.argumentstructs.Rutger.1: "It's not a mushroom."
+AE_ID IS1003d.B.argumentstructs.Rutger.2: "It's a pineapple remote controls."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.A.argumentstructs.Rutger.1
+---------------------------------
+target=IS1003d.C.argumentstructs.Rutger.3
+source=IS1003d.B.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.B.argumentstructs.Rutger.3:
+"Yeah, pineapple remote remote control."
+
+Past dialogue turns:
+AE_ID IS1003d.C.argumentstructs.Rutger.2: "Mush mushroom controller."
+AE_ID IS1003d.D.argumentstructs.Rutger.2: "You cannot say mushroom because it's not the trend. It's not the trend."
+AE_ID IS1003d.B.argumentstructs.Rutger.1: "It's not a mushroom."
+AE_ID IS1003d.B.argumentstructs.Rutger.2: "It's a pineapple remote controls."
+AE_ID IS1003d.C.argumentstructs.Rutger.3: "Pa Pine apple."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.B.argumentstructs.Rutger.2
+---------------------------------
+target=IS1003d.B.argumentstructs.Rutger.3
+source=IS1003d.B.argumentstructs.Rutger.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.D.argumentstructs.Rutger.3:
+"Yeah, but just flying saucer, or"
+
+Past dialogue turns:
+AE_ID IS1003d.D.argumentstructs.Rutger.2: "You cannot say mushroom because it's not the trend. It's not the trend."
+AE_ID IS1003d.B.argumentstructs.Rutger.1: "It's not a mushroom."
+AE_ID IS1003d.B.argumentstructs.Rutger.2: "It's a pineapple remote controls."
+AE_ID IS1003d.C.argumentstructs.Rutger.3: "Pa Pine apple."
+AE_ID IS1003d.B.argumentstructs.Rutger.3: "Yeah, pineapple remote remote control."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.B.argumentstructs.Rutger.1
+---------------------------------
+target=IS1003d.D.argumentstructs.Rutger.3
+source=IS1003d.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.A.argumentstructs.Rutger.2:
+"With cherry on top."
+
+Past dialogue turns:
+AE_ID IS1003d.B.argumentstructs.Rutger.1: "It's not a mushroom."
+AE_ID IS1003d.B.argumentstructs.Rutger.2: "It's a pineapple remote controls."
+AE_ID IS1003d.C.argumentstructs.Rutger.3: "Pa Pine apple."
+AE_ID IS1003d.B.argumentstructs.Rutger.3: "Yeah, pineapple remote remote control."
+AE_ID IS1003d.D.argumentstructs.Rutger.3: "Yeah, but just flying saucer, or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1003d.A.argumentstructs.Rutger.2
+source=IS1003d.D.argumentstructs.Rutger.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.C.argumentstructs.Rutger.4:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1003d.B.argumentstructs.Rutger.2: "It's a pineapple remote controls."
+AE_ID IS1003d.C.argumentstructs.Rutger.3: "Pa Pine apple."
+AE_ID IS1003d.B.argumentstructs.Rutger.3: "Yeah, pineapple remote remote control."
+AE_ID IS1003d.D.argumentstructs.Rutger.3: "Yeah, but just flying saucer, or"
+AE_ID IS1003d.A.argumentstructs.Rutger.2: "With cherry on top."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.B.argumentstructs.Rutger.2
+---------------------------------
+target=IS1003d.C.argumentstructs.Rutger.4
+source=IS1003d.A.argumentstructs.Rutger.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.B.argumentstructs.7:
+"Oh, that"
+
+Past dialogue turns:
+AE_ID IS1003d.C.argumentstructs.Rutger.3: "Pa Pine apple."
+AE_ID IS1003d.B.argumentstructs.Rutger.3: "Yeah, pineapple remote remote control."
+AE_ID IS1003d.D.argumentstructs.Rutger.3: "Yeah, but just flying saucer, or"
+AE_ID IS1003d.A.argumentstructs.Rutger.2: "With cherry on top."
+AE_ID IS1003d.C.argumentstructs.Rutger.4: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.B.argumentstructs.Rutger.3
+---------------------------------
+target=IS1003d.B.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.D.argumentstructs.Rutger.4:
+"I would say flying saucer."
+
+Past dialogue turns:
+AE_ID IS1003d.B.argumentstructs.Rutger.3: "Yeah, pineapple remote remote control."
+AE_ID IS1003d.D.argumentstructs.Rutger.3: "Yeah, but just flying saucer, or"
+AE_ID IS1003d.A.argumentstructs.Rutger.2: "With cherry on top."
+AE_ID IS1003d.C.argumentstructs.Rutger.4: "Okay."
+AE_ID IS1003d.B.argumentstructs.7: "Oh, that"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.D.argumentstructs.Rutger.3
+---------------------------------
+target=IS1003d.D.argumentstructs.Rutger.4
+source=IS1003d.D.argumentstructs.Rutger.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.B.argumentstructs.Rutger.4:
+"Oh unid uh unidentified remote control, so"
+
+Past dialogue turns:
+AE_ID IS1003d.D.argumentstructs.Rutger.3: "Yeah, but just flying saucer, or"
+AE_ID IS1003d.A.argumentstructs.Rutger.2: "With cherry on top."
+AE_ID IS1003d.C.argumentstructs.Rutger.4: "Okay."
+AE_ID IS1003d.B.argumentstructs.7: "Oh, that"
+AE_ID IS1003d.D.argumentstructs.Rutger.4: "I would say flying saucer."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.D.argumentstructs.Rutger.4
+---------------------------------
+target=IS1003d.B.argumentstructs.Rutger.4
+source=IS1003d.D.argumentstructs.Rutger.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.D.argumentstructs.Rutger.5:
+"It's more appropriate, somehow."
+
+Past dialogue turns:
+AE_ID IS1003d.A.argumentstructs.Rutger.2: "With cherry on top."
+AE_ID IS1003d.C.argumentstructs.Rutger.4: "Okay."
+AE_ID IS1003d.B.argumentstructs.7: "Oh, that"
+AE_ID IS1003d.D.argumentstructs.Rutger.4: "I would say flying saucer."
+AE_ID IS1003d.B.argumentstructs.Rutger.4: "Oh unid uh unidentified remote control, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1003d.D.argumentstructs.Rutger.5
+source=IS1003d.D.argumentstructs.Rutger.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.C.argumentstructs.Rutger.5:
+"Okay. Okay."
+
+Past dialogue turns:
+AE_ID IS1003d.C.argumentstructs.Rutger.4: "Okay."
+AE_ID IS1003d.B.argumentstructs.7: "Oh, that"
+AE_ID IS1003d.D.argumentstructs.Rutger.4: "I would say flying saucer."
+AE_ID IS1003d.B.argumentstructs.Rutger.4: "Oh unid uh unidentified remote control, so"
+AE_ID IS1003d.D.argumentstructs.Rutger.5: "It's more appropriate, somehow."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.C.argumentstructs.Rutger.4
+---------------------------------
+target=IS1003d.C.argumentstructs.Rutger.5
+source=IS1003d.D.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.B.argumentstructs.Rutger.5:
+"That's that's pineapple remote control. I think it's fine."
+
+Past dialogue turns:
+AE_ID IS1003d.B.argumentstructs.7: "Oh, that"
+AE_ID IS1003d.D.argumentstructs.Rutger.4: "I would say flying saucer."
+AE_ID IS1003d.B.argumentstructs.Rutger.4: "Oh unid uh unidentified remote control, so"
+AE_ID IS1003d.D.argumentstructs.Rutger.5: "It's more appropriate, somehow."
+AE_ID IS1003d.C.argumentstructs.Rutger.5: "Okay. Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.B.argumentstructs.Rutger.4
+---------------------------------
+target=IS1003d.B.argumentstructs.Rutger.5
+source=IS1003d.C.argumentstructs.Rutger.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.D.argumentstructs.7:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1003d.D.argumentstructs.Rutger.4: "I would say flying saucer."
+AE_ID IS1003d.B.argumentstructs.Rutger.4: "Oh unid uh unidentified remote control, so"
+AE_ID IS1003d.D.argumentstructs.Rutger.5: "It's more appropriate, somehow."
+AE_ID IS1003d.C.argumentstructs.Rutger.5: "Okay. Okay."
+AE_ID IS1003d.B.argumentstructs.Rutger.5: "That's that's pineapple remote control. I think it's fine."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.C.argumentstructs.Rutger.5
+---------------------------------
+target=IS1003d.D.argumentstructs.7
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1003d.C.argumentstructs.Rutger.6:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1003d.B.argumentstructs.Rutger.4: "Oh unid uh unidentified remote control, so"
+AE_ID IS1003d.D.argumentstructs.Rutger.5: "It's more appropriate, somehow."
+AE_ID IS1003d.C.argumentstructs.Rutger.5: "Okay. Okay."
+AE_ID IS1003d.B.argumentstructs.Rutger.5: "That's that's pineapple remote control. I think it's fine."
+AE_ID IS1003d.D.argumentstructs.7: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1003d.C.argumentstructs.Rutger.5
+---------------------------------
+target=IS1003d.C.argumentstructs.Rutger.6
+source=IS1003d.B.argumentstructs.Rutger.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1003d-Name of the remote.csv - True Judgement Ratio: 42.86%

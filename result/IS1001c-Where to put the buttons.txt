@@ -1,0 +1,812 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.17:
+"Wheel on the top. Button, where do we want some buttons ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.17
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.18:
+"Well, usually hold   'Kay, we want it to be good also for the left-hand users, right ?"
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.17: "Wheel on the top. Button, where do we want some buttons ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.17
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.18
+source=IS1001c.B.argumentstructs.Rutger.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.18:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.17: "Wheel on the top. Button, where do we want some buttons ?"
+AE_ID IS1001c.C.argumentstructs.Rutger.18: "Well, usually hold   'Kay, we want it to be good also for the left-hand users, right ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.18
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.18
+source=IS1001c.C.argumentstructs.Rutger.18
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.36:
+"Uh"
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.17: "Wheel on the top. Button, where do we want some buttons ?"
+AE_ID IS1001c.C.argumentstructs.Rutger.18: "Well, usually hold   'Kay, we want it to be good also for the left-hand users, right ?"
+AE_ID IS1001c.B.argumentstructs.Rutger.18: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.17
+---------------------------------
+target=IS1001c.C.argumentstructs.36
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.14:
+"So it have to  it has to be symmetrical."
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.17: "Wheel on the top. Button, where do we want some buttons ?"
+AE_ID IS1001c.C.argumentstructs.Rutger.18: "Well, usually hold   'Kay, we want it to be good also for the left-hand users, right ?"
+AE_ID IS1001c.B.argumentstructs.Rutger.18: "Yeah."
+AE_ID IS1001c.C.argumentstructs.36: "Uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.18
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.14
+source=IS1001c.C.argumentstructs.Rutger.18
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.19:
+"Yeah but okay. Sa let's say that th o  It has to be"
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.17: "Wheel on the top. Button, where do we want some buttons ?"
+AE_ID IS1001c.C.argumentstructs.Rutger.18: "Well, usually hold   'Kay, we want it to be good also for the left-hand users, right ?"
+AE_ID IS1001c.B.argumentstructs.Rutger.18: "Yeah."
+AE_ID IS1001c.C.argumentstructs.36: "Uh"
+AE_ID IS1001c.A.argumentstructs.Rutger.14: "So it have to  it has to be symmetrical."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.14
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.19
+source=IS1001c.A.argumentstructs.Rutger.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.20:
+"basically you can only take two sides, one on ths this side where is the thumb and the other side where there is uh yeah also the thumb.  Basically."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.18: "Well, usually hold   'Kay, we want it to be good also for the left-hand users, right ?"
+AE_ID IS1001c.B.argumentstructs.Rutger.18: "Yeah."
+AE_ID IS1001c.C.argumentstructs.36: "Uh"
+AE_ID IS1001c.A.argumentstructs.Rutger.14: "So it have to  it has to be symmetrical."
+AE_ID IS1001c.C.argumentstructs.Rutger.19: "Yeah but okay. Sa let's say that th o  It has to be"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.14
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.20
+source=IS1001c.B.argumentstructs.Rutger.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.Rutger.19:
+"Yep. Yep."
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.18: "Yeah."
+AE_ID IS1001c.C.argumentstructs.36: "Uh"
+AE_ID IS1001c.A.argumentstructs.Rutger.14: "So it have to  it has to be symmetrical."
+AE_ID IS1001c.C.argumentstructs.Rutger.19: "Yeah but okay. Sa let's say that th o  It has to be"
+AE_ID IS1001c.C.argumentstructs.Rutger.20: "basically you can only take two sides, one on ths this side where is the thumb and the other side where there is uh yeah also the thumb.  Basically."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.B.argumentstructs.Rutger.18
+---------------------------------
+target=IS1001c.B.argumentstructs.Rutger.19
+source=IS1001c.C.argumentstructs.Rutger.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.21:
+"Or you could use use this one,"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.36: "Uh"
+AE_ID IS1001c.A.argumentstructs.Rutger.14: "So it have to  it has to be symmetrical."
+AE_ID IS1001c.C.argumentstructs.Rutger.19: "Yeah but okay. Sa let's say that th o  It has to be"
+AE_ID IS1001c.C.argumentstructs.Rutger.20: "basically you can only take two sides, one on ths this side where is the thumb and the other side where there is uh yeah also the thumb.  Basically."
+AE_ID IS1001c.B.argumentstructs.Rutger.19: "Yep. Yep."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.20
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.21
+source=IS1001c.B.argumentstructs.Rutger.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.22:
+"but I don't know if it's very comfortable, to use this one for the wheel."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.14: "So it have to  it has to be symmetrical."
+AE_ID IS1001c.C.argumentstructs.Rutger.19: "Yeah but okay. Sa let's say that th o  It has to be"
+AE_ID IS1001c.C.argumentstructs.Rutger.20: "basically you can only take two sides, one on ths this side where is the thumb and the other side where there is uh yeah also the thumb.  Basically."
+AE_ID IS1001c.B.argumentstructs.Rutger.19: "Yep. Yep."
+AE_ID IS1001c.C.argumentstructs.Rutger.21: "Or you could use use this one,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.21
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.22
+source=IS1001c.C.argumentstructs.Rutger.21
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.15:
+"Yeah maybe the thumb is more comfortable."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.19: "Yeah but okay. Sa let's say that th o  It has to be"
+AE_ID IS1001c.C.argumentstructs.Rutger.20: "basically you can only take two sides, one on ths this side where is the thumb and the other side where there is uh yeah also the thumb.  Basically."
+AE_ID IS1001c.B.argumentstructs.Rutger.19: "Yep. Yep."
+AE_ID IS1001c.C.argumentstructs.Rutger.21: "Or you could use use this one,"
+AE_ID IS1001c.C.argumentstructs.Rutger.22: "but I don't know if it's very comfortable, to use this one for the wheel."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.20
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.15
+source=IS1001c.C.argumentstructs.Rutger.20
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.23:
+"This for the wheel and then this for the buttons ? Should have the two sides."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.20: "basically you can only take two sides, one on ths this side where is the thumb and the other side where there is uh yeah also the thumb.  Basically."
+AE_ID IS1001c.B.argumentstructs.Rutger.19: "Yep. Yep."
+AE_ID IS1001c.C.argumentstructs.Rutger.21: "Or you could use use this one,"
+AE_ID IS1001c.C.argumentstructs.Rutger.22: "but I don't know if it's very comfortable, to use this one for the wheel."
+AE_ID IS1001c.A.argumentstructs.Rutger.15: "Yeah maybe the thumb is more comfortable."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.20
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.23
+source=IS1001c.C.argumentstructs.Rutger.22
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.16:
+"Yeah I think it's okay for both right and left. Mm."
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.Rutger.19: "Yep. Yep."
+AE_ID IS1001c.C.argumentstructs.Rutger.21: "Or you could use use this one,"
+AE_ID IS1001c.C.argumentstructs.Rutger.22: "but I don't know if it's very comfortable, to use this one for the wheel."
+AE_ID IS1001c.A.argumentstructs.Rutger.15: "Yeah maybe the thumb is more comfortable."
+AE_ID IS1001c.C.argumentstructs.Rutger.23: "This for the wheel and then this for the buttons ? Should have the two sides."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.15
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.B.argumentstructs.22:
+"Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.21: "Or you could use use this one,"
+AE_ID IS1001c.C.argumentstructs.Rutger.22: "but I don't know if it's very comfortable, to use this one for the wheel."
+AE_ID IS1001c.A.argumentstructs.Rutger.15: "Yeah maybe the thumb is more comfortable."
+AE_ID IS1001c.C.argumentstructs.Rutger.23: "This for the wheel and then this for the buttons ? Should have the two sides."
+AE_ID IS1001c.A.argumentstructs.Rutger.16: "Yeah I think it's okay for both right and left. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.16
+---------------------------------
+target=IS1001c.B.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.37:
+"the op"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.22: "but I don't know if it's very comfortable, to use this one for the wheel."
+AE_ID IS1001c.A.argumentstructs.Rutger.15: "Yeah maybe the thumb is more comfortable."
+AE_ID IS1001c.C.argumentstructs.Rutger.23: "This for the wheel and then this for the buttons ? Should have the two sides."
+AE_ID IS1001c.A.argumentstructs.Rutger.16: "Yeah I think it's okay for both right and left. Mm."
+AE_ID IS1001c.B.argumentstructs.22: "Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.23
+---------------------------------
+target=IS1001c.C.argumentstructs.37
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.29:
+"I think you can turn it this way also."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.15: "Yeah maybe the thumb is more comfortable."
+AE_ID IS1001c.C.argumentstructs.Rutger.23: "This for the wheel and then this for the buttons ? Should have the two sides."
+AE_ID IS1001c.A.argumentstructs.Rutger.16: "Yeah I think it's okay for both right and left. Mm."
+AE_ID IS1001c.B.argumentstructs.22: "Mm-hmm. Mm-hmm."
+AE_ID IS1001c.C.argumentstructs.37: "the op"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.15
+---------------------------------
+target=IS1001c.A.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.17:
+"You can do both with both hands."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.23: "This for the wheel and then this for the buttons ? Should have the two sides."
+AE_ID IS1001c.A.argumentstructs.Rutger.16: "Yeah I think it's okay for both right and left. Mm."
+AE_ID IS1001c.B.argumentstructs.22: "Mm-hmm. Mm-hmm."
+AE_ID IS1001c.C.argumentstructs.37: "the op"
+AE_ID IS1001c.A.argumentstructs.29: "I think you can turn it this way also."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.23
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.17
+source=IS1001c.B.argumentstructs.Rutger.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.25:
+"Wheel  Wheel buttons. Yeah, the problem is if you have buttons and wheel then when you turn it around, the buttons are on the other side."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.16: "Yeah I think it's okay for both right and left. Mm."
+AE_ID IS1001c.B.argumentstructs.22: "Mm-hmm. Mm-hmm."
+AE_ID IS1001c.C.argumentstructs.37: "the op"
+AE_ID IS1001c.A.argumentstructs.29: "I think you can turn it this way also."
+AE_ID IS1001c.A.argumentstructs.Rutger.17: "You can do both with both hands."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.17
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.25
+source=IS1001c.A.argumentstructs.Rutger.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.18:
+"I think it's okay."
+
+Past dialogue turns:
+AE_ID IS1001c.B.argumentstructs.22: "Mm-hmm. Mm-hmm."
+AE_ID IS1001c.C.argumentstructs.37: "the op"
+AE_ID IS1001c.A.argumentstructs.29: "I think you can turn it this way also."
+AE_ID IS1001c.A.argumentstructs.Rutger.17: "You can do both with both hands."
+AE_ID IS1001c.C.argumentstructs.Rutger.25: "Wheel  Wheel buttons. Yeah, the problem is if you have buttons and wheel then when you turn it around, the buttons are on the other side."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.17
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.18
+source=IS1001c.C.argumentstructs.Rutger.25
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.26:
+"So you cannot see them."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.37: "the op"
+AE_ID IS1001c.A.argumentstructs.29: "I think you can turn it this way also."
+AE_ID IS1001c.A.argumentstructs.Rutger.17: "You can do both with both hands."
+AE_ID IS1001c.C.argumentstructs.Rutger.25: "Wheel  Wheel buttons. Yeah, the problem is if you have buttons and wheel then when you turn it around, the buttons are on the other side."
+AE_ID IS1001c.A.argumentstructs.Rutger.18: "I think it's okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.25
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.26
+source=IS1001c.A.argumentstructs.Rutger.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.19:
+"Well, you you will get used to it."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.29: "I think you can turn it this way also."
+AE_ID IS1001c.A.argumentstructs.Rutger.17: "You can do both with both hands."
+AE_ID IS1001c.C.argumentstructs.Rutger.25: "Wheel  Wheel buttons. Yeah, the problem is if you have buttons and wheel then when you turn it around, the buttons are on the other side."
+AE_ID IS1001c.A.argumentstructs.Rutger.18: "I think it's okay."
+AE_ID IS1001c.C.argumentstructs.Rutger.26: "So you cannot see them."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.18
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.19
+source=IS1001c.C.argumentstructs.Rutger.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.20:
+"And moreover, th the button ar are lighted so you you immediately identify the right side, because you have light on buttons."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.17: "You can do both with both hands."
+AE_ID IS1001c.C.argumentstructs.Rutger.25: "Wheel  Wheel buttons. Yeah, the problem is if you have buttons and wheel then when you turn it around, the buttons are on the other side."
+AE_ID IS1001c.A.argumentstructs.Rutger.18: "I think it's okay."
+AE_ID IS1001c.C.argumentstructs.Rutger.26: "So you cannot see them."
+AE_ID IS1001c.A.argumentstructs.Rutger.19: "Well, you you will get used to it."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+25
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.20
+source=IS1001c.C.argumentstructs.Rutger.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.38:
+"Y"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.25: "Wheel  Wheel buttons. Yeah, the problem is if you have buttons and wheel then when you turn it around, the buttons are on the other side."
+AE_ID IS1001c.A.argumentstructs.Rutger.18: "I think it's okay."
+AE_ID IS1001c.C.argumentstructs.Rutger.26: "So you cannot see them."
+AE_ID IS1001c.A.argumentstructs.Rutger.19: "Well, you you will get used to it."
+AE_ID IS1001c.A.argumentstructs.Rutger.20: "And moreover, th the button ar are lighted so you you immediately identify the right side, because you have light on buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.26
+---------------------------------
+target=IS1001c.C.argumentstructs.38
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.27:
+"Yeah I know, but uh if you hold with your left hand, and the wheel is here, and the buttons are here, then when you turn it around the buttons will be on the other side."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.18: "I think it's okay."
+AE_ID IS1001c.C.argumentstructs.Rutger.26: "So you cannot see them."
+AE_ID IS1001c.A.argumentstructs.Rutger.19: "Well, you you will get used to it."
+AE_ID IS1001c.A.argumentstructs.Rutger.20: "And moreover, th the button ar are lighted so you you immediately identify the right side, because you have light on buttons."
+AE_ID IS1001c.C.argumentstructs.38: "Y"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.20
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.27
+source=IS1001c.C.argumentstructs.Rutger.26
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.30:
+"I think you will use it only on the right or left hand, whether you are righty or lefty. I think for lefty it's okay. I can do this movement, and for righty as well."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.26: "So you cannot see them."
+AE_ID IS1001c.A.argumentstructs.Rutger.19: "Well, you you will get used to it."
+AE_ID IS1001c.A.argumentstructs.Rutger.20: "And moreover, th the button ar are lighted so you you immediately identify the right side, because you have light on buttons."
+AE_ID IS1001c.C.argumentstructs.38: "Y"
+AE_ID IS1001c.C.argumentstructs.Rutger.27: "Yeah I know, but uh if you hold with your left hand, and the wheel is here, and the buttons are here, then when you turn it around the buttons will be on the other side."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.20
+---------------------------------
+target=IS1001c.A.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.21:
+"I think this doesn't change that much."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.19: "Well, you you will get used to it."
+AE_ID IS1001c.A.argumentstructs.Rutger.20: "And moreover, th the button ar are lighted so you you immediately identify the right side, because you have light on buttons."
+AE_ID IS1001c.C.argumentstructs.38: "Y"
+AE_ID IS1001c.C.argumentstructs.Rutger.27: "Yeah I know, but uh if you hold with your left hand, and the wheel is here, and the buttons are here, then when you turn it around the buttons will be on the other side."
+AE_ID IS1001c.A.argumentstructs.30: "I think you will use it only on the right or left hand, whether you are righty or lefty. I think for lefty it's okay. I can do this movement, and for righty as well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.30
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.21
+source=IS1001c.A.argumentstructs.Rutger.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.28:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.20: "And moreover, th the button ar are lighted so you you immediately identify the right side, because you have light on buttons."
+AE_ID IS1001c.C.argumentstructs.38: "Y"
+AE_ID IS1001c.C.argumentstructs.Rutger.27: "Yeah I know, but uh if you hold with your left hand, and the wheel is here, and the buttons are here, then when you turn it around the buttons will be on the other side."
+AE_ID IS1001c.A.argumentstructs.30: "I think you will use it only on the right or left hand, whether you are righty or lefty. I think for lefty it's okay. I can do this movement, and for righty as well."
+AE_ID IS1001c.A.argumentstructs.Rutger.21: "I think this doesn't change that much."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.20
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.28
+source=IS1001c.A.argumentstructs.Rutger.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.22:
+"Yeah ?"
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.38: "Y"
+AE_ID IS1001c.C.argumentstructs.Rutger.27: "Yeah I know, but uh if you hold with your left hand, and the wheel is here, and the buttons are here, then when you turn it around the buttons will be on the other side."
+AE_ID IS1001c.A.argumentstructs.30: "I think you will use it only on the right or left hand, whether you are righty or lefty. I think for lefty it's okay. I can do this movement, and for righty as well."
+AE_ID IS1001c.A.argumentstructs.Rutger.21: "I think this doesn't change that much."
+AE_ID IS1001c.C.argumentstructs.Rutger.28: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.C.argumentstructs.Rutger.28
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.22
+source=IS1001c.C.argumentstructs.Rutger.28
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.39:
+"Okay. Maybe."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.27: "Yeah I know, but uh if you hold with your left hand, and the wheel is here, and the buttons are here, then when you turn it around the buttons will be on the other side."
+AE_ID IS1001c.A.argumentstructs.30: "I think you will use it only on the right or left hand, whether you are righty or lefty. I think for lefty it's okay. I can do this movement, and for righty as well."
+AE_ID IS1001c.A.argumentstructs.Rutger.21: "I think this doesn't change that much."
+AE_ID IS1001c.C.argumentstructs.Rutger.28: "Okay."
+AE_ID IS1001c.A.argumentstructs.Rutger.22: "Yeah ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.30
+---------------------------------
+target=IS1001c.C.argumentstructs.39
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.29:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.30: "I think you will use it only on the right or left hand, whether you are righty or lefty. I think for lefty it's okay. I can do this movement, and for righty as well."
+AE_ID IS1001c.A.argumentstructs.Rutger.21: "I think this doesn't change that much."
+AE_ID IS1001c.C.argumentstructs.Rutger.28: "Okay."
+AE_ID IS1001c.A.argumentstructs.Rutger.22: "Yeah ?"
+AE_ID IS1001c.C.argumentstructs.39: "Okay. Maybe."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.22
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.29
+source=IS1001c.A.argumentstructs.Rutger.22
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.31:
+"So, for interface we said also that we have uh this banana shape with button on the s on the side. And"
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.21: "I think this doesn't change that much."
+AE_ID IS1001c.C.argumentstructs.Rutger.28: "Okay."
+AE_ID IS1001c.A.argumentstructs.Rutger.22: "Yeah ?"
+AE_ID IS1001c.C.argumentstructs.39: "Okay. Maybe."
+AE_ID IS1001c.C.argumentstructs.Rutger.29: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.21
+---------------------------------
+target=IS1001c.A.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.A.argumentstructs.Rutger.23:
+"and uh a wheel on the top."
+
+Past dialogue turns:
+AE_ID IS1001c.C.argumentstructs.Rutger.28: "Okay."
+AE_ID IS1001c.A.argumentstructs.Rutger.22: "Yeah ?"
+AE_ID IS1001c.C.argumentstructs.39: "Okay. Maybe."
+AE_ID IS1001c.C.argumentstructs.Rutger.29: "Yeah."
+AE_ID IS1001c.A.argumentstructs.31: "So, for interface we said also that we have uh this banana shape with button on the s on the side. And"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.31
+---------------------------------
+target=IS1001c.A.argumentstructs.Rutger.23
+source=IS1001c.B.argumentstructs.Rutger.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1001c.C.argumentstructs.Rutger.30:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1001c.A.argumentstructs.Rutger.22: "Yeah ?"
+AE_ID IS1001c.C.argumentstructs.39: "Okay. Maybe."
+AE_ID IS1001c.C.argumentstructs.Rutger.29: "Yeah."
+AE_ID IS1001c.A.argumentstructs.31: "So, for interface we said also that we have uh this banana shape with button on the s on the side. And"
+AE_ID IS1001c.A.argumentstructs.Rutger.23: "and uh a wheel on the top."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1001c.A.argumentstructs.Rutger.22
+---------------------------------
+target=IS1001c.C.argumentstructs.Rutger.30
+source=IS1001c.A.argumentstructs.Rutger.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1001c-Where to put the buttons.csv - True Judgement Ratio: 30.30%

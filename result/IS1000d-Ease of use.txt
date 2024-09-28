@@ -1,0 +1,937 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.Rutger.39:
+"Okay."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1000d.A.argumentstructs.Rutger.39
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.Rutger.40:
+"Ease of use ?"
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.39: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.39
+---------------------------------
+target=IS1000d.A.argumentstructs.Rutger.40
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.D.argumentstructs.56:
+"Uh"
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.39: "Okay."
+AE_ID IS1000d.A.argumentstructs.Rutger.40: "Ease of use ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.40
+---------------------------------
+target=IS1000d.D.argumentstructs.56
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.C.argumentstructs.Rutger.30:
+"So the first one is really standard, so everybody i including our grandmothers can use it,"
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.39: "Okay."
+AE_ID IS1000d.A.argumentstructs.Rutger.40: "Ease of use ?"
+AE_ID IS1000d.D.argumentstructs.56: "Uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.40
+---------------------------------
+target=IS1000d.C.argumentstructs.Rutger.30
+source=IS1000d.A.argumentstructs.Rutger.40
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.69:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.39: "Okay."
+AE_ID IS1000d.A.argumentstructs.Rutger.40: "Ease of use ?"
+AE_ID IS1000d.D.argumentstructs.56: "Uh"
+AE_ID IS1000d.C.argumentstructs.Rutger.30: "So the first one is really standard, so everybody i including our grandmothers can use it,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.40
+---------------------------------
+target=IS1000d.A.argumentstructs.69
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.D.argumentstructs.Rutger.31:
+"He is used to it act"
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.39: "Okay."
+AE_ID IS1000d.A.argumentstructs.Rutger.40: "Ease of use ?"
+AE_ID IS1000d.D.argumentstructs.56: "Uh"
+AE_ID IS1000d.C.argumentstructs.Rutger.30: "So the first one is really standard, so everybody i including our grandmothers can use it,"
+AE_ID IS1000d.A.argumentstructs.69: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.C.argumentstructs.Rutger.30
+---------------------------------
+target=IS1000d.D.argumentstructs.Rutger.31
+source=IS1000d.C.argumentstructs.Rutger.30
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.Rutger.41:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.40: "Ease of use ?"
+AE_ID IS1000d.D.argumentstructs.56: "Uh"
+AE_ID IS1000d.C.argumentstructs.Rutger.30: "So the first one is really standard, so everybody i including our grandmothers can use it,"
+AE_ID IS1000d.A.argumentstructs.69: "Mm."
+AE_ID IS1000d.D.argumentstructs.Rutger.31: "He is used to it act"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.40
+---------------------------------
+target=IS1000d.A.argumentstructs.Rutger.41
+source=IS1000d.C.argumentstructs.Rutger.30
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.B.argumentstructs.46:
+"Mm. Hmm."
+
+Past dialogue turns:
+AE_ID IS1000d.D.argumentstructs.56: "Uh"
+AE_ID IS1000d.C.argumentstructs.Rutger.30: "So the first one is really standard, so everybody i including our grandmothers can use it,"
+AE_ID IS1000d.A.argumentstructs.69: "Mm."
+AE_ID IS1000d.D.argumentstructs.Rutger.31: "He is used to it act"
+AE_ID IS1000d.A.argumentstructs.Rutger.41: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.69
+---------------------------------
+target=IS1000d.B.argumentstructs.46
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.C.argumentstructs.Rutger.31:
+"right ?"
+
+Past dialogue turns:
+AE_ID IS1000d.C.argumentstructs.Rutger.30: "So the first one is really standard, so everybody i including our grandmothers can use it,"
+AE_ID IS1000d.A.argumentstructs.69: "Mm."
+AE_ID IS1000d.D.argumentstructs.Rutger.31: "He is used to it act"
+AE_ID IS1000d.A.argumentstructs.Rutger.41: "Yeah."
+AE_ID IS1000d.B.argumentstructs.46: "Mm. Hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.C.argumentstructs.Rutger.30
+---------------------------------
+target=IS1000d.C.argumentstructs.Rutger.31
+source=IS1000d.C.argumentstructs.Rutger.30
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.D.argumentstructs.Rutger.32:
+"They are used to it actually."
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.69: "Mm."
+AE_ID IS1000d.D.argumentstructs.Rutger.31: "He is used to it act"
+AE_ID IS1000d.A.argumentstructs.Rutger.41: "Yeah."
+AE_ID IS1000d.B.argumentstructs.46: "Mm. Hmm."
+AE_ID IS1000d.C.argumentstructs.Rutger.31: "right ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.D.argumentstructs.Rutger.31
+---------------------------------
+target=IS1000d.D.argumentstructs.Rutger.32
+source=IS1000d.C.argumentstructs.Rutger.30
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.Rutger.42:
+"Yep. So that's maybe a a two for ease of use."
+
+Past dialogue turns:
+AE_ID IS1000d.D.argumentstructs.Rutger.31: "He is used to it act"
+AE_ID IS1000d.A.argumentstructs.Rutger.41: "Yeah."
+AE_ID IS1000d.B.argumentstructs.46: "Mm. Hmm."
+AE_ID IS1000d.C.argumentstructs.Rutger.31: "right ?"
+AE_ID IS1000d.D.argumentstructs.Rutger.32: "They are used to it actually."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.41
+---------------------------------
+target=IS1000d.A.argumentstructs.Rutger.42
+source=IS1000d.C.argumentstructs.Rutger.30
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.C.argumentstructs.Rutger.32:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.41: "Yeah."
+AE_ID IS1000d.B.argumentstructs.46: "Mm. Hmm."
+AE_ID IS1000d.C.argumentstructs.Rutger.31: "right ?"
+AE_ID IS1000d.D.argumentstructs.Rutger.32: "They are used to it actually."
+AE_ID IS1000d.A.argumentstructs.Rutger.42: "Yep. So that's maybe a a two for ease of use."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.41
+---------------------------------
+target=IS1000d.C.argumentstructs.Rutger.32
+source=IS1000d.A.argumentstructs.Rutger.42
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.D.argumentstructs.57:
+"Here there may"
+
+Past dialogue turns:
+AE_ID IS1000d.B.argumentstructs.46: "Mm. Hmm."
+AE_ID IS1000d.C.argumentstructs.Rutger.31: "right ?"
+AE_ID IS1000d.D.argumentstructs.Rutger.32: "They are used to it actually."
+AE_ID IS1000d.A.argumentstructs.Rutger.42: "Yep. So that's maybe a a two for ease of use."
+AE_ID IS1000d.C.argumentstructs.Rutger.32: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.D.argumentstructs.Rutger.32
+---------------------------------
+target=IS1000d.D.argumentstructs.57
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.C.argumentstructs.Rutger.33:
+"Um, the other one is quite easy, tho though."
+
+Past dialogue turns:
+AE_ID IS1000d.C.argumentstructs.Rutger.31: "right ?"
+AE_ID IS1000d.D.argumentstructs.Rutger.32: "They are used to it actually."
+AE_ID IS1000d.A.argumentstructs.Rutger.42: "Yep. So that's maybe a a two for ease of use."
+AE_ID IS1000d.C.argumentstructs.Rutger.32: "Yeah."
+AE_ID IS1000d.D.argumentstructs.57: "Here there may"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.42
+---------------------------------
+target=IS1000d.C.argumentstructs.Rutger.33
+source=IS1000d.A.argumentstructs.Rutger.40
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.D.argumentstructs.Rutger.33:
+"Uh, though it has more functionality"
+
+Past dialogue turns:
+AE_ID IS1000d.D.argumentstructs.Rutger.32: "They are used to it actually."
+AE_ID IS1000d.A.argumentstructs.Rutger.42: "Yep. So that's maybe a a two for ease of use."
+AE_ID IS1000d.C.argumentstructs.Rutger.32: "Yeah."
+AE_ID IS1000d.D.argumentstructs.57: "Here there may"
+AE_ID IS1000d.C.argumentstructs.Rutger.33: "Um, the other one is quite easy, tho though."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.C.argumentstructs.Rutger.33
+---------------------------------
+target=IS1000d.D.argumentstructs.Rutger.33
+source=IS1000d.C.argumentstructs.Rutger.33
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.D.argumentstructs.Rutger.34:
+"I think it shouldn't be for the user to learn it actually. It shouldn't be diffi"
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.42: "Yep. So that's maybe a a two for ease of use."
+AE_ID IS1000d.C.argumentstructs.Rutger.32: "Yeah."
+AE_ID IS1000d.D.argumentstructs.57: "Here there may"
+AE_ID IS1000d.C.argumentstructs.Rutger.33: "Um, the other one is quite easy, tho though."
+AE_ID IS1000d.D.argumentstructs.Rutger.33: "Uh, though it has more functionality"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.42
+---------------------------------
+target=IS1000d.D.argumentstructs.Rutger.34
+source=IS1000d.C.argumentstructs.Rutger.33
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.Rutger.43:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1000d.C.argumentstructs.Rutger.32: "Yeah."
+AE_ID IS1000d.D.argumentstructs.57: "Here there may"
+AE_ID IS1000d.C.argumentstructs.Rutger.33: "Um, the other one is quite easy, tho though."
+AE_ID IS1000d.D.argumentstructs.Rutger.33: "Uh, though it has more functionality"
+AE_ID IS1000d.D.argumentstructs.Rutger.34: "I think it shouldn't be for the user to learn it actually. It shouldn't be diffi"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1000d.A.argumentstructs.Rutger.43
+source=IS1000d.C.argumentstructs.Rutger.33
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.Rutger.44:
+"So maybe a three or a four."
+
+Past dialogue turns:
+AE_ID IS1000d.D.argumentstructs.57: "Here there may"
+AE_ID IS1000d.C.argumentstructs.Rutger.33: "Um, the other one is quite easy, tho though."
+AE_ID IS1000d.D.argumentstructs.Rutger.33: "Uh, though it has more functionality"
+AE_ID IS1000d.D.argumentstructs.Rutger.34: "I think it shouldn't be for the user to learn it actually. It shouldn't be diffi"
+AE_ID IS1000d.A.argumentstructs.Rutger.43: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.43
+---------------------------------
+target=IS1000d.A.argumentstructs.Rutger.44
+source=IS1000d.C.argumentstructs.Rutger.33
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.D.argumentstructs.Rutger.35:
+"Uh yeah, actually in fact I think it will be  Yeah"
+
+Past dialogue turns:
+AE_ID IS1000d.C.argumentstructs.Rutger.33: "Um, the other one is quite easy, tho though."
+AE_ID IS1000d.D.argumentstructs.Rutger.33: "Uh, though it has more functionality"
+AE_ID IS1000d.D.argumentstructs.Rutger.34: "I think it shouldn't be for the user to learn it actually. It shouldn't be diffi"
+AE_ID IS1000d.A.argumentstructs.Rutger.43: "Okay."
+AE_ID IS1000d.A.argumentstructs.Rutger.44: "So maybe a three or a four."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.D.argumentstructs.Rutger.34
+---------------------------------
+target=IS1000d.D.argumentstructs.Rutger.35
+source=IS1000d.A.argumentstructs.Rutger.44
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.C.argumentstructs.Rutger.34:
+"One me um we hope  maybe sometimes people get uh scared with the number of buttons."
+
+Past dialogue turns:
+AE_ID IS1000d.D.argumentstructs.Rutger.33: "Uh, though it has more functionality"
+AE_ID IS1000d.D.argumentstructs.Rutger.34: "I think it shouldn't be for the user to learn it actually. It shouldn't be diffi"
+AE_ID IS1000d.A.argumentstructs.Rutger.43: "Okay."
+AE_ID IS1000d.A.argumentstructs.Rutger.44: "So maybe a three or a four."
+AE_ID IS1000d.D.argumentstructs.Rutger.35: "Uh yeah, actually in fact I think it will be  Yeah"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.D.argumentstructs.Rutger.34
+---------------------------------
+target=IS1000d.C.argumentstructs.Rutger.34
+source=IS1000d.A.argumentstructs.Rutger.44
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.70:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1000d.D.argumentstructs.Rutger.34: "I think it shouldn't be for the user to learn it actually. It shouldn't be diffi"
+AE_ID IS1000d.A.argumentstructs.Rutger.43: "Okay."
+AE_ID IS1000d.A.argumentstructs.Rutger.44: "So maybe a three or a four."
+AE_ID IS1000d.D.argumentstructs.Rutger.35: "Uh yeah, actually in fact I think it will be  Yeah"
+AE_ID IS1000d.C.argumentstructs.Rutger.34: "One me um we hope  maybe sometimes people get uh scared with the number of buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.D.argumentstructs.Rutger.34
+---------------------------------
+target=IS1000d.A.argumentstructs.70
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.D.argumentstructs.Rutger.36:
+"Yeah but  y"
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.43: "Okay."
+AE_ID IS1000d.A.argumentstructs.Rutger.44: "So maybe a three or a four."
+AE_ID IS1000d.D.argumentstructs.Rutger.35: "Uh yeah, actually in fact I think it will be  Yeah"
+AE_ID IS1000d.C.argumentstructs.Rutger.34: "One me um we hope  maybe sometimes people get uh scared with the number of buttons."
+AE_ID IS1000d.A.argumentstructs.70: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.D.argumentstructs.Rutger.35
+---------------------------------
+target=IS1000d.D.argumentstructs.Rutger.36
+source=IS1000d.C.argumentstructs.Rutger.34
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.C.argumentstructs.Rutger.35:
+"And there is a  like I would say three. Or maybe four"
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.44: "So maybe a three or a four."
+AE_ID IS1000d.D.argumentstructs.Rutger.35: "Uh yeah, actually in fact I think it will be  Yeah"
+AE_ID IS1000d.C.argumentstructs.Rutger.34: "One me um we hope  maybe sometimes people get uh scared with the number of buttons."
+AE_ID IS1000d.A.argumentstructs.70: "Mm."
+AE_ID IS1000d.D.argumentstructs.Rutger.36: "Yeah but  y"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.44
+---------------------------------
+target=IS1000d.C.argumentstructs.Rutger.35
+source=IS1000d.A.argumentstructs.Rutger.44
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.Rutger.45:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1000d.D.argumentstructs.Rutger.35: "Uh yeah, actually in fact I think it will be  Yeah"
+AE_ID IS1000d.C.argumentstructs.Rutger.34: "One me um we hope  maybe sometimes people get uh scared with the number of buttons."
+AE_ID IS1000d.A.argumentstructs.70: "Mm."
+AE_ID IS1000d.D.argumentstructs.Rutger.36: "Yeah but  y"
+AE_ID IS1000d.C.argumentstructs.Rutger.35: "And there is a  like I would say three. Or maybe four"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.D.argumentstructs.Rutger.35
+---------------------------------
+target=IS1000d.A.argumentstructs.Rutger.45
+source=IS1000d.C.argumentstructs.Rutger.35
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.C.argumentstructs.56:
+"."
+
+Past dialogue turns:
+AE_ID IS1000d.C.argumentstructs.Rutger.34: "One me um we hope  maybe sometimes people get uh scared with the number of buttons."
+AE_ID IS1000d.A.argumentstructs.70: "Mm."
+AE_ID IS1000d.D.argumentstructs.Rutger.36: "Yeah but  y"
+AE_ID IS1000d.C.argumentstructs.Rutger.35: "And there is a  like I would say three. Or maybe four"
+AE_ID IS1000d.A.argumentstructs.Rutger.45: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.C.argumentstructs.Rutger.35
+---------------------------------
+target=IS1000d.C.argumentstructs.56
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.D.argumentstructs.Rutger.39:
+"Well we have reduced the keys actually you see. Three is fine with me."
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.70: "Mm."
+AE_ID IS1000d.D.argumentstructs.Rutger.36: "Yeah but  y"
+AE_ID IS1000d.C.argumentstructs.Rutger.35: "And there is a  like I would say three. Or maybe four"
+AE_ID IS1000d.A.argumentstructs.Rutger.45: "Okay."
+AE_ID IS1000d.C.argumentstructs.56: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.C.argumentstructs.Rutger.35
+---------------------------------
+target=IS1000d.D.argumentstructs.Rutger.39
+source=IS1000d.A.argumentstructs.Rutger.44
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.Rutger.46:
+"Consensus ? Three or four ?"
+
+Past dialogue turns:
+AE_ID IS1000d.D.argumentstructs.Rutger.36: "Yeah but  y"
+AE_ID IS1000d.C.argumentstructs.Rutger.35: "And there is a  like I would say three. Or maybe four"
+AE_ID IS1000d.A.argumentstructs.Rutger.45: "Okay."
+AE_ID IS1000d.C.argumentstructs.56: "."
+AE_ID IS1000d.D.argumentstructs.Rutger.39: "Well we have reduced the keys actually you see. Three is fine with me."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.C.argumentstructs.Rutger.35
+---------------------------------
+target=IS1000d.A.argumentstructs.Rutger.46
+source=IS1000d.A.argumentstructs.Rutger.44
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.B.argumentstructs.Rutger.21:
+"Three, I would. Three."
+
+Past dialogue turns:
+AE_ID IS1000d.C.argumentstructs.Rutger.35: "And there is a  like I would say three. Or maybe four"
+AE_ID IS1000d.A.argumentstructs.Rutger.45: "Okay."
+AE_ID IS1000d.C.argumentstructs.56: "."
+AE_ID IS1000d.D.argumentstructs.Rutger.39: "Well we have reduced the keys actually you see. Three is fine with me."
+AE_ID IS1000d.A.argumentstructs.Rutger.46: "Consensus ? Three or four ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.D.argumentstructs.Rutger.39
+---------------------------------
+target=IS1000d.B.argumentstructs.Rutger.21
+source=IS1000d.A.argumentstructs.Rutger.46
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.C.argumentstructs.Rutger.36:
+"Yeah, yeah because it's n uh it's not like a big one with uh one hundred buttons or so,"
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.45: "Okay."
+AE_ID IS1000d.C.argumentstructs.56: "."
+AE_ID IS1000d.D.argumentstructs.Rutger.39: "Well we have reduced the keys actually you see. Three is fine with me."
+AE_ID IS1000d.A.argumentstructs.Rutger.46: "Consensus ? Three or four ?"
+AE_ID IS1000d.B.argumentstructs.Rutger.21: "Three, I would. Three."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.D.argumentstructs.Rutger.39
+---------------------------------
+target=IS1000d.C.argumentstructs.Rutger.36
+source=IS1000d.B.argumentstructs.Rutger.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.Rutger.47:
+"Three ? Okay."
+
+Past dialogue turns:
+AE_ID IS1000d.C.argumentstructs.56: "."
+AE_ID IS1000d.D.argumentstructs.Rutger.39: "Well we have reduced the keys actually you see. Three is fine with me."
+AE_ID IS1000d.A.argumentstructs.Rutger.46: "Consensus ? Three or four ?"
+AE_ID IS1000d.B.argumentstructs.Rutger.21: "Three, I would. Three."
+AE_ID IS1000d.C.argumentstructs.Rutger.36: "Yeah, yeah because it's n uh it's not like a big one with uh one hundred buttons or so,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.D.argumentstructs.Rutger.39
+---------------------------------
+target=IS1000d.A.argumentstructs.Rutger.47
+source=IS1000d.B.argumentstructs.Rutger.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.D.argumentstructs.Rutger.40:
+"Yeah it's a  actually the user has to put some effort to do  use that actually, it's not so easy, like this one the normal."
+
+Past dialogue turns:
+AE_ID IS1000d.D.argumentstructs.Rutger.39: "Well we have reduced the keys actually you see. Three is fine with me."
+AE_ID IS1000d.A.argumentstructs.Rutger.46: "Consensus ? Three or four ?"
+AE_ID IS1000d.B.argumentstructs.Rutger.21: "Three, I would. Three."
+AE_ID IS1000d.C.argumentstructs.Rutger.36: "Yeah, yeah because it's n uh it's not like a big one with uh one hundred buttons or so,"
+AE_ID IS1000d.A.argumentstructs.Rutger.47: "Three ? Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.C.argumentstructs.Rutger.36
+---------------------------------
+target=IS1000d.D.argumentstructs.Rutger.40
+source=IS1000d.B.argumentstructs.Rutger.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.B.argumentstructs.47:
+"No. Yeah."
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.46: "Consensus ? Three or four ?"
+AE_ID IS1000d.B.argumentstructs.Rutger.21: "Three, I would. Three."
+AE_ID IS1000d.C.argumentstructs.Rutger.36: "Yeah, yeah because it's n uh it's not like a big one with uh one hundred buttons or so,"
+AE_ID IS1000d.A.argumentstructs.Rutger.47: "Three ? Okay."
+AE_ID IS1000d.D.argumentstructs.Rutger.40: "Yeah it's a  actually the user has to put some effort to do  use that actually, it's not so easy, like this one the normal."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.47
+---------------------------------
+target=IS1000d.B.argumentstructs.47
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.71:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID IS1000d.B.argumentstructs.Rutger.21: "Three, I would. Three."
+AE_ID IS1000d.C.argumentstructs.Rutger.36: "Yeah, yeah because it's n uh it's not like a big one with uh one hundred buttons or so,"
+AE_ID IS1000d.A.argumentstructs.Rutger.47: "Three ? Okay."
+AE_ID IS1000d.D.argumentstructs.Rutger.40: "Yeah it's a  actually the user has to put some effort to do  use that actually, it's not so easy, like this one the normal."
+AE_ID IS1000d.B.argumentstructs.47: "No. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.47
+---------------------------------
+target=IS1000d.A.argumentstructs.71
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.B.argumentstructs.Rutger.22:
+"Yes but then when when he is used to it, i i it is quite easy."
+
+Past dialogue turns:
+AE_ID IS1000d.C.argumentstructs.Rutger.36: "Yeah, yeah because it's n uh it's not like a big one with uh one hundred buttons or so,"
+AE_ID IS1000d.A.argumentstructs.Rutger.47: "Three ? Okay."
+AE_ID IS1000d.D.argumentstructs.Rutger.40: "Yeah it's a  actually the user has to put some effort to do  use that actually, it's not so easy, like this one the normal."
+AE_ID IS1000d.B.argumentstructs.47: "No. Yeah."
+AE_ID IS1000d.A.argumentstructs.71: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.D.argumentstructs.Rutger.40
+---------------------------------
+target=IS1000d.B.argumentstructs.Rutger.22
+source=IS1000d.D.argumentstructs.Rutger.40
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.D.argumentstructs.Rutger.41:
+"Is quite easy yeah. Initially there there is a lot of effort, yeah."
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.Rutger.47: "Three ? Okay."
+AE_ID IS1000d.D.argumentstructs.Rutger.40: "Yeah it's a  actually the user has to put some effort to do  use that actually, it's not so easy, like this one the normal."
+AE_ID IS1000d.B.argumentstructs.47: "No. Yeah."
+AE_ID IS1000d.A.argumentstructs.71: "Mm-hmm."
+AE_ID IS1000d.B.argumentstructs.Rutger.22: "Yes but then when when he is used to it, i i it is quite easy."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.B.argumentstructs.Rutger.22
+---------------------------------
+target=IS1000d.D.argumentstructs.Rutger.41
+source=IS1000d.B.argumentstructs.Rutger.22
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.B.argumentstructs.Rutger.23:
+"So so I think th three is good. Yeah."
+
+Past dialogue turns:
+AE_ID IS1000d.D.argumentstructs.Rutger.40: "Yeah it's a  actually the user has to put some effort to do  use that actually, it's not so easy, like this one the normal."
+AE_ID IS1000d.B.argumentstructs.47: "No. Yeah."
+AE_ID IS1000d.A.argumentstructs.71: "Mm-hmm."
+AE_ID IS1000d.B.argumentstructs.Rutger.22: "Yes but then when when he is used to it, i i it is quite easy."
+AE_ID IS1000d.D.argumentstructs.Rutger.41: "Is quite easy yeah. Initially there there is a lot of effort, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.B.argumentstructs.Rutger.22
+---------------------------------
+target=IS1000d.B.argumentstructs.Rutger.23
+source=IS1000d.B.argumentstructs.Rutger.21
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.A.argumentstructs.Rutger.48:
+"Okay."
+
+Past dialogue turns:
+AE_ID IS1000d.B.argumentstructs.47: "No. Yeah."
+AE_ID IS1000d.A.argumentstructs.71: "Mm-hmm."
+AE_ID IS1000d.B.argumentstructs.Rutger.22: "Yes but then when when he is used to it, i i it is quite easy."
+AE_ID IS1000d.D.argumentstructs.Rutger.41: "Is quite easy yeah. Initially there there is a lot of effort, yeah."
+AE_ID IS1000d.B.argumentstructs.Rutger.23: "So so I think th three is good. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.B.argumentstructs.47
+---------------------------------
+target=IS1000d.A.argumentstructs.Rutger.48
+source=IS1000d.B.argumentstructs.Rutger.23
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1000d.B.argumentstructs.48:
+"Good. What's the next ?"
+
+Past dialogue turns:
+AE_ID IS1000d.A.argumentstructs.71: "Mm-hmm."
+AE_ID IS1000d.B.argumentstructs.Rutger.22: "Yes but then when when he is used to it, i i it is quite easy."
+AE_ID IS1000d.D.argumentstructs.Rutger.41: "Is quite easy yeah. Initially there there is a lot of effort, yeah."
+AE_ID IS1000d.B.argumentstructs.Rutger.23: "So so I think th three is good. Yeah."
+AE_ID IS1000d.A.argumentstructs.Rutger.48: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1000d.A.argumentstructs.Rutger.48
+---------------------------------
+target=IS1000d.B.argumentstructs.48
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1000d-Ease of use.csv - True Judgement Ratio: 21.05%

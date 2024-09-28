@@ -1,0 +1,562 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.A.argumentstructs.20:
+"You mentioned um older people ? Would it just be universal for everyone, you think ? Because I think even if something has large buttons, as long as they are not childishly large, like even technically"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.19
+---------------------------------
+target=ES2010b.A.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.C.argumentstructs.14:
+"Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.20: "You mentioned um older people ? Would it just be universal for everyone, you think ? Because I think even if something has large buttons, as long as they are not childishly large, like even technically"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.20
+---------------------------------
+target=ES2010b.C.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.C.argumentstructs.Erik.2:
+"It's gonna make it nicer."
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.20: "You mentioned um older people ? Would it just be universal for everyone, you think ? Because I think even if something has large buttons, as long as they are not childishly large, like even technically"
+AE_ID ES2010b.C.argumentstructs.14: "Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.20
+---------------------------------
+target=ES2010b.C.argumentstructs.Erik.2
+source=ES2010b.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.C.argumentstructs.15:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.20: "You mentioned um older people ? Would it just be universal for everyone, you think ? Because I think even if something has large buttons, as long as they are not childishly large, like even technically"
+AE_ID ES2010b.C.argumentstructs.14: "Mm-hmm."
+AE_ID ES2010b.C.argumentstructs.Erik.2: "It's gonna make it nicer."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.20
+---------------------------------
+target=ES2010b.C.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.A.argumentstructs.Erik.2:
+"non-technically challenged people are gonna use it. I mean they want something user-friendly, so"
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.20: "You mentioned um older people ? Would it just be universal for everyone, you think ? Because I think even if something has large buttons, as long as they are not childishly large, like even technically"
+AE_ID ES2010b.C.argumentstructs.14: "Mm-hmm."
+AE_ID ES2010b.C.argumentstructs.Erik.2: "It's gonna make it nicer."
+AE_ID ES2010b.C.argumentstructs.15: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.20
+---------------------------------
+target=ES2010b.A.argumentstructs.Erik.2
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.B.argumentstructs.Erik.1:
+"Mm well, even if we kept the regular standard size of remote, if we reduced the buttons down to the ones that people are saying that they use the most often and a couple extra, 'cause they're saying they only use ten per cent of them, then we should be able to accommodate fairly decent sized buttons."
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.20: "You mentioned um older people ? Would it just be universal for everyone, you think ? Because I think even if something has large buttons, as long as they are not childishly large, like even technically"
+AE_ID ES2010b.C.argumentstructs.14: "Mm-hmm."
+AE_ID ES2010b.C.argumentstructs.Erik.2: "It's gonna make it nicer."
+AE_ID ES2010b.C.argumentstructs.15: "Yeah."
+AE_ID ES2010b.A.argumentstructs.Erik.2: "non-technically challenged people are gonna use it. I mean they want something user-friendly, so"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.20
+---------------------------------
+target=ES2010b.B.argumentstructs.Erik.1
+source=ES2010b.A.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.A.argumentstructs.Erik.3:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010b.C.argumentstructs.14: "Mm-hmm."
+AE_ID ES2010b.C.argumentstructs.Erik.2: "It's gonna make it nicer."
+AE_ID ES2010b.C.argumentstructs.15: "Yeah."
+AE_ID ES2010b.A.argumentstructs.Erik.2: "non-technically challenged people are gonna use it. I mean they want something user-friendly, so"
+AE_ID ES2010b.B.argumentstructs.Erik.1: "Mm well, even if we kept the regular standard size of remote, if we reduced the buttons down to the ones that people are saying that they use the most often and a couple extra, 'cause they're saying they only use ten per cent of them, then we should be able to accommodate fairly decent sized buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.C.argumentstructs.15
+---------------------------------
+target=ES2010b.A.argumentstructs.Erik.3
+source=ES2010b.B.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.A.argumentstructs.21:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010b.C.argumentstructs.Erik.2: "It's gonna make it nicer."
+AE_ID ES2010b.C.argumentstructs.15: "Yeah."
+AE_ID ES2010b.A.argumentstructs.Erik.2: "non-technically challenged people are gonna use it. I mean they want something user-friendly, so"
+AE_ID ES2010b.B.argumentstructs.Erik.1: "Mm well, even if we kept the regular standard size of remote, if we reduced the buttons down to the ones that people are saying that they use the most often and a couple extra, 'cause they're saying they only use ten per cent of them, then we should be able to accommodate fairly decent sized buttons."
+AE_ID ES2010b.A.argumentstructs.Erik.3: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.Erik.3
+---------------------------------
+target=ES2010b.A.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.A.argumentstructs.Erik.4:
+"Okay, so we want um for our target group would we say, I mean, young and old, all age ranges, all um, not kids obviously, right ?"
+
+Past dialogue turns:
+AE_ID ES2010b.C.argumentstructs.15: "Yeah."
+AE_ID ES2010b.A.argumentstructs.Erik.2: "non-technically challenged people are gonna use it. I mean they want something user-friendly, so"
+AE_ID ES2010b.B.argumentstructs.Erik.1: "Mm well, even if we kept the regular standard size of remote, if we reduced the buttons down to the ones that people are saying that they use the most often and a couple extra, 'cause they're saying they only use ten per cent of them, then we should be able to accommodate fairly decent sized buttons."
+AE_ID ES2010b.A.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2010b.A.argumentstructs.21: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.Erik.2
+---------------------------------
+target=ES2010b.A.argumentstructs.Erik.4
+source=ES2010b.A.argumentstructs.Erik.2
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.A.argumentstructs.Erik.5:
+"Or kids ?"
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.Erik.2: "non-technically challenged people are gonna use it. I mean they want something user-friendly, so"
+AE_ID ES2010b.B.argumentstructs.Erik.1: "Mm well, even if we kept the regular standard size of remote, if we reduced the buttons down to the ones that people are saying that they use the most often and a couple extra, 'cause they're saying they only use ten per cent of them, then we should be able to accommodate fairly decent sized buttons."
+AE_ID ES2010b.A.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2010b.A.argumentstructs.21: "Yeah."
+AE_ID ES2010b.A.argumentstructs.Erik.4: "Okay, so we want um for our target group would we say, I mean, young and old, all age ranges, all um, not kids obviously, right ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2010b.A.argumentstructs.Erik.5
+source=ES2010b.A.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.D.argumentstructs.Erik.1:
+"No, kids need to know how to use a remote, I would think. They gotta change between Disney Channel, Cartoon Network."
+
+Past dialogue turns:
+AE_ID ES2010b.B.argumentstructs.Erik.1: "Mm well, even if we kept the regular standard size of remote, if we reduced the buttons down to the ones that people are saying that they use the most often and a couple extra, 'cause they're saying they only use ten per cent of them, then we should be able to accommodate fairly decent sized buttons."
+AE_ID ES2010b.A.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2010b.A.argumentstructs.21: "Yeah."
+AE_ID ES2010b.A.argumentstructs.Erik.4: "Okay, so we want um for our target group would we say, I mean, young and old, all age ranges, all um, not kids obviously, right ?"
+AE_ID ES2010b.A.argumentstructs.Erik.5: "Or kids ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.Erik.5
+---------------------------------
+target=ES2010b.D.argumentstructs.Erik.1
+source=ES2010b.A.argumentstructs.Erik.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.B.argumentstructs.Erik.2:
+"Most of them will intuitively pick it up though."
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.Erik.3: "Yeah."
+AE_ID ES2010b.A.argumentstructs.21: "Yeah."
+AE_ID ES2010b.A.argumentstructs.Erik.4: "Okay, so we want um for our target group would we say, I mean, young and old, all age ranges, all um, not kids obviously, right ?"
+AE_ID ES2010b.A.argumentstructs.Erik.5: "Or kids ?"
+AE_ID ES2010b.D.argumentstructs.Erik.1: "No, kids need to know how to use a remote, I would think. They gotta change between Disney Channel, Cartoon Network."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2010b.B.argumentstructs.Erik.2
+source=ES2010b.D.argumentstructs.Erik.1
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.D.argumentstructs.Erik.2:
+"Yeah, I think we need it all."
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.21: "Yeah."
+AE_ID ES2010b.A.argumentstructs.Erik.4: "Okay, so we want um for our target group would we say, I mean, young and old, all age ranges, all um, not kids obviously, right ?"
+AE_ID ES2010b.A.argumentstructs.Erik.5: "Or kids ?"
+AE_ID ES2010b.D.argumentstructs.Erik.1: "No, kids need to know how to use a remote, I would think. They gotta change between Disney Channel, Cartoon Network."
+AE_ID ES2010b.B.argumentstructs.Erik.2: "Most of them will intuitively pick it up though."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2010b.D.argumentstructs.Erik.2
+source=ES2010b.A.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.A.argumentstructs.22:
+"Um what about"
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.Erik.4: "Okay, so we want um for our target group would we say, I mean, young and old, all age ranges, all um, not kids obviously, right ?"
+AE_ID ES2010b.A.argumentstructs.Erik.5: "Or kids ?"
+AE_ID ES2010b.D.argumentstructs.Erik.1: "No, kids need to know how to use a remote, I would think. They gotta change between Disney Channel, Cartoon Network."
+AE_ID ES2010b.B.argumentstructs.Erik.2: "Most of them will intuitively pick it up though."
+AE_ID ES2010b.D.argumentstructs.Erik.2: "Yeah, I think we need it all."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2010b.A.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.A.argumentstructs.Erik.6:
+"technic technical um specifications, like how how technically literate are these people who are going to be using our remote ?"
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.Erik.5: "Or kids ?"
+AE_ID ES2010b.D.argumentstructs.Erik.1: "No, kids need to know how to use a remote, I would think. They gotta change between Disney Channel, Cartoon Network."
+AE_ID ES2010b.B.argumentstructs.Erik.2: "Most of them will intuitively pick it up though."
+AE_ID ES2010b.D.argumentstructs.Erik.2: "Yeah, I think we need it all."
+AE_ID ES2010b.A.argumentstructs.22: "Um what about"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.D.argumentstructs.Erik.1
+---------------------------------
+target=ES2010b.A.argumentstructs.Erik.6
+source=ES2010b.A.argumentstructs.Erik.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.D.argumentstructs.Erik.3:
+"Um I would say we should say dumber than the average person."
+
+Past dialogue turns:
+AE_ID ES2010b.D.argumentstructs.Erik.1: "No, kids need to know how to use a remote, I would think. They gotta change between Disney Channel, Cartoon Network."
+AE_ID ES2010b.B.argumentstructs.Erik.2: "Most of them will intuitively pick it up though."
+AE_ID ES2010b.D.argumentstructs.Erik.2: "Yeah, I think we need it all."
+AE_ID ES2010b.A.argumentstructs.22: "Um what about"
+AE_ID ES2010b.A.argumentstructs.Erik.6: "technic technical um specifications, like how how technically literate are these people who are going to be using our remote ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.B.argumentstructs.Erik.2
+---------------------------------
+target=ES2010b.D.argumentstructs.Erik.3
+source=ES2010b.A.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.C.argumentstructs.Erik.3:
+"We should go for the lowest denominator."
+
+Past dialogue turns:
+AE_ID ES2010b.B.argumentstructs.Erik.2: "Most of them will intuitively pick it up though."
+AE_ID ES2010b.D.argumentstructs.Erik.2: "Yeah, I think we need it all."
+AE_ID ES2010b.A.argumentstructs.22: "Um what about"
+AE_ID ES2010b.A.argumentstructs.Erik.6: "technic technical um specifications, like how how technically literate are these people who are going to be using our remote ?"
+AE_ID ES2010b.D.argumentstructs.Erik.3: "Um I would say we should say dumber than the average person."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2010b.C.argumentstructs.Erik.3
+source=ES2010b.A.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.A.argumentstructs.Erik.7:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2010b.D.argumentstructs.Erik.2: "Yeah, I think we need it all."
+AE_ID ES2010b.A.argumentstructs.22: "Um what about"
+AE_ID ES2010b.A.argumentstructs.Erik.6: "technic technical um specifications, like how how technically literate are these people who are going to be using our remote ?"
+AE_ID ES2010b.D.argumentstructs.Erik.3: "Um I would say we should say dumber than the average person."
+AE_ID ES2010b.C.argumentstructs.Erik.3: "We should go for the lowest denominator."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2010b.A.argumentstructs.Erik.7
+source=ES2010b.C.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.D.argumentstructs.Erik.4:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.22: "Um what about"
+AE_ID ES2010b.A.argumentstructs.Erik.6: "technic technical um specifications, like how how technically literate are these people who are going to be using our remote ?"
+AE_ID ES2010b.D.argumentstructs.Erik.3: "Um I would say we should say dumber than the average person."
+AE_ID ES2010b.C.argumentstructs.Erik.3: "We should go for the lowest denominator."
+AE_ID ES2010b.A.argumentstructs.Erik.7: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.D.argumentstructs.Erik.3
+---------------------------------
+target=ES2010b.D.argumentstructs.Erik.4
+source=ES2010b.C.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.A.argumentstructs.23:
+"Right, okay."
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.Erik.6: "technic technical um specifications, like how how technically literate are these people who are going to be using our remote ?"
+AE_ID ES2010b.D.argumentstructs.Erik.3: "Um I would say we should say dumber than the average person."
+AE_ID ES2010b.C.argumentstructs.Erik.3: "We should go for the lowest denominator."
+AE_ID ES2010b.A.argumentstructs.Erik.7: "Okay."
+AE_ID ES2010b.D.argumentstructs.Erik.4: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2010b.A.argumentstructs.23
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.C.argumentstructs.Erik.4:
+"High school educated."
+
+Past dialogue turns:
+AE_ID ES2010b.D.argumentstructs.Erik.3: "Um I would say we should say dumber than the average person."
+AE_ID ES2010b.C.argumentstructs.Erik.3: "We should go for the lowest denominator."
+AE_ID ES2010b.A.argumentstructs.Erik.7: "Okay."
+AE_ID ES2010b.D.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2010b.A.argumentstructs.23: "Right, okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.C.argumentstructs.Erik.3
+---------------------------------
+target=ES2010b.C.argumentstructs.Erik.4
+source=ES2010b.C.argumentstructs.Erik.3
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.A.argumentstructs.Erik.8:
+"So so they need no technical experience to operate"
+
+Past dialogue turns:
+AE_ID ES2010b.C.argumentstructs.Erik.3: "We should go for the lowest denominator."
+AE_ID ES2010b.A.argumentstructs.Erik.7: "Okay."
+AE_ID ES2010b.D.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2010b.A.argumentstructs.23: "Right, okay."
+AE_ID ES2010b.C.argumentstructs.Erik.4: "High school educated."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.C.argumentstructs.Erik.4
+---------------------------------
+target=ES2010b.A.argumentstructs.Erik.8
+source=ES2010b.C.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2010b.B.argumentstructs.Erik.3:
+"how 'bout little to no, because there is no way that you are gonna be able to make it no."
+
+Past dialogue turns:
+AE_ID ES2010b.A.argumentstructs.Erik.7: "Okay."
+AE_ID ES2010b.D.argumentstructs.Erik.4: "Yeah."
+AE_ID ES2010b.A.argumentstructs.23: "Right, okay."
+AE_ID ES2010b.C.argumentstructs.Erik.4: "High school educated."
+AE_ID ES2010b.A.argumentstructs.Erik.8: "So so they need no technical experience to operate"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2010b.A.argumentstructs.Erik.8
+---------------------------------
+target=ES2010b.B.argumentstructs.Erik.3
+source=ES2010b.A.argumentstructs.Erik.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2010b-ES2010b - Target group.csv - True Judgement Ratio: 26.09%

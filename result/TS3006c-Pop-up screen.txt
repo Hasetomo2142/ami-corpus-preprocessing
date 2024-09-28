@@ -1,0 +1,962 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.8:
+"How about we do a uh a pop-up screen, like the laptop. So that the only the simple functions will be visible at first. And then if you want"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.8
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.8:
+"If you can uh flip."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.8: "How about we do a uh a pop-up screen, like the laptop. So that the only the simple functions will be visible at first. And then if you want"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.8
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.8
+source=TS3006c.C.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.Daan.5:
+"Yeah ? That that you can press it and then it comes up ? Or"
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.8: "How about we do a uh a pop-up screen, like the laptop. So that the only the simple functions will be visible at first. And then if you want"
+AE_ID TS3006c.A.argumentstructs.Daan.8: "If you can uh flip."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.8
+---------------------------------
+target=TS3006c.D.argumentstructs.Daan.5
+source=TS3006c.A.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.9:
+"Uh so you have a the the side view."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.8: "How about we do a uh a pop-up screen, like the laptop. So that the only the simple functions will be visible at first. And then if you want"
+AE_ID TS3006c.A.argumentstructs.Daan.8: "If you can uh flip."
+AE_ID TS3006c.D.argumentstructs.Daan.5: "Yeah ? That that you can press it and then it comes up ? Or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.8
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.9
+source=TS3006c.C.argumentstructs.Daan.8
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.9:
+"Yeah. Something like that."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.8: "How about we do a uh a pop-up screen, like the laptop. So that the only the simple functions will be visible at first. And then if you want"
+AE_ID TS3006c.A.argumentstructs.Daan.8: "If you can uh flip."
+AE_ID TS3006c.D.argumentstructs.Daan.5: "Yeah ? That that you can press it and then it comes up ? Or"
+AE_ID TS3006c.A.argumentstructs.Daan.9: "Uh so you have a the the side view."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.8
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.9
+source=TS3006c.A.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.Daan.6:
+"But then the side view can be straight. If you have a pop-up screen. But I dunno if that's too expensive. I mean maybe it's too much"
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.8: "How about we do a uh a pop-up screen, like the laptop. So that the only the simple functions will be visible at first. And then if you want"
+AE_ID TS3006c.A.argumentstructs.Daan.8: "If you can uh flip."
+AE_ID TS3006c.D.argumentstructs.Daan.5: "Yeah ? That that you can press it and then it comes up ? Or"
+AE_ID TS3006c.A.argumentstructs.Daan.9: "Uh so you have a the the side view."
+AE_ID TS3006c.C.argumentstructs.Daan.9: "Yeah. Something like that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.8
+---------------------------------
+target=TS3006c.D.argumentstructs.Daan.6
+source=TS3006c.C.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.35:
+"."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.8: "If you can uh flip."
+AE_ID TS3006c.D.argumentstructs.Daan.5: "Yeah ? That that you can press it and then it comes up ? Or"
+AE_ID TS3006c.A.argumentstructs.Daan.9: "Uh so you have a the the side view."
+AE_ID TS3006c.C.argumentstructs.Daan.9: "Yeah. Something like that."
+AE_ID TS3006c.D.argumentstructs.Daan.6: "But then the side view can be straight. If you have a pop-up screen. But I dunno if that's too expensive. I mean maybe it's too much"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.6
+---------------------------------
+target=TS3006c.A.argumentstructs.35
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.28:
+"I would draw it like this."
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.Daan.5: "Yeah ? That that you can press it and then it comes up ? Or"
+AE_ID TS3006c.A.argumentstructs.Daan.9: "Uh so you have a the the side view."
+AE_ID TS3006c.C.argumentstructs.Daan.9: "Yeah. Something like that."
+AE_ID TS3006c.D.argumentstructs.Daan.6: "But then the side view can be straight. If you have a pop-up screen. But I dunno if that's too expensive. I mean maybe it's too much"
+AE_ID TS3006c.A.argumentstructs.35: "."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.6
+---------------------------------
+target=TS3006c.C.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.10:
+"Let's say this is the side view. That you have a a screen that will come up here, and can go down that way. If you know what I mean. So that it would come up like that."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.9: "Uh so you have a the the side view."
+AE_ID TS3006c.C.argumentstructs.Daan.9: "Yeah. Something like that."
+AE_ID TS3006c.D.argumentstructs.Daan.6: "But then the side view can be straight. If you have a pop-up screen. But I dunno if that's too expensive. I mean maybe it's too much"
+AE_ID TS3006c.A.argumentstructs.35: "."
+AE_ID TS3006c.C.argumentstructs.28: "I would draw it like this."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.9
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.10
+source=TS3006c.C.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.10:
+"Okay so the buttons are on top here, and you flip it over that way."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.9: "Yeah. Something like that."
+AE_ID TS3006c.D.argumentstructs.Daan.6: "But then the side view can be straight. If you have a pop-up screen. But I dunno if that's too expensive. I mean maybe it's too much"
+AE_ID TS3006c.A.argumentstructs.35: "."
+AE_ID TS3006c.C.argumentstructs.28: "I would draw it like this."
+AE_ID TS3006c.C.argumentstructs.Daan.10: "Let's say this is the side view. That you have a a screen that will come up here, and can go down that way. If you know what I mean. So that it would come up like that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.10
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.10
+source=TS3006c.C.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.11:
+"Yeah or  preferably even keep the simple buttons here, and then under the screen even you could put more more advanced buttons."
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.Daan.6: "But then the side view can be straight. If you have a pop-up screen. But I dunno if that's too expensive. I mean maybe it's too much"
+AE_ID TS3006c.A.argumentstructs.35: "."
+AE_ID TS3006c.C.argumentstructs.28: "I would draw it like this."
+AE_ID TS3006c.C.argumentstructs.Daan.10: "Let's say this is the side view. That you have a a screen that will come up here, and can go down that way. If you know what I mean. So that it would come up like that."
+AE_ID TS3006c.A.argumentstructs.Daan.10: "Okay so the buttons are on top here, and you flip it over that way."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.10
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.11
+source=TS3006c.A.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.36:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.35: "."
+AE_ID TS3006c.C.argumentstructs.28: "I would draw it like this."
+AE_ID TS3006c.C.argumentstructs.Daan.10: "Let's say this is the side view. That you have a a screen that will come up here, and can go down that way. If you know what I mean. So that it would come up like that."
+AE_ID TS3006c.A.argumentstructs.Daan.10: "Okay so the buttons are on top here, and you flip it over that way."
+AE_ID TS3006c.C.argumentstructs.Daan.11: "Yeah or  preferably even keep the simple buttons here, and then under the screen even you could put more more advanced buttons."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.11
+---------------------------------
+target=TS3006c.A.argumentstructs.36
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.11:
+"Oh yeah. Yeah yeah yeah yeah. Right. Yeah that's good idea."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.28: "I would draw it like this."
+AE_ID TS3006c.C.argumentstructs.Daan.10: "Let's say this is the side view. That you have a a screen that will come up here, and can go down that way. If you know what I mean. So that it would come up like that."
+AE_ID TS3006c.A.argumentstructs.Daan.10: "Okay so the buttons are on top here, and you flip it over that way."
+AE_ID TS3006c.C.argumentstructs.Daan.11: "Yeah or  preferably even keep the simple buttons here, and then under the screen even you could put more more advanced buttons."
+AE_ID TS3006c.A.argumentstructs.36: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.10
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.11
+source=TS3006c.C.argumentstructs.Daan.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.B.argumentstructs.18:
+"the the more advanced options were uh for the for the menu."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.10: "Let's say this is the side view. That you have a a screen that will come up here, and can go down that way. If you know what I mean. So that it would come up like that."
+AE_ID TS3006c.A.argumentstructs.Daan.10: "Okay so the buttons are on top here, and you flip it over that way."
+AE_ID TS3006c.C.argumentstructs.Daan.11: "Yeah or  preferably even keep the simple buttons here, and then under the screen even you could put more more advanced buttons."
+AE_ID TS3006c.A.argumentstructs.36: "Yeah."
+AE_ID TS3006c.A.argumentstructs.Daan.11: "Oh yeah. Yeah yeah yeah yeah. Right. Yeah that's good idea."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.11
+---------------------------------
+target=TS3006c.B.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.37:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.10: "Okay so the buttons are on top here, and you flip it over that way."
+AE_ID TS3006c.C.argumentstructs.Daan.11: "Yeah or  preferably even keep the simple buttons here, and then under the screen even you could put more more advanced buttons."
+AE_ID TS3006c.A.argumentstructs.36: "Yeah."
+AE_ID TS3006c.A.argumentstructs.Daan.11: "Oh yeah. Yeah yeah yeah yeah. Right. Yeah that's good idea."
+AE_ID TS3006c.B.argumentstructs.18: "the the more advanced options were uh for the for the menu."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.36
+---------------------------------
+target=TS3006c.A.argumentstructs.37
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.B.argumentstructs.Daan.4:
+"But you you want  okay. You just want to hide them all ? The  oh."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.11: "Yeah or  preferably even keep the simple buttons here, and then under the screen even you could put more more advanced buttons."
+AE_ID TS3006c.A.argumentstructs.36: "Yeah."
+AE_ID TS3006c.A.argumentstructs.Daan.11: "Oh yeah. Yeah yeah yeah yeah. Right. Yeah that's good idea."
+AE_ID TS3006c.B.argumentstructs.18: "the the more advanced options were uh for the for the menu."
+AE_ID TS3006c.A.argumentstructs.37: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.11
+---------------------------------
+target=TS3006c.B.argumentstructs.Daan.4
+source=TS3006c.C.argumentstructs.Daan.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.12:
+"No not all because you need most of them, the arrow buttons. But you can hide the okay and the back uh button. And the menu button also because when you flip it open  and you can maybe even drop the menu button because maybe if you flip it open it will auto activate amauto uh uh automatically."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.36: "Yeah."
+AE_ID TS3006c.A.argumentstructs.Daan.11: "Oh yeah. Yeah yeah yeah yeah. Right. Yeah that's good idea."
+AE_ID TS3006c.B.argumentstructs.18: "the the more advanced options were uh for the for the menu."
+AE_ID TS3006c.A.argumentstructs.37: "Yeah."
+AE_ID TS3006c.B.argumentstructs.Daan.4: "But you you want  okay. You just want to hide them all ? The  oh."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.11
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.12
+source=TS3006c.B.argumentstructs.Daan.4
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.29:
+"Yeah."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.11: "Oh yeah. Yeah yeah yeah yeah. Right. Yeah that's good idea."
+AE_ID TS3006c.B.argumentstructs.18: "the the more advanced options were uh for the for the menu."
+AE_ID TS3006c.A.argumentstructs.37: "Yeah."
+AE_ID TS3006c.B.argumentstructs.Daan.4: "But you you want  okay. You just want to hide them all ? The  oh."
+AE_ID TS3006c.A.argumentstructs.Daan.12: "No not all because you need most of them, the arrow buttons. But you can hide the okay and the back uh button. And the menu button also because when you flip it open  and you can maybe even drop the menu button because maybe if you flip it open it will auto activate amauto uh uh automatically."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.11
+---------------------------------
+target=TS3006c.D.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.29:
+"yeah."
+
+Past dialogue turns:
+AE_ID TS3006c.B.argumentstructs.18: "the the more advanced options were uh for the for the menu."
+AE_ID TS3006c.A.argumentstructs.37: "Yeah."
+AE_ID TS3006c.B.argumentstructs.Daan.4: "But you you want  okay. You just want to hide them all ? The  oh."
+AE_ID TS3006c.A.argumentstructs.Daan.12: "No not all because you need most of them, the arrow buttons. But you can hide the okay and the back uh button. And the menu button also because when you flip it open  and you can maybe even drop the menu button because maybe if you flip it open it will auto activate amauto uh uh automatically."
+AE_ID TS3006c.D.argumentstructs.29: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.37
+---------------------------------
+target=TS3006c.C.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.Daan.7:
+"So  okay b but you have t you need some button to flip this open."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.37: "Yeah."
+AE_ID TS3006c.B.argumentstructs.Daan.4: "But you you want  okay. You just want to hide them all ? The  oh."
+AE_ID TS3006c.A.argumentstructs.Daan.12: "No not all because you need most of them, the arrow buttons. But you can hide the okay and the back uh button. And the menu button also because when you flip it open  and you can maybe even drop the menu button because maybe if you flip it open it will auto activate amauto uh uh automatically."
+AE_ID TS3006c.D.argumentstructs.29: "Yeah."
+AE_ID TS3006c.C.argumentstructs.29: "yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.12
+---------------------------------
+target=TS3006c.D.argumentstructs.Daan.7
+source=TS3006c.A.argumentstructs.Daan.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.13:
+"Why ? You could just make it mechanical."
+
+Past dialogue turns:
+AE_ID TS3006c.B.argumentstructs.Daan.4: "But you you want  okay. You just want to hide them all ? The  oh."
+AE_ID TS3006c.A.argumentstructs.Daan.12: "No not all because you need most of them, the arrow buttons. But you can hide the okay and the back uh button. And the menu button also because when you flip it open  and you can maybe even drop the menu button because maybe if you flip it open it will auto activate amauto uh uh automatically."
+AE_ID TS3006c.D.argumentstructs.29: "Yeah."
+AE_ID TS3006c.C.argumentstructs.29: "yeah."
+AE_ID TS3006c.D.argumentstructs.Daan.7: "So  okay b but you have t you need some button to flip this open."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.12
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.13
+source=TS3006c.D.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.12:
+"True. True. But you can make a, yeah, you can make a trigger here. You know a simple uh  with a"
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.12: "No not all because you need most of them, the arrow buttons. But you can hide the okay and the back uh button. And the menu button also because when you flip it open  and you can maybe even drop the menu button because maybe if you flip it open it will auto activate amauto uh uh automatically."
+AE_ID TS3006c.D.argumentstructs.29: "Yeah."
+AE_ID TS3006c.C.argumentstructs.29: "yeah."
+AE_ID TS3006c.D.argumentstructs.Daan.7: "So  okay b but you have t you need some button to flip this open."
+AE_ID TS3006c.A.argumentstructs.Daan.13: "Why ? You could just make it mechanical."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.7
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.12
+source=TS3006c.A.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.Daan.8:
+"Yeah.  Yeah and it says menu and it flips open and then you have the buttons to control it, in combination with your"
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.29: "Yeah."
+AE_ID TS3006c.C.argumentstructs.29: "yeah."
+AE_ID TS3006c.D.argumentstructs.Daan.7: "So  okay b but you have t you need some button to flip this open."
+AE_ID TS3006c.A.argumentstructs.Daan.13: "Why ? You could just make it mechanical."
+AE_ID TS3006c.C.argumentstructs.Daan.12: "True. True. But you can make a, yeah, you can make a trigger here. You know a simple uh  with a"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.7
+---------------------------------
+target=TS3006c.D.argumentstructs.Daan.8
+source=TS3006c.C.argumentstructs.Daan.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.B.argumentstructs.19:
+"but it's it's not"
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.29: "yeah."
+AE_ID TS3006c.D.argumentstructs.Daan.7: "So  okay b but you have t you need some button to flip this open."
+AE_ID TS3006c.A.argumentstructs.Daan.13: "Why ? You could just make it mechanical."
+AE_ID TS3006c.C.argumentstructs.Daan.12: "True. True. But you can make a, yeah, you can make a trigger here. You know a simple uh  with a"
+AE_ID TS3006c.D.argumentstructs.Daan.8: "Yeah.  Yeah and it says menu and it flips open and then you have the buttons to control it, in combination with your"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.7
+---------------------------------
+target=TS3006c.B.argumentstructs.19
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.30:
+"Yeah. Exactly."
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.Daan.7: "So  okay b but you have t you need some button to flip this open."
+AE_ID TS3006c.A.argumentstructs.Daan.13: "Why ? You could just make it mechanical."
+AE_ID TS3006c.C.argumentstructs.Daan.12: "True. True. But you can make a, yeah, you can make a trigger here. You know a simple uh  with a"
+AE_ID TS3006c.D.argumentstructs.Daan.8: "Yeah.  Yeah and it says menu and it flips open and then you have the buttons to control it, in combination with your"
+AE_ID TS3006c.B.argumentstructs.19: "but it's it's not"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.8
+---------------------------------
+target=TS3006c.C.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.B.argumentstructs.Daan.5:
+"it's not very uh very strong uh  yeah if you drop it one time."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.13: "Why ? You could just make it mechanical."
+AE_ID TS3006c.C.argumentstructs.Daan.12: "True. True. But you can make a, yeah, you can make a trigger here. You know a simple uh  with a"
+AE_ID TS3006c.D.argumentstructs.Daan.8: "Yeah.  Yeah and it says menu and it flips open and then you have the buttons to control it, in combination with your"
+AE_ID TS3006c.B.argumentstructs.19: "but it's it's not"
+AE_ID TS3006c.C.argumentstructs.30: "Yeah. Exactly."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.B.argumentstructs.19
+---------------------------------
+target=TS3006c.B.argumentstructs.Daan.5
+source=TS3006c.D.argumentstructs.Daan.8
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.30:
+"True. It uh c it can go open."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.12: "True. True. But you can make a, yeah, you can make a trigger here. You know a simple uh  with a"
+AE_ID TS3006c.D.argumentstructs.Daan.8: "Yeah.  Yeah and it says menu and it flips open and then you have the buttons to control it, in combination with your"
+AE_ID TS3006c.B.argumentstructs.19: "but it's it's not"
+AE_ID TS3006c.C.argumentstructs.30: "Yeah. Exactly."
+AE_ID TS3006c.B.argumentstructs.Daan.5: "it's not very uh very strong uh  yeah if you drop it one time."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.12
+---------------------------------
+target=TS3006c.D.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.13:
+"Well yeah the the idea of it was, is that because you close it, you cover the L_C_D_ screen and it won't be vulnerable to scratches or whatever."
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.Daan.8: "Yeah.  Yeah and it says menu and it flips open and then you have the buttons to control it, in combination with your"
+AE_ID TS3006c.B.argumentstructs.19: "but it's it's not"
+AE_ID TS3006c.C.argumentstructs.30: "Yeah. Exactly."
+AE_ID TS3006c.B.argumentstructs.Daan.5: "it's not very uh very strong uh  yeah if you drop it one time."
+AE_ID TS3006c.D.argumentstructs.30: "True. It uh c it can go open."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.D.argumentstructs.Daan.8
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.13
+source=TS3006c.B.argumentstructs.Daan.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.14:
+"If you cover it with rubber."
+
+Past dialogue turns:
+AE_ID TS3006c.B.argumentstructs.19: "but it's it's not"
+AE_ID TS3006c.C.argumentstructs.30: "Yeah. Exactly."
+AE_ID TS3006c.B.argumentstructs.Daan.5: "it's not very uh very strong uh  yeah if you drop it one time."
+AE_ID TS3006c.D.argumentstructs.30: "True. It uh c it can go open."
+AE_ID TS3006c.C.argumentstructs.Daan.13: "Well yeah the the idea of it was, is that because you close it, you cover the L_C_D_ screen and it won't be vulnerable to scratches or whatever."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.13
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.14
+source=TS3006c.C.argumentstructs.Daan.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.Daan.9:
+"An adv an adv and it will be covered in some kind of uh thin rubber layer or something like that."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.30: "Yeah. Exactly."
+AE_ID TS3006c.B.argumentstructs.Daan.5: "it's not very uh very strong uh  yeah if you drop it one time."
+AE_ID TS3006c.D.argumentstructs.30: "True. It uh c it can go open."
+AE_ID TS3006c.C.argumentstructs.Daan.13: "Well yeah the the idea of it was, is that because you close it, you cover the L_C_D_ screen and it won't be vulnerable to scratches or whatever."
+AE_ID TS3006c.A.argumentstructs.Daan.14: "If you cover it with rubber."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.13
+---------------------------------
+target=TS3006c.D.argumentstructs.Daan.9
+source=TS3006c.C.argumentstructs.Daan.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.B.argumentstructs.20:
+"Okay."
+
+Past dialogue turns:
+AE_ID TS3006c.B.argumentstructs.Daan.5: "it's not very uh very strong uh  yeah if you drop it one time."
+AE_ID TS3006c.D.argumentstructs.30: "True. It uh c it can go open."
+AE_ID TS3006c.C.argumentstructs.Daan.13: "Well yeah the the idea of it was, is that because you close it, you cover the L_C_D_ screen and it won't be vulnerable to scratches or whatever."
+AE_ID TS3006c.A.argumentstructs.Daan.14: "If you cover it with rubber."
+AE_ID TS3006c.D.argumentstructs.Daan.9: "An adv an adv and it will be covered in some kind of uh thin rubber layer or something like that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.B.argumentstructs.Daan.5
+---------------------------------
+target=TS3006c.B.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.38:
+"Mm."
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.30: "True. It uh c it can go open."
+AE_ID TS3006c.C.argumentstructs.Daan.13: "Well yeah the the idea of it was, is that because you close it, you cover the L_C_D_ screen and it won't be vulnerable to scratches or whatever."
+AE_ID TS3006c.A.argumentstructs.Daan.14: "If you cover it with rubber."
+AE_ID TS3006c.D.argumentstructs.Daan.9: "An adv an adv and it will be covered in some kind of uh thin rubber layer or something like that."
+AE_ID TS3006c.B.argumentstructs.20: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.13
+---------------------------------
+target=TS3006c.A.argumentstructs.38
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.31:
+"And"
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.13: "Well yeah the the idea of it was, is that because you close it, you cover the L_C_D_ screen and it won't be vulnerable to scratches or whatever."
+AE_ID TS3006c.A.argumentstructs.Daan.14: "If you cover it with rubber."
+AE_ID TS3006c.D.argumentstructs.Daan.9: "An adv an adv and it will be covered in some kind of uh thin rubber layer or something like that."
+AE_ID TS3006c.B.argumentstructs.20: "Okay."
+AE_ID TS3006c.A.argumentstructs.38: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.31
+---------------------------------
+target=TS3006c.C.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.14:
+"Exactly. Exactly. We just have to make sure that the closing mechanism won't break. Th it's very solid yeah."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.Daan.14: "If you cover it with rubber."
+AE_ID TS3006c.D.argumentstructs.Daan.9: "An adv an adv and it will be covered in some kind of uh thin rubber layer or something like that."
+AE_ID TS3006c.B.argumentstructs.20: "Okay."
+AE_ID TS3006c.A.argumentstructs.38: "Mm."
+AE_ID TS3006c.C.argumentstructs.31: "And"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.14
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.14
+source=TS3006c.D.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.15:
+"Yeah. So it can bounce."
+
+Past dialogue turns:
+AE_ID TS3006c.D.argumentstructs.Daan.9: "An adv an adv and it will be covered in some kind of uh thin rubber layer or something like that."
+AE_ID TS3006c.B.argumentstructs.20: "Okay."
+AE_ID TS3006c.A.argumentstructs.38: "Mm."
+AE_ID TS3006c.C.argumentstructs.31: "And"
+AE_ID TS3006c.C.argumentstructs.Daan.14: "Exactly. Exactly. We just have to make sure that the closing mechanism won't break. Th it's very solid yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.14
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.15
+source=TS3006c.C.argumentstructs.Daan.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.31:
+"Yeah, uh"
+
+Past dialogue turns:
+AE_ID TS3006c.B.argumentstructs.20: "Okay."
+AE_ID TS3006c.A.argumentstructs.38: "Mm."
+AE_ID TS3006c.C.argumentstructs.31: "And"
+AE_ID TS3006c.C.argumentstructs.Daan.14: "Exactly. Exactly. We just have to make sure that the closing mechanism won't break. Th it's very solid yeah."
+AE_ID TS3006c.A.argumentstructs.Daan.15: "Yeah. So it can bounce."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.14
+---------------------------------
+target=TS3006c.D.argumentstructs.31
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.D.argumentstructs.Daan.10:
+"It's very no it's very strong. Yeah."
+
+Past dialogue turns:
+AE_ID TS3006c.A.argumentstructs.38: "Mm."
+AE_ID TS3006c.C.argumentstructs.31: "And"
+AE_ID TS3006c.C.argumentstructs.Daan.14: "Exactly. Exactly. We just have to make sure that the closing mechanism won't break. Th it's very solid yeah."
+AE_ID TS3006c.A.argumentstructs.Daan.15: "Yeah. So it can bounce."
+AE_ID TS3006c.D.argumentstructs.31: "Yeah, uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.14
+---------------------------------
+target=TS3006c.D.argumentstructs.Daan.10
+source=TS3006c.C.argumentstructs.Daan.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.A.argumentstructs.Daan.16:
+"Yeah okay so that that may work."
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.31: "And"
+AE_ID TS3006c.C.argumentstructs.Daan.14: "Exactly. Exactly. We just have to make sure that the closing mechanism won't break. Th it's very solid yeah."
+AE_ID TS3006c.A.argumentstructs.Daan.15: "Yeah. So it can bounce."
+AE_ID TS3006c.D.argumentstructs.31: "Yeah, uh"
+AE_ID TS3006c.D.argumentstructs.Daan.10: "It's very no it's very strong. Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.A.argumentstructs.Daan.15
+---------------------------------
+target=TS3006c.A.argumentstructs.Daan.16
+source=TS3006c.D.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID TS3006c.C.argumentstructs.Daan.15:
+"That actually will offer some extra protection for the"
+
+Past dialogue turns:
+AE_ID TS3006c.C.argumentstructs.Daan.14: "Exactly. Exactly. We just have to make sure that the closing mechanism won't break. Th it's very solid yeah."
+AE_ID TS3006c.A.argumentstructs.Daan.15: "Yeah. So it can bounce."
+AE_ID TS3006c.D.argumentstructs.31: "Yeah, uh"
+AE_ID TS3006c.D.argumentstructs.Daan.10: "It's very no it's very strong. Yeah."
+AE_ID TS3006c.A.argumentstructs.Daan.16: "Yeah okay so that that may work."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+TS3006c.C.argumentstructs.Daan.14
+---------------------------------
+target=TS3006c.C.argumentstructs.Daan.15
+source=TS3006c.D.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: TS3006c-Pop-up screen.csv - True Judgement Ratio: 25.64%

@@ -1,0 +1,912 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.9:
+"Mm.  I think we need to define also a s the set of vocabularies for the speech recogniser"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.9
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.20:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.9: "Mm.  I think we need to define also a s the set of vocabularies for the speech recogniser"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.9
+---------------------------------
+target=IS1007c.C.argumentstructs.20
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.10:
+"because uh if you want  uh say we can sort by channels or sort by T_V_ programs, you have to decide a category of vocabularies for them. If numbers, they're easy, but if  name the channel by by name"
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.9: "Mm.  I think we need to define also a s the set of vocabularies for the speech recogniser"
+AE_ID IS1007c.C.argumentstructs.20: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.9
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.10
+source=IS1007c.B.argumentstructs.Daan.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.10:
+"Well I think we can we can have just numbers for channels and you can say to your remote control like uh sports and then on the T_V_ you have a list with with uh uh well with sports program playing now and and uh"
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.9: "Mm.  I think we need to define also a s the set of vocabularies for the speech recogniser"
+AE_ID IS1007c.C.argumentstructs.20: "Yeah."
+AE_ID IS1007c.B.argumentstructs.Daan.10: "because uh if you want  uh say we can sort by channels or sort by T_V_ programs, you have to decide a category of vocabularies for them. If numbers, they're easy, but if  name the channel by by name"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.10
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.10
+source=IS1007c.B.argumentstructs.Daan.10
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.24:
+"Mm. Mm. Yeah. Mm. Mm. Mm. Mm."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.9: "Mm.  I think we need to define also a s the set of vocabularies for the speech recogniser"
+AE_ID IS1007c.C.argumentstructs.20: "Yeah."
+AE_ID IS1007c.B.argumentstructs.Daan.10: "because uh if you want  uh say we can sort by channels or sort by T_V_ programs, you have to decide a category of vocabularies for them. If numbers, they're easy, but if  name the channel by by name"
+AE_ID IS1007c.C.argumentstructs.Daan.10: "Well I think we can we can have just numbers for channels and you can say to your remote control like uh sports and then on the T_V_ you have a list with with uh uh well with sports program playing now and and uh"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.9
+---------------------------------
+target=IS1007c.B.argumentstructs.24
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.Daan.6:
+"No, we have a problem there. You see uh if you have a voice commands and you are s you are watching a score on uh  basketball score or something, and if the score comes twenty four thirty five, you've just say twenty five and suddenly  the screen the channel goes to twenty five. So I think there should be a prefix to some numbers"
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.9: "Mm.  I think we need to define also a s the set of vocabularies for the speech recogniser"
+AE_ID IS1007c.C.argumentstructs.20: "Yeah."
+AE_ID IS1007c.B.argumentstructs.Daan.10: "because uh if you want  uh say we can sort by channels or sort by T_V_ programs, you have to decide a category of vocabularies for them. If numbers, they're easy, but if  name the channel by by name"
+AE_ID IS1007c.C.argumentstructs.Daan.10: "Well I think we can we can have just numbers for channels and you can say to your remote control like uh sports and then on the T_V_ you have a list with with uh uh well with sports program playing now and and uh"
+AE_ID IS1007c.B.argumentstructs.24: "Mm. Mm. Yeah. Mm. Mm. Mm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.10
+---------------------------------
+target=IS1007c.D.argumentstructs.Daan.6
+source=IS1007c.C.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.13:
+"yeah. Mm-hmm. Or just"
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.20: "Yeah."
+AE_ID IS1007c.B.argumentstructs.Daan.10: "because uh if you want  uh say we can sort by channels or sort by T_V_ programs, you have to decide a category of vocabularies for them. If numbers, they're easy, but if  name the channel by by name"
+AE_ID IS1007c.C.argumentstructs.Daan.10: "Well I think we can we can have just numbers for channels and you can say to your remote control like uh sports and then on the T_V_ you have a list with with uh uh well with sports program playing now and and uh"
+AE_ID IS1007c.B.argumentstructs.24: "Mm. Mm. Yeah. Mm. Mm. Mm. Mm."
+AE_ID IS1007c.D.argumentstructs.Daan.6: "No, we have a problem there. You see uh if you have a voice commands and you are s you are watching a score on uh  basketball score or something, and if the score comes twenty four thirty five, you've just say twenty five and suddenly  the screen the channel goes to twenty five. So I think there should be a prefix to some numbers"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.20
+---------------------------------
+target=IS1007c.A.argumentstructs.13
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.11:
+"That's right, yeah, yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.10: "because uh if you want  uh say we can sort by channels or sort by T_V_ programs, you have to decide a category of vocabularies for them. If numbers, they're easy, but if  name the channel by by name"
+AE_ID IS1007c.C.argumentstructs.Daan.10: "Well I think we can we can have just numbers for channels and you can say to your remote control like uh sports and then on the T_V_ you have a list with with uh uh well with sports program playing now and and uh"
+AE_ID IS1007c.B.argumentstructs.24: "Mm. Mm. Yeah. Mm. Mm. Mm. Mm."
+AE_ID IS1007c.D.argumentstructs.Daan.6: "No, we have a problem there. You see uh if you have a voice commands and you are s you are watching a score on uh  basketball score or something, and if the score comes twenty four thirty five, you've just say twenty five and suddenly  the screen the channel goes to twenty five. So I think there should be a prefix to some numbers"
+AE_ID IS1007c.A.argumentstructs.13: "yeah. Mm-hmm. Or just"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.Daan.10
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.11
+source=IS1007c.D.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.12:
+"Well but well e every possible word uh has a probability to come about of the T_V_ so."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.Daan.10: "Well I think we can we can have just numbers for channels and you can say to your remote control like uh sports and then on the T_V_ you have a list with with uh uh well with sports program playing now and and uh"
+AE_ID IS1007c.B.argumentstructs.24: "Mm. Mm. Yeah. Mm. Mm. Mm. Mm."
+AE_ID IS1007c.D.argumentstructs.Daan.6: "No, we have a problem there. You see uh if you have a voice commands and you are s you are watching a score on uh  basketball score or something, and if the score comes twenty four thirty five, you've just say twenty five and suddenly  the screen the channel goes to twenty five. So I think there should be a prefix to some numbers"
+AE_ID IS1007c.A.argumentstructs.13: "yeah. Mm-hmm. Or just"
+AE_ID IS1007c.C.argumentstructs.Daan.11: "That's right, yeah, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.Daan.10
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.12
+source=IS1007c.D.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.Daan.7:
+"I mean the the  you just check all the probability that saying T_V_ twenty five and just ordinary twenty five. Ordinary twenty five you almost there's a probability of being said around sixty seventy percent and T_V_ twenty five"
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.24: "Mm. Mm. Yeah. Mm. Mm. Mm. Mm."
+AE_ID IS1007c.D.argumentstructs.Daan.6: "No, we have a problem there. You see uh if you have a voice commands and you are s you are watching a score on uh  basketball score or something, and if the score comes twenty four thirty five, you've just say twenty five and suddenly  the screen the channel goes to twenty five. So I think there should be a prefix to some numbers"
+AE_ID IS1007c.A.argumentstructs.13: "yeah. Mm-hmm. Or just"
+AE_ID IS1007c.C.argumentstructs.Daan.11: "That's right, yeah, yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.12: "Well but well e every possible word uh has a probability to come about of the T_V_ so."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.6
+---------------------------------
+target=IS1007c.D.argumentstructs.Daan.7
+source=IS1007c.D.argumentstructs.Daan.6
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.Daan.8:
+"I dunno it will be round about one or two percent. So it's better to have some prefix  before the number."
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.6: "No, we have a problem there. You see uh if you have a voice commands and you are s you are watching a score on uh  basketball score or something, and if the score comes twenty four thirty five, you've just say twenty five and suddenly  the screen the channel goes to twenty five. So I think there should be a prefix to some numbers"
+AE_ID IS1007c.A.argumentstructs.13: "yeah. Mm-hmm. Or just"
+AE_ID IS1007c.C.argumentstructs.Daan.11: "That's right, yeah, yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.12: "Well but well e every possible word uh has a probability to come about of the T_V_ so."
+AE_ID IS1007c.D.argumentstructs.Daan.7: "I mean the the  you just check all the probability that saying T_V_ twenty five and just ordinary twenty five. Ordinary twenty five you almost there's a probability of being said around sixty seventy percent and T_V_ twenty five"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.6
+---------------------------------
+target=IS1007c.D.argumentstructs.Daan.8
+source=IS1007c.D.argumentstructs.Daan.7
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.11:
+"But I I I think that the user would like wou would like to associate the channel or call the channel rather than than the numbers."
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.13: "yeah. Mm-hmm. Or just"
+AE_ID IS1007c.C.argumentstructs.Daan.11: "That's right, yeah, yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.12: "Well but well e every possible word uh has a probability to come about of the T_V_ so."
+AE_ID IS1007c.D.argumentstructs.Daan.7: "I mean the the  you just check all the probability that saying T_V_ twenty five and just ordinary twenty five. Ordinary twenty five you almost there's a probability of being said around sixty seventy percent and T_V_ twenty five"
+AE_ID IS1007c.D.argumentstructs.Daan.8: "I dunno it will be round about one or two percent. So it's better to have some prefix  before the number."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.Daan.12
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.11
+source=IS1007c.B.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.16:
+"Yeah something, some code."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.Daan.11: "That's right, yeah, yeah."
+AE_ID IS1007c.C.argumentstructs.Daan.12: "Well but well e every possible word uh has a probability to come about of the T_V_ so."
+AE_ID IS1007c.D.argumentstructs.Daan.7: "I mean the the  you just check all the probability that saying T_V_ twenty five and just ordinary twenty five. Ordinary twenty five you almost there's a probability of being said around sixty seventy percent and T_V_ twenty five"
+AE_ID IS1007c.D.argumentstructs.Daan.8: "I dunno it will be round about one or two percent. So it's better to have some prefix  before the number."
+AE_ID IS1007c.B.argumentstructs.Daan.11: "But I I I think that the user would like wou would like to associate the channel or call the channel rather than than the numbers."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.Daan.12
+---------------------------------
+target=IS1007c.D.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.12:
+"You say numbe channel number five of the T_V_ correspond to something else in the channel. So some people may want to say, I want to see this channel."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.Daan.12: "Well but well e every possible word uh has a probability to come about of the T_V_ so."
+AE_ID IS1007c.D.argumentstructs.Daan.7: "I mean the the  you just check all the probability that saying T_V_ twenty five and just ordinary twenty five. Ordinary twenty five you almost there's a probability of being said around sixty seventy percent and T_V_ twenty five"
+AE_ID IS1007c.D.argumentstructs.Daan.8: "I dunno it will be round about one or two percent. So it's better to have some prefix  before the number."
+AE_ID IS1007c.B.argumentstructs.Daan.11: "But I I I think that the user would like wou would like to associate the channel or call the channel rather than than the numbers."
+AE_ID IS1007c.D.argumentstructs.16: "Yeah something, some code."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.11
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.12
+source=IS1007c.B.argumentstructs.Daan.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.Daan.9:
+"That will be too big. And it will be difficult for the vocabulary also."
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.7: "I mean the the  you just check all the probability that saying T_V_ twenty five and just ordinary twenty five. Ordinary twenty five you almost there's a probability of being said around sixty seventy percent and T_V_ twenty five"
+AE_ID IS1007c.D.argumentstructs.Daan.8: "I dunno it will be round about one or two percent. So it's better to have some prefix  before the number."
+AE_ID IS1007c.B.argumentstructs.Daan.11: "But I I I think that the user would like wou would like to associate the channel or call the channel rather than than the numbers."
+AE_ID IS1007c.D.argumentstructs.16: "Yeah something, some code."
+AE_ID IS1007c.B.argumentstructs.Daan.12: "You say numbe channel number five of the T_V_ correspond to something else in the channel. So some people may want to say, I want to see this channel."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.11
+---------------------------------
+target=IS1007c.D.argumentstructs.Daan.9
+source=IS1007c.B.argumentstructs.Daan.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.13:
+"Yeah. Check with the v R_ and D_ department the capability of recogniser.  Uh ?"
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.8: "I dunno it will be round about one or two percent. So it's better to have some prefix  before the number."
+AE_ID IS1007c.B.argumentstructs.Daan.11: "But I I I think that the user would like wou would like to associate the channel or call the channel rather than than the numbers."
+AE_ID IS1007c.D.argumentstructs.16: "Yeah something, some code."
+AE_ID IS1007c.B.argumentstructs.Daan.12: "You say numbe channel number five of the T_V_ correspond to something else in the channel. So some people may want to say, I want to see this channel."
+AE_ID IS1007c.D.argumentstructs.Daan.9: "That will be too big. And it will be difficult for the vocabulary also."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.11
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.13
+source=IS1007c.D.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.Daan.4:
+"It's difficult to to just say the the name of the channel. It will be difficult to say just the name of the channel. Because you have to s t uh a ch yeah but you have to to have all the name of the channel in your vocabulary."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.11: "But I I I think that the user would like wou would like to associate the channel or call the channel rather than than the numbers."
+AE_ID IS1007c.D.argumentstructs.16: "Yeah something, some code."
+AE_ID IS1007c.B.argumentstructs.Daan.12: "You say numbe channel number five of the T_V_ correspond to something else in the channel. So some people may want to say, I want to see this channel."
+AE_ID IS1007c.D.argumentstructs.Daan.9: "That will be too big. And it will be difficult for the vocabulary also."
+AE_ID IS1007c.B.argumentstructs.Daan.13: "Yeah. Check with the v R_ and D_ department the capability of recogniser.  Uh ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.12
+---------------------------------
+target=IS1007c.A.argumentstructs.Daan.4
+source=IS1007c.D.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.14:
+"Well, it's convenient for the user."
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.16: "Yeah something, some code."
+AE_ID IS1007c.B.argumentstructs.Daan.12: "You say numbe channel number five of the T_V_ correspond to something else in the channel. So some people may want to say, I want to see this channel."
+AE_ID IS1007c.D.argumentstructs.Daan.9: "That will be too big. And it will be difficult for the vocabulary also."
+AE_ID IS1007c.B.argumentstructs.Daan.13: "Yeah. Check with the v R_ and D_ department the capability of recogniser.  Uh ?"
+AE_ID IS1007c.A.argumentstructs.Daan.4: "It's difficult to to just say the the name of the channel. It will be difficult to say just the name of the channel. Because you have to s t uh a ch yeah but you have to to have all the name of the channel in your vocabulary."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.12
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.14
+source=IS1007c.B.argumentstructs.Daan.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.Daan.10:
+"Als might be you just forgot the channel name, you kno only know the number. Then"
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.12: "You say numbe channel number five of the T_V_ correspond to something else in the channel. So some people may want to say, I want to see this channel."
+AE_ID IS1007c.D.argumentstructs.Daan.9: "That will be too big. And it will be difficult for the vocabulary also."
+AE_ID IS1007c.B.argumentstructs.Daan.13: "Yeah. Check with the v R_ and D_ department the capability of recogniser.  Uh ?"
+AE_ID IS1007c.A.argumentstructs.Daan.4: "It's difficult to to just say the the name of the channel. It will be difficult to say just the name of the channel. Because you have to s t uh a ch yeah but you have to to have all the name of the channel in your vocabulary."
+AE_ID IS1007c.B.argumentstructs.Daan.14: "Well, it's convenient for the user."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.A.argumentstructs.Daan.4
+---------------------------------
+target=IS1007c.D.argumentstructs.Daan.10
+source=IS1007c.B.argumentstructs.Daan.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.14:
+"Or maybe"
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.9: "That will be too big. And it will be difficult for the vocabulary also."
+AE_ID IS1007c.B.argumentstructs.Daan.13: "Yeah. Check with the v R_ and D_ department the capability of recogniser.  Uh ?"
+AE_ID IS1007c.A.argumentstructs.Daan.4: "It's difficult to to just say the the name of the channel. It will be difficult to say just the name of the channel. Because you have to s t uh a ch yeah but you have to to have all the name of the channel in your vocabulary."
+AE_ID IS1007c.B.argumentstructs.Daan.14: "Well, it's convenient for the user."
+AE_ID IS1007c.D.argumentstructs.Daan.10: "Als might be you just forgot the channel name, you kno only know the number. Then"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.10
+---------------------------------
+target=IS1007c.A.argumentstructs.14
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.21:
+"Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.13: "Yeah. Check with the v R_ and D_ department the capability of recogniser.  Uh ?"
+AE_ID IS1007c.A.argumentstructs.Daan.4: "It's difficult to to just say the the name of the channel. It will be difficult to say just the name of the channel. Because you have to s t uh a ch yeah but you have to to have all the name of the channel in your vocabulary."
+AE_ID IS1007c.B.argumentstructs.Daan.14: "Well, it's convenient for the user."
+AE_ID IS1007c.D.argumentstructs.Daan.10: "Als might be you just forgot the channel name, you kno only know the number. Then"
+AE_ID IS1007c.A.argumentstructs.14: "Or maybe"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.13
+---------------------------------
+target=IS1007c.C.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.Daan.5:
+"Or maybe the user can create his own vocabulary, just pronouncing the the name of channels and include in the vocabulary."
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.Daan.4: "It's difficult to to just say the the name of the channel. It will be difficult to say just the name of the channel. Because you have to s t uh a ch yeah but you have to to have all the name of the channel in your vocabulary."
+AE_ID IS1007c.B.argumentstructs.Daan.14: "Well, it's convenient for the user."
+AE_ID IS1007c.D.argumentstructs.Daan.10: "Als might be you just forgot the channel name, you kno only know the number. Then"
+AE_ID IS1007c.A.argumentstructs.14: "Or maybe"
+AE_ID IS1007c.C.argumentstructs.21: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.A.argumentstructs.Daan.4
+---------------------------------
+target=IS1007c.A.argumentstructs.Daan.5
+source=IS1007c.B.argumentstructs.Daan.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.25:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.14: "Well, it's convenient for the user."
+AE_ID IS1007c.D.argumentstructs.Daan.10: "Als might be you just forgot the channel name, you kno only know the number. Then"
+AE_ID IS1007c.A.argumentstructs.14: "Or maybe"
+AE_ID IS1007c.C.argumentstructs.21: "Yeah."
+AE_ID IS1007c.A.argumentstructs.Daan.5: "Or maybe the user can create his own vocabulary, just pronouncing the the name of channels and include in the vocabulary."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1007c.B.argumentstructs.25
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.15:
+"I I think that I have  mm mm  I think there's another way you can do is that uh you can uh  if  when the user ch press a button to choose the channel for example, then what you can do is that the  you can make the T_V_ screen to split them into small little little squares of images where you you you have a snapshot of every channel, so let's say it's a four by four matrix of the images, so now what you do is f looking at the all the sixteen channels available at one time, you just use the control button uh, you just you you just choose the the option you want and then you just hit the button and then you go to that channel. So"
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.Daan.10: "Als might be you just forgot the channel name, you kno only know the number. Then"
+AE_ID IS1007c.A.argumentstructs.14: "Or maybe"
+AE_ID IS1007c.C.argumentstructs.21: "Yeah."
+AE_ID IS1007c.A.argumentstructs.Daan.5: "Or maybe the user can create his own vocabulary, just pronouncing the the name of channels and include in the vocabulary."
+AE_ID IS1007c.B.argumentstructs.25: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.D.argumentstructs.Daan.10
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.15
+source=IS1007c.B.argumentstructs.Daan.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.Daan.6:
+"Or lets the user create his own vocabulary"
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.14: "Or maybe"
+AE_ID IS1007c.C.argumentstructs.21: "Yeah."
+AE_ID IS1007c.A.argumentstructs.Daan.5: "Or maybe the user can create his own vocabulary, just pronouncing the the name of channels and include in the vocabulary."
+AE_ID IS1007c.B.argumentstructs.25: "Mm."
+AE_ID IS1007c.B.argumentstructs.Daan.15: "I I think that I have  mm mm  I think there's another way you can do is that uh you can uh  if  when the user ch press a button to choose the channel for example, then what you can do is that the  you can make the T_V_ screen to split them into small little little squares of images where you you you have a snapshot of every channel, so let's say it's a four by four matrix of the images, so now what you do is f looking at the all the sixteen channels available at one time, you just use the control button uh, you just you you just choose the the option you want and then you just hit the button and then you go to that channel. So"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.A.argumentstructs.Daan.5
+---------------------------------
+target=IS1007c.A.argumentstructs.Daan.6
+source=IS1007c.B.argumentstructs.Daan.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.26:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.21: "Yeah."
+AE_ID IS1007c.A.argumentstructs.Daan.5: "Or maybe the user can create his own vocabulary, just pronouncing the the name of channels and include in the vocabulary."
+AE_ID IS1007c.B.argumentstructs.25: "Mm."
+AE_ID IS1007c.B.argumentstructs.Daan.15: "I I think that I have  mm mm  I think there's another way you can do is that uh you can uh  if  when the user ch press a button to choose the channel for example, then what you can do is that the  you can make the T_V_ screen to split them into small little little squares of images where you you you have a snapshot of every channel, so let's say it's a four by four matrix of the images, so now what you do is f looking at the all the sixteen channels available at one time, you just use the control button uh, you just you you just choose the the option you want and then you just hit the button and then you go to that channel. So"
+AE_ID IS1007c.A.argumentstructs.Daan.6: "Or lets the user create his own vocabulary"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.25
+---------------------------------
+target=IS1007c.B.argumentstructs.26
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.16:
+"So you you don't use the speech recogniser in that way."
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.Daan.5: "Or maybe the user can create his own vocabulary, just pronouncing the the name of channels and include in the vocabulary."
+AE_ID IS1007c.B.argumentstructs.25: "Mm."
+AE_ID IS1007c.B.argumentstructs.Daan.15: "I I think that I have  mm mm  I think there's another way you can do is that uh you can uh  if  when the user ch press a button to choose the channel for example, then what you can do is that the  you can make the T_V_ screen to split them into small little little squares of images where you you you have a snapshot of every channel, so let's say it's a four by four matrix of the images, so now what you do is f looking at the all the sixteen channels available at one time, you just use the control button uh, you just you you just choose the the option you want and then you just hit the button and then you go to that channel. So"
+AE_ID IS1007c.A.argumentstructs.Daan.6: "Or lets the user create his own vocabulary"
+AE_ID IS1007c.B.argumentstructs.26: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.15
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.16
+source=IS1007c.B.argumentstructs.Daan.15
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.15:
+"of channel."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.25: "Mm."
+AE_ID IS1007c.B.argumentstructs.Daan.15: "I I think that I have  mm mm  I think there's another way you can do is that uh you can uh  if  when the user ch press a button to choose the channel for example, then what you can do is that the  you can make the T_V_ screen to split them into small little little squares of images where you you you have a snapshot of every channel, so let's say it's a four by four matrix of the images, so now what you do is f looking at the all the sixteen channels available at one time, you just use the control button uh, you just you you just choose the the option you want and then you just hit the button and then you go to that channel. So"
+AE_ID IS1007c.A.argumentstructs.Daan.6: "Or lets the user create his own vocabulary"
+AE_ID IS1007c.B.argumentstructs.26: "Mm."
+AE_ID IS1007c.B.argumentstructs.Daan.16: "So you you don't use the speech recogniser in that way."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.15
+---------------------------------
+target=IS1007c.A.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.Daan.7:
+"No. Just you have uh in the beginning you have uh t you have to train  you have to create the vocabulary by yourself. By associating each channel with the name or"
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.15: "I I think that I have  mm mm  I think there's another way you can do is that uh you can uh  if  when the user ch press a button to choose the channel for example, then what you can do is that the  you can make the T_V_ screen to split them into small little little squares of images where you you you have a snapshot of every channel, so let's say it's a four by four matrix of the images, so now what you do is f looking at the all the sixteen channels available at one time, you just use the control button uh, you just you you just choose the the option you want and then you just hit the button and then you go to that channel. So"
+AE_ID IS1007c.A.argumentstructs.Daan.6: "Or lets the user create his own vocabulary"
+AE_ID IS1007c.B.argumentstructs.26: "Mm."
+AE_ID IS1007c.B.argumentstructs.Daan.16: "So you you don't use the speech recogniser in that way."
+AE_ID IS1007c.A.argumentstructs.15: "of channel."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.15
+---------------------------------
+target=IS1007c.A.argumentstructs.Daan.7
+source=IS1007c.A.argumentstructs.Daan.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.C.argumentstructs.Daan.13:
+"Well I uh I also  I I also think about uh another problem, if if there is uh more than one person who is watching T_V_  the s well the the speech uh r recogniser should be able to distinguish between the two. Because uh I remember when I was a  young child with my sister we  yeah we always want to w to watch different emission at the at the same time so it's a pr it could be a problem if uh if well if someone passes by when you are watching T_V_ and say oh T_V_ thirty  and just run, s"
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.Daan.6: "Or lets the user create his own vocabulary"
+AE_ID IS1007c.B.argumentstructs.26: "Mm."
+AE_ID IS1007c.B.argumentstructs.Daan.16: "So you you don't use the speech recogniser in that way."
+AE_ID IS1007c.A.argumentstructs.15: "of channel."
+AE_ID IS1007c.A.argumentstructs.Daan.7: "No. Just you have uh in the beginning you have uh t you have to train  you have to create the vocabulary by yourself. By associating each channel with the name or"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.A.argumentstructs.Daan.7
+---------------------------------
+target=IS1007c.C.argumentstructs.Daan.13
+source=IS1007c.B.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.Daan.8:
+"And for each one has his own."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.26: "Mm."
+AE_ID IS1007c.B.argumentstructs.Daan.16: "So you you don't use the speech recogniser in that way."
+AE_ID IS1007c.A.argumentstructs.15: "of channel."
+AE_ID IS1007c.A.argumentstructs.Daan.7: "No. Just you have uh in the beginning you have uh t you have to train  you have to create the vocabulary by yourself. By associating each channel with the name or"
+AE_ID IS1007c.C.argumentstructs.Daan.13: "Well I uh I also  I I also think about uh another problem, if if there is uh more than one person who is watching T_V_  the s well the the speech uh r recogniser should be able to distinguish between the two. Because uh I remember when I was a  young child with my sister we  yeah we always want to w to watch different emission at the at the same time so it's a pr it could be a problem if uh if well if someone passes by when you are watching T_V_ and say oh T_V_ thirty  and just run, s"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.16
+---------------------------------
+target=IS1007c.A.argumentstructs.Daan.8
+source=IS1007c.C.argumentstructs.Daan.13
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.17:
+". Yeah."
+
+Past dialogue turns:
+AE_ID IS1007c.B.argumentstructs.Daan.16: "So you you don't use the speech recogniser in that way."
+AE_ID IS1007c.A.argumentstructs.15: "of channel."
+AE_ID IS1007c.A.argumentstructs.Daan.7: "No. Just you have uh in the beginning you have uh t you have to train  you have to create the vocabulary by yourself. By associating each channel with the name or"
+AE_ID IS1007c.C.argumentstructs.Daan.13: "Well I uh I also  I I also think about uh another problem, if if there is uh more than one person who is watching T_V_  the s well the the speech uh r recogniser should be able to distinguish between the two. Because uh I remember when I was a  young child with my sister we  yeah we always want to w to watch different emission at the at the same time so it's a pr it could be a problem if uh if well if someone passes by when you are watching T_V_ and say oh T_V_ thirty  and just run, s"
+AE_ID IS1007c.A.argumentstructs.Daan.8: "And for each one has his own."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.Daan.16
+---------------------------------
+target=IS1007c.D.argumentstructs.17
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.27:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.15: "of channel."
+AE_ID IS1007c.A.argumentstructs.Daan.7: "No. Just you have uh in the beginning you have uh t you have to train  you have to create the vocabulary by yourself. By associating each channel with the name or"
+AE_ID IS1007c.C.argumentstructs.Daan.13: "Well I uh I also  I I also think about uh another problem, if if there is uh more than one person who is watching T_V_  the s well the the speech uh r recogniser should be able to distinguish between the two. Because uh I remember when I was a  young child with my sister we  yeah we always want to w to watch different emission at the at the same time so it's a pr it could be a problem if uh if well if someone passes by when you are watching T_V_ and say oh T_V_ thirty  and just run, s"
+AE_ID IS1007c.A.argumentstructs.Daan.8: "And for each one has his own."
+AE_ID IS1007c.D.argumentstructs.17: ". Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.A.argumentstructs.Daan.7
+---------------------------------
+target=IS1007c.B.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.A.argumentstructs.16:
+"Or you have to s"
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.Daan.7: "No. Just you have uh in the beginning you have uh t you have to train  you have to create the vocabulary by yourself. By associating each channel with the name or"
+AE_ID IS1007c.C.argumentstructs.Daan.13: "Well I uh I also  I I also think about uh another problem, if if there is uh more than one person who is watching T_V_  the s well the the speech uh r recogniser should be able to distinguish between the two. Because uh I remember when I was a  young child with my sister we  yeah we always want to w to watch different emission at the at the same time so it's a pr it could be a problem if uh if well if someone passes by when you are watching T_V_ and say oh T_V_ thirty  and just run, s"
+AE_ID IS1007c.A.argumentstructs.Daan.8: "And for each one has his own."
+AE_ID IS1007c.D.argumentstructs.17: ". Yeah."
+AE_ID IS1007c.B.argumentstructs.27: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.Daan.13
+---------------------------------
+target=IS1007c.A.argumentstructs.16
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.Daan.17:
+"Yeah, I wanna watch this, I wanna watch that."
+
+Past dialogue turns:
+AE_ID IS1007c.C.argumentstructs.Daan.13: "Well I uh I also  I I also think about uh another problem, if if there is uh more than one person who is watching T_V_  the s well the the speech uh r recogniser should be able to distinguish between the two. Because uh I remember when I was a  young child with my sister we  yeah we always want to w to watch different emission at the at the same time so it's a pr it could be a problem if uh if well if someone passes by when you are watching T_V_ and say oh T_V_ thirty  and just run, s"
+AE_ID IS1007c.A.argumentstructs.Daan.8: "And for each one has his own."
+AE_ID IS1007c.D.argumentstructs.17: ". Yeah."
+AE_ID IS1007c.B.argumentstructs.27: "Mm."
+AE_ID IS1007c.A.argumentstructs.16: "Or you have to s"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.C.argumentstructs.Daan.13
+---------------------------------
+target=IS1007c.B.argumentstructs.Daan.17
+source=IS1007c.C.argumentstructs.Daan.13
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.B.argumentstructs.28:
+"Mm."
+
+Past dialogue turns:
+AE_ID IS1007c.A.argumentstructs.Daan.8: "And for each one has his own."
+AE_ID IS1007c.D.argumentstructs.17: ". Yeah."
+AE_ID IS1007c.B.argumentstructs.27: "Mm."
+AE_ID IS1007c.A.argumentstructs.16: "Or you have to s"
+AE_ID IS1007c.B.argumentstructs.Daan.17: "Yeah, I wanna watch this, I wanna watch that."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+IS1007c.B.argumentstructs.27
+---------------------------------
+target=IS1007c.B.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID IS1007c.D.argumentstructs.Daan.11:
+"A and in the same lines we would have a  one more problem. If we are using the television in the different environments, say in the factories or in the shops where there is a lot of noise and this voice commands if they fail to work, that would bring a bad name  bad uh reputation for our company. So I think we should specify some pre-requirements if we want to use a voice commands, say that it should be used in an silent homely environment or s something."
+
+Past dialogue turns:
+AE_ID IS1007c.D.argumentstructs.17: ". Yeah."
+AE_ID IS1007c.B.argumentstructs.27: "Mm."
+AE_ID IS1007c.A.argumentstructs.16: "Or you have to s"
+AE_ID IS1007c.B.argumentstructs.Daan.17: "Yeah, I wanna watch this, I wanna watch that."
+AE_ID IS1007c.B.argumentstructs.28: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=IS1007c.D.argumentstructs.Daan.11
+source=IS1007c.B.argumentstructs.Daan.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: IS1007c-Speech recogniser.csv - True Judgement Ratio: 24.32%

@@ -1,0 +1,687 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.B.argumentstructs.Erik.11:
+"Okay, so the remote control functions. Um we've got the T_V_, we've got the video, now there's um I can't remember what it's called, the little code at the end of programme details, yes."
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2004b.B.argumentstructs.Erik.11
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.A.argumentstructs.18:
+"Mm-hmm. Mm-hmm."
+
+Past dialogue turns:
+AE_ID ES2004b.B.argumentstructs.Erik.11: "Okay, so the remote control functions. Um we've got the T_V_, we've got the video, now there's um I can't remember what it's called, the little code at the end of programme details, yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.B.argumentstructs.Erik.11
+---------------------------------
+target=ES2004b.A.argumentstructs.18
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.Erik.12:
+"Video plus."
+
+Past dialogue turns:
+AE_ID ES2004b.B.argumentstructs.Erik.11: "Okay, so the remote control functions. Um we've got the T_V_, we've got the video, now there's um I can't remember what it's called, the little code at the end of programme details, yes."
+AE_ID ES2004b.A.argumentstructs.18: "Mm-hmm. Mm-hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.B.argumentstructs.Erik.11
+---------------------------------
+target=ES2004b.C.argumentstructs.Erik.12
+source=ES2004b.B.argumentstructs.Erik.11
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.B.argumentstructs.Erik.12:
+"We could use that as an alternative to programming in times, things like that, is that  I always found that really easy when I discovered it, um because you've got your general record anyway so if you  there's a programme on you want to put record on, that's fine, but if you do want to tape something in two days time and you're not sure if you're going to, you put the number in and it's just a number, it's not a date, it's not a time, it's not a channel, it's not when it finishes, it's not anything like that, it's just a number."
+
+Past dialogue turns:
+AE_ID ES2004b.B.argumentstructs.Erik.11: "Okay, so the remote control functions. Um we've got the T_V_, we've got the video, now there's um I can't remember what it's called, the little code at the end of programme details, yes."
+AE_ID ES2004b.A.argumentstructs.18: "Mm-hmm. Mm-hmm."
+AE_ID ES2004b.C.argumentstructs.Erik.12: "Video plus."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.C.argumentstructs.Erik.12
+---------------------------------
+target=ES2004b.B.argumentstructs.Erik.12
+source=ES2004b.B.argumentstructs.Erik.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.Erik.13:
+"Yeah yeah."
+
+Past dialogue turns:
+AE_ID ES2004b.B.argumentstructs.Erik.11: "Okay, so the remote control functions. Um we've got the T_V_, we've got the video, now there's um I can't remember what it's called, the little code at the end of programme details, yes."
+AE_ID ES2004b.A.argumentstructs.18: "Mm-hmm. Mm-hmm."
+AE_ID ES2004b.C.argumentstructs.Erik.12: "Video plus."
+AE_ID ES2004b.B.argumentstructs.Erik.12: "We could use that as an alternative to programming in times, things like that, is that  I always found that really easy when I discovered it, um because you've got your general record anyway so if you  there's a programme on you want to put record on, that's fine, but if you do want to tape something in two days time and you're not sure if you're going to, you put the number in and it's just a number, it's not a date, it's not a time, it's not a channel, it's not when it finishes, it's not anything like that, it's just a number."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.C.argumentstructs.Erik.12
+---------------------------------
+target=ES2004b.C.argumentstructs.Erik.13
+source=ES2004b.B.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.25:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2004b.B.argumentstructs.Erik.11: "Okay, so the remote control functions. Um we've got the T_V_, we've got the video, now there's um I can't remember what it's called, the little code at the end of programme details, yes."
+AE_ID ES2004b.A.argumentstructs.18: "Mm-hmm. Mm-hmm."
+AE_ID ES2004b.C.argumentstructs.Erik.12: "Video plus."
+AE_ID ES2004b.B.argumentstructs.Erik.12: "We could use that as an alternative to programming in times, things like that, is that  I always found that really easy when I discovered it, um because you've got your general record anyway so if you  there's a programme on you want to put record on, that's fine, but if you do want to tape something in two days time and you're not sure if you're going to, you put the number in and it's just a number, it's not a date, it's not a time, it's not a channel, it's not when it finishes, it's not anything like that, it's just a number."
+AE_ID ES2004b.C.argumentstructs.Erik.13: "Yeah yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.A.argumentstructs.18
+---------------------------------
+target=ES2004b.D.argumentstructs.25
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.Erik.14:
+"Just whack in the number."
+
+Past dialogue turns:
+AE_ID ES2004b.A.argumentstructs.18: "Mm-hmm. Mm-hmm."
+AE_ID ES2004b.C.argumentstructs.Erik.12: "Video plus."
+AE_ID ES2004b.B.argumentstructs.Erik.12: "We could use that as an alternative to programming in times, things like that, is that  I always found that really easy when I discovered it, um because you've got your general record anyway so if you  there's a programme on you want to put record on, that's fine, but if you do want to tape something in two days time and you're not sure if you're going to, you put the number in and it's just a number, it's not a date, it's not a time, it's not a channel, it's not when it finishes, it's not anything like that, it's just a number."
+AE_ID ES2004b.C.argumentstructs.Erik.13: "Yeah yeah."
+AE_ID ES2004b.D.argumentstructs.25: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2004b.C.argumentstructs.Erik.14
+source=ES2004b.B.argumentstructs.Erik.12
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.33:
+"yeah."
+
+Past dialogue turns:
+AE_ID ES2004b.C.argumentstructs.Erik.12: "Video plus."
+AE_ID ES2004b.B.argumentstructs.Erik.12: "We could use that as an alternative to programming in times, things like that, is that  I always found that really easy when I discovered it, um because you've got your general record anyway so if you  there's a programme on you want to put record on, that's fine, but if you do want to tape something in two days time and you're not sure if you're going to, you put the number in and it's just a number, it's not a date, it's not a time, it's not a channel, it's not when it finishes, it's not anything like that, it's just a number."
+AE_ID ES2004b.C.argumentstructs.Erik.13: "Yeah yeah."
+AE_ID ES2004b.D.argumentstructs.25: "Mm."
+AE_ID ES2004b.C.argumentstructs.Erik.14: "Just whack in the number."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.C.argumentstructs.Erik.13
+---------------------------------
+target=ES2004b.C.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.Erik.15:
+"And you wouldn't you wouldn't need uh a whole host of extra buttons for that, you just need one 'cause you've already got all the numbers there anyway, yeah."
+
+Past dialogue turns:
+AE_ID ES2004b.B.argumentstructs.Erik.12: "We could use that as an alternative to programming in times, things like that, is that  I always found that really easy when I discovered it, um because you've got your general record anyway so if you  there's a programme on you want to put record on, that's fine, but if you do want to tape something in two days time and you're not sure if you're going to, you put the number in and it's just a number, it's not a date, it's not a time, it's not a channel, it's not when it finishes, it's not anything like that, it's just a number."
+AE_ID ES2004b.C.argumentstructs.Erik.13: "Yeah yeah."
+AE_ID ES2004b.D.argumentstructs.25: "Mm."
+AE_ID ES2004b.C.argumentstructs.Erik.14: "Just whack in the number."
+AE_ID ES2004b.C.argumentstructs.33: "yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.B.argumentstructs.Erik.12
+---------------------------------
+target=ES2004b.C.argumentstructs.Erik.15
+source=ES2004b.C.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.B.argumentstructs.Erik.13:
+"No. You've already got the numbers for typing in anyway."
+
+Past dialogue turns:
+AE_ID ES2004b.C.argumentstructs.Erik.13: "Yeah yeah."
+AE_ID ES2004b.D.argumentstructs.25: "Mm."
+AE_ID ES2004b.C.argumentstructs.Erik.14: "Just whack in the number."
+AE_ID ES2004b.C.argumentstructs.33: "yeah."
+AE_ID ES2004b.C.argumentstructs.Erik.15: "And you wouldn't you wouldn't need uh a whole host of extra buttons for that, you just need one 'cause you've already got all the numbers there anyway, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.C.argumentstructs.Erik.15
+---------------------------------
+target=ES2004b.B.argumentstructs.Erik.13
+source=ES2004b.C.argumentstructs.Erik.15
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.Erik.10:
+"Right, I've not come across that function but it sounds wonderful."
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.25: "Mm."
+AE_ID ES2004b.C.argumentstructs.Erik.14: "Just whack in the number."
+AE_ID ES2004b.C.argumentstructs.33: "yeah."
+AE_ID ES2004b.C.argumentstructs.Erik.15: "And you wouldn't you wouldn't need uh a whole host of extra buttons for that, you just need one 'cause you've already got all the numbers there anyway, yeah."
+AE_ID ES2004b.B.argumentstructs.Erik.13: "No. You've already got the numbers for typing in anyway."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.C.argumentstructs.Erik.15
+---------------------------------
+target=ES2004b.D.argumentstructs.Erik.10
+source=ES2004b.B.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.B.argumentstructs.Erik.14:
+"It is after um  if you look in the newspaper, T_V_ guide or any T_V_ guide there's a five, six digit number afterwards and that's the number you put in and it's recorded that it's going to be on on Tuesdays at ten o'clock on the seventeenth so you don't have to worry about dates and you don't have to worry about times, um and it has been around for quite a long time."
+
+Past dialogue turns:
+AE_ID ES2004b.C.argumentstructs.Erik.14: "Just whack in the number."
+AE_ID ES2004b.C.argumentstructs.33: "yeah."
+AE_ID ES2004b.C.argumentstructs.Erik.15: "And you wouldn't you wouldn't need uh a whole host of extra buttons for that, you just need one 'cause you've already got all the numbers there anyway, yeah."
+AE_ID ES2004b.B.argumentstructs.Erik.13: "No. You've already got the numbers for typing in anyway."
+AE_ID ES2004b.D.argumentstructs.Erik.10: "Right, I've not come across that function but it sounds wonderful."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.C.argumentstructs.Erik.14
+---------------------------------
+target=ES2004b.B.argumentstructs.Erik.14
+source=ES2004b.D.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.34:
+"It's not"
+
+Past dialogue turns:
+AE_ID ES2004b.C.argumentstructs.33: "yeah."
+AE_ID ES2004b.C.argumentstructs.Erik.15: "And you wouldn't you wouldn't need uh a whole host of extra buttons for that, you just need one 'cause you've already got all the numbers there anyway, yeah."
+AE_ID ES2004b.B.argumentstructs.Erik.13: "No. You've already got the numbers for typing in anyway."
+AE_ID ES2004b.D.argumentstructs.Erik.10: "Right, I've not come across that function but it sounds wonderful."
+AE_ID ES2004b.B.argumentstructs.Erik.14: "It is after um  if you look in the newspaper, T_V_ guide or any T_V_ guide there's a five, six digit number afterwards and that's the number you put in and it's recorded that it's going to be on on Tuesdays at ten o'clock on the seventeenth so you don't have to worry about dates and you don't have to worry about times, um and it has been around for quite a long time."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.C.argumentstructs.33
+---------------------------------
+target=ES2004b.C.argumentstructs.34
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.Erik.16:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2004b.C.argumentstructs.Erik.15: "And you wouldn't you wouldn't need uh a whole host of extra buttons for that, you just need one 'cause you've already got all the numbers there anyway, yeah."
+AE_ID ES2004b.B.argumentstructs.Erik.13: "No. You've already got the numbers for typing in anyway."
+AE_ID ES2004b.D.argumentstructs.Erik.10: "Right, I've not come across that function but it sounds wonderful."
+AE_ID ES2004b.B.argumentstructs.Erik.14: "It is after um  if you look in the newspaper, T_V_ guide or any T_V_ guide there's a five, six digit number afterwards and that's the number you put in and it's recorded that it's going to be on on Tuesdays at ten o'clock on the seventeenth so you don't have to worry about dates and you don't have to worry about times, um and it has been around for quite a long time."
+AE_ID ES2004b.C.argumentstructs.34: "It's not"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.B.argumentstructs.Erik.14
+---------------------------------
+target=ES2004b.C.argumentstructs.Erik.16
+source=ES2004b.B.argumentstructs.Erik.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.26:
+"Ah, hmm."
+
+Past dialogue turns:
+AE_ID ES2004b.B.argumentstructs.Erik.13: "No. You've already got the numbers for typing in anyway."
+AE_ID ES2004b.D.argumentstructs.Erik.10: "Right, I've not come across that function but it sounds wonderful."
+AE_ID ES2004b.B.argumentstructs.Erik.14: "It is after um  if you look in the newspaper, T_V_ guide or any T_V_ guide there's a five, six digit number afterwards and that's the number you put in and it's recorded that it's going to be on on Tuesdays at ten o'clock on the seventeenth so you don't have to worry about dates and you don't have to worry about times, um and it has been around for quite a long time."
+AE_ID ES2004b.C.argumentstructs.34: "It's not"
+AE_ID ES2004b.C.argumentstructs.Erik.16: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2004b.D.argumentstructs.26
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.Erik.11:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.Erik.10: "Right, I've not come across that function but it sounds wonderful."
+AE_ID ES2004b.B.argumentstructs.Erik.14: "It is after um  if you look in the newspaper, T_V_ guide or any T_V_ guide there's a five, six digit number afterwards and that's the number you put in and it's recorded that it's going to be on on Tuesdays at ten o'clock on the seventeenth so you don't have to worry about dates and you don't have to worry about times, um and it has been around for quite a long time."
+AE_ID ES2004b.C.argumentstructs.34: "It's not"
+AE_ID ES2004b.C.argumentstructs.Erik.16: "Yeah."
+AE_ID ES2004b.D.argumentstructs.26: "Ah, hmm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2004b.D.argumentstructs.Erik.11
+source=ES2004b.B.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.Erik.17:
+"It's been been around for a long time it's just it's not very well advertised as to how to use it and things."
+
+Past dialogue turns:
+AE_ID ES2004b.B.argumentstructs.Erik.14: "It is after um  if you look in the newspaper, T_V_ guide or any T_V_ guide there's a five, six digit number afterwards and that's the number you put in and it's recorded that it's going to be on on Tuesdays at ten o'clock on the seventeenth so you don't have to worry about dates and you don't have to worry about times, um and it has been around for quite a long time."
+AE_ID ES2004b.C.argumentstructs.34: "It's not"
+AE_ID ES2004b.C.argumentstructs.Erik.16: "Yeah."
+AE_ID ES2004b.D.argumentstructs.26: "Ah, hmm."
+AE_ID ES2004b.D.argumentstructs.Erik.11: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.B.argumentstructs.Erik.14
+---------------------------------
+target=ES2004b.C.argumentstructs.Erik.17
+source=ES2004b.B.argumentstructs.Erik.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.B.argumentstructs.Erik.15:
+"No it's not um but I think if awareness was kind of brought to the forefront about that"
+
+Past dialogue turns:
+AE_ID ES2004b.C.argumentstructs.34: "It's not"
+AE_ID ES2004b.C.argumentstructs.Erik.16: "Yeah."
+AE_ID ES2004b.D.argumentstructs.26: "Ah, hmm."
+AE_ID ES2004b.D.argumentstructs.Erik.11: "Right."
+AE_ID ES2004b.C.argumentstructs.Erik.17: "It's been been around for a long time it's just it's not very well advertised as to how to use it and things."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.C.argumentstructs.34
+---------------------------------
+target=ES2004b.B.argumentstructs.Erik.15
+source=ES2004b.C.argumentstructs.Erik.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.Erik.12:
+"Superb."
+
+Past dialogue turns:
+AE_ID ES2004b.C.argumentstructs.Erik.16: "Yeah."
+AE_ID ES2004b.D.argumentstructs.26: "Ah, hmm."
+AE_ID ES2004b.D.argumentstructs.Erik.11: "Right."
+AE_ID ES2004b.C.argumentstructs.Erik.17: "It's been been around for a long time it's just it's not very well advertised as to how to use it and things."
+AE_ID ES2004b.B.argumentstructs.Erik.15: "No it's not um but I think if awareness was kind of brought to the forefront about that"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.D.argumentstructs.Erik.11
+---------------------------------
+target=ES2004b.D.argumentstructs.Erik.12
+source=ES2004b.B.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.27:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.26: "Ah, hmm."
+AE_ID ES2004b.D.argumentstructs.Erik.11: "Right."
+AE_ID ES2004b.C.argumentstructs.Erik.17: "It's been been around for a long time it's just it's not very well advertised as to how to use it and things."
+AE_ID ES2004b.B.argumentstructs.Erik.15: "No it's not um but I think if awareness was kind of brought to the forefront about that"
+AE_ID ES2004b.D.argumentstructs.Erik.12: "Superb."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.D.argumentstructs.26
+---------------------------------
+target=ES2004b.D.argumentstructs.27
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.35:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.Erik.11: "Right."
+AE_ID ES2004b.C.argumentstructs.Erik.17: "It's been been around for a long time it's just it's not very well advertised as to how to use it and things."
+AE_ID ES2004b.B.argumentstructs.Erik.15: "No it's not um but I think if awareness was kind of brought to the forefront about that"
+AE_ID ES2004b.D.argumentstructs.Erik.12: "Superb."
+AE_ID ES2004b.D.argumentstructs.27: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.D.argumentstructs.27
+---------------------------------
+target=ES2004b.C.argumentstructs.35
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.Erik.13:
+"Yes."
+
+Past dialogue turns:
+AE_ID ES2004b.C.argumentstructs.Erik.17: "It's been been around for a long time it's just it's not very well advertised as to how to use it and things."
+AE_ID ES2004b.B.argumentstructs.Erik.15: "No it's not um but I think if awareness was kind of brought to the forefront about that"
+AE_ID ES2004b.D.argumentstructs.Erik.12: "Superb."
+AE_ID ES2004b.D.argumentstructs.27: "Mm."
+AE_ID ES2004b.C.argumentstructs.35: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.B.argumentstructs.Erik.15
+---------------------------------
+target=ES2004b.D.argumentstructs.Erik.13
+source=ES2004b.C.argumentstructs.Erik.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.Erik.18:
+"Though if y if you've got something like Sky anyway you can just click on it  you can just press the button on the programme once and it'll record that programme when it's on and you press it on it twice and it'll record the whole series."
+
+Past dialogue turns:
+AE_ID ES2004b.B.argumentstructs.Erik.15: "No it's not um but I think if awareness was kind of brought to the forefront about that"
+AE_ID ES2004b.D.argumentstructs.Erik.12: "Superb."
+AE_ID ES2004b.D.argumentstructs.27: "Mm."
+AE_ID ES2004b.C.argumentstructs.35: "Mm."
+AE_ID ES2004b.D.argumentstructs.Erik.13: "Yes."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2004b.C.argumentstructs.Erik.18
+source=ES2004b.B.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.B.argumentstructs.38:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.Erik.12: "Superb."
+AE_ID ES2004b.D.argumentstructs.27: "Mm."
+AE_ID ES2004b.C.argumentstructs.35: "Mm."
+AE_ID ES2004b.D.argumentstructs.Erik.13: "Yes."
+AE_ID ES2004b.C.argumentstructs.Erik.18: "Though if y if you've got something like Sky anyway you can just click on it  you can just press the button on the programme once and it'll record that programme when it's on and you press it on it twice and it'll record the whole series."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.D.argumentstructs.27
+---------------------------------
+target=ES2004b.B.argumentstructs.38
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.28:
+"Right. Excellent, mm-hmm. Mm."
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.27: "Mm."
+AE_ID ES2004b.C.argumentstructs.35: "Mm."
+AE_ID ES2004b.D.argumentstructs.Erik.13: "Yes."
+AE_ID ES2004b.C.argumentstructs.Erik.18: "Though if y if you've got something like Sky anyway you can just click on it  you can just press the button on the programme once and it'll record that programme when it's on and you press it on it twice and it'll record the whole series."
+AE_ID ES2004b.B.argumentstructs.38: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.B.argumentstructs.38
+---------------------------------
+target=ES2004b.D.argumentstructs.28
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.C.argumentstructs.Erik.19:
+"So that  yeah. But just to have that function would be would be really good."
+
+Past dialogue turns:
+AE_ID ES2004b.C.argumentstructs.35: "Mm."
+AE_ID ES2004b.D.argumentstructs.Erik.13: "Yes."
+AE_ID ES2004b.C.argumentstructs.Erik.18: "Though if y if you've got something like Sky anyway you can just click on it  you can just press the button on the programme once and it'll record that programme when it's on and you press it on it twice and it'll record the whole series."
+AE_ID ES2004b.B.argumentstructs.38: "Mm."
+AE_ID ES2004b.D.argumentstructs.28: "Right. Excellent, mm-hmm. Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.C.argumentstructs.Erik.18
+---------------------------------
+target=ES2004b.C.argumentstructs.Erik.19
+source=ES2004b.B.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.D.argumentstructs.Erik.14:
+"Right."
+
+Past dialogue turns:
+AE_ID ES2004b.D.argumentstructs.Erik.13: "Yes."
+AE_ID ES2004b.C.argumentstructs.Erik.18: "Though if y if you've got something like Sky anyway you can just click on it  you can just press the button on the programme once and it'll record that programme when it's on and you press it on it twice and it'll record the whole series."
+AE_ID ES2004b.B.argumentstructs.38: "Mm."
+AE_ID ES2004b.D.argumentstructs.28: "Right. Excellent, mm-hmm. Mm."
+AE_ID ES2004b.C.argumentstructs.Erik.19: "So that  yeah. But just to have that function would be would be really good."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.D.argumentstructs.28
+---------------------------------
+target=ES2004b.D.argumentstructs.Erik.14
+source=ES2004b.C.argumentstructs.Erik.19
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2004b.B.argumentstructs.Erik.16:
+"Okay so"
+
+Past dialogue turns:
+AE_ID ES2004b.C.argumentstructs.Erik.18: "Though if y if you've got something like Sky anyway you can just click on it  you can just press the button on the programme once and it'll record that programme when it's on and you press it on it twice and it'll record the whole series."
+AE_ID ES2004b.B.argumentstructs.38: "Mm."
+AE_ID ES2004b.D.argumentstructs.28: "Right. Excellent, mm-hmm. Mm."
+AE_ID ES2004b.C.argumentstructs.Erik.19: "So that  yeah. But just to have that function would be would be really good."
+AE_ID ES2004b.D.argumentstructs.Erik.14: "Right."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2004b.C.argumentstructs.Erik.19
+---------------------------------
+target=ES2004b.B.argumentstructs.Erik.16
+source=ES2004b.C.argumentstructs.Erik.19
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2004b-ES2004b - Video plus.csv - True Judgement Ratio: 28.57%

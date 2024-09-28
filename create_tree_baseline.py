@@ -2,6 +2,7 @@ import csv
 import os
 import sys
 from openai import OpenAI
+from tqdm import tqdm  # tqdmをインポート
 
 # 自作クラスのインポート
 from classes.meeting import Meeting
@@ -25,7 +26,7 @@ def generate_prompt(current_utterance, previous_utterances):
 
     prompt = f"""Analyze the following dialogue turn and identify any influencing past turns.
 Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
-If none of the past turns influenced the current turn, respond with 'NONE'.
+If Past dialogue turns: is empty, output NONE.
 Do not include any explanations or additional information.
 
 Current turn AE_ID {current_utterance.ae_id}:
@@ -80,7 +81,8 @@ def main():
     overall_true_count = 0  # 全体のTrueのカウント
     overall_total_count = 0  # 全体のターン数
 
-    for csv_file in csv_file_list:
+    # tqdmを使用してファイルの進行状況を表示
+    for csv_file in tqdm(csv_file_list, desc="Processing CSV files"):
         tmp_turns = DialogueTurn.from_csv(csv_file)
         dialogue_turns = DialogueTurn.remove_none_relationships(tmp_turns)
 
@@ -90,8 +92,9 @@ def main():
         true_count = 0  # ファイルごとのTrueのカウント
         total_count = 0  # ファイルごとのターン数
 
+        # tqdmを使用してターンの進行状況を表示
         with open(result_file, "w", encoding="utf-8") as f:
-            for index, turn in enumerate(dialogue_turns):
+            for index, turn in tqdm(enumerate(dialogue_turns), total=len(dialogue_turns), desc=f"Processing {os.path.basename(csv_file)}", leave=False):
                 if index > 0:
                     # 前の5個（またはそれ以下）のturnを取得
                     start_index = max(0, index - 5)

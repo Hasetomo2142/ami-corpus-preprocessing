@@ -1,0 +1,737 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.32:
+"and um when it comes to marketing like that's what people go for, they don't really care whether, you know,"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007c.D.argumentstructs.32
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.Erik.9:
+"at the end of the day whether it works properly or not."
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.32: "and um when it comes to marketing like that's what people go for, they don't really care whether, you know,"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.32
+---------------------------------
+target=ES2007c.D.argumentstructs.Erik.9
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.14:
+"Of course, they do.  One hundred per cent, that's your first thing, you go, oh I'm not gonna buy that, 'cause I dunno if it works or not."
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.32: "and um when it comes to marketing like that's what people go for, they don't really care whether, you know,"
+AE_ID ES2007c.D.argumentstructs.Erik.9: "at the end of the day whether it works properly or not."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.9
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.14
+source=ES2007c.D.argumentstructs.Erik.9
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.Erik.10:
+"Well, they do, but it's like it's not"
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.32: "and um when it comes to marketing like that's what people go for, they don't really care whether, you know,"
+AE_ID ES2007c.D.argumentstructs.Erik.9: "at the end of the day whether it works properly or not."
+AE_ID ES2007c.A.argumentstructs.Erik.14: "Of course, they do.  One hundred per cent, that's your first thing, you go, oh I'm not gonna buy that, 'cause I dunno if it works or not."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.9
+---------------------------------
+target=ES2007c.D.argumentstructs.Erik.10
+source=ES2007c.A.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.Erik.11:
+"Yeah, but it looks good. If it looks good and it's  it can just be there for decoration."
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.32: "and um when it comes to marketing like that's what people go for, they don't really care whether, you know,"
+AE_ID ES2007c.D.argumentstructs.Erik.9: "at the end of the day whether it works properly or not."
+AE_ID ES2007c.A.argumentstructs.Erik.14: "Of course, they do.  One hundred per cent, that's your first thing, you go, oh I'm not gonna buy that, 'cause I dunno if it works or not."
+AE_ID ES2007c.D.argumentstructs.Erik.10: "Well, they do, but it's like it's not"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2007c.D.argumentstructs.Erik.11
+source=ES2007c.D.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.15:
+"Okay, well, what do you two think about this ?"
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.32: "and um when it comes to marketing like that's what people go for, they don't really care whether, you know,"
+AE_ID ES2007c.D.argumentstructs.Erik.9: "at the end of the day whether it works properly or not."
+AE_ID ES2007c.A.argumentstructs.Erik.14: "Of course, they do.  One hundred per cent, that's your first thing, you go, oh I'm not gonna buy that, 'cause I dunno if it works or not."
+AE_ID ES2007c.D.argumentstructs.Erik.10: "Well, they do, but it's like it's not"
+AE_ID ES2007c.D.argumentstructs.Erik.11: "Yeah, but it looks good. If it looks good and it's  it can just be there for decoration."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.14
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.15
+source=ES2007c.D.argumentstructs.Erik.9
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.C.argumentstructs.21:
+"So is is the advantage of Bluetooth that you can just like synchronise it with other"
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.9: "at the end of the day whether it works properly or not."
+AE_ID ES2007c.A.argumentstructs.Erik.14: "Of course, they do.  One hundred per cent, that's your first thing, you go, oh I'm not gonna buy that, 'cause I dunno if it works or not."
+AE_ID ES2007c.D.argumentstructs.Erik.10: "Well, they do, but it's like it's not"
+AE_ID ES2007c.D.argumentstructs.Erik.11: "Yeah, but it looks good. If it looks good and it's  it can just be there for decoration."
+AE_ID ES2007c.A.argumentstructs.Erik.15: "Okay, well, what do you two think about this ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.14
+---------------------------------
+target=ES2007c.C.argumentstructs.21
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.33:
+"But like"
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.14: "Of course, they do.  One hundred per cent, that's your first thing, you go, oh I'm not gonna buy that, 'cause I dunno if it works or not."
+AE_ID ES2007c.D.argumentstructs.Erik.10: "Well, they do, but it's like it's not"
+AE_ID ES2007c.D.argumentstructs.Erik.11: "Yeah, but it looks good. If it looks good and it's  it can just be there for decoration."
+AE_ID ES2007c.A.argumentstructs.Erik.15: "Okay, well, what do you two think about this ?"
+AE_ID ES2007c.C.argumentstructs.21: "So is is the advantage of Bluetooth that you can just like synchronise it with other"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2007c.D.argumentstructs.33
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.C.argumentstructs.Erik.10:
+"electronics ?"
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.10: "Well, they do, but it's like it's not"
+AE_ID ES2007c.D.argumentstructs.Erik.11: "Yeah, but it looks good. If it looks good and it's  it can just be there for decoration."
+AE_ID ES2007c.A.argumentstructs.Erik.15: "Okay, well, what do you two think about this ?"
+AE_ID ES2007c.C.argumentstructs.21: "So is is the advantage of Bluetooth that you can just like synchronise it with other"
+AE_ID ES2007c.D.argumentstructs.33: "But like"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.10
+---------------------------------
+target=ES2007c.C.argumentstructs.Erik.10
+source=ES2007c.A.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.16:
+"Yeah, what  I don't understand what m"
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.11: "Yeah, but it looks good. If it looks good and it's  it can just be there for decoration."
+AE_ID ES2007c.A.argumentstructs.Erik.15: "Okay, well, what do you two think about this ?"
+AE_ID ES2007c.C.argumentstructs.21: "So is is the advantage of Bluetooth that you can just like synchronise it with other"
+AE_ID ES2007c.D.argumentstructs.33: "But like"
+AE_ID ES2007c.C.argumentstructs.Erik.10: "electronics ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.15
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.16
+source=ES2007c.C.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.Erik.12:
+"You could always insert, yeah."
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.15: "Okay, well, what do you two think about this ?"
+AE_ID ES2007c.C.argumentstructs.21: "So is is the advantage of Bluetooth that you can just like synchronise it with other"
+AE_ID ES2007c.D.argumentstructs.33: "But like"
+AE_ID ES2007c.C.argumentstructs.Erik.10: "electronics ?"
+AE_ID ES2007c.A.argumentstructs.Erik.16: "Yeah, what  I don't understand what m"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.C.argumentstructs.21
+---------------------------------
+target=ES2007c.D.argumentstructs.Erik.12
+source=ES2007c.C.argumentstructs.Erik.10
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.C.argumentstructs.Erik.11:
+"Yeah, that's basically what it allows you to do, right ?"
+
+Past dialogue turns:
+AE_ID ES2007c.C.argumentstructs.21: "So is is the advantage of Bluetooth that you can just like synchronise it with other"
+AE_ID ES2007c.D.argumentstructs.33: "But like"
+AE_ID ES2007c.C.argumentstructs.Erik.10: "electronics ?"
+AE_ID ES2007c.A.argumentstructs.Erik.16: "Yeah, what  I don't understand what m"
+AE_ID ES2007c.D.argumentstructs.Erik.12: "You could always insert, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.C.argumentstructs.Erik.10
+---------------------------------
+target=ES2007c.C.argumentstructs.Erik.11
+source=ES2007c.D.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.17:
+"Yeah, and it  this is just gonna   all this is being used for is your television."
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.33: "But like"
+AE_ID ES2007c.C.argumentstructs.Erik.10: "electronics ?"
+AE_ID ES2007c.A.argumentstructs.Erik.16: "Yeah, what  I don't understand what m"
+AE_ID ES2007c.D.argumentstructs.Erik.12: "You could always insert, yeah."
+AE_ID ES2007c.C.argumentstructs.Erik.11: "Yeah, that's basically what it allows you to do, right ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.16
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.17
+source=ES2007c.C.argumentstructs.Erik.11
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.Erik.13:
+"Yeah, but, I mean, people like"
+
+Past dialogue turns:
+AE_ID ES2007c.C.argumentstructs.Erik.10: "electronics ?"
+AE_ID ES2007c.A.argumentstructs.Erik.16: "Yeah, what  I don't understand what m"
+AE_ID ES2007c.D.argumentstructs.Erik.12: "You could always insert, yeah."
+AE_ID ES2007c.C.argumentstructs.Erik.11: "Yeah, that's basically what it allows you to do, right ?"
+AE_ID ES2007c.A.argumentstructs.Erik.17: "Yeah, and it  this is just gonna   all this is being used for is your television."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.C.argumentstructs.Erik.11
+---------------------------------
+target=ES2007c.D.argumentstructs.Erik.13
+source=ES2007c.A.argumentstructs.Erik.17
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.18:
+"It would  that would mean you'd need a television that has Bluetooth in it, which no no television does, does it ?"
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.16: "Yeah, what  I don't understand what m"
+AE_ID ES2007c.D.argumentstructs.Erik.12: "You could always insert, yeah."
+AE_ID ES2007c.C.argumentstructs.Erik.11: "Yeah, that's basically what it allows you to do, right ?"
+AE_ID ES2007c.A.argumentstructs.Erik.17: "Yeah, and it  this is just gonna   all this is being used for is your television."
+AE_ID ES2007c.D.argumentstructs.Erik.13: "Yeah, but, I mean, people like"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.17
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.18
+source=ES2007c.A.argumentstructs.Erik.17
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.Erik.14:
+"Well, if you're looking at   if you  looking at something that's going to be bought by people, you have to make it new, you have to make it state of the art."
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.12: "You could always insert, yeah."
+AE_ID ES2007c.C.argumentstructs.Erik.11: "Yeah, that's basically what it allows you to do, right ?"
+AE_ID ES2007c.A.argumentstructs.Erik.17: "Yeah, and it  this is just gonna   all this is being used for is your television."
+AE_ID ES2007c.D.argumentstructs.Erik.13: "Yeah, but, I mean, people like"
+AE_ID ES2007c.A.argumentstructs.Erik.18: "It would  that would mean you'd need a television that has Bluetooth in it, which no no television does, does it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.13
+---------------------------------
+target=ES2007c.D.argumentstructs.Erik.14
+source=ES2007c.A.argumentstructs.Erik.18
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.B.argumentstructs.29:
+"Well"
+
+Past dialogue turns:
+AE_ID ES2007c.C.argumentstructs.Erik.11: "Yeah, that's basically what it allows you to do, right ?"
+AE_ID ES2007c.A.argumentstructs.Erik.17: "Yeah, and it  this is just gonna   all this is being used for is your television."
+AE_ID ES2007c.D.argumentstructs.Erik.13: "Yeah, but, I mean, people like"
+AE_ID ES2007c.A.argumentstructs.Erik.18: "It would  that would mean you'd need a television that has Bluetooth in it, which no no television does, does it ?"
+AE_ID ES2007c.D.argumentstructs.Erik.14: "Well, if you're looking at   if you  looking at something that's going to be bought by people, you have to make it new, you have to make it state of the art."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.Erik.14
+---------------------------------
+target=ES2007c.B.argumentstructs.29
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.19:
+"That would mean we'd have to make a television as well."
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.17: "Yeah, and it  this is just gonna   all this is being used for is your television."
+AE_ID ES2007c.D.argumentstructs.Erik.13: "Yeah, but, I mean, people like"
+AE_ID ES2007c.A.argumentstructs.Erik.18: "It would  that would mean you'd need a television that has Bluetooth in it, which no no television does, does it ?"
+AE_ID ES2007c.D.argumentstructs.Erik.14: "Well, if you're looking at   if you  looking at something that's going to be bought by people, you have to make it new, you have to make it state of the art."
+AE_ID ES2007c.B.argumentstructs.29: "Well"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.18
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.19
+source=ES2007c.D.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.B.argumentstructs.Erik.14:
+"Bluetooth would, for example, enable you, I think, to um um connect  for example you if you get a w call on your mobile phone, but your mobile phone is downstairs or something, you would get on your television you're being called by this person right now."
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.13: "Yeah, but, I mean, people like"
+AE_ID ES2007c.A.argumentstructs.Erik.18: "It would  that would mean you'd need a television that has Bluetooth in it, which no no television does, does it ?"
+AE_ID ES2007c.D.argumentstructs.Erik.14: "Well, if you're looking at   if you  looking at something that's going to be bought by people, you have to make it new, you have to make it state of the art."
+AE_ID ES2007c.B.argumentstructs.29: "Well"
+AE_ID ES2007c.A.argumentstructs.Erik.19: "That would mean we'd have to make a television as well."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.18
+---------------------------------
+target=ES2007c.B.argumentstructs.Erik.14
+source=ES2007c.D.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.B.argumentstructs.30:
+"Things like that. No i"
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.18: "It would  that would mean you'd need a television that has Bluetooth in it, which no no television does, does it ?"
+AE_ID ES2007c.D.argumentstructs.Erik.14: "Well, if you're looking at   if you  looking at something that's going to be bought by people, you have to make it new, you have to make it state of the art."
+AE_ID ES2007c.B.argumentstructs.29: "Well"
+AE_ID ES2007c.A.argumentstructs.Erik.19: "That would mean we'd have to make a television as well."
+AE_ID ES2007c.B.argumentstructs.Erik.14: "Bluetooth would, for example, enable you, I think, to um um connect  for example you if you get a w call on your mobile phone, but your mobile phone is downstairs or something, you would get on your television you're being called by this person right now."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.B.argumentstructs.29
+---------------------------------
+target=ES2007c.B.argumentstructs.30
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.20:
+"No, that would be your telephone  in with your television."
+
+Past dialogue turns:
+AE_ID ES2007c.D.argumentstructs.Erik.14: "Well, if you're looking at   if you  looking at something that's going to be bought by people, you have to make it new, you have to make it state of the art."
+AE_ID ES2007c.B.argumentstructs.29: "Well"
+AE_ID ES2007c.A.argumentstructs.Erik.19: "That would mean we'd have to make a television as well."
+AE_ID ES2007c.B.argumentstructs.Erik.14: "Bluetooth would, for example, enable you, I think, to um um connect  for example you if you get a w call on your mobile phone, but your mobile phone is downstairs or something, you would get on your television you're being called by this person right now."
+AE_ID ES2007c.B.argumentstructs.30: "Things like that. No i"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.B.argumentstructs.Erik.14
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.20
+source=ES2007c.B.argumentstructs.Erik.14
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.C.argumentstructs.Erik.12:
+"Yeah, the  that wouldn't be the remote so much, I mean"
+
+Past dialogue turns:
+AE_ID ES2007c.B.argumentstructs.29: "Well"
+AE_ID ES2007c.A.argumentstructs.Erik.19: "That would mean we'd have to make a television as well."
+AE_ID ES2007c.B.argumentstructs.Erik.14: "Bluetooth would, for example, enable you, I think, to um um connect  for example you if you get a w call on your mobile phone, but your mobile phone is downstairs or something, you would get on your television you're being called by this person right now."
+AE_ID ES2007c.B.argumentstructs.30: "Things like that. No i"
+AE_ID ES2007c.A.argumentstructs.Erik.20: "No, that would be your telephone  in with your television."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.20
+---------------------------------
+target=ES2007c.C.argumentstructs.Erik.12
+source=ES2007c.A.argumentstructs.Erik.20
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.36:
+"Yeah, and i"
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.19: "That would mean we'd have to make a television as well."
+AE_ID ES2007c.B.argumentstructs.Erik.14: "Bluetooth would, for example, enable you, I think, to um um connect  for example you if you get a w call on your mobile phone, but your mobile phone is downstairs or something, you would get on your television you're being called by this person right now."
+AE_ID ES2007c.B.argumentstructs.30: "Things like that. No i"
+AE_ID ES2007c.A.argumentstructs.Erik.20: "No, that would be your telephone  in with your television."
+AE_ID ES2007c.C.argumentstructs.Erik.12: "Yeah, the  that wouldn't be the remote so much, I mean"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.B.argumentstructs.Erik.14
+---------------------------------
+target=ES2007c.A.argumentstructs.36
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.B.argumentstructs.Erik.15:
+"No, but if you get Bluetooth on the remote, you'd be able to"
+
+Past dialogue turns:
+AE_ID ES2007c.B.argumentstructs.Erik.14: "Bluetooth would, for example, enable you, I think, to um um connect  for example you if you get a w call on your mobile phone, but your mobile phone is downstairs or something, you would get on your television you're being called by this person right now."
+AE_ID ES2007c.B.argumentstructs.30: "Things like that. No i"
+AE_ID ES2007c.A.argumentstructs.Erik.20: "No, that would be your telephone  in with your television."
+AE_ID ES2007c.C.argumentstructs.Erik.12: "Yeah, the  that wouldn't be the remote so much, I mean"
+AE_ID ES2007c.A.argumentstructs.36: "Yeah, and i"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.B.argumentstructs.Erik.14
+---------------------------------
+target=ES2007c.B.argumentstructs.Erik.15
+source=ES2007c.C.argumentstructs.Erik.12
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.21:
+"Nah, the televi the television would have to be a Bluetooth compatible, basically. An and there is no there is no such thing."
+
+Past dialogue turns:
+AE_ID ES2007c.B.argumentstructs.30: "Things like that. No i"
+AE_ID ES2007c.A.argumentstructs.Erik.20: "No, that would be your telephone  in with your television."
+AE_ID ES2007c.C.argumentstructs.Erik.12: "Yeah, the  that wouldn't be the remote so much, I mean"
+AE_ID ES2007c.A.argumentstructs.36: "Yeah, and i"
+AE_ID ES2007c.B.argumentstructs.Erik.15: "No, but if you get Bluetooth on the remote, you'd be able to"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.20
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.21
+source=ES2007c.D.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.B.argumentstructs.Erik.16:
+"I with the television, yeah.  I was just trying to find an advantage. Wha what w what advantage would you get for the"
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.20: "No, that would be your telephone  in with your television."
+AE_ID ES2007c.C.argumentstructs.Erik.12: "Yeah, the  that wouldn't be the remote so much, I mean"
+AE_ID ES2007c.A.argumentstructs.36: "Yeah, and i"
+AE_ID ES2007c.B.argumentstructs.Erik.15: "No, but if you get Bluetooth on the remote, you'd be able to"
+AE_ID ES2007c.A.argumentstructs.Erik.21: "Nah, the televi the television would have to be a Bluetooth compatible, basically. An and there is no there is no such thing."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.21
+---------------------------------
+target=ES2007c.B.argumentstructs.Erik.16
+source=ES2007c.A.argumentstructs.Erik.21
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.C.argumentstructs.22:
+"Mm."
+
+Past dialogue turns:
+AE_ID ES2007c.C.argumentstructs.Erik.12: "Yeah, the  that wouldn't be the remote so much, I mean"
+AE_ID ES2007c.A.argumentstructs.36: "Yeah, and i"
+AE_ID ES2007c.B.argumentstructs.Erik.15: "No, but if you get Bluetooth on the remote, you'd be able to"
+AE_ID ES2007c.A.argumentstructs.Erik.21: "Nah, the televi the television would have to be a Bluetooth compatible, basically. An and there is no there is no such thing."
+AE_ID ES2007c.B.argumentstructs.Erik.16: "I with the television, yeah.  I was just trying to find an advantage. Wha what w what advantage would you get for the"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.B.argumentstructs.Erik.15
+---------------------------------
+target=ES2007c.C.argumentstructs.22
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.34:
+"but I think we are really keeping to what is already out there, and people've already seen it, people've already got it. If we want something new, we need to move away from what we already have"
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.36: "Yeah, and i"
+AE_ID ES2007c.B.argumentstructs.Erik.15: "No, but if you get Bluetooth on the remote, you'd be able to"
+AE_ID ES2007c.A.argumentstructs.Erik.21: "Nah, the televi the television would have to be a Bluetooth compatible, basically. An and there is no there is no such thing."
+AE_ID ES2007c.B.argumentstructs.Erik.16: "I with the television, yeah.  I was just trying to find an advantage. Wha what w what advantage would you get for the"
+AE_ID ES2007c.C.argumentstructs.22: "Mm."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2007c.D.argumentstructs.34
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.A.argumentstructs.Erik.22:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2007c.B.argumentstructs.Erik.15: "No, but if you get Bluetooth on the remote, you'd be able to"
+AE_ID ES2007c.A.argumentstructs.Erik.21: "Nah, the televi the television would have to be a Bluetooth compatible, basically. An and there is no there is no such thing."
+AE_ID ES2007c.B.argumentstructs.Erik.16: "I with the television, yeah.  I was just trying to find an advantage. Wha what w what advantage would you get for the"
+AE_ID ES2007c.C.argumentstructs.22: "Mm."
+AE_ID ES2007c.D.argumentstructs.34: "but I think we are really keeping to what is already out there, and people've already seen it, people've already got it. If we want something new, we need to move away from what we already have"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.A.argumentstructs.Erik.21
+---------------------------------
+target=ES2007c.A.argumentstructs.Erik.22
+source=ES2007c.D.argumentstructs.Erik.15
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2007c.D.argumentstructs.Erik.15:
+"and um just go creative."
+
+Past dialogue turns:
+AE_ID ES2007c.A.argumentstructs.Erik.21: "Nah, the televi the television would have to be a Bluetooth compatible, basically. An and there is no there is no such thing."
+AE_ID ES2007c.B.argumentstructs.Erik.16: "I with the television, yeah.  I was just trying to find an advantage. Wha what w what advantage would you get for the"
+AE_ID ES2007c.C.argumentstructs.22: "Mm."
+AE_ID ES2007c.D.argumentstructs.34: "but I think we are really keeping to what is already out there, and people've already seen it, people've already got it. If we want something new, we need to move away from what we already have"
+AE_ID ES2007c.A.argumentstructs.Erik.22: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2007c.D.argumentstructs.34
+---------------------------------
+target=ES2007c.D.argumentstructs.Erik.15
+source=ES2007c.D.argumentstructs.Erik.14
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2007c-ES2007c - Bluetooth.csv - True Judgement Ratio: 23.33%

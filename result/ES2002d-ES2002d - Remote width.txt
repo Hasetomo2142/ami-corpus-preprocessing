@@ -1,0 +1,412 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.4:
+"Oh we've discussed how h high it is, but how wide is it ?"
+
+Past dialogue turns:
+
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.4
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.D.argumentstructs.Erik.2:
+"I don't know."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.4: "Oh we've discussed how h high it is, but how wide is it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2002d.D.argumentstructs.Erik.2
+source=ES2002d.A.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.4:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.4: "Oh we've discussed how h high it is, but how wide is it ?"
+AE_ID ES2002d.D.argumentstructs.Erik.2: "I don't know."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.4
+source=ES2002d.D.argumentstructs.Erik.2
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.5:
+"How high is it ?"
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.4: "Oh we've discussed how h high it is, but how wide is it ?"
+AE_ID ES2002d.D.argumentstructs.Erik.2: "I don't know."
+AE_ID ES2002d.B.argumentstructs.Erik.4: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.5
+source=ES2002d.A.argumentstructs.Erik.4
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.5:
+"No as in the height, but what about the width ?"
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.4: "Oh we've discussed how h high it is, but how wide is it ?"
+AE_ID ES2002d.D.argumentstructs.Erik.2: "I don't know."
+AE_ID ES2002d.B.argumentstructs.Erik.4: "Okay."
+AE_ID ES2002d.C.argumentstructs.Erik.5: "How high is it ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.5
+source=ES2002d.C.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.6:
+"Yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.4: "Oh we've discussed how h high it is, but how wide is it ?"
+AE_ID ES2002d.D.argumentstructs.Erik.2: "I don't know."
+AE_ID ES2002d.B.argumentstructs.Erik.4: "Okay."
+AE_ID ES2002d.C.argumentstructs.Erik.5: "How high is it ?"
+AE_ID ES2002d.A.argumentstructs.Erik.5: "No as in the height, but what about the width ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.4
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.6
+source=ES2002d.A.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.D.argumentstructs.Erik.3:
+"Didn't put five centimetres."
+
+Past dialogue turns:
+AE_ID ES2002d.D.argumentstructs.Erik.2: "I don't know."
+AE_ID ES2002d.B.argumentstructs.Erik.4: "Okay."
+AE_ID ES2002d.C.argumentstructs.Erik.5: "How high is it ?"
+AE_ID ES2002d.A.argumentstructs.Erik.5: "No as in the height, but what about the width ?"
+AE_ID ES2002d.C.argumentstructs.Erik.6: "Yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.5
+---------------------------------
+target=ES2002d.D.argumentstructs.Erik.3
+source=ES2002d.A.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.5:
+"Oh oh like depth of the actual thing."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.4: "Okay."
+AE_ID ES2002d.C.argumentstructs.Erik.5: "How high is it ?"
+AE_ID ES2002d.A.argumentstructs.Erik.5: "No as in the height, but what about the width ?"
+AE_ID ES2002d.C.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2002d.D.argumentstructs.Erik.3: "Didn't put five centimetres."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.5
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.5
+source=ES2002d.A.argumentstructs.Erik.5
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.6:
+"Do we need five ? I don't think five is  be about th three and a half."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.5: "How high is it ?"
+AE_ID ES2002d.A.argumentstructs.Erik.5: "No as in the height, but what about the width ?"
+AE_ID ES2002d.C.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2002d.D.argumentstructs.Erik.3: "Didn't put five centimetres."
+AE_ID ES2002d.B.argumentstructs.Erik.5: "Oh oh like depth of the actual thing."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.D
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.6
+source=ES2002d.D.argumentstructs.Erik.3
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.D.argumentstructs.15:
+"Um."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.5: "No as in the height, but what about the width ?"
+AE_ID ES2002d.C.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2002d.D.argumentstructs.Erik.3: "Didn't put five centimetres."
+AE_ID ES2002d.B.argumentstructs.Erik.5: "Oh oh like depth of the actual thing."
+AE_ID ES2002d.A.argumentstructs.Erik.6: "Do we need five ? I don't think five is  be about th three and a half."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.5
+---------------------------------
+target=ES2002d.D.argumentstructs.15
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.7:
+"Okay."
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.6: "Yeah."
+AE_ID ES2002d.D.argumentstructs.Erik.3: "Didn't put five centimetres."
+AE_ID ES2002d.B.argumentstructs.Erik.5: "Oh oh like depth of the actual thing."
+AE_ID ES2002d.A.argumentstructs.Erik.6: "Do we need five ? I don't think five is  be about th three and a half."
+AE_ID ES2002d.D.argumentstructs.15: "Um."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.C.argumentstructs.Erik.6
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.7
+source=ES2002d.A.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.D.argumentstructs.Erik.4:
+"Something by there."
+
+Past dialogue turns:
+AE_ID ES2002d.D.argumentstructs.Erik.3: "Didn't put five centimetres."
+AE_ID ES2002d.B.argumentstructs.Erik.5: "Oh oh like depth of the actual thing."
+AE_ID ES2002d.A.argumentstructs.Erik.6: "Do we need five ? I don't think five is  be about th three and a half."
+AE_ID ES2002d.D.argumentstructs.15: "Um."
+AE_ID ES2002d.C.argumentstructs.Erik.7: "Okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2002d.D.argumentstructs.Erik.4
+source=ES2002d.A.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.Erik.6:
+"Oh is this k to get an idea of scale from your from your thing there okay."
+
+Past dialogue turns:
+AE_ID ES2002d.B.argumentstructs.Erik.5: "Oh oh like depth of the actual thing."
+AE_ID ES2002d.A.argumentstructs.Erik.6: "Do we need five ? I don't think five is  be about th three and a half."
+AE_ID ES2002d.D.argumentstructs.15: "Um."
+AE_ID ES2002d.C.argumentstructs.Erik.7: "Okay."
+AE_ID ES2002d.D.argumentstructs.Erik.4: "Something by there."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.5
+---------------------------------
+target=ES2002d.B.argumentstructs.Erik.6
+source=ES2002d.C.argumentstructs.Erik.5
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.A.argumentstructs.Erik.7:
+"Yeah, yeah."
+
+Past dialogue turns:
+AE_ID ES2002d.A.argumentstructs.Erik.6: "Do we need five ? I don't think five is  be about th three and a half."
+AE_ID ES2002d.D.argumentstructs.15: "Um."
+AE_ID ES2002d.C.argumentstructs.Erik.7: "Okay."
+AE_ID ES2002d.D.argumentstructs.Erik.4: "Something by there."
+AE_ID ES2002d.B.argumentstructs.Erik.6: "Oh is this k to get an idea of scale from your from your thing there okay."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.6
+---------------------------------
+target=ES2002d.A.argumentstructs.Erik.7
+source=ES2002d.B.argumentstructs.Erik.6
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.36:
+"Sure."
+
+Past dialogue turns:
+AE_ID ES2002d.D.argumentstructs.15: "Um."
+AE_ID ES2002d.C.argumentstructs.Erik.7: "Okay."
+AE_ID ES2002d.D.argumentstructs.Erik.4: "Something by there."
+AE_ID ES2002d.B.argumentstructs.Erik.6: "Oh is this k to get an idea of scale from your from your thing there okay."
+AE_ID ES2002d.A.argumentstructs.Erik.7: "Yeah, yeah."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.A.argumentstructs.Erik.7
+---------------------------------
+target=ES2002d.C.argumentstructs.36
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.B.argumentstructs.46:
+"So you can power on and off, what else can you do ?"
+
+Past dialogue turns:
+AE_ID ES2002d.C.argumentstructs.Erik.7: "Okay."
+AE_ID ES2002d.D.argumentstructs.Erik.4: "Something by there."
+AE_ID ES2002d.B.argumentstructs.Erik.6: "Oh is this k to get an idea of scale from your from your thing there okay."
+AE_ID ES2002d.A.argumentstructs.Erik.7: "Yeah, yeah."
+AE_ID ES2002d.C.argumentstructs.36: "Sure."
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+NONE
+---------------------------------
+target=ES2002d.B.argumentstructs.46
+source=NONE
+judgement=True
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Analyze the following dialogue turn and identify any influencing past turns.
+Please respond with only the AE_ID of the turns that influenced the current turn. Notice that there should be only one correct answer.
+If Past dialogue turns: is empty, output NONE.
+Do not include any explanations or additional information.
+
+Current turn AE_ID ES2002d.C.argumentstructs.Erik.8:
+"Three and a half."
+
+Past dialogue turns:
+AE_ID ES2002d.D.argumentstructs.Erik.4: "Something by there."
+AE_ID ES2002d.B.argumentstructs.Erik.6: "Oh is this k to get an idea of scale from your from your thing there okay."
+AE_ID ES2002d.A.argumentstructs.Erik.7: "Yeah, yeah."
+AE_ID ES2002d.C.argumentstructs.36: "Sure."
+AE_ID ES2002d.B.argumentstructs.46: "So you can power on and off, what else can you do ?"
+
+Please answer only the ID consisting of alphabets and numbers.
+Answer:
+
+ES2002d.B.argumentstructs.Erik.6
+---------------------------------
+target=ES2002d.C.argumentstructs.Erik.8
+source=NONE
+judgement=False
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+File: ES2002d-ES2002d - Remote width.csv - True Judgement Ratio: 29.41%
